@@ -6,17 +6,18 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-06-15
+revised: 2026-11-07
 cluster: artificial-systems-and-boundaries
 role: extension
+
 abstract: >
-  This article clarifies how the Agency–Process–Scale (APS) framework understands artificial intelligence and artificial systems in relation to life, agency, cognition, and organisation. APS argues that life is not defined by intelligence, behaviour, or computational sophistication, but by viability-oriented, constraint-closed organisation. Artificial systems may simulate agency or exhibit forms of functional cognition, yet this does not by itself establish that they are living systems.
+  Can artificial intelligence be alive? This article examines the difference between intelligent behaviour and living organisation through the Agency–Process–Scale (APS) framework. It explains why intelligence, learning, and computational sophistication do not by themselves establish life, and considers whether future robots, synthetic cells, or virtual systems could meet the organisational conditions associated with living systems. Drawing on recent artificial-cell research and competing theories of life, it distinguishes APS's conceptual criteria from empirical evidence and acknowledges the unresolved boundaries of artificial life.
 keyPoints:
-  - APS distinguishes behavioural sophistication from biological organisation.
-  - Intelligence, learning, and optimisation are not sufficient conditions for life.
-  - Biological agency depends upon viability-oriented, self-maintaining organisation.
-  - Current AI systems remain externally scaffolded rather than intrinsically self-sustaining.
-  - APS does not rule out artificial life in principle, but specifies the organisational conditions it would require.
+  - Intelligence, cognition, consciousness, and biological agency are distinct concepts.
+  - APS characterises life in terms of viability-oriented, constraint-closed organisation.
+  - Dependence on external resources does not distinguish artificial systems from living organisms; the organisation of self-maintenance is the relevant question.
+  - Recent synthetic-cell experiments demonstrate important components of living organisation without establishing fully autonomous artificial life.
+  - APS does not exclude artificial or non-carbon-based life in principle, but its criteria must be assessed against empirical evidence and competing theoretical accounts.
 relatedGlossaryTerms:
   - biological-agency
   - cognition
@@ -39,378 +40,599 @@ relatedArticles:
   - life-detection-in-aps-biosignatures-organisation-and-evidence
   - why-life-is-not-intelligence-an-aps-clarification
   - multiple-realization-and-biological-organisation
-references:
-  - id: vonneumann1966
-    authors: "von Neumann, J."
-    year: 1966
-    title: "Theory of Self-Reproducing Automata"
-    source: "University of Illinois Press"
 
-  - id: maturana1980
+references:
+  - id: bedau-2003-artificial-life
+    authors: "Bedau, M. A."
+    year: 2003
+    title: "Artificial life: Organization, adaptation and complexity from the bottom up"
+    journal: "Trends in Cognitive Sciences"
+    volume: "7"
+    pages: "505–512"
+
+  - id: butlin-et-al-2026-consciousness-indicators
+    authors: "Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., Constant, A., Deane, G., Elmoznino, E., Fleming, S. M., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R."
+    year: 2026
+    title: "Identifying indicators of consciousness in AI systems"
+    journal: "Trends in Cognitive Sciences"
+    volume: "30"
+    pages: "488–501"
+
+  - id: katla-lin-perez-mercader-2025-self-reproduction
+    authors: "Katla, S. K., Lin, C., & Pérez-Mercader, J."
+    year: 2025
+    title: "Self-reproduction as an autonomous process of growth and reorganization in fully abiotic, artificial and synthetic cells"
+    journal: "Proceedings of the National Academy of Sciences"
+    volume: "122"
+
+  - id: maturana-varela-1980-autopoiesis-cognition
     authors: "Maturana, H. R., & Varela, F. J."
     year: 1980
     title: "Autopoiesis and Cognition: The Realization of the Living"
     source: "D. Reidel"
 
-  - id: bedau2000
-    authors: "Bedau, M. A."
-    year: 2000
-    title: "Artificial Life: Organization, Adaptation and Complexity from the Bottom Up"
-    journal: "Trends in Cognitive Sciences"
-    volume: "7"
-    pages: "505–512"
+  - id: minagawa-et-al-2025-self-growing-protocells
+    authors: "Minagawa, Y., Yabuta, M., Su’etsugu, M., & Noji, H."
+    year: 2025
+    title: "Self-growing protocell models in aqueous two-phase system induced by internal DNA replication reaction"
+    journal: "Nature Communications"
+    volume: "16"
 
-  - id: moreno2015
+  - id: montevil-mossio-2015-closure-constraints
+    authors: "Montévil, M., & Mossio, M."
+    year: 2015
+    title: "Biological organisation as closure of constraints"
+    journal: "Journal of Theoretical Biology"
+    volume: "372"
+    pages: "179–191"
+
+  - id: moreno-mossio-2015-biological-autonomy
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     source: "Springer"
 
-  - id: deacon2011
-    authors: "Deacon, T. W."
-    year: 2011
-    title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
+  - id: restrepo-sierra-et-al-2026-synthetic-cell
+    authors: "Restrepo Sierra, A. M., Ramirez Gomez, F., van Tongeren, M., Sierra Heras, L., & Danelon, C."
+    year: 2026
+    title: "A synthetic cell with integrated DNA self-replication and lipid biosynthesis"
+    journal: "Nature Communications"
+    volume: "17"
 
-  - id: noble2016
-    authors: "Noble, D."
-    year: 2016
-    title: "Dance to the Tune of Life: Biological Relativity"
-    source: "Cambridge University Press"
+  - id: stepney-2025-virtual-artificial-life
+    authors: "Stepney, S."
+    year: 2025
+    title: "Towards origins of virtual artificial life: An overview"
+    journal: "Philosophical Transactions of the Royal Society B"
+    volume: "380"
 
-  - id: thompson2007
-    authors: "Thompson, E."
-    year: 2007
-    title: "Mind in Life"
-    source: "Harvard University Press"
-
-  - id: bickhard2009
-    authors: "Bickhard, M. H."
-    year: 2009
-    title: "Interactivism: A Manifesto"
-    source: "New Ideas in Psychology"
-    volume: "27"
-    pages: "85–95"
 ---
 
-# Can AI Be Alive? — An APS Clarification
+## Can AI Be Alive? — An APS Clarification
 
-As artificial intelligence systems become increasingly sophisticated, familiar questions reappear in new forms.
+*Artificial intelligence can learn, reason, solve problems, and act with increasing independence. But does that make it alive? Answering this question requires us to look beyond intelligent behaviour and examine what living systems actually do to maintain themselves.*
 
-If a machine can:
-- learn,
-- adapt,
-- optimise,
-- generate novel responses,
-- and appear goal-directed,
+## 1. Can AI Be Alive?
 
-should it be considered alive?
+Imagine a robot exploring another planet.
 
-Many contemporary discussions approach this question through behaviour or intelligence. APS reframes it at a deeper organisational level.
+It can navigate unfamiliar terrain, identify hazards, analyse scientific samples, and decide what to investigate next. It recharges itself when its energy runs low and can even replace some damaged components.
 
-The central question is not:
-> How intelligent is the system?
+Now imagine a second machine that can design improved versions of itself and coordinate their manufacture.
 
-but:
-> Does the system sustain its own viability through self-maintaining organisation?
+Would either machine be alive?
 
-This shifts the debate away from appearance and toward the organisational conditions of life itself.
+The question is becoming increasingly relevant as artificial intelligence (AI), robotics, and synthetic biology develop new capabilities.
 
-[[box:aps-box-agency-cognition-and-sentience-what-must-not-be-confused]]
+Yet there is a fundamental distinction between **performing intelligent activities and possessing the organisation characteristic of life**.
 
-## Why Artificial Systems Seem Life-Like
+A bacterium cannot write an essay, play chess, or analyse scientific literature as an AI system can. Nevertheless, the bacterium is alive, while the impressive abilities of contemporary AI systems do not establish that they are living systems.
 
-Modern AI systems can produce behaviour that strongly resembles agency.
+Why?
 
-They can:
-- learn from experience,
-- adapt to changing inputs,
-- optimise performance,
-- coordinate across large datasets,
-- and generate context-sensitive outputs.
+One answer concerns the processes through which living organisms maintain themselves.
 
-To human observers, such behaviour often appears purposeful or intelligent.
+A bacterium continuously regulates its internal conditions, obtains and transforms resources, produces essential components, repairs damage, and responds to threats to its continued functioning.
 
-APS does not deny this.
+These activities are not merely useful behaviours. They contribute to maintaining the organisation that makes the bacterium a functioning organism.
 
-However, APS distinguishes between:
-- behavioural sophistication,
-- and viability-oriented organisation.
+The Agency–Process–Scale (APS) framework approaches life through these relationships.
 
-These are not the same thing.
+Its central proposal is that life involves **viability-oriented, constraint-closed organisation**.
 
-A system may simulate agency behaviourally without possessing the organisational conditions required for biological agency itself.
+This is a particular theoretical interpretation of life, not a universally accepted scientific definition.
 
-This distinction is essential because behaviour alone does not determine whether something is alive.
+It raises a question that becomes increasingly important as artificial systems develop:
 
-[[box:perturbation-reveals-organisation]]
+*Can a machine do more than perform intelligent tasks? Can it become organised in ways that maintain the conditions of its own continued existence?*
+
+## 2. What Makes Something Alive?
+
+Consider an ordinary bacterium.
+
+Its surroundings are constantly changing. Nutrients may become scarce, temperatures may fluctuate, and harmful substances may enter its environment.
+
+To remain viable, the bacterium must respond through interconnected activities.
+
+Its membrane helps regulate the movement of substances. Chemical reactions release usable energy. Other processes manufacture cellular components, maintain internal conditions, and repair damage.
+
+These activities depend upon one another.
+
+The membrane contributes to maintaining the conditions required for cellular chemistry. Cellular chemistry, in turn, contributes to maintaining and replacing the membrane and other components.
+
+If an essential relationship breaks down, the consequences may spread through the organism.
+
+This reciprocal dependence is central to organisational interpretations of life.
+
+### Maintaining life is not simply preserving what already exists
+
+A bacterium does not survive by keeping everything unchanged.
+
+Under stressful conditions, it may alter its metabolism, change which proteins it produces, or enter a dormant state.
+
+Such changes may temporarily reduce ordinary activity while preserving the capacity to function again when conditions improve.
+
+**Maintaining viability is not the same as maintaining an unchanging structure.**
+
+Viability concerns the conditions under which a system can continue functioning or re-establish its functioning after disturbance.
+
+A response may support viability, undermine it, or fail to restore it. Not every biological response is successful or beneficial.
+
+Scientists can investigate these differences by examining what happens to a system under particular conditions.
+
+For example, they can measure whether a bacterium restores essential chemical gradients after disturbance, repairs damaged components, or resumes functioning when a stress is removed.
+
+These observations provide evidence about its capacities for maintaining and restoring viable organisation.
+
+### What APS means by organisation
+
+APS defines life as *viability-oriented, constraint-closed organisation*.
+
+The phrase contains three important ideas.
+
+**Organisation** refers to the materially realised relationships among the processes, structures, and activities of a system.
+
+**Viability-oriented** means that relevant activities contribute to maintaining or re-establishing conditions under which continued functioning is possible.
+
+**Constraint-closed** refers to reciprocal relationships among materially realised constraints that help sustain the organisation's operation.
+
+A cell membrane, for example, influences what can enter or leave a cell. Enzymes influence how chemical reactions proceed. The maintenance of these structures and activities depends on other processes within the organised system.
+
+This account of reciprocal maintenance has important antecedents in organisational biology, including the closure-of-constraints account developed by Montévil and Mossio (2015).
+
+Constraint closure does not mean that the organism is physically sealed off from its environment.
+
+Nor does constraint closure alone establish that a system is alive.
+
+For APS, the relevant organisation must also be understood in relation to viability and the continuing activities through which living systems maintain themselves.
+
+APS calls these viability-oriented organisational activities **biological agency**.
+
+This does not imply conscious intention.
+
+A bacterium need not understand its circumstances or deliberately choose its responses. Its agency, in this biological sense, concerns how its organised activities contribute to maintaining the conditions of its continued functioning.
+
+## 3. Intelligence Is Not the Same as Life
+
+AI systems can perform tasks once regarded as requiring distinctly human intelligence.
+
+They can recognise patterns, translate languages, solve problems, generate computer programs, and assist scientific investigation.
+
+Some can plan sequences of actions, use tools, and modify their behaviour in response to feedback.
+
+These achievements are real and important.
+
+But intelligence is not the same thing as life.
+
+Consider four questions:
+
+- **Intelligence:** Can the system solve problems or adapt its responses?
+- **Cognition:** How does it acquire, process, and use information?
+- **Agency:** In what sense can its activities be understood as directed towards goals or outcomes?
+- **Life:** What organisation and processes enable the system to maintain itself as a living system?
+
+These questions overlap, but they are not interchangeable.
+
+A bacterium is alive without displaying human-like intelligence. A computer may solve difficult problems without demonstrating the organisation characteristic of biological life.
+
+Agency also has different meanings in different disciplines.
+
+An AI agent may independently select actions to achieve a specified objective. That is a legitimate form of operational or functional agency.
+
+APS uses *biological agency* more specifically to describe viability-oriented activity within living organisation.
+
+Neither meaning should simply displace the other.
+
+### What about consciousness?
+
+Consciousness raises another question: whether a system has subjective experience.
+
+Research on AI consciousness examines possible indicators derived from scientific theories of consciousness (Butlin et al., 2026).
+
+However, such indicators do not constitute a definitive, universally accepted test for consciousness. Intelligent performance does not by itself demonstrate subjective experience.
+
+Nor does consciousness provide a generally accepted definition of life.
+
+The question of whether an AI system could be conscious must therefore be distinguished from whether it is alive.
+
+This separation prevents an important confusion: extraordinary intelligence need not imply biological life, and biological life need not imply human-like intelligence or consciousness.
+
+## 4. Why Today's AI Is Different from Living Organisms
+
+Contemporary AI systems operate through physical infrastructure.
+
+Their computations depend on processors, memory, electricity, communication networks, cooling, and other engineered components.
+
+Does this dependence show that they are not alive?
+
+No. Dependence on external conditions is not a sufficient distinction.
+
+Plants require sunlight, water, and mineral nutrients. Animals require food and suitable environmental conditions. Many organisms depend on other species for essential resources or functions.
+
+Living systems are not independent of their environments.
+
+The more revealing question is **how they organise their dependence**.
+
+A bacterium obtains resources from its surroundings, but its internal activities transform those resources and maintain many of the components and relationships required for continued functioning.
+
+A contemporary large language model also depends on physical processes. However, the model's computational operations do not ordinarily maintain, manufacture, or regenerate the physical infrastructure that enables those operations.
+
+An AI system may monitor a server, diagnose a malfunction, or instruct a technician to replace a component.
+
+These are significant capabilities. But the ability to identify or coordinate maintenance is not, by itself, evidence that the AI possesses living organisation.
+
+### Where does the system begin and end?
+
+This introduces an important complication.
+
+Suppose an AI controls robots that maintain a data centre, manufacture replacement components, and regulate energy supplies.
+
+Should we assess the AI program alone, the robots, the data centre, or the entire integrated system?
+
+The answer cannot be assumed.
+
+A biological organism may also depend on symbiotic microorganisms or other environmental relationships. Its relevant organisation may involve dependencies that extend beyond an obvious anatomical boundary.
+
+Consequently, the boundary of any candidate living system must be justified by examining its material processes and causal relationships.
+
+Investigators should ask which activities belong to the organisation being assessed, which conditions are supplied externally, and how the relevant dependencies contribute to continued functioning.
+
+Simply drawing a larger boundary around a system does not establish that it is alive.
+
+The expanded system must itself be investigated.
+
+This question of boundaries is also addressed within organisational-autonomy research, notably by Montévil and Mossio (2015).
+
+It is especially important for future artificial systems combining software, robotics, manufacturing, and material repair.
+
+## 5. Could a Robot Become Alive?
+
+Imagine a robot capable of collecting energy, repairing damage, manufacturing components, and constructing another robot.
+
+It might appear to possess several characteristics associated with life.
+
+But each capability raises a further question.
+
+A robot that recharges itself maintains an important operational condition. Yet recharging does not necessarily regenerate the organisation responsible for its continued functioning.
+
+A robot that replaces a damaged component demonstrates repair. But the replacement may be performed through an externally organised manufacturing process.
+
+A robot that constructs another robot demonstrates reproduction or replication in some sense. But reproduction alone does not establish life.
+
+The decisive issue is how these activities are integrated.
+
+Do the robot's processes maintain the conditions required for one another's continued operation?
+
+Can the system compensate for failures and restore relevant functioning?
+
+Are the material components and regulatory relationships maintained through activities belonging to the candidate system?
+
+Do these processes form an organisation whose continued functioning can be investigated in terms of viability?
+
+These questions are more demanding than asking whether a robot behaves intelligently.
+
+They also prevent us from assuming that life must always be biochemical.
+
+A genuinely artificial living system might use materials and processes unfamiliar in terrestrial biology.
+
+APS does not exclude that possibility.
+
+Its requirement is organisational rather than a demand for a particular chemical composition.
+
+However, whether a non-biochemical system satisfies the relevant organisational conditions would require investigation, not merely an assertion that its functions resemble those of an organism.
+
+## 6. Scientists Are Already Building Artificial Cells
+
+Some of the most informative research into artificial life does not involve conversational AI or humanoid robots.
+
+It involves attempts to construct cell-like systems from chemical components.
+
+Researchers are investigating how processes such as compartment formation, molecular replication, energy transformation, and membrane production can become integrated.
+
+These experiments are important because living cells do not merely possess useful components. Their continued functioning depends upon relationships among activities.
+
+### Artificial systems that grow and reproduce
+
+In 2025, Katla, Lin, and Pérez-Mercader reported the growth and reproduction of chemically active polymer vesicles under experimentally controlled conditions.
+
+Their work demonstrated a self-reproduction process in an abiotic system driven by light-stimulated chemical reactions.
+
+But reproduction does not automatically establish life.
+
+A system may produce additional structures resembling itself without possessing the integrated processes required for continued self-maintenance.
+
+The important question is how reproduction relates to the organisation of the system as a whole.
+
+### Linking internal reactions with growth
+
+Also in 2025, Minagawa and colleagues reported droplet-based protocell models in an aqueous two-phase system.
+
+Internal DNA amplification was coupled to growth of dextran-rich droplets.
+
+This research is important because it connects a molecular process occurring within a compartment to changes in that compartment.
+
+Living cells depend on many such relationships.
+
+Nevertheless, demonstrating one coupling does not establish the complete network of dependencies required for autonomous living organisation.
+
+### Integrating genetic and membrane processes
+
+In 2026, Restrepo Sierra and colleagues reported a synthetic-cell system integrating expression of a partial genetic programme, DNA self-replication, and phospholipid synthesis.
+
+The experiment combined important processes that are frequently investigated separately.
+
+However, the reported system did not demonstrate a fully autonomous living cell. In particular, the amount of newly synthesised lipid was insufficient to produce detectable vesicle growth under the experimental conditions.
+
+This is a useful example of the difference between **integrating cellular functions and achieving sustained organisational self-maintenance**.
+
+### Are these systems partly alive?
+
+The expression *partly alive* can be misleading.
+
+It may suggest that life is simply the sum of individual properties and that adding enough properties eventually produces a living organism.
+
+Experimental research does not justify such a simple conclusion.
+
+Nevertheless, artificial systems can possess some life-associated capacities without possessing others.
+
+Scientists can investigate these capacities individually and examine how their integration changes the behaviour and organisation of the system.
+
+APS interprets this research through the relationships among processes, constraints, and viability.
+
+The relevant question is not merely how many life-like features a system possesses, but whether its activities form an organisation that maintains the conditions of its continued functioning.
+
+This interpretation does not establish a universally accepted threshold between life and non-life.
+
+It identifies relationships that require investigation.
+
+## 7. How Would We Recognise Artificial Life?
+
+Suppose scientists announced that they had created an artificial living system.
+
+What evidence should we request?
+
+An image of a cell-like structure would not be sufficient. Neither would movement, reproduction, learning, or complex behaviour.
+
+We would need to investigate the organisation responsible for those properties.
+
+Several questions would be especially important.
+
+**What conditions are required for continued functioning?**
+
+Investigators would need to identify the physical and organisational conditions under which the system operates, fails, or recovers.
+
+**Which processes maintain those conditions?**
+
+The system might regulate energy use, produce components, repair damage, or maintain chemical or physical gradients.
+
+**How are these processes connected?**
+
+A collection of independent maintenance functions is not necessarily equivalent to a reciprocally organised system.
+
+**What happens when the system is disturbed?**
+
+Experiments could interfere with essential processes and examine whether the system compensates, reorganises, or restores functioning.
+
+### Why perturbation matters
+
+Consider a bacterium exposed to an environmental disturbance.
+
+It may alter its metabolism, regulate transport across its membrane, or activate repair processes.
+
+Scientists can measure whether these responses maintain or restore conditions necessary for continued functioning.
+
+The same experimental logic could be applied to an artificial system.
+
+Researchers might interrupt a component-production process, alter energy availability, or disrupt a regulatory relationship.
+
+They could then examine which activities respond, whether relevant functions recover, and how recovery depends on the organisation of the system.
+
+However, not every compensatory response demonstrates life.
+
+Engineered machines can also detect faults and restore performance.
+
+The issue is whether the observed responses form part of the wider reciprocal organisation being investigated.
+
+### Avoiding circularity
+
+There is a philosophical danger here.
+
+If viability simply means whatever enables a living system to continue, and life is then defined through viability, the explanation risks becoming circular.
+
+To avoid this, investigators must specify the relevant conditions and capacities sufficiently independently of the classification they wish to establish.
+
+For a particular candidate system, this might involve identifying measurable conditions of continued operation, experimentally determining the consequences of disrupting essential processes, and tracing the causal relationships responsible for maintenance or recovery.
+
+The evidence must do more than confirm a definition already assumed.
+
+This does not mean that a universal numerical test for life is currently available.
+
+It means that APS concepts should direct investigators towards evidence capable of supporting, limiting, or challenging their application.
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
-[[box:realization-is-organisational-not-merely-functional]]
+### Does APS provide a better explanation?
 
-## What APS Means by Life
+Many of these questions are already central to organisational biology.
 
-APS defines life as viability-oriented, constraint-closed organisation.
+APS does not claim to have originated them.
 
-A living system:
-- actively maintains the conditions of its own persistence,
-- regenerates the constraints that sustain its organisation,
-- and reorganises itself under perturbation in ways that preserve viability.
+Its proposed contribution is to coordinate questions about viability, agency, processes, and explanatory scale.
 
-Life therefore depends upon:
-- self-maintaining organisation,
-- endogenous regulation,
-- material persistence,
-- and ongoing processual continuity.
+Whether that coordination yields a distinctive explanatory advance must be established through comparison with existing approaches.
 
-It is not fundamentally defined by:
-- intelligence,
-- learning,
-- computation,
-- complexity,
-- or behavioural performance.
+If APS merely describes the same dependencies using different terminology, it has not demonstrated additional scientific explanatory power.
 
-A bacterium qualifies as living not because it is intelligent, but because its organisation continuously sustains itself against breakdown.
-
-[[box:viability-and-persistence]]
-
-## Why Current AI Systems Are Not Alive
-
-From an APS perspective, current AI systems do not satisfy the organisational conditions required for life.
-
-Large language models, robotics systems, and reinforcement-learning agents depend entirely upon externally maintained infrastructures:
-- electrical power systems,
-- hardware manufacturing,
-- cooling systems,
-- server maintenance,
-- software engineering,
-- and human oversight.
-
-Their operational conditions are externally scaffolded rather than internally sustained.
-
-Current AI systems do not:
-- maintain their own metabolic basis,
-- regenerate their own material organisation,
-- repair their own physical substrate,
-- or preserve viability through endogenous self-maintaining processes.
-
-Their “goals” are externally specified.
-
-Their reward structures are externally imposed.
-
-Their persistence does not arise from intrinsic organisational vulnerability.
-
-For this reason, APS distinguishes:
-- optimisation,
-- from viability-oriented persistence;
-- behavioural adaptation,
-- from biological agency;
-- and simulated normativity,
-- from intrinsic normativity.
-
-The issue is therefore not whether AI systems are sophisticated.
-
-The issue is whether they are organisationally self-maintaining.
-
-## Agency Is Organisational, Not Behavioural
-
-One of the most important APS distinctions is between behaviour and organisation.
-
-A system may appear highly agent-like while lacking the organisational conditions required for intrinsic agency.
-
-For APS, biological agency does not consist merely in:
-- responding,
-- optimising,
-- selecting,
-- or generating outputs.
-
-It consists in the active maintenance of viability through organised persistence.
-
-This means that the defining question is not:
-> “What behaviour does the system display?”
-
-but:
-> “Does the system actively sustain the conditions of its own continued existence?”
-
-This distinction prevents APS from:
-- reducing life to behaviour,
-- anthropomorphising machines,
-- or treating intelligence as equivalent to biological organisation.
-
-[[box:aps-box-behaviour-is-not-enough-for-life]]
-
-## Cognition Does Not Equal Life
-
-APS also distinguishes cognition from life itself.
-
-Artificial systems may exhibit:
-- information processing,
-- adaptive coordination,
-- prediction,
-- and forms of functional cognition.
-
-APS does not deny this possibility.
-
-However, cognition alone is insufficient for life.
-
-A living system must also possess:
-- viability-oriented organisation,
-- endogenous normativity,
-- and self-maintaining persistence across time.
-
-This is why APS separates:
-- cognition,
-- agency,
-- and consciousness
-
-as distinct dimensions of organisation rather than treating them as interchangeable concepts.
-
-A system may:
-- exhibit agency without consciousness,
-- cognition without consciousness,
-- or sophisticated computation without biological agency altogether.
-
-## What About Self-Improving AI?
-
-A common response is:
-> “What if AI rewrites its own code?”
-
-From an APS perspective, self-modification alone is still insufficient.
-
-The central question remains organisational:
-
-- Does the system sustain its own material conditions of persistence?
-- Does it regenerate the constraints that maintain its organisation?
-- Does perturbation trigger endogenous restoration directed toward viability?
-
-Software modification, by itself, does not establish biological agency.
-
-A system may alter its own architecture while remaining entirely dependent upon externally maintained conditions of existence.
-
-APS therefore distinguishes:
-- self-modification,
-- from self-maintaining viability.
-
-## Could Artificial Life Exist?
-
-APS does not rule out artificial life in principle.
-
-What matters is not biological origin but organisational structure.
-
-An engineered or synthetic system could qualify as living if it:
-- regenerated its own organisational constraints,
-- maintained its own material persistence,
-- reorganised itself under perturbation,
-- and sustained viability through endogenous processes.
-
-This would require:
-- energetic autonomy,
-- material self-maintenance,
-- organisational regeneration,
-- and viability-oriented regulation.
-
-The critical issue is not whether a system was designed.
-
-The issue is whether it becomes organisationally self-sustaining.
-
-APS therefore allows the possibility that genuinely artificial living systems could one day exist.
-
-However, such systems would need to cross a threshold far deeper than intelligence or behavioural sophistication alone.
-
-## Synthetic Biology and the Edge of Life
-
-Synthetic biology occupies a particularly important borderline case.
-
-Artificially engineered cells, protocells, or hybrid biological systems may satisfy APS conditions for life if they:
-- maintain metabolism,
-- regenerate organisational constraints,
-- and sustain viability across time.
-
-APS therefore evaluates synthetic systems organisationally rather than historically.
-
-Origin does not determine life.
-
-Organisation does.
-
-This differs from many popular discussions in which biological and artificial categories are treated as mutually exclusive.
-
-APS instead asks:
-> Does the system sustain itself as a viability-oriented process?
-
-## Reframing the AI Debate
-
-Many contemporary debates assume that sufficiently advanced intelligence will eventually become indistinguishable from life.
-
-APS rejects this assumption.
-
-The issue is therefore not whether artificial systems can become increasingly sophisticated, but whether sophistication alone explains what makes a system alive.
+That possibility should remain open.
 
 [[box:what-aps-changes-and-what-it-does-not]]
 
-Life is not fundamentally:
-- computation,
-- optimisation,
-- prediction,
-- representation,
-- or intelligence.
+## 8. What Do Other Scientists Think?
 
-It is organised persistence.
+Scientists and philosophers disagree about how life should be defined.
 
-This reframing shifts attention away from:
-- behavioural imitation,
-- anthropomorphic appearance,
-- and conversational sophistication,
+The disagreement matters because different definitions direct attention towards different kinds of evidence.
 
-toward:
-- material organisation,
-- endogenous regulation,
-- vulnerability,
-- persistence,
-- and self-maintaining viability.
+### Autopoiesis and organisational autonomy
 
-The defining boundary is therefore organisational rather than computational.
+Humberto Maturana and Francisco Varela developed the concept of autopoiesis to describe systems whose organised processes contribute to producing and maintaining the components and boundaries of the system.
 
-[[box:borderline-cases-viruses-sterile-organisms-artificial-systems]]
+Later organisational approaches, including the work of Alvaro Moreno and Matteo Mossio, examine how biological constraints depend upon and maintain one another.
 
-## What APS Leaves Open
+Montévil and Mossio (2015) develop this idea through the concept of closure of constraints, distinguishing the processes of an open thermodynamic system from constraints that are mutually maintained through those processes.
 
-APS does not claim that artificial systems could never become alive or conscious.
+These are important intellectual antecedents to APS.
 
-Nor does it assume that biology possesses some mystical property inaccessible to engineered systems.
+The overlap is substantial.
 
-Instead, APS specifies the organisational conditions that would need to be satisfied before such claims become meaningful.
+APS should therefore be understood as offering a particular conceptual organisation of related biological questions, not as having independently discovered the importance of organisational self-maintenance.
 
-Whether future systems could:
-- sustain themselves autonomously,
-- enact intrinsic normativity,
-- or generate genuinely self-maintaining organisation
+### Evolutionary approaches
 
-remains an open empirical and philosophical question.
+Other definitions emphasise reproduction, heredity, and the capacity for Darwinian evolution.
 
-APS therefore rejects both:
-- simplistic dismissal of artificial systems,
-- and premature claims that intelligence alone constitutes life.
+These approaches highlight properties essential to understanding biological populations and lineages.
 
-## Closing Perspective
+They also raise difficult questions about viruses, artificial replicators, and systems capable of evolving without independently maintaining all the processes on which their reproduction depends.
 
-Artificial systems may transform civilisation.
+Organisational and evolutionary accounts need not be treated as mutually exclusive, but they do not always classify borderline systems in the same way.
 
-They may surpass humans in many forms of cognitive performance.
+### Could life exist entirely inside a computer?
 
-They may display extraordinary behavioural sophistication.
+This is one of the strongest objections to APS's interpretation.
 
-But from an APS perspective, complexity alone is not life.
+Artificial-life research investigates life-like processes in software, hardware, and biochemical systems (Bedau, 2003). More recent research continues to examine the possibility of virtual artificial life, including the conditions under which life-like organisation might originate and persist in computational environments (Stepney, 2025).
 
-Life begins where organisation:
-- actively sustains itself,
-- regenerates its own constraints,
-- and maintains viability as an intrinsic condition of persistence.
+Suppose a virtual organism reproduced, evolved, competed for resources, and maintained its organisation over many generations.
 
-Until artificial systems cross that organisational threshold, they remain powerful artefacts rather than living agents.
+Would it be alive?
 
-The boundary of life is organisational, not computational.
+A computational functionalist might argue that what matters is the organisation of functions, not the particular materials implementing them.
 
-## Key Point
+From that perspective, excluding virtual organisms merely because they are computational could be an unjustified restriction.
 
-APS distinguishes behavioural sophistication from viability-oriented organisation. Intelligence, learning, and adaptive behaviour do not by themselves constitute life. Living systems are defined by the organised, self-maintaining processes through which they actively sustain their own persistence across time.
+APS takes a different position.
+
+It requires the relevant organisational relationships to be materially realised as part of the candidate system's continuing operation.
+
+A simulation of cellular metabolism, for example, does not necessarily perform the chemical transformations represented by the simulation.
+
+Yet this distinction does not resolve every case.
+
+Computer systems are themselves physical. Their computational activities depend on real material processes.
+
+A sufficiently integrated artificial system might use those processes to maintain and regenerate the organisation responsible for its continued functioning.
+
+The relevant question would then be whether the candidate system possesses the required material and organisational dependencies, not whether it contains software.
+
+This leaves a genuine disagreement between organisational and functionalist interpretations.
+
+APS must defend its material-realisation requirement through explanatory argument and empirical investigation, rather than treating the requirement as self-evident.
+
+[[box:realization-is-organisational-not-merely-functional]]
+
+## 9. Could Future AI Cross the Boundary?
+
+Future artificial systems may combine increasingly sophisticated AI with robotics, synthetic chemistry, adaptive materials, and autonomous manufacturing.
+
+Some might eventually maintain and regenerate important aspects of their physical organisation.
+
+Others may become highly intelligent without acquiring anything resembling living organisation.
+
+There is no established reason to assume that increasing intelligence must eventually produce life.
+
+Equally, there is no justification for declaring that artificial systems could never become alive.
+
+The question depends on what future systems actually become capable of doing and how their processes are organised.
+
+A future artificial living system would not necessarily be conscious. Nor would the possibility of AI consciousness automatically establish artificial life.
+
+These remain distinct scientific and philosophical questions.
+
+## 10. What This Reveals About Life
+
+Artificial intelligence is changing our understanding of intelligence, learning, and problem-solving.
+
+Artificial-life research is challenging our understanding of reproduction, self-maintenance, and biological organisation.
+
+Together, these developments make an important distinction increasingly visible.
+
+A system may perform sophisticated activities without possessing the organisation characteristic of living systems.
+
+APS interprets life through viability-oriented, constraint-closed organisation and the activities through which that organisation maintains or restores its capacity to function.
+
+This does not settle the definition of life for everyone.
+
+It offers a framework for asking what evidence would be needed to recognise living organisation in unfamiliar systems.
+
+**The question is not simply whether machines can become intelligent enough to be alive. It is whether artificial systems can acquire the organisation through which life maintains itself.**
+
+---
+
+## Frequently Asked Questions
+
+**Is artificial intelligence alive today?**
+
+There is no established scientific evidence that contemporary AI systems satisfy APS's organisational conditions for life. Their intelligence and operational autonomy do not, by themselves, establish living organisation.
+
+**Would a robot that repairs itself be alive?**
+
+Not necessarily. Self-repair is relevant, but it must be examined as part of the wider organisation responsible for maintaining the system's continued functioning.
+
+**Have scientists already created artificial life?**
+
+Researchers have produced increasingly sophisticated artificial cells and life-like chemical systems. The experiments discussed here do not establish that fully autonomous artificial living systems have been created.
+
+**Can something be partly alive?**
+
+Systems can possess some life-associated capacities without possessing others. Whether that warrants calling them partly alive depends on the definition and evidence being used. It is often more informative to describe the demonstrated capacities directly.
+
+**If AI becomes conscious, would it be alive?**
+
+Not automatically. Consciousness and life are distinct questions, and the relationship between them remains scientifically and philosophically contested.
+
+**Could a machine eventually become alive?**
+
+APS does not exclude this possibility. The decisive evidence would concern the machine's materially realised organisation and its capacity to maintain the conditions of its continued functioning.
+
+---
+
+## References
+
+Bedau, M. A. (2003). Artificial life: Organization, adaptation and complexity from the bottom up. *Trends in Cognitive Sciences*, 7(11), 505–512. https://doi.org/10.1016/j.tics.2003.09.012
+
+Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., Constant, A., Deane, G., Elmoznino, E., Fleming, S. M., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2026). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences*, 30(6), 488–501. https://doi.org/10.1016/j.tics.2025.10.011
+
+Katla, S. K., Lin, C., & Pérez-Mercader, J. (2025). Self-reproduction as an autonomous process of growth and reorganization in fully abiotic, artificial and synthetic cells. *Proceedings of the National Academy of Sciences*, 122(22), e2412514122. https://doi.org/10.1073/pnas.2412514122
+
+Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel.
+
+Minagawa, Y., Yabuta, M., Su’etsugu, M., & Noji, H. (2025). Self-growing protocell models in aqueous two-phase system induced by internal DNA replication reaction. *Nature Communications*, 16, 1522. https://doi.org/10.1038/s41467-025-56172-7
+
+Montévil, M., & Mossio, M. (2015). Biological organisation as closure of constraints. *Journal of Theoretical Biology*, 372, 179–191. https://doi.org/10.1016/j.jtbi.2015.02.029
+
+Moreno, A., & Mossio, M. (2015). *Biological Autonomy: A Philosophical and Theoretical Enquiry*. Springer. https://doi.org/10.1007/978-94-017-9837-2
+
+Restrepo Sierra, A. M., Ramirez Gomez, F., van Tongeren, M., Sierra Heras, L., & Danelon, C. (2026). A synthetic cell with integrated DNA self-replication and lipid biosynthesis. *Nature Communications*, 17, 2727. https://doi.org/10.1038/s41467-026-69531-9
+
+Stepney, S. (2025). Towards origins of virtual artificial life: An overview. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 380(1936), 20240298. https://doi.org/10.1098/rstb.2024.0298

@@ -6587,3 +6587,85 @@ references:
     status: verified
     authority: Royal Society archive RR/16/10 catalogue
     verifiedDate: '2026-11-06'
+- id: bedau-2003-artificial-life
+  type: journal-article
+  authors: Bedau, M. A.
+  year: 2003
+  title: 'Artificial life: Organization, adaptation and complexity from the bottom up'
+  journal: Trends in Cognitive Sciences
+  volume: '7'
+  issue: '11'
+  pages: 505–512
+  doi: 10.1016/j.tics.2003.09.012
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: '2026-11-06'
+- id: butlin-et-al-2026-consciousness-indicators
+  type: journal-article
+  authors: Butlin, P., Long, R., Bayne, T., Bengio, Y., Birch, J., Chalmers, D., Constant, A., Deane, G., Elmoznino, E., Fleming, S. M., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R.
+  year: 2026
+  title: Identifying indicators of consciousness in AI systems
+  journal: Trends in Cognitive Sciences
+  volume: '30'
+  issue: '6'
+  pages: 488–501
+  doi: 10.1016/j.tics.2025.10.011
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: '2026-11-06'
+- id: katla-lin-perez-mercader-2025-self-reproduction
+  type: journal-article
+  authors: Katla, S. K., Lin, C., & Pérez-Mercader, J.
+  year: 2025
+  title: Self-reproduction as an autonomous process of growth and reorganization in fully abiotic, artificial and synthetic cells
+  journal: Proceedings of the National Academy of Sciences
+  volume: '122'
+  issue: '22'
+  article-number: e2412514122
+  doi: 10.1073/pnas.2412514122
+  verification:
+    status: verified
+    authority: National Academy of Sciences
+    verifiedDate: '2026-11-06'
+- id: minagawa-et-al-2025-self-growing-protocells
+  type: journal-article
+  authors: Minagawa, Y., Yabuta, M., Su’etsugu, M., & Noji, H.
+  year: 2025
+  title: Self-growing protocell models in aqueous two-phase system induced by internal DNA replication reaction
+  journal: Nature Communications
+  volume: '16'
+  article-number: '1522'
+  doi: 10.1038/s41467-025-56172-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-06'
+- id: restrepo-sierra-et-al-2026-synthetic-cell
+  type: journal-article
+  authors: Restrepo Sierra, A. M., Ramirez Gomez, F., van Tongeren, M., Sierra Heras, L., & Danelon, C.
+  year: 2026
+  title: A synthetic cell with integrated DNA self-replication and lipid biosynthesis
+  journal: Nature Communications
+  volume: '17'
+  article-number: '2727'
+  doi: 10.1038/s41467-026-69531-9
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-06'
+- id: stepney-2025-virtual-artificial-life
+  type: journal-article
+  authors: Stepney, S.
+  year: 2025
+  title: 'Towards origins of virtual artificial life: An overview'
+  journal: Philosophical Transactions of the Royal Society B
+  volume: '380'
+  issue: '1936'
+  article-number: '20240298'
+  doi: 10.1098/rstb.2024.0298
+  verification:
+    status: verified
+    authority: Royal Society
+    verifiedDate: '2026-11-06'
