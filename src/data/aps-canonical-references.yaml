@@ -6692,3 +6692,336 @@ references:
     status: verified
     authority: Wiley / Ethology (publisher-formatted article)
     verifiedDate: 2026-11-07
+- id: beinart-middleton-2004-plant-transfers
+  type: journal-article
+  authors: Beinart, W., & Middleton, K.
+  year: 2004
+  title: 'Plant Transfers in Historical Perspective: A Review Article'
+  journal: Environment and History
+  volume: '10'
+  issue: '1'
+  pages: 3–29
+  doi: 10.3197/096734004772444397
+  verification:
+    status: verified
+    authority: White Horse Press / Environment and History
+    verifiedDate: '2026-11-07'
+- id: braudel-1949-mediterranee
+  type: book
+  authors: Braudel, F.
+  year: 1949
+  title: La Méditerranée et le monde méditerranéen à l'époque de Philippe II
+  publisher: Armand Colin
+  verification:
+    status: verified
+    authority: Google Books bibliographic record; CiNii Books edition history
+    verifiedDate: '2026-11-07'
+- id: brockway-1979-science-colonial-expansion
+  type: journal-article
+  authors: Brockway, L. H.
+  year: 1979
+  title: 'Science and Colonial Expansion: The Role of the British Royal Botanic Gardens'
+  journal: American Ethnologist
+  volume: '6'
+  issue: '3'
+  pages: 449–465
+  doi: 10.1525/ae.1979.6.3.02a00030
+  verification:
+    status: verified
+    authority: Wiley / American Ethnologist
+    verifiedDate: '2026-11-07'
+- id: carey-2009-latin-american-environmental-history
+  type: journal-article
+  authors: Carey, M.
+  year: 2009
+  title: 'Latin American Environmental History: Current Trends, Interdisciplinary Insights, and Future Directions'
+  journal: Environmental History
+  volume: '14'
+  issue: '2'
+  pages: 221–252
+  doi: 10.1093/envhis/14.2.221
+  verification:
+    status: verified
+    authority: Oxford Academic / Environmental History
+    verifiedDate: '2026-11-07'
+- id: chakrabarty-2009-climate-history
+  type: journal-article
+  authors: Chakrabarty, D.
+  year: 2009
+  title: 'The Climate of History: Four Theses'
+  journal: Critical Inquiry
+  volume: '35'
+  issue: '2'
+  pages: 197–222
+  doi: 10.1086/596640
+  verification:
+    status: verified
+    authority: University of Chicago Press / Critical Inquiry
+    verifiedDate: '2026-11-07'
+- id: cronon-1983-changes-land
+  type: book
+  authors: Cronon, W.
+  year: 1983
+  title: 'Changes in the Land: Indians, Colonists, and the Ecology of New England'
+  publisher: Hill and Wang
+  verification:
+    status: verified
+    authority: William Cronon author bibliography; Indiana University Libraries
+    verifiedDate: '2026-11-07'
+- id: cronon-1995-trouble-wilderness
+  type: book-chapter
+  authors: Cronon, W.
+  year: 1995
+  title: 'The Trouble with Wilderness; or, Getting Back to the Wrong Nature'
+  book-title: 'Uncommon Ground: Rethinking the Human Place in Nature'
+  editors: Cronon, W.
+  publisher: W. W. Norton
+  pages: 69–90
+  verification:
+    status: verified
+    authority: William Cronon author-hosted original chapter and publication record
+    verifiedDate: '2026-11-07'
+- id: crosby-1972-columbian-exchange
+  type: book
+  authors: Crosby, A. W.
+  year: 1972
+  title: 'The Columbian Exchange: Biological and Cultural Consequences of 1492'
+  publisher: Greenwood Press
+  verification:
+    status: verified
+    authority: WorldCat original-edition catalogue record
+    verifiedDate: '2026-11-07'
+- id: crosby-1986-ecological-imperialism
+  type: book
+  authors: Crosby, A. W.
+  year: 1986
+  title: 'Ecological Imperialism: The Biological Expansion of Europe, 900–1900'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press original edition
+    verifiedDate: '2026-11-07'
+- id: drayton-2000-natures-government
+  type: book
+  authors: Drayton, R.
+  year: 2000
+  title: 'Nature’s Government: Science, Imperial Britain, and the “Improvement” of the World'
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Yale University Press; Wellcome Collection
+    verifiedDate: '2026-11-07'
+- id: fairhead-leach-1995-false-forest-history
+  type: journal-article
+  authors: Fairhead, J., & Leach, M.
+  year: 1995
+  title: 'False Forest History, Complicit Social Analysis: Rethinking Some West African Environmental Narratives'
+  journal: World Development
+  volume: '23'
+  issue: '6'
+  pages: 1023–1035
+  doi: 10.1016/0305-750X(95)00026-9
+  verification:
+    status: verified
+    authority: Elsevier / World Development
+    verifiedDate: '2026-11-07'
+- id: fairhead-leach-1996-misreading-african-landscape
+  type: book
+  authors: Fairhead, J., & Leach, M.
+  year: 1996
+  title: 'Misreading the African Landscape: Society and Ecology in a Forest-Savanna Mosaic'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781139164023
+  verification:
+    status: verified
+    authority: Cambridge University Press original edition and DOI
+    verifiedDate: '2026-11-07'
+- id: kwaymullina-kwaymullina-2010-learning-read-signs
+  type: journal-article
+  authors: Kwaymullina, A., & Kwaymullina, B.
+  year: 2010
+  title: 'Learning to Read the Signs: Law in an Indigenous Reality'
+  journal: Journal of Australian Studies
+  volume: '34'
+  issue: '2'
+  pages: 195–208
+  doi: 10.1080/14443051003721189
+  verification:
+    status: verified
+    authority: Taylor & Francis / Journal of Australian Studies
+    verifiedDate: '2026-11-07'
+- id: konishi-2019-first-nations-scholars
+  type: journal-article
+  authors: Konishi, S.
+  year: 2019
+  title: 'First Nations Scholars, Settler Colonial Studies, and Indigenous History'
+  journal: Australian Historical Studies
+  volume: '50'
+  issue: '3'
+  pages: 285–304
+  doi: 10.1080/1031461X.2019.1620300
+  verification:
+    status: verified
+    authority: Taylor & Francis; University of Western Australia research repository
+    verifiedDate: '2026-11-07'
+- id: gadgil-guha-1992-this-fissured-land
+  type: book
+  authors: Gadgil, M., & Guha, R.
+  year: 1992
+  title: 'This Fissured Land: An Ecological History of India'
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press India, original-publication history
+    verifiedDate: '2026-11-07'
+- id: grove-1995-green-imperialism
+  type: book
+  authors: Grove, R. H.
+  year: 1995
+  title: 'Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600–1860'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press first edition
+    verifiedDate: '2026-11-07'
+- id: nash-1967-wilderness-american-mind
+  type: book
+  authors: Nash, R.
+  year: 1967
+  title: Wilderness and the American Mind
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Yale University Press original-edition history
+    verifiedDate: '2026-11-07'
+- id: steffensen-2020-fire-country
+  type: book
+  authors: Steffensen, V.
+  year: 2020
+  title: 'Fire Country: How Indigenous Fire Management Could Help Save Australia'
+  publisher: Hardie Grant Travel
+  verification:
+    status: verified
+    authority: Hardie Grant Publishing original-edition frontmatter; WorldCat
+    verifiedDate: '2026-11-07'
+- id: guha-1989-unquiet-woods
+  type: book
+  authors: Guha, R.
+  year: 1989
+  title: 'The Unquiet Woods: Ecological Change and Peasant Resistance in the Himalaya'
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford Academic contemporary review of Oxford University Press Delhi edition
+    verifiedDate: '2026-11-07'
+- id: marsh-1864-man-nature
+  type: book
+  authors: Marsh, G. P.
+  year: 1864
+  title: Man and Nature; or, Physical Geography as Modified by Human Action
+  publisher: Charles Scribner
+  verification:
+    status: verified
+    authority: Library of Congress original-edition catalogue and digitisation
+    verifiedDate: '2026-11-07'
+- id: mcneill-2003-observations-environmental-history
+  type: journal-article
+  authors: McNeill, J. R.
+  year: 2003
+  title: Observations on the Nature and Culture of Environmental History
+  journal: History and Theory
+  volume: '42'
+  issue: '4'
+  pages: 5–43
+  doi: 10.1046/j.1468-2303.2003.00255.x
+  verification:
+    status: verified
+    authority: Wiley / History and Theory publisher record
+    verifiedDate: '2026-11-07'
+- id: mcneill-2010-state-field-environmental-history
+  type: journal-article
+  authors: McNeill, J. R.
+  year: 2010
+  title: The State of the Field of Environmental History
+  journal: Annual Review of Environment and Resources
+  volume: '35'
+  pages: 345–374
+  doi: 10.1146/annurev-environ-040609-105431
+  verification:
+    status: verified
+    authority: Annual Reviews publisher record
+    verifiedDate: '2026-11-07'
+
+- id: merchant-1980-death-nature
+  type: book
+  authors: Merchant, C.
+  year: 1980
+  title: 'The Death of Nature: Women, Ecology, and the Scientific Revolution'
+  publisher: Harper & Row
+  verification:
+    status: verified
+    authority: WorldCat first-edition bibliographic record
+    verifiedDate: '2026-11-07'
+- id: robin-griffiths-2004-environmental-history-australasia
+  type: journal-article
+  authors: Robin, L., & Griffiths, T.
+  year: 2004
+  title: Environmental History in Australasia
+  journal: Environment and History
+  volume: '10'
+  issue: '4'
+  pages: 439–474
+  doi: 10.3197/0967340042772667
+  verification:
+    status: verified
+    authority: Australian National University research publications record
+    verifiedDate: '2026-11-07'
+- id: sauer-1925-morphology-landscape
+  type: journal-article
+  authors: Sauer, C. O.
+  year: 1925
+  title: The Morphology of Landscape
+  journal: University of California Publications in Geography
+  volume: '2'
+  issue: '2'
+  pages: 19–53
+  verification:
+    status: verified
+    authority: Original-edition library catalogue records
+    verifiedDate: '2026-11-07'
+- id: williams-1994-environmental-history-historical-geography
+  type: journal-article
+  authors: Williams, M.
+  year: 1994
+  title: The Relations of Environmental History and Historical Geography
+  journal: Journal of Historical Geography
+  volume: '20'
+  issue: '1'
+  pages: 3–21
+  doi: 10.1006/jhge.1994.1002
+  verification:
+    status: verified
+    authority: Elsevier / Journal of Historical Geography
+    verifiedDate: '2026-11-07'
+- id: worster-1977-natures-economy
+  type: book
+  authors: Worster, D.
+  year: 1977
+  title: 'Nature’s Economy: The Roots of Ecology'
+  publisher: Sierra Club Books
+  verification:
+    status: verified
+    authority: Wellcome Collection; Smithsonian Libraries and Archives
+    verifiedDate: '2026-11-07'
+- id: hippocrates-1923-airs-waters-places
+  type: book
+  authors: Hippocrates
+  year: 1923
+  title: "Hippocrates, Volume I: Ancient Medicine; Airs, Waters, Places; Epidemics I and III; The Oath; Precepts; Nutriment"
+  publisher: Harvard University Press
+  url: https://catalog.perseus.org/catalog/urn%3Acts%3AgreekLit%3Atlg0627.tlg002.perseus-eng2
+  note: "Loeb Classical Library 147; translated by W. H. S. Jones. Cited text: Airs, Waters, Places, section 1."
+  verification:
+    status: verified
+    authority: "Perseus Digital Library / Wellcome Collection"
+    verifiedDate: 2026-11-07
