@@ -57,13 +57,9 @@ references:
 
 *For the distinction between intelligence and living organisation, see *Why Life Is Not Intelligence — An APS Clarification*. The related articles *Consciousness — An APS Clarification* and *Life Detection in APS: Biosignatures, Organisation, and Evidence* *address, respectively, the separate question of subjective experience and the evidential problem of identifying unfamiliar life.*
 
-## Can AI Be Alive? — An APS Clarification
+## Can AI Be Alive?
 
 *Artificial intelligence can increasingly perform activities that we associate with intelligent agents. Whether it could also be alive is a different question: one about the organisation through which a system maintains the conditions of its own continued functioning.*
-
-
-
-## Can AI Be Alive?
 
 Imagine a robot exploring the surface of another planet. It navigates unfamiliar terrain, avoids hazards, analyses samples, and chooses which geological formation to investigate next. When its energy supply runs low, it returns to a charging station; when a component fails, it diagnoses the problem and arranges a replacement. A more advanced machine might even redesign its own components and direct the manufacture of a successor. Such achievements would be remarkable. Would they make either machine alive?
 
