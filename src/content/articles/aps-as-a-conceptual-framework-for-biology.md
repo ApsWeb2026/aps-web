@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-20
-revised: 2026-11-01
+revised: 2026-11-07
 cluster: methodology-and-explanation
 role: synthesis
 abstract: >
@@ -52,6 +52,7 @@ references:
   - zamer-scheiner-2014-conceptual-framework-organismal-biology
   - scheiner-2026-role-theory-biology
   - craver-2007-explaining-the-brain
+  - gefaell-uller-2026-philosophers-science-intellectual-exchange
 ---
 
 **Where This Article Fits**
@@ -138,7 +139,7 @@ The **evolutionary question** is different again. It concerns the history, inher
 
 APS can organise these questions around one living system. **Agency** draws attention to the viability-relevant activity and its conditional consequences. **Process** directs attention to cue detection, developmental change and the material production of the phenotype. **Scale** requires the investigator to distinguish changes within an individual from ecological interactions and evolutionary changes across generations. These are different analytical projections of the same case, not three competing causal explanations.
 
-This organisation may help a reader see why an account of defensive development is incomplete if it is mistaken for an account of evolutionary adaptation, or why a survival benefit cannot be assumed from the presence of an apparently protective structure. Yet existing developmental, ecological and evolutionary approaches can already make these distinctions. IIn APS's previous target-matched comparison of this case with established developmental, ecological and evolutionary explanations, no additional explanatory dependency was demonstrated. The recorded outcome was therefore **equivalent redescription**, rather than explanatory gain. The example therefore illustrates how APS can arrange established dependencies while leaving open the separate question of whether that arrangement offers additional scientific usefulness.
+This organisation may help a reader see why an account of defensive development is incomplete if it is mistaken for an account of evolutionary adaptation, or why a survival benefit cannot be assumed from the presence of an apparently protective structure. Yet existing developmental, ecological and evolutionary approaches can already make these distinctions. In APS's previous target-matched comparison of this case with established developmental, ecological and evolutionary explanations, no additional explanatory dependency was demonstrated. The recorded outcome was therefore **equivalent redescription**, rather than explanatory gain. The example therefore illustrates how APS can arrange established dependencies while leaving open the separate question of whether that arrangement offers additional scientific usefulness.
 
 ## Two Ways of Organising Biological Understanding
 
@@ -171,6 +172,8 @@ The consequences of comparative assessment must also be taken seriously. A posit
 ## Conceptual Frameworks and Scientific Progress
 
 Scientific progress does not always consist in discovering a new mechanism or formulating a new law. It can also involve identifying an ambiguity, distinguishing questions that have been conflated, bringing separate bodies of evidence into a productive relationship, or showing precisely where a proposed explanation remains unsupported. These achievements matter because they can change what investigators ask, measure and compare. They are nevertheless different from demonstrating a new causal dependency.
+
+Historical research provides evidence that conceptual frameworks can facilitate intellectual exchange between otherwise partly separated scientific traditions. Gefaell and Uller (2026), for example, identify developmental systems theory and philosophers of biology as plausible intermediaries in the transmission of the ontogenetic niche concept from developmental psychobiology into evolutionary biology. Their findings illustrate a potential contribution of conceptual integration, although citation patterns alone do not establish causal intellectual influence or demonstrate improved biological explanation. APS's own contribution must likewise be assessed through the clarity, applicability, and explanatory discrimination of its conceptual distinctions, rather than through conceptual integration alone.
 
 A conceptual framework may assist such work by making its assumptions inspectable. In the *Daphnia* example, a clear separation of developmental production, ecological consequences and evolutionary history helps prevent evidence for one claim from being treated as evidence for another. APS provides one vocabulary for organising those distinctions. The relevant test is whether its vocabulary makes a real difference to the formulation or conduct of an investigation, rather than merely restating distinctions already available to researchers.
 

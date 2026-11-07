@@ -6678,6 +6678,17 @@ references:
   article-number: '112632'
   doi: 10.1016/j.jtbi.2026.112632
   verification:
-    status: pending
+    status: verified
     authority: Elsevier / ScienceDirect
     verifiedDate: '2026-11-07'
+- id: gefaell-uller-2026-philosophers-science-intellectual-exchange
+  type: journal-article
+  authors: Gefaell, J., & Uller, T.
+  year: 2026
+  title: 'Philosophers of Science Facilitated Intellectual Exchange Between Developmental Approaches in Ethology and Evolutionary Biology'
+  journal: Ethology
+  doi: 10.1111/eth.70125
+  verification:
+    status: verified
+    authority: Wiley / Ethology (publisher-formatted article)
+    verifiedDate: 2026-11-07

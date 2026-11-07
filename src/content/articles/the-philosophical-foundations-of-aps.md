@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-14
-revised: 2026-09-15
+revised: 2026-11-07
 cluster: philosophy-of-biology
 role: synthesis
 
@@ -82,6 +82,7 @@ references:
   - lyon-2006-biogenic-approach-cognition
   - barandiaran-moreno-2006-minimally-cognitive-organization
   - van-duijn-keijzer-franken-2006-principles-minimal-cognition
+  - gefaell-uller-2026-philosophers-science-intellectual-exchange
 ---
 
 > **Where this article fits:** APS is a comparative explanatory methodology for biology. It is not derived from a prior philosophical system, but its biological and methodological commitments raise philosophical questions that must be made explicit. This article examines those commitments: what APS assumes about living organisation, what kind of reality it attributes to biological organisation, how it understands normativity, function and purpose, and what follows philosophically from its treatment of biological explanation. Readers seeking an introduction to APS should begin with *What Is APS?*, *Naturalising Life*, *How APS Explains Life*, and *The Core Structure of APS*. *Why Philosophy of Biology Matters* explains why philosophical clarification remains relevant to biological inquiry. *Organisational Realism in Biology* develops one specific ontological commitment associated with APS. *APS as Philosophy* considers the broader philosophical implications of the framework. The present article has a narrower task: to make explicit the philosophical foundations implicated by APS without treating philosophical coherence as evidence for biological explanatory success.
@@ -318,6 +319,8 @@ This changes the philosophical significance of explanatory pluralism.
 The question is not simply how the many explanatory forms of biology can be made conceptually harmonious. It is how their explanatory roles can be distinguished and, where appropriate, compared without confusing differences of vocabulary, target, evidence or dependency.
 
 Philosophical analysis helps make those distinctions explicit.
+
+Historical research also suggests that philosophy of biology can facilitate intellectual exchange between scientific traditions. Gefaell and Uller (2026) investigate how developmental systems theory and philosophers of science helped connect developmental approaches in ethology and evolutionary biology, particularly through the transmission of the ontogenetic niche concept. Their findings provide a historically grounded example of philosophy's potential intermediary role. Such intellectual exchange is valuable in its own right, but it does not establish that the resulting explanations are integrated, empirically superior, or directed towards a common explanatory framework.
 
 Biological warrant must still come from the relevant science.
 
