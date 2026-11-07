@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-10-31
+revised: 2026-11-07
 cluster: conceptual-foundations
 role: clarification
 abstract: >
@@ -98,6 +98,14 @@ references:
     title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
     doi: https://doi.org/10.1007/s13752-026-00547-6
+
+  - id: BrooksPetinoZappalaRessl2026
+    authors: Brooks, D. S., Petino Zappala, M. A., & Ressl, S.
+    year: 2026
+    title: "Leveling Biological Systems: Material Organization and Scaffolding Scientific Advance"
+    journal: Journal of Theoretical Biology
+    pages: "112632"
+    doi: https://doi.org/10.1016/j.jtbi.2026.112632
 ---
 
 ## The Appeal of Hierarchy in Biology
@@ -145,6 +153,8 @@ APS therefore does not treat levels simply as fictions or arbitrary construction
 Problems arise when the representational ordering itself is assumed to establish a universal ordering within biological reality. Molecular biology, physiology, developmental biology, ecology, evolutionary biology, and other domains organise inquiry around different questions and phenomena. Their disciplinary boundaries do not by themselves demonstrate corresponding strata in nature.
 
 The distinction is therefore not between unreal levels and real organisation. It is between a representational device and the material organisation that the device may, with varying success, describe. APS asks that the two not be conflated.
+
+The rejection of a universal biological hierarchy does not entail that levels of organisation are scientifically dispensable. Brooks, Petino Zappala, and Ressl (2026) develop an account in which levels are grounded in material organisation and can scaffold scientific investigation, experimental practice, and conceptual development. Their analysis reinforces the distinction between rejecting a universal hierarchy and recognising the explanatory value of particular organisational distinctions. APS accepts that such distinctions may be scientifically productive, while requiring their explanatory relevance to be established through the materially realised relations pertinent to the biological phenomenon under investigation.
 
 ### Hierarchy, Modularity, and Near-Decomposability
 

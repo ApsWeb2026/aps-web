@@ -55,7 +55,7 @@ references:
 
 *This Extension article belongs to the **Artificial Systems and Boundaries** cluster. It applies APS's established accounts of Life, Biological Agency, Viability, and Constraint Closure to the question of whether artificial systems could qualify as living systems. It does not redefine those concepts.*
 
-*For the distinction between intelligence and living organisation, see *Why Life Is Not Intelligence — An APS Clarification*. The related articles *Consciousness — An APS Clarification* and *Life Detection in APS: Biosignatures, Organisation, and Evidence* *address, respectively, the separate question of subjective experience and the evidential problem of identifying unfamiliar life.*
+*For the distinction between intelligence and living organisation, see *Why Life Is Not Intelligence — An APS Clarification*.* The related articles *Consciousness — An APS Clarification* and *Life Detection in APS: Biosignatures, Organisation, and Evidence* *address, respectively, the separate question of subjective experience and the evidential problem of identifying unfamiliar life.*
 
 ## Can AI Be Alive?
 

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-09-08
+revised: 2026-11-07
 cluster: conceptual-foundations
 role: clarification
 abstract: >
@@ -54,6 +54,7 @@ references:
   - nicholson-dupre-2018-everything-flows
   - spencer-2026-agency-defining-activity-life
   - hermida-ladyman-2026-spatial-structure-biology
+  - brooks-petino-zappala-ressl-2026-leveling-biological-systems
 ---
 
 ## The Limits of Hierarchical Thinking
@@ -73,6 +74,8 @@ APS therefore does not reject hierarchical descriptions merely because they are 
 ## What Levels Can — and Cannot — Explain
 
 Level language can perform several legitimate scientific functions. It can distinguish objects of study, identify useful resolutions, organise experimental techniques, and indicate where particular processes are conventionally investigated. Molecular biology and physiology, for example, may focus on different material relations without thereby describing separate biological realities.
+
+Brooks, Petino Zappala, and Ressl (2026) develop a materially grounded account of biological levels, distinguishing them from spatial and temporal scales while examining their role in scientific investigation. Their analysis shows how level concepts can support experimental reasoning and scaffold scientific advances without requiring a universal, strictly nested hierarchy. APS shares the rejection of a rigid hierarchy but assigns Scale a different explanatory function: identifying the spatial and temporal extent across which the materially realised organisation relevant to a biological explanandum must be investigated. The approaches are therefore compatible in important respects, although their theoretical purposes are not identical.
 
 Problems arise when the boundaries of these investigative domains are treated as causal boundaries. Describing one process as molecular and another as physiological does not establish that causal influence must travel upward or downward between levels. Nor does the fact that two processes are described at different levels establish that relations between them are required for a particular explanation.
 

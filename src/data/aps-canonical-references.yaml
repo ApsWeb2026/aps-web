@@ -6669,3 +6669,15 @@ references:
     status: verified
     authority: Royal Society
     verifiedDate: '2026-11-06'
+- id: brooks-petino-zappala-ressl-2026-leveling-biological-systems
+  type: journal-article
+  authors: Brooks, D. S., Petino Zappala, M. A., & Ressl, S.
+  year: 2026
+  title: 'Leveling Biological Systems: Material Organization and Scaffolding Scientific Advance'
+  journal: Journal of Theoretical Biology
+  article-number: '112632'
+  doi: 10.1016/j.jtbi.2026.112632
+  verification:
+    status: pending
+    authority: Elsevier / ScienceDirect
+    verifiedDate: '2026-11-07'
