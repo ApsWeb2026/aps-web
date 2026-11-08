@@ -7114,3 +7114,276 @@ references:
     status: verified
     authority: "The Royal Society"
     verifiedDate: 2026-11-08
+- id: bawaka-country-et-al-2015-working-learning-country
+  type: journal-article
+  authors: Bawaka Country, Wright, S., Suchet-Pearson, S., Lloyd, K., Burarrwanga, L., Ganambarr, R., Ganambarr-Stubbs, M., Ganambarr, B., & Maymuru, D.
+  year: 2015
+  title: 'Working with and learning from Country: decentring human authority'
+  journal: Cultural Geographies
+  volume: '22'
+  issue: '2'
+  pages: 269–283
+  doi: 10.1177/1474474014539248
+  verification:
+    status: verified
+    authority: SAGE, DOI 10.1177/1474474014539248
+    verifiedDate: '2026-11-09'
+- id: bird-et-al-2016-landscape-architecture-fire
+  type: journal-article
+  authors: Bird, D. W., Bliege Bird, R., Codding, B. F., & Taylor, N.
+  year: 2016
+  title: 'A Landscape Architecture of Fire: Cultural Emergence and Ecological Pyrodiversity in Australia''s Western Desert'
+  journal: Current Anthropology
+  volume: '57'
+  issue: S13
+  pages: S65–S79
+  doi: 10.1086/685763
+  verification:
+    status: verified
+    authority: University of Chicago Press, DOI 10.1086/685763
+    verifiedDate: '2026-11-09'
+- id: cowles-1899-ecological-relations-dunes
+  type: journal-article
+  authors: Cowles, H. C.
+  year: 1899
+  title: The Ecological Relations of the Vegetation on the Sand Dunes of Lake Michigan
+  journal: Botanical Gazette
+  volume: '27'
+  pages: 95–117, 167–202, 281–308, 361–391
+  doi: 10.1086/327796
+  note: 'Published in four instalments in Botanical Gazette, volume 27 (1899), pages 95–117, 167–202, 281–308, and 361–391. The primary DOI identifies the first instalment only. Subsequent instalment DOIs: 10.1086/327812, 10.1086/327828, and 10.1086/327840.'
+  verification:
+    status: verified
+    authority: Botanical Gazette original four-part publication
+    verifiedDate: '2026-11-09'
+- id: egerton-2017-history-ecological-sciences-59
+  type: journal-article
+  authors: Egerton, F. N.
+  year: 2017
+  title: 'History of Ecological Sciences, Part 59: Niches, Biomes, Ecosystems, and Systems'
+  journal: Bulletin of the Ecological Society of America
+  volume: '98'
+  issue: '4'
+  pages: 298–337
+  doi: 10.1002/bes2.1337
+  verification:
+    status: verified
+    authority: Ecological Society of America, DOI 10.1002/bes2.1337
+    verifiedDate: '2026-11-09'
+- id: elton-1927-animal-ecology
+  type: book
+  authors: Elton, C. S.
+  year: 1927
+  title: Animal Ecology
+  publisher: Sidgwick & Jackson
+  verification:
+    status: verified
+    authority: Historical library catalogue, London edition
+    verifiedDate: '2026-11-09'
+  note: London edition; distinguish from the New York Macmillan edition.
+- id: gause-1934-experimental-analysis-volterra
+  type: journal-article
+  authors: Gause, G. F.
+  year: 1934
+  title: Experimental Analysis of Vito Volterra's Mathematical Theory of the Struggle for Existence
+  journal: Science
+  volume: '79'
+  issue: '2036'
+  pages: 16–17
+  doi: 10.1126/science.79.2036.16-a
+  verification:
+    status: verified
+    authority: Science and PubMed bibliographic records
+    verifiedDate: '2026-11-09'
+- id: gause-1934-struggle-existence
+  type: book
+  authors: Gause, G. F.
+  year: 1934
+  title: The Struggle for Existence
+  publisher: Williams & Wilkins
+  doi: 10.5962/bhl.title.4489
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library
+    verifiedDate: '2026-11-09'
+- id: gause-nastukova-alpatov-1934-conditioned-media
+  type: journal-article
+  authors: Gause, G. F., Nastukova, O. K., & Alpatov, W. W.
+  year: 1934
+  title: The Influence of Biologically Conditioned Media on the Growth of a Mixed Population of Paramecium caudatum and P. aurelia
+  journal: Journal of Animal Ecology
+  volume: '3'
+  pages: 222–230
+  verification:
+    status: verified
+    authority: Journal of Animal Ecology bibliographic record
+    verifiedDate: '2026-11-09'
+  issue: '2'
+- id: golley-1993-history-ecosystem-concept
+  type: book
+  authors: Golley, F. B.
+  year: 1993
+  title: 'A History of the Ecosystem Concept in Ecology: More Than the Sum of the Parts'
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Yale University Press and library catalogue
+    verifiedDate: '2026-11-09'
+- id: grinnell-1917-niche-relationships-thrasher
+  type: journal-article
+  authors: Grinnell, J.
+  year: 1917
+  title: The Niche-Relationships of the California Thrasher
+  journal: The Auk
+  volume: '34'
+  issue: '4'
+  pages: 427–433
+  doi: 10.2307/4072271
+  verification:
+    status: verified
+    authority: The Auk historical journal record
+    verifiedDate: '2026-11-09'
+- id: haeckel-1866-generelle-morphologie
+  type: book
+  authors: Haeckel, E.
+  year: 1866
+  title: Generelle Morphologie der Organismen
+  publisher: Georg Reimer
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library
+    verifiedDate: '2026-11-09'
+  note: 'Two-volume work published by Georg Reimer, Berlin, 1866. Full title: Generelle Morphologie der Organismen. Allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von Charles Darwin reformirte Descendenz-Theorie.'
+- id: hagen-1992-entangled-bank
+  type: book
+  authors: Hagen, J. B.
+  year: 1992
+  title: 'An Entangled Bank: The Origins of Ecosystem Ecology'
+  publisher: Rutgers University Press
+  verification:
+    status: verified
+    authority: Rutgers University Press and library catalogue
+    verifiedDate: '2026-11-09'
+- id: hutchinson-1957-concluding-remarks
+  type: journal-article
+  authors: Hutchinson, G. E.
+  year: 1957
+  title: Concluding Remarks
+  journal: Cold Spring Harbor Symposia on Quantitative Biology
+  volume: '22'
+  pages: 415–427
+  doi: 10.1101/SQB.1957.022.01.039
+  verification:
+    status: verified
+    authority: Cold Spring Harbor Laboratory Press
+    verifiedDate: '2026-11-09'
+- id: kingsland-1995-modeling-nature
+  type: book
+  authors: Kingsland, S. E.
+  year: 1995
+  title: 'Modeling Nature: Episodes in the History of Population Ecology'
+  publisher: University of Chicago Press
+  edition: 2nd
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: '2026-11-09'
+- id: lindeman-1942-trophic-dynamic-ecology
+  type: journal-article
+  authors: Lindeman, R. L.
+  year: 1942
+  title: The Trophic-Dynamic Aspect of Ecology
+  journal: Ecology
+  volume: '23'
+  issue: '4'
+  pages: 399–417
+  doi: 10.2307/1930126
+  verification:
+    status: verified
+    authority: Ecology historical journal record
+    verifiedDate: '2026-11-09'
+- id: lotka-1925-elements-physical-biology
+  type: book
+  authors: Lotka, A. J.
+  year: 1925
+  title: Elements of Physical Biology
+  publisher: Williams & Wilkins
+  verification:
+    status: verified
+    authority: Historical publisher and bibliographic records
+    verifiedDate: '2026-11-09'
+- id: lotka-1927-fluctuations-abundance
+  type: journal-article
+  authors: Lotka, A. J.
+  year: 1927
+  title: Fluctuations in the Abundance of a Species Considered Mathematically
+  journal: Nature
+  volume: '119'
+  pages: '12'
+  doi: 10.1038/119012a0
+  verification:
+    status: verified
+    authority: Nature, DOI 10.1038/119012a0
+    verifiedDate: '2026-11-09'
+- id: raby-2017-american-tropics
+  type: book
+  authors: Raby, M.
+  year: 2017
+  title: 'American Tropics: The Caribbean Roots of Biodiversity Science'
+  publisher: University of North Carolina Press
+  verification:
+    status: verified
+    authority: University of North Carolina Press
+    verifiedDate: '2026-11-09'
+- id: tansley-1935-use-abuse-vegetational
+  type: journal-article
+  authors: Tansley, A. G.
+  year: 1935
+  title: The Use and Abuse of Vegetational Concepts and Terms
+  journal: Ecology
+  volume: '16'
+  issue: '3'
+  pages: 284–307
+  doi: 10.2307/1930070
+  verification:
+    status: verified
+    authority: Ecology historical journal record
+    verifiedDate: '2026-11-09'
+- id: volterra-1926-fluctuations-abundance
+  type: journal-article
+  authors: Volterra, V.
+  year: 1926
+  title: Fluctuations in the Abundance of a Species Considered Mathematically
+  journal: Nature
+  volume: '118'
+  pages: 558–560
+  doi: 10.1038/118558a0
+  verification:
+    status: verified
+    authority: Nature, DOI 10.1038/118558a0
+    verifiedDate: '2026-11-09'
+- id: volterra-1927-fluctuations-abundance
+  type: journal-article
+  authors: Volterra, V.
+  year: 1927
+  title: Fluctuations in the Abundance of a Species Considered Mathematically
+  journal: Nature
+  volume: '119'
+  pages: 12–13
+  doi: 10.1038/119012b0
+  verification:
+    status: verified
+    authority: Nature, DOI 10.1038/119012b0
+    verifiedDate: '2026-11-09'
+- id: warming-1909-oecology-plants
+  type: book
+  authors: Warming, E.
+  year: 1909
+  title: 'Oecology of Plants: An Introduction to the Study of Plant-Communities'
+  publisher: Clarendon Press
+  doi: 10.5962/bhl.title.24132
+  note: Assisted by M. Vahl; prepared for English publication by P. Groom and I. B. Balfour.
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library and Wellcome Collection
+    verifiedDate: '2026-11-09'
