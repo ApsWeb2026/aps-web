@@ -7025,3 +7025,78 @@ references:
     status: verified
     authority: "Perseus Digital Library / Wellcome Collection"
     verifiedDate: 2026-11-07
+- id: bowler-1983-eclipse-darwinism
+  type: book
+  authors: Bowler, P. J.
+  year: 1983
+  title: 'The Eclipse of Darwinism: Anti-Darwinian Evolution Theories in the Decades around 1900'
+  publisher: Johns Hopkins University Press
+  verification:
+    status: verified
+    authority: Johns Hopkins University Press / WorldCat
+    verifiedDate: 2026-11-08
+- id: ruse-1979-darwinian-revolution
+  type: book
+  authors: Ruse, M.
+  year: 1979
+  title: 'The Darwinian Revolution: Science Red in Tooth and Claw'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press / Smithsonian Libraries
+    verifiedDate: 2026-11-08
+- id: smocovitis-1992-unifying-biology
+  type: journal-article
+  authors: Smocovitis, V. B.
+  year: 1992
+  title: 'Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology'
+  journal: Journal of the History of Biology
+  volume: '25'
+  issue: '1'
+  pages: 1–65
+  doi: 10.1007/BF01947504
+  verification:
+    status: verified
+    authority: PubMed / Springer Nature
+    verifiedDate: 2026-11-08
+- id: smocovitis-1994-organizing-evolution
+  type: journal-article
+  authors: Smocovitis, V. B.
+  year: 1994
+  title: 'Organizing Evolution: Founding the Society for the Study of Evolution (1939–1950)'
+  journal: Journal of the History of Biology
+  volume: '27'
+  issue: '2'
+  pages: 241–309
+  doi: 10.1007/BF01062564
+  verification:
+    status: verified
+    authority: PubMed / Springer Nature / JSTOR
+    verifiedDate: 2026-11-08
+- id: van-wyhe-2018-wallaces-help
+  type: journal-article
+  authors: van Wyhe, J.
+  year: 2018
+  title: "Wallace's Help: The Many People Who Aided A. R. Wallace in the Malay Archipelago"
+  journal: Journal of the Malaysian Branch of the Royal Asiatic Society
+  volume: '91'
+  issue: '1'
+  pages: 41–68
+  doi: 10.1353/ras.2018.0003
+  verification:
+    status: verified
+    authority: Journal bibliographic metadata / author abstract
+    verifiedDate: 2026-11-08
+- id: nature-1946-society-study-evolution
+  type: journal-article
+  authors: Society for the Study of Evolution
+  year: 1946
+  title: Society for the Study of Evolution
+  journal: Nature
+  volume: '157'
+  pages: '619'
+  doi: 10.1038/157619d0
+  verification:
+    status: verified
+    authority: Nature / Springer Nature original publication
+    verifiedDate: 2026-11-08

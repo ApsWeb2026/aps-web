@@ -1,20 +1,21 @@
 ---
 date: 2026-10-23
-title: How Did Evolution Transform Biological Explanation?
+title: "How Did Evolution Transform Biological Explanation?"
 slug: how-did-evolution-transform-biological-explanation
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-23
-revised: 2026-10-23
-cluster: philosophy-of-biology
-role: extension
-abstract: |
-  This historical essay traces how evolutionary explanation developed from debates
-  over species transformation and extinction through Darwin and Wallace, genetics,
-  population thinking and the Modern Synthesis. It concludes by distinguishing
-  contemporary debates over the Extended Evolutionary Synthesis from APS's
-  qualified organisational perspective, without claiming explanatory superiority.
+revised: 2026-11-08
+cluster: history-of-ideas
+role: core
+abstract: >
+  A historical and historiographical account of how evolutionary thinking changed
+  biological explanation, from pre-Darwinian debates and the Darwin–Wallace
+  arguments through genetics, the Modern Synthesis, and subsequent developments.
+  The article distinguishes historical reconstruction, causal modelling, and
+  historical attribution, while preserving a qualified account of the relevance
+  of contemporary evolutionary debates to APS.
 relatedArticles:
   - from-aristotle-to-modern-biology-the-transformation-of-a-science
   - evolution-taxonomy-and-the-reorganisation-of-biological-explanation
@@ -39,103 +40,300 @@ references:
   - pigliucci-muller-2010-extended-synthesis
   - cuvier-1812-recherches-ossemens-fossiles
   - lyell-1830-principles-geology
+  - bowler-1983-eclipse-darwinism
+  - ruse-1979-darwinian-revolution
+  - smocovitis-1992-unifying-biology
+  - smocovitis-1994-organizing-evolution
+  - smocovitis-1996-unifying-biology
+  - van-wyhe-2018-wallaces-help
+  - nature-1946-society-study-evolution
 ---
 
-## Before evolution had a mechanism
+## Introduction: When Biological Diversity Acquired a History
 
-In the early nineteenth century, a naturalist looking at a collection of shells, birds or fossil bones could ask a question that classification alone could not settle: were species permanent kinds, or had living forms changed during the long history of the Earth? Collections brought order to diversity. Fossils brought a more unsettling fact: organisms once present were no longer living. Geology suggested that the Earth had a history far deeper than ordinary human experience. The difficult task was to connect these observations in a convincing explanation.
+To describe the living world is not necessarily to explain how it came to be. Naturalists could identify plants and animals, compare their structures, arrange them into classifications, and describe their geographical distributions without possessing a satisfactory explanation of their historical origins. The emergence of evolutionary biology changed the relationship between these activities. Similarities among organisms could become evidence of common ancestry; differences could be investigated as consequences of divergence; and adaptations could be interpreted as outcomes of processes operating over generations.
 
-This was not a simple contest between people who believed in change and people who did not. Naturalists disagreed about what species were, how fossils should be interpreted, and what counted as an acceptable cause. The question was not merely whether the living world had a history. It was how such a history could be reconstructed from present-day evidence.
+This transformation was neither sudden nor attributable to a single discovery. Long before Charles Darwin published On the Origin of Species in 1859, naturalists had investigated fossils, extinction, geographical distribution, and the possibility that species changed through time. Darwin's achievement was to develop an explanatory framework in which historical relationships and causal processes could illuminate many previously disconnected observations. Yet the reception of his ideas was uneven. Common descent became influential before natural selection achieved comparable acceptance, while the mechanisms of inheritance and variation remained disputed.
+
+During the twentieth century, genetics, population studies, systematics, palaeontology, and other biological disciplines developed increasingly coordinated approaches to evolutionary questions. Mathematical models clarified the possible consequences of evolutionary processes, while field observations, experiments, and historical evidence provided ways to investigate their actual operation.
+
+The history of evolutionary explanation is therefore not simply a sequence of theories replacing their predecessors. It is a history of changing questions, evidence, methods, and standards of explanation. It concerns how scientists learned to investigate events that could not be directly observed, how they distinguished possible causes from demonstrated histories, and how disagreements about the transformation of life became increasingly open to empirical assessment.
+
+The central historical change was the establishment of life's diversity as a subject of disciplined causal and historical explanation. Evolutionary biology made it possible to investigate not only what organisms are and how they function, but also how their characteristics and relationships came into existence.
+
+## Before Darwin: Transformation, Extinction, and Competing Histories
+
+Eighteenth- and early nineteenth-century natural history contained several different approaches to biological diversity. Classification was important, but it did not exhaust naturalists' intellectual ambitions. Investigators also asked why organisms occurred in particular regions, whether species could disappear, whether living forms were historically related, and how the history of the Earth might illuminate the history of life.
+
+Georges-Louis Leclerc, Comte de Buffon, questioned aspects of established classificatory thinking and explored historical explanations of biological and geographical variation. His work did not constitute a modern theory of common descent, but it demonstrated that the living world could be investigated through questions extending beyond the identification of fixed kinds.
+
+Erasmus Darwin proposed speculative accounts of the transformation and relationship of living forms. Such proposals were intellectually significant, although they lacked the evidential and causal structure subsequently developed in evolutionary biology.
+
+Jean-Baptiste Lamarck made species transformation a sustained subject of biological investigation. In Philosophie zoologique (1809), he presented living forms as historically changeable and sought natural explanations for their organisation, diversity, and adaptation. His account included the effects of use and disuse and the inheritance of acquired modifications. These mechanisms did not survive as a general explanation of evolutionary change, but Lamarck's historical importance should not be reduced to a familiar story about giraffes. He attempted to explain biological transformation through natural processes rather than treating the existing diversity of organisms as an arrangement requiring description alone.
+
+Georges Cuvier approached the evidence differently. Through comparative anatomy and palaeontology, he helped establish extinction as an empirical reality while rejecting Lamarck's proposed transformation of species. Extinction introduced an important historical problem: organisms once present on Earth had disappeared, and the living world could not be understood solely from species surviving in the present.
+
+The disagreement between Lamarck and Cuvier demonstrates why the history of evolutionary thought cannot be represented as a straightforward contest between observation and prejudice. Naturalists could share evidence while disagreeing about the historical processes capable of explaining it.
+
+Geology contributed another dimension. Charles Lyell's Principles of Geology, published in successive volumes beginning in 1830, developed an influential account of geological change through causes whose operation could be investigated in the present. Lyell's position should not be confused with a complete evolutionary theory. Nevertheless, geological investigation helped establish the importance of reconstructing processes operating over immense periods.
+
+Robert Chambers's anonymously published Vestiges of the Natural History of Creation (1844) subsequently brought developmental and transformational interpretations of nature to a broad readership. Its arguments were controversial and scientifically uneven, but its reception demonstrates that questions about the historical development of living forms were already circulating well beyond a narrow community of specialists.
+
+These naturalists did not necessarily understand their investigations as contributions to the same scientific problem. Buffon's historical naturalism, Lamarck's theory of transformation, Cuvier's reconstruction of extinct organisms, and Lyell's geological explanations rested on different assumptions about the objects and purposes of scientific inquiry. Their eventual importance to evolutionary biology should not be confused with their original explanatory intentions. Historians must therefore distinguish what these investigators sought to establish from the significance subsequently attributed to their work (Bowler, 2009; Ruse, 1979).
+
+By the middle of the nineteenth century, the question was no longer simply whether natural history could describe biological diversity. It was whether the origins and relationships of living forms could be reconstructed through evidence and explained by identifiable natural causes.
 
 ![Cuvier’s engraved comparative-anatomical plate of hippopotamus skeletal structures, 1812](/images/history/cuvier-1812-fossil-hippopotamus-vol2-memoir6-plate1.webp)
 
 *Figure 1. Comparative anatomy in early nineteenth-century natural history. Hippopotamus skeletal anatomy and individual bone structures illustrated in Georges Cuvier's Recherches sur les ossemens fossiles de quadrupèdes (1812), vol. II, Memoir VI, Plate I. Engraved by Couet. Cuvier's comparative-anatomical investigations helped establish the importance of fossil evidence in reconstructing the history of life. Source: Smithsonian Libraries and Archives / Biodiversity Heritage Library. Public domain.*
 
-## Competing accounts of change
+## Darwin and Wallace: The Emergence of a Causal Historical Explanation
 
-Jean-Baptiste Lamarck made species transformation a sustained scientific proposal. In Philosophie zoologique (1809), he treated living forms as historically changeable and sought to explain patterns of complexity and adaptation through natural processes. His account included ideas about use and disuse and the inheritance of acquired modifications. These mechanisms have not survived as a general explanation of evolutionary change, but reducing Lamarck to a story about giraffes stretching their necks misses his larger achievement: he tried to make the transformation of living forms a subject of causal biological inquiry.
+Charles Darwin's voyage aboard HMS Beagle between 1831 and 1836 contributed observations that became important to his evolutionary thinking. He did not, however, return with a completed theory of natural selection. His subsequent investigations drew upon domesticated organisms, fossils, geographical distribution, comparative anatomy, and extensive correspondence with naturalists and breeders.
 
-Georges Cuvier, by contrast, used comparative anatomy and fossils to establish the reality of extinction while rejecting the transformation of species as Lamarck proposed it. Extinction itself was a major explanatory challenge. If organisms had vanished, the history of life could not simply be read from the living species of the present. The dispute demonstrated that a shared body of evidence could support different historical interpretations.
+Darwin's developing account connected the historical relationships among organisms with processes capable of producing change. Branching descent provided an explanation of why organisms might share characteristics while also exhibiting substantial differences. Natural selection offered a mechanism through which heritable variation could have differential consequences for survival and reproduction.
 
-Meanwhile, geologists developed ways to interpret rock layers and processes acting over immense periods. Charles Lyell's Principles of Geology, beginning in 1830, argued for the importance of causes observable in the present in understanding the geological past. His views were influential but should not be mistaken for a complete theory of biological evolution. Geological time made change conceivable; it did not by itself explain how species diverged.
+Alfred Russel Wallace independently developed a closely related account of natural selection. His investigations in the Malay Archipelago, together with earlier work on geographical distribution, contributed to his interpretation of species change. In 1858 he sent Darwin an essay setting out his explanation.
 
-These earlier arguments mattered because they established a new explanatory ambition. Biological diversity could be investigated as the result of historical processes rather than described only as an arrangement of fixed kinds.
+The resulting presentation of Darwin's and Wallace's materials to the Linnean Society on 1 July 1858 became a landmark in the public history of evolutionary theory. The joint publication brought together extracts from Darwin's earlier writings and correspondence with Wallace's essay. Its introductory statement acknowledged the independent development of the central ideas. Their contributions were not identical, and their intellectual histories should not be collapsed into a single account. Wallace's independent reasoning, geographical investigations, and later evolutionary work deserve recognition in their own right (Darwin & Wallace, 1858).
 
-## Darwin and Wallace: a historical explanation takes shape
+Natural selection connected several observations. Organisms vary; some differences are transmitted across generations; and those differences may affect reproductive outcomes under particular environmental conditions. Across generations, such differences can contribute to changes in populations and to the divergence of lineages.
 
-Charles Darwin's voyage aboard HMS Beagle from 1831 to 1836 supplied observations that became important to his thinking, but he did not return with a finished theory of natural selection. Over subsequent years he examined domesticated animals, geographical distribution, fossils and the relations among living species. His notebooks explored branching descent. A historical account must allow for this prolonged work rather than treating a single island encounter as a moment of instant revelation.
+The explanatory importance of this proposal lay partly in its rejection of the necessity for foresight. Organisms need not anticipate future advantages, and the production of adaptations need not be directed towards predetermined ends. Historical outcomes could emerge through differential consequences of variation and inheritance.
 
-Alfred Russel Wallace independently developed an explanation involving differential survival and the preservation of favourable variations. Working in the Malay Archipelago, he sent Darwin an essay in 1858. The ensuing joint presentation of Darwin's and Wallace's materials to the Linnean Society on 1 July 1858 became a landmark in the public history of natural selection. Their contributions were not identical, and the circumstances of priority and presentation deserve accurate treatment. Neither scientist should disappear into the other's biography.
+Natural selection was not, however, the same claim as common descent. Common descent concerned the historical relationships among organisms. Natural selection proposed a process capable of contributing to evolutionary change. Evidence supporting common ancestry did not automatically establish that natural selection had produced every observed feature.
 
-The central explanatory move was powerful. Organisms vary. Some differences can be inherited. In particular environments, differences may affect survival and reproduction. Over generations, such differences can become more common, and lineages may diverge. This was a proposal about a process that could connect observable differences among organisms to long-term historical change. It did not require organisms to foresee what would be advantageous. Nor did it claim that every feature was necessarily produced by natural selection.
+This distinction became crucial in the subsequent reception of Darwinism. The transformation of biological explanation involved both the recognition of historical relationships and continuing disagreements about the processes responsible for them.
 
-Darwin and Wallace therefore helped transform a question about the arrangement of life into a question about its causes and history. A species could be understood not only by its distinguishing characters but also through ancestry, variation and divergence.
+## The Origin: Evidence, Inference, and Explanatory Unification
 
-## The argument of the Origin
+Darwin's On the Origin of Species appeared in 1859. Its explanatory force rested not on one observation or a single demonstration, but on the systematic relationship established among several different kinds of evidence.
 
-Darwin's On the Origin of Species appeared in 1859. Its force lay not in one dramatic observation but in the convergence of different kinds of evidence. Artificial selection showed that heritable differences could be accumulated under sustained selection. Geographical distribution posed questions about why related forms occurred in particular regions and on islands. Comparative anatomy, embryology and classification offered patterns that descent with modification could help interpret. Fossils placed living organisms within an incomplete but revealing historical record.
+Artificial selection showed that sustained selection of heritable differences could produce substantial changes in domesticated organisms. Darwin used these observations to make the cumulative consequences of selection intelligible, while recognising that domestication and natural environments were not identical.
 
-The familiar branching image of descent is important here. A tree does not merely arrange organisms by resemblance; it proposes that their similarities and differences have a history. Classification could thus become evidence relevant to common ancestry, while geographical and fossil evidence could test historical relationships. The value of the explanation depended on whether a single historical account illuminated observations that had previously seemed disconnected.
+Geographical distribution raised different questions. Why did island organisms often resemble those of nearby continental regions? Why were related forms concentrated in particular geographical areas? Historical descent and dispersal offered ways of investigating patterns that classification alone could describe but not fully explain.
+
+Comparative anatomy, embryology, and classification provided further evidence. Structural similarities among organisms could be interpreted as consequences of shared ancestry, including cases in which corresponding structures performed different functions. The branching relationships implied by common descent offered a historical interpretation of biological affinities.
+
+Fossils introduced evidence of succession, extinction, and transformation over geological time. The fossil record was incomplete, but its patterns could nevertheless contribute to the reconstruction of historical relationships.
+
+Darwin's branching diagram represented a particularly important explanatory innovation. It was not simply an alternative way of arranging organisms. It depicted historical divergence and the consequences of common ancestry.
 
 ![Darwin’s 1859 branching diagram showing divergence of lineages](/images/history/darwin-1859-origin-of-species-branching-diagram.png)
 
 *Figure 2. Darwin's diagram of divergence and common descent (1859). The folding diagram published in the first edition of On the Origin of Species illustrates how ancestral forms may give rise to diverging lineages over successive generations. Diagram by Charles Darwin; lithographed by William West. Source: Darwin (1859), folding plate facing p. 117. Public domain.*
 
-The theory did not settle everything. Darwin lacked an adequate account of the physical basis of heredity. The mechanisms of variation remained uncertain. Fossil sequences were incomplete, and the timing and rate of evolutionary change were contested. Some scientists accepted common descent without accepting natural selection as its main cause. The historical importance of the Origin should not be confused with immediate consensus on every part of its argument.
+The Origin thus presented a connected historical argument. Different observations could be interpreted as consequences of related processes, and their agreement could strengthen an explanation without any single observation providing a complete demonstration.
 
-What changed was the standard of explanation. A plausible account of biological diversity increasingly had to connect patterns of relationship to historical processes and to evidence capable of discriminating among competing histories.
+This did not mean that Darwin had resolved all major difficulties. The physical basis of heredity remained unknown. The origins of variation were incompletely understood. The fossil record was fragmentary, and the relative importance of different evolutionary processes was disputed.
 
-## Inheritance and the problem of mechanism
+Darwin's proposals also required scientists to assess historical explanations in circumstances where the events being explained could not be directly repeated. A particular evolutionary history might be supported by fossils, geographical patterns, anatomical relationships, and evidence concerning possible mechanisms. Yet establishing that a process could produce an outcome was not equivalent to demonstrating that it had produced that outcome in a particular lineage.
 
-Natural selection requires variation and some form of transmission across generations. Yet nineteenth-century scientists did not possess the genetic framework now familiar to biology students. Gregor Mendel's experiments with peas, published in 1866, provided a distinctive account of inheritance in the traits he studied, but their wider significance emerged only later. The history of genetics is not simply a tale of a discovery made, forgotten and triumphantly rediscovered. Different experimental traditions and questions had to be brought into relation.
+Three explanatory tasks can therefore be distinguished. Historical reconstruction seeks to establish what happened, including relationships of ancestry and sequences of change. Causal modelling investigates what processes could produce particular outcomes under specified conditions. Historical causal attribution asks whether a proposed process actually contributed to the outcome under investigation. These tasks can support one another, but success in one does not automatically establish the others.
 
-Around 1900, renewed attention to Mendelian results sharpened questions about particulate inheritance. Some biologists emphasised discontinuous variation; others studied small differences in populations. These approaches initially appeared difficult to reconcile. Chromosome research, experimental breeding and statistical analysis gradually helped connect them.
+The lasting significance of the Origin lies partly in making these evidential relationships central to biological inquiry. Historical explanation could be rigorous without being reducible to the direct observation of past events.
 
-The difficulty was both scientific and explanatory. How could the transmission of relatively discrete hereditary factors account for the gradual change of populations? And how could observations from breeding experiments be related to species in the wild? Evolutionary theory needed an account linking inheritance in individuals to changes in populations over generations. That bridge was built through sustained theoretical and experimental work, not by one decisive discovery.
+## The Acceptance of Evolution and the Eclipse of Natural Selection
 
-## Population genetics and a wider synthesis
+The publication of the Origin did not produce immediate agreement about Darwin's complete explanation.
 
-During the 1920s and 1930s, Ronald Fisher, J. B. S. Haldane and Sewall Wright developed mathematical approaches to evolutionary change. Their work differed in assumptions and emphasis, but it showed how Mendelian inheritance could be studied alongside selection, mutation, migration and chance changes in populations. Natural selection could now be expressed through models with explicit conditions and consequences. Such models did not replace natural history; they created new ways of asking what evidence from populations could establish.
+During the later nineteenth century, evolutionary descent gained substantial acceptance among many scientific communities, but natural selection remained controversial. Some naturalists accepted that species had historical relationships while doubting that selection acting on small variations could account for major evolutionary transformations.
 
-Theodosius Dobzhansky's Genetics and the Origin of Species (1937) helped connect genetic theory with variation in natural populations and the emergence of species. Ernst Mayr's Systematics and the Origin of Species (1942) placed classification, geographical variation and speciation into the conversation. Julian Huxley's Evolution: The Modern Synthesis (1942) gave an influential name to the broader movement. George Gaylord Simpson and G. Ledyard Stebbins brought palaeontological and botanical perspectives into an expanding synthesis.
+Several alternative explanatory traditions remained influential. Neo-Lamarckian approaches emphasised inherited effects of organismal activity and environmental influence. Orthogenetic theories proposed directional tendencies in evolutionary change. Mutationist approaches later gave particular importance to discontinuous variation and the origin of new forms.
+
+These approaches were not identical, and they should not be grouped together merely as mistaken resistance to Darwin. They arose from different scientific questions, evidential commitments, and interpretations of heredity, variation, and development.
+
+The term Darwinism itself did not always have a stable meaning. It could refer broadly to evolutionary descent, more narrowly to natural selection, or to particular interpretations of Darwin's intellectual programme. Historical claims about the acceptance or rejection of Darwinism therefore require attention to what contemporaries meant by the term.
+
+The historian Peter Bowler described the period of diminished confidence in natural selection as the eclipse of Darwinism (Bowler, 1983). This interpretation draws attention to the difference between accepting evolution and accepting Darwin's proposed mechanism as its principal explanation.
+
+The expression is useful as a historiographical periodisation, not as the designation of a uniform scientific condition. Natural selection retained advocates, and its standing differed across national and disciplinary communities. The periodisation must therefore be understood as a historian's interpretation of changing scientific commitments, rather than evidence that natural selection disappeared from evolutionary research.
+
+Questions about heredity were particularly important. If variation was blended or diluted across generations, how could natural selection preserve and accumulate advantageous differences? How did new variations arise? Could gradual selection account for apparently discontinuous changes?
+
+The continuing disputes show that evolutionary explanation was not transformed by the immediate replacement of one universally accepted theory with another. Rather, common descent became a powerful historical interpretation while the causes and mechanisms of evolutionary change remained open to investigation.
+
+This distinction is essential to understanding the subsequent importance of genetics. The twentieth-century integration of inheritance and evolutionary theory addressed problems that had not been resolved simply by publishing the Origin.
+
+## Heredity, Mendelism, and the Problem of Evolutionary Mechanism
+
+Evolutionary explanation requires an account of the transmission of characteristics across generations. Darwin recognised this problem and explored possible mechanisms of inheritance, including his hypothesis of pangenesis. He did not possess the later genetic understanding of chromosomes, genes, and inheritance.
+
+Gregor Mendel's experiments with peas, published in 1866, provided an important analysis of the transmission of particular characters in experimental crosses. Their later significance should not be represented as the straightforward recovery of a complete theory that nineteenth-century biology had simply overlooked.
+
+Around 1900, renewed attention to Mendelian results coincided with increasingly active debates about the relationship between heredity, variation, and evolutionary change.
+
+Some investigators emphasised discontinuous variation and the transmission of identifiable hereditary factors. Biometricians, including Karl Pearson and W. F. R. Weldon, investigated continuous variation and statistical relationships among individuals and populations.
+
+These approaches were initially difficult to reconcile, although their differences were neither absolute nor permanent. They reflected distinct experimental practices, mathematical methods, and explanatory questions.
+
+An important problem concerned the relationship between discrete hereditary transmission and gradual evolutionary change. How could the inheritance of distinguishable factors account for the continuous variation observed in many populations? How could laboratory breeding experiments illuminate evolutionary change under natural conditions?
+
+Chromosome research, experimental genetics, and mathematical population studies progressively provided ways of connecting these questions.
+
+The historical significance of this development was not simply that genetics supplied a missing component of Darwin's theory. It established new methods for investigating how variation was transmitted, how hereditary differences were distributed, and how populations could change over generations.
+
+Inheritance became an increasingly precise subject of experimental and mathematical investigation, while evolutionary theory gained new resources for connecting individual reproduction with population-level change.
+
+## Population Genetics: Making Evolution Quantitatively Investigable
+
+During the early twentieth century, Ronald Fisher, J. B. S. Haldane, and Sewall Wright developed influential mathematical approaches to evolutionary change.
+
+Their work differed in assumptions, methods, and explanatory emphasis. Nevertheless, it demonstrated that Mendelian inheritance could be investigated in relation to selection, mutation, migration, and chance changes in populations.
+
+Fisher's The Genetical Theory of Natural Selection (1930) contributed to the mathematical analysis of selection and the relationship between heredity and population variation. Haldane developed models examining evolutionary processes under specified conditions, while Wright investigated population structure, genetic drift, and interactions among evolutionary factors.
+
+These developments helped show that discrete hereditary transmission was compatible with continuous variation and gradual evolutionary change. They also clarified the conditions under which different evolutionary processes could affect the distribution of hereditary variants.
+
+Population genetics transformed evolutionary explanation by making many causal assumptions explicit. Mathematical models could identify relationships among variables, derive consequences, and reveal circumstances in which a proposed mechanism might or might not produce a particular result.
+
+Yet a mathematical model does not, by itself, reconstruct an actual evolutionary history.
+
+Demonstrating that selection could change a population under specified conditions is different from establishing that selection produced an observed characteristic in a particular historical population. That further claim requires evidence about the organisms, environments, hereditary variation, and circumstances involved.
+
+The relationship between models and historical evidence therefore became an important feature of evolutionary explanation. Mathematical analysis expanded what scientists could investigate, but it did not eliminate the need for natural history, experimentation, and empirical reconstruction.
+
+## The Modern Synthesis: Integrating Biological Disciplines
+
+The development of population genetics helped establish conditions for a wider integration of evolutionary research during the 1930s and 1940s.
+
+Theodosius Dobzhansky's Genetics and the Origin of Species (1937) connected genetic theory with observations of variation in natural populations and questions concerning speciation.
+
+Ernst Mayr's Systematics and the Origin of Species (1942) emphasised geographical variation, population relationships, and the formation of species. Julian Huxley's Evolution: The Modern Synthesis (1942) articulated an influential account of the broader integration of evolutionary approaches.
+
+George Gaylord Simpson's Tempo and Mode in Evolution (1944) examined evolutionary change through palaeontological evidence, while G. Ledyard Stebbins's Variation and Evolution in Plants (1950) brought botanical evidence and questions of plant variation, hybridisation, and speciation into the developing synthesis.
+
+These contributions did not simply repeat the same argument. They emerged from research traditions concerned with different organisms, forms of evidence, methods, and temporal scales.
+
+The historical significance of the Modern Synthesis lay partly in bringing these traditions into closer explanatory relationship.
+
+Genetic models could be compared with observations from natural populations. Systematics and geographical variation could illuminate speciation. Palaeontology could contribute evidence concerning longer-term patterns, while botanical studies revealed processes and complications that were not always prominent in zoological research.
+
+The historian Vassiliki Betty Smocovitis has emphasised the importance of disciplinary integration in the formation of modern evolutionary biology (Smocovitis, 1992, 1996). From this perspective, the synthesis was not simply the reconciliation of Mendel and Darwin. It was also part of the development of evolutionary biology as a more coordinated scientific field, with shared problems, institutions, and narratives of disciplinary identity.
+
+The institutional dimension became explicit with the founding of the Society for the Study of Evolution on 30 March 1946. A contemporary announcement in Nature identified the integration of fields including taxonomy, palaeontology, and genetics as one of the society's purposes (Society for the Study of Evolution, 1946). Its formation provides direct evidence that evolutionary researchers sought organisational means of connecting previously differentiated scientific traditions. Smocovitis's subsequent historical investigation traces the processes leading to this institutional development (Smocovitis, 1994). Founding a society did not, however, establish theoretical agreement among all evolutionary biologists.
+
+Three dimensions of the synthesis must consequently be distinguished: the theoretical coordination of evolutionary mechanisms, the institutional organisation of researchers, and the retrospective historical interpretation of these developments as a unified achievement. Each contributed to the formation of modern evolutionary biology, but they were not identical processes.
 
 ![Selected milestones in the Modern Evolutionary Synthesis, 1930–1950](/images/history/modern-evolutionary-synthesis-timeline-1930-1950.png)
 
-*Figure 3. Selected milestones in the development of the Modern Evolutionary Synthesis, 1930–1950. Contributions to population genetics, natural-population research, systematics, palaeontology and botany helped connect previously distinct approaches to evolutionary explanation. The dates identify influential publications rather than the beginnings or completion of research programmes. These developments overlapped and involved continuing scientific disagreements. Original editorial diagram prepared for the APS Framework.*
+*Figure 3. Selected milestones in the development of the Modern Evolutionary Synthesis, 1930–1950. Contributions to population genetics, natural-population research, systematics, palaeontology, and botany helped connect previously distinct approaches to evolutionary explanation. The dates identify influential publications rather than the beginnings or completion of research programmes. These developments overlapped and involved continuing scientific disagreements. Original editorial diagram prepared for the APS Framework.*
 
-The new quantitative framework also made its own limitations visible. A model might predict changes in gene frequencies under specified assumptions, but an explanation of an actual species or fossil lineage needed evidence about the organisms, environments and historical conditions involved. Population genetics provided tools for investigating evolutionary processes, not a substitute for observing nature. This distinction remains important whenever a mathematical possibility is mistaken for a demonstrated historical cause.
+Nevertheless, the Modern Synthesis should not be treated as a completely unified settlement.
 
-The phrase modern synthesis can make this history sound more uniform than it was. Researchers disagreed about evolutionary rates, the importance of chance, the nature of species and the relations between small-scale population change and large-scale patterns. Not all areas of biology were equally represented. The synthesis is best understood as a consequential, evolving set of connections among research programmes rather than a treaty that ended disagreement.
+Researchers continued to disagree about evolutionary rates, the relative importance of selection and chance, species concepts, and the relationships between population-level change and larger historical patterns. Different disciplines were integrated unevenly, and developmental biology was not represented in the same way as genetics, systematics, and population studies.
 
-Its significance was nevertheless profound. Questions about evolution could be investigated through mathematics, field observation, genetics, experiments, systematics and fossils. These approaches could challenge as well as reinforce one another. Evolutionary explanation had become more quantitative, more testable in specific settings and more closely integrated across biological disciplines.
+The synthesis was therefore both an important achievement and a historically contingent process. Its explanatory value should not be confused with the claim that every evolutionary question had been settled.
 
-## The molecular revolution and the genetic interpretation of life
+Its lasting contribution was to strengthen the relationship between genetic mechanisms, population change, and historical reconstruction while creating new opportunities for empirical comparison among evolutionary explanations.
 
-A further transformation followed the discovery of DNA's double-helical structure in 1953 and the deciphering of the genetic code during the 1960s. Molecular biology connected heredity to identifiable chemical structures and processes. Genetic information could be investigated through DNA replication, RNA transcription and protein synthesis, while mutations could increasingly be examined in terms of changes to DNA and their molecular consequences. The explanatory possibilities were extraordinary: questions previously addressed through breeding experiments, comparative anatomy and population statistics could now also be investigated through the molecular mechanisms of inheritance and development.
+## Scientific Practices and the Global Production of Evolutionary Knowledge
 
-These developments stimulated an enormous expansion of molecular genetics, microbiology and biotechnology. Techniques for analysing, modifying and sequencing DNA transformed research on microorganisms, heredity, disease, development and evolutionary relationships. Molecular comparisons supplied new evidence for common ancestry and phylogenetic reconstruction, while genetic engineering opened practical possibilities that earlier evolutionary biologists could scarcely have anticipated.
+The development of evolutionary theory depended on more than the published arguments of a small number of prominent scientists.
 
-The success of molecular explanation also encouraged strongly gene-centred interpretations of biological phenomena. Genes became prominent explanatory units in accounts of development, adaptation and evolution, sometimes encouraging the view that processes involving cells, organisms and populations could ultimately be explained through their molecular constituents.Yet the explanatory power of genetics does not establish the sufficiency of genetic reductionism. Gene expression depends on cellular organisation, developmental conditions and environmental interactions; evolutionary outcomes depend on population processes and historical circumstances. The molecular revolution therefore introduced indispensable new explanatory resources without eliminating the need to investigate how molecular, cellular, organismal and population processes interact across spatial and temporal scales.
+Naturalists worked through specimen collections, museums, correspondence networks, voyages, field investigations, breeding experiments, and increasingly specialised scientific institutions. These practices determined which organisms could be examined, what observations were preserved, and how evidence circulated among investigators.
 
-## What evolutionary explanation changed
+Alfred Russel Wallace's investigations in the Malay Archipelago provide a documented example of the distributed labour involved in nineteenth-century natural history. Drawing on Wallace's published and unpublished records, the historian John van Wyhe (2018) reconstructed the assistance provided by Charles Allen, Ali, and numerous local collectors, guides, boatmen, and other participants. His investigation suggests that at least 1,200 individuals assisted Wallace in various capacities. Local contributors helped locate organisms, supplied information about their behaviour, and obtained specimens, including much of the vertebrate material associated with Wallace's collections. The example demonstrates that the production of scientific evidence depended on knowledge and labour extending well beyond the individuals credited with published theories. It does not, by itself, establish that particular assistants formulated Wallace's theory of natural selection.
 
-The history of evolutionary theory is not a straight line from ignorance to a completed picture. It is a history of changing questions, evidence and explanatory standards. Earlier naturalists asked how to classify the forms of life and how to interpret extinction. Nineteenth-century evolutionists asked whether species had changed and by what processes. Darwin and Wallace provided a mechanism that made inherited variation and differential reproduction central to historical explanation. Later geneticists and field biologists connected those processes to measurable changes in populations and to the formation of species.
+This case also illustrates the relationship between natural history and the wider political and economic conditions of scientific collecting. Access to places, transport, labour, and specimens shaped what could be investigated and how evidence circulated.
 
-It also changed the meaning of disagreement. A proposed account could be challenged through comparative evidence, inheritance experiments, population measurements or the distribution of fossils. Disagreement was not abolished, but competing accounts could increasingly be compared by asking what each predicted, what observations would count against it, and which processes were actually documented. This shift towards linked, revisable explanations is as significant as any single theory in the story.
+The historical importance of these networks should be examined without assuming that all participants exercised equivalent authority or received equivalent recognition.
 
-This transformation did not make every biological problem an evolutionary problem. Physiological regulation, development, ecology and cellular processes retain their own explanatory questions. Nor does natural selection exhaust evolutionary causation. Drift, mutation, migration, developmental processes and environmental interactions matter in different ways and at different scales. Which factors explain a particular outcome must be established from the case, not inferred from allegiance to a preferred framework.
+Plants provide particularly clear examples of the importance of experimental and comparative evidence. Investigations of geographical distribution, domestication, hybridisation, and inheritance contributed to evolutionary thought. Mendel's experimental organisms were plants, and Stebbins's work demonstrated the importance of botanical evidence within twentieth-century evolutionary theory.
 
-What evolution added was an indispensable historical dimension. Organisms could be understood as products of lineages whose features and relationships had developed through time. Similarities could indicate ancestry; differences could arise through divergence; adaptation could be investigated as a possible historical outcome rather than assumed from appearance alone. Evidence from different fields could be assembled to reconstruct, revise or reject explanations of those histories.
+These examples show why the history of evolutionary explanation cannot be reduced to a succession of zoological theories.
 
-That is the enduring intellectual change. Biology gained a set of methods for explaining how living diversity arose, how populations and lineages change, and why present-day organisms bear the marks of histories they did not choose. The achievement lies not in a final answer to every question about life, but in making the history of life itself an object of disciplined scientific explanation.
+The present account concentrates on the scientific traditions leading to Darwinism, genetics, and the Modern Synthesis. It does not claim to provide a comprehensive global history of ideas about biological change. Such a history would require separate investigation of intellectual traditions, collecting networks, institutions, and contributors beyond those considered here.
 
-## Contemporary debates: the Modern Synthesis, the EES and APS
+The essential point is more limited: the transformation of evolutionary explanation depended upon expanding bodies of evidence and the scientific practices that made their comparison possible.
 
-The modern synthesis did not end debate about evolutionary causes. From the later twentieth century onward, research on development, ecology, inheritance and organism–environment interactions renewed questions about the range of processes that evolutionary explanations should include. These debates concern the interpretation and extension of a successful scientific tradition, not simply whether evolution occurs.
+## The Molecular Revolution and the Genetic Interpretation of Life
 
-Advocates of an Extended Evolutionary Synthesis (EES) argue that processes such as developmental bias, phenotypic plasticity, niche construction and forms of non-genetic inheritance deserve a more prominent role in evolutionary theory. Other evolutionary biologists accept the importance of these processes but maintain that established population-genetic and evolutionary approaches can accommodate them without a fundamental reconstruction. The disagreement therefore concerns explanatory emphasis, causal organisation and the extent of theoretical revision, rather than a straightforward choice between an obsolete and a modern theory.
+A further transformation followed the discovery of DNA's double-helical structure in 1953 and the deciphering of the genetic code during the 1960s. Molecular biology connected heredity to identifiable chemical structures and processes. Genetic information could be investigated through DNA replication, RNA transcription, and protein synthesis, while mutations could increasingly be examined in terms of changes to DNA and their molecular consequences. The explanatory possibilities were extraordinary: questions previously addressed through breeding experiments, comparative anatomy, and population statistics could now also be investigated through the molecular mechanisms of inheritance and development.
 
-The Agency–Process–Scale (APS) framework enters this discussion from a different direction. It asks how living organisation sustains its viability and how forms of organised persistence are maintained and transformed through historical time. That perspective invites comparisons with the EES, particularly concerning development, organismal activity and environmental modification. It does not establish that APS replaces, completes or provides a more fundamental explanation than either the Modern Synthesis or the EES. Its explanatory usefulness must be tested against the strongest relevant alternatives for a clearly specified biological question.
+These developments stimulated an enormous expansion of molecular genetics, microbiology, and biotechnology. Techniques for analysing, modifying and sequencing DNA transformed research on microorganisms, heredity, disease, development, and evolutionary relationships. Molecular comparisons supplied new evidence for common ancestry and phylogenetic reconstruction, while genetic engineering opened practical possibilities that earlier evolutionary biologists could scarcely have anticipated.
 
-The continuing discussion illustrates the central historical lesson of this essay: evolutionary explanation is not a finished inventory of causes. It is a developing practice of bringing evidence, mechanisms and models into accountable relation. The APS article “APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison” examines the contemporary comparison in greater detail.
+The success of molecular explanation also encouraged strongly gene-centred interpretations of biological phenomena. Genes became prominent explanatory units in accounts of development, adaptation, and evolution, sometimes encouraging the view that processes involving cells, organisms, and populations could ultimately be explained through their molecular constituents. Yet the explanatory power of genetics does not establish the sufficiency of genetic reductionism. Gene expression depends on cellular organisation, developmental conditions, and environmental interactions; evolutionary outcomes depend on population processes and historical circumstances. The molecular revolution therefore introduced indispensable new explanatory resources without eliminating the need to investigate how molecular, cellular, organismal, and population processes interact across spatial and temporal scales.
+
+## Evolutionary Explanation After the Synthesis
+
+The Modern Synthesis did not bring the history of evolutionary explanation to an end.
+
+Later developments in molecular biology introduced new ways to investigate hereditary relationships, variation, and evolutionary change. Molecular comparisons provided evidence for reconstructing relationships among organisms, while molecular evolutionary theory generated further questions about selection, neutrality, and chance.
+
+Advances in phylogenetic methods transformed the reconstruction of evolutionary history by making relationships among organisms increasingly amenable to explicit analytical comparison. The resulting historical hypotheses remained dependent on assumptions, evidence, and methodological choices.
+
+Research on development also renewed questions about the relationship between the production of variation and its evolutionary consequences. Evolutionary developmental biology investigated how developmental processes influence the forms of variation available to evolutionary change.
+
+Other research programmes examined phenotypic plasticity, niche construction, ecological inheritance, and organism–environment relationships.
+
+Advocates of an Extended Evolutionary Synthesis have argued that some of these processes deserve greater prominence in evolutionary theory. Other researchers accept their importance while maintaining that established evolutionary approaches can accommodate them without a fundamental theoretical reconstruction.
+
+These disagreements should not be represented as a simple choice between an obsolete synthesis and a complete replacement. They concern the explanatory importance of different processes, the organisation of evolutionary research, and the conditions under which theoretical revision is warranted.
+
+The historical lesson is that evolutionary explanation has continued to develop through changing evidence, models, and investigative practices.
+
+No single explanatory mechanism automatically accounts for every evolutionary outcome. Selection, drift, mutation, migration, development, and environmental interaction may contribute in different ways. Their significance must be established in relation to the particular historical problem.
+
+Evolutionary biology therefore combines causal investigation with historical reconstruction. It asks both what processes can produce evolutionary change and which processes best explain the evidence associated with particular populations, characteristics, and lineages.
+
+## Conclusion: Evolution and the Transformation of Biological Explanation
+
+Evolutionary theory transformed biology by making the history of living diversity a central subject of scientific explanation.
+
+This transformation did not begin with the sudden discovery that species might change. Earlier naturalists had investigated extinction, transformation, geological history, and the relationships among organisms. Their disagreements established important problems but did not produce a generally accepted causal account of biological diversification.
+
+Darwin and Wallace contributed a powerful explanation of evolutionary change through natural selection, while Darwin's wider argument connected diverse forms of evidence through common descent and historical divergence.
+
+The subsequent history was not one of immediate consensus. Evolutionary descent gained acceptance while natural selection remained contested, and disputes about inheritance and variation continued.
+
+Genetics and population theory subsequently provided new methods for investigating evolutionary processes. The Modern Synthesis brought several biological disciplines into closer explanatory relationship without eliminating theoretical disagreement.
+
+Later developments in molecular evolution, phylogenetics, development, and ecology continued to transform the evidence and methods available for evolutionary investigation.
+
+Three changes stand out.
+
+First, biological similarities and differences could be interpreted through historical relationships rather than classification alone.
+
+Second, evolutionary processes became subjects of increasingly explicit causal investigation, including experimental and mathematical analysis.
+
+Third, different kinds of evidence could be brought together to reconstruct and evaluate historical explanations.
+
+Historical contingency remains important to all three developments. General evolutionary processes may constrain or influence possible outcomes without uniquely determining the history of a particular lineage. Extinction, environmental change, migration, chance events, and earlier evolutionary developments can alter subsequent possibilities. An adequate historical explanation must therefore connect relevant causal processes with the particular circumstances in which they operated.
+
+Evolutionary biology did not render other biological explanations unnecessary. Physiological regulation, development, ecology, and cellular organisation continue to require investigation in their own terms.
+
+What evolution added was an indispensable historical dimension. Present-day organisms could be understood as products of lineages, processes, and contingencies extending across generations.
+
+The enduring intellectual achievement was not a final inventory of evolutionary causes. It was the development of increasingly rigorous ways to investigate how the living world acquired its historical diversity.
+
+## Explanatory Architecture
+
+### Central Question
+
+How did evolutionary thinking change the questions, evidence, methods, and standards through which biologists explain the historical diversity of life?
+
+### Architectural Role
+
+This is a History of Ideas article. It explains the historical formation of evolutionary explanation rather than defining evolution for APS or adjudicating contemporary evolutionary theories.
+
+### Preceding Explanatory Dependencies
+
+Natural history, classification, comparative anatomy, palaeontology, geology, and early proposals of species transformation provided distinct problems and evidential practices. Their relationships to Darwinian evolution were varied; historical influence must not be confused with anticipation of a later theory.
+
+### Subsequent Explanatory Developments
+
+The reception of common descent and natural selection, Mendelian genetics, population genetics, the Modern Synthesis, molecular evolution, phylogenetics, evolutionary developmental biology, and contemporary synthesis debates progressively altered evolutionary research without constituting an inevitable sequence.
+
+### Related Explanatory Questions
+
+How should historical reconstruction, causal modelling, and historical causal attribution be distinguished? How do evolutionary explanations relate to physiology, development, ecology, classification, and accounts of biological organisation?
+
+### Explanatory Boundaries
+
+The history of evolutionary biology is not a progression towards APS. Evolutionary theory does not replace other biological explanations, and neither historical affinity nor a difference in conceptual vocabulary demonstrates APS explanatory superiority. The detailed APS–EES comparison belongs in *APS and the Extended Evolutionary Synthesis*.
+
+### Position Within APS
+
+The article provides independent historical context for APS and its strongest evolutionary comparators. Its value is to clarify the traditions, evidence, and explanatory questions with which any contemporary conceptual framework must engage.
 
