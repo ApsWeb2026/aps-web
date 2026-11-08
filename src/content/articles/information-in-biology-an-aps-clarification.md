@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-10-17
+revised: 2026-11-08
 cluster: philosophy-of-biology
 role: clarification
 abstract: >
@@ -102,11 +102,22 @@ references:
     title: "Agency as the Defining Activity of Life"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
+  - id: okasha-otsuka2020
+    authors: "Okasha, S., & Otsuka, J."
+    year: 2020
+    title: "The Price equation and the causal analysis of evolutionary change"
+    journal: "Philosophical Transactions of the Royal Society B: Biological Sciences"
+    volume: "375"
+    issue: "1797"
+    pages: "20190365"
+    doi: "10.1098/rstb.2019.0365"
 ---
 
-# Information in Biology — An APS Clarification
+**Where this article fits:** 
 
-> **Where this article fits:** This article clarifies the place of information within APS. It does not argue that informational descriptions are scientifically unimportant, nor does it attempt to replace information-theoretic explanations with a single alternative vocabulary. Its narrower claim is that biological information becomes explanatorily significant within already organised living systems whose activities are oriented toward viability and continued functioning. Information is therefore treated as relationally and organisationally situated rather than as the foundational property from which life, meaning, agency, or cognition can simply be derived.
+*This article clarifies the place of information within APS. It does not argue that informational descriptions are scientifically unimportant, nor does it attempt to replace information-theoretic explanations with a single alternative vocabulary. Its narrower claim is that biological information becomes explanatorily significant within already organised living systems whose activities are oriented toward viability and continued functioning. Information is therefore treated as relationally and organisationally situated rather than as the foundational property from which life, meaning, agency, or cognition can simply be derived.*
+
+## Introduction
 
 Information has become one of the most pervasive explanatory concepts in modern biology. Genes are routinely described as carrying information, signalling pathways as transmitting it, nervous systems as processing it, and organisms as acquiring information about their environments. Similar language extends into developmental biology, systems biology, neuroscience, artificial intelligence, and cognitive science. The success of these usages reflects genuine biological phenomena: living systems are sensitive to differences, coordinate activity through signalling, preserve and transform molecular patterns, and alter their behaviour in response to changing conditions.
 
@@ -129,6 +140,8 @@ These developments transformed biological inquiry. Informational concepts helped
 The conceptual problem begins only when informational description is asked to do more than the relevant evidence establishes. Describing a signal as informative does not by itself explain why that signal matters to a living system. Identifying a genetic sequence does not by itself specify how its effects depend on cellular organisation, developmental context, or organism–environment relations. Quantifying uncertainty reduction does not by itself establish biological meaning. Nor does demonstrating information processing show that information processing constitutes the organisation of life.
 
 APS therefore distinguishes the scientific usefulness of informational approaches from claims about their explanatory scope. Its comparative methodology asks what an informational account explains for a specified target, what other organisational dependencies are required for that explanation, and whether an alternative account adds anything beyond redescription or conceptual reframing. The relevant comparison must be made against a matched explanandum rather than inferred from vocabulary alone.
+
+The distinction also applies to mathematical explanations in evolutionary biology. Formal approaches can identify relationships among inheritance, selection, population change, and evolutionary outcomes without themselves specifying every organisational mechanism involved. Their explanatory achievements should be assessed against the questions they are designed to answer. An APS analysis may ask further questions about the material organisation, viability conditions, or biological activities underlying particular evolutionary processes, but the relevance of those questions does not establish that the formal account is deficient. Formal adequacy, biological interpretation, and comparative explanatory gain are distinct matters. Okasha and Otsuka (2020), for example, show that causal interpretation of the Price equation requires substantive assumptions about causal structure that are not supplied by the mathematical identity alone. A claim that APS improves an existing explanation requires identifying a specific explanatory limitation and demonstrating how the additional organisational account addresses it.
 
 This is also why APS does not treat information theory, cybernetics, computation, autonomy theory, or the Free Energy Principle as interchangeable competitors. They may address different questions, operate with different formal resources, and illuminate different aspects of biological organisation. Comparison becomes meaningful only when their explanatory targets overlap sufficiently for the contrast to be assessed.
 
@@ -336,7 +349,7 @@ What explanatory role does information play in biology, and how should biologica
 
 ### Architectural Role
 
-This Core article clarifies the status of information within APS. It distinguishes statistical information from biological significance and explains why informational relations become biologically consequential within viability-oriented living organisation. Its principal function is to establish the relationship among information, evaluation, semiosis, meaning, representation, cognition, and organised persistence without reducing these concepts to one another.
+This Clarification article examines the explanatory status of information within APS. It distinguishes statistical information from biological significance and explains why informational relations become biologically consequential within viability-oriented living organisation. Its principal function is to clarify the relationships among information, evaluation, semiosis, meaning, representation, cognition, and organised persistence without reducing these concepts to one another. It does not establish information as an independent foundational component of APS or claim that organisational explanations universally supersede informational accounts.
 
 ### Preceding Explanatory Dependencies
 

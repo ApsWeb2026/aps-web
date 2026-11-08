@@ -7100,3 +7100,17 @@ references:
     status: verified
     authority: Nature / Springer Nature original publication
     verifiedDate: 2026-11-08
+- id: okasha-otsuka-2020-price-equation-causal-analysis
+  type: journal-article
+  authors: "Okasha, S., & Otsuka, J."
+  year: 2020
+  title: "The Price equation and the causal analysis of evolutionary change"
+  journal: "Philosophical Transactions of the Royal Society B: Biological Sciences"
+  volume: "375"
+  issue: "1797"
+  article-number: "20190365"
+  doi: "10.1098/rstb.2019.0365"
+  verification:
+    status: verified
+    authority: "The Royal Society"
+    verifiedDate: 2026-11-08
