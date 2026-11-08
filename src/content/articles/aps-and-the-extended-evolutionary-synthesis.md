@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-20
+revised: 2026-11-08
 cluster: philosophy-of-biology
 role: extension
 abstract: >
@@ -88,11 +88,12 @@ references:
     publisher: "Oxford University Press"
 ---
 
-Part of **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
+**Where This Article Fits**
+*Part of **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)***
 
-This article clarifies the relationship between the Extended Evolutionary Synthesis (EES) and APS. The EES and APS address overlapping questions concerning organismal activity, development, environmental relations, continuity, and evolutionary transformation. Their conceptual and explanatory differences create a comparative problem; they do not establish that APS grounds or completes evolutionary explanation.
+*This article clarifies the relationship between the Extended Evolutionary Synthesis (EES) and APS. The EES and APS address overlapping questions concerning organismal activity, development, environmental relations, continuity, and evolutionary transformation. Their conceptual and explanatory differences create a comparative problem; they do not establish that APS grounds or completes evolutionary explanation.*
 
-## The Extended Evolutionary Synthesis
+## Introduction - The Extended Evolutionary Synthesis
 
 The Extended Evolutionary Synthesis encompasses a set of approaches that expand evolutionary theory beyond the gene-centric framework of the Modern Synthesis. It incorporates processes such as developmental bias, phenotypic plasticity, niche construction, and ecological inheritance.
 
@@ -174,6 +175,22 @@ APS brings these questions into relation with its account of viability-oriented 
 
 Their relationship may vary according to the explanatory target. Particular comparisons may reveal overlap, complementarity, independence, tension, redundancy, APS-favouring gain, evolutionary-framework-favouring gain, or a qualified result. Conceptual inclusion within APS does not establish integration or explanatory superiority.
 
+
+<div class="aps-diagram aps-diagram-large">
+  <a href="/assets/diagrams/evolution-aps.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-aps.png"
+      alt="Comparative table showing differences and overlaps between APS and the Extended Evolutionary Synthesis across eight explanatory dimensions"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>APS and the Extended Evolutionary Synthesis.</strong>
+    Comparison of explanatory emphases and responsibilities across eight dimensions. The table identifies differences and overlaps between the frameworks without implying explanatory priority, theoretical subsumption, or demonstrated APS superiority. Comparative explanatory gain requires target-matched assessment.
+  </p>
+</div>
+
+
 ## Summary
 
 The Extended Evolutionary Synthesis broadens evolutionary explanation through development, plasticity, niche construction, ecological inheritance, and organism–environment interaction.
@@ -228,5 +245,3 @@ The questions identified here are developed or applied in:
 ### Position Within APS
 
 This article belongs to the APS Comparative Explanatory Approaches family. It examines evolutionary explanation without treating living organisation as automatically prior to historical explanation. APS retains its substantive account of viability-oriented organised persistence while leaving the comparative significance of that account to target-matched assessment against the strongest relevant evolutionary alternatives.
-
-

@@ -106,15 +106,15 @@ references:
 
 **Where This Article Fits**
 
-*Cultural Organisation* is a Core article within the Social Organisation topic of APS. Its central question is what constitutes cultural organisation and how socially distributed practices, relationships, meanings, and expectations become sufficiently coordinated to support continuing forms of collective life.
+*Cultural Organisation* *is a Core article within the Social Organisation topic of APS. Its central question is what constitutes cultural organisation and how socially distributed practices, relationships, meanings, and expectations become sufficiently coordinated to support continuing forms of collective life.*
 
-The article builds upon the APS accounts of communication, coordination, normativity, symbolic activity, and organised persistence. It examines how these processes contribute to cultural arrangements that extend beyond particular individuals or interactions.
+*The article builds upon the APS accounts of communication, coordination, normativity, symbolic activity, and organised persistence. It examines how these processes contribute to cultural arrangements that extend beyond particular individuals or interactions.*
 
-Its relationship with **Cultural Inheritance** is especially important. Cultural organisation concerns the constitution and maintenance of socially distributed organisation, whereas cultural inheritance concerns the processes through which cultural practices and resources are transmitted, reconstructed, and transformed across individuals and generations. These questions are related but not interchangeable.
+*Its relationship with **Cultural Inheritance** is especially important. Cultural organisation concerns the constitution and maintenance of socially distributed organisation, whereas cultural inheritance concerns the processes through which cultural practices and resources are transmitted, reconstructed, and transformed across individuals and generations. These questions are related but not interchangeable.*
 
-The present article also connects with **Institutions** and **Technology**, which examine particular arrangements through which cultural organisation becomes stabilised, materially extended, and transformed.
+*The present article also connects with **Institutions** and **Technology**, which examine particular arrangements through which cultural organisation becomes stabilised, materially extended, and transformed.*
 
-APS offers an organisational interpretation of culture rather than a replacement for established anthropological, sociological, or cultural evolutionary explanations. Its explanatory value must be assessed in relation to the phenomena and competing accounts under investigation.
+*APS offers an organisational interpretation of culture rather than a replacement for established anthropological, sociological, or cultural evolutionary explanations. Its explanatory value must be assessed in relation to the phenomena and competing accounts under investigation.*
 
 ## Introduction
 
@@ -288,46 +288,60 @@ What constitutes cultural organisation, and how do socially distributed practice
 
 This article is a Core article within the Social Organisation topic.
 
-It develops the APS interpretation of culture as socially distributed organised persistence.
+It develops the APS interpretation of culture as socially distributed organised persistence, examining how cultural practices and relationships are constituted, maintained, modified, and sometimes lost.
 
-Its explanatory responsibility is to identify the organisation of cultural life, rather than to provide a comprehensive theory of cultural transmission or cultural evolution.
+Its principal responsibility is to clarify the organisation of cultural life, rather than to provide a comprehensive theory of cultural transmission or cultural evolution.
 
-### Builds On
+### Preceding Explanatory Dependencies
 
 The article builds upon the APS accounts of biological agency, organised persistence, communication, coordination, normativity, symbolic activity, Process, and Scale.
 
-It also draws upon established anthropological, philosophical, and cultural evolutionary approaches to culture as practice, meaning, social learning, and historically continuing activity.
+Established anthropological, philosophical, sociological, and cultural evolutionary approaches provide independent conceptual and explanatory resources, particularly concerning meaning, social practice, learning, cultural transmission, and historical continuity.
 
-### Relationship to Cultural Inheritance
+These relationships must not be interpreted as a necessary progression towards APS. Conceptual affinity, historical influence, and explanatory dependence are distinct relationships requiring separate justification.
 
-**Cultural Organisation** examines how cultural activities and relationships are constituted and sustained.
+### Related Explanatory Developments
 
-**Cultural Inheritance** examines how cultural practices and resources are transmitted, reconstructed, and transformed across participants and generations.
+**Cultural Inheritance** examines how cultural practices, skills, meanings, and resources are transmitted, reconstructed, and transformed across individuals and generations.
 
-These articles address complementary questions. Neither should reproduce the other's principal explanatory work.
+**Institutions** examines relatively stabilised arrangements of roles, authority, procedures, and collective activity.
 
-### Relationship to Institutions and Technology
+**Technology** examines how material systems and technical practices contribute to the maintenance and transformation of organised life.
 
-Institutions and technologies can stabilise, extend, and transform cultural organisation.
+These articles address complementary explanatory responsibilities. Cultural Organisation identifies the relationships constituting cultural arrangements without replacing the more specialised investigations of their transmission, institutional stabilisation, or technological transformation.
 
-The present article identifies their organisational significance without replacing the more specialised APS treatments of institutional and technological systems.
+### Related Explanatory Questions
+
+What distinguishes the organisation of a cultural practice from the processes through which it is transmitted?
+
+Which relationships must persist for a cultural arrangement to retain its recognisable identity despite changes in participants, practices, or material resources?
+
+How do meanings, normative expectations, communication, and social learning contribute to cultural organisation?
+
+Under what circumstances do institutions and technologies stabilise, transform, or undermine existing cultural arrangements?
+
+What spatial and temporal scales are required to explain particular forms of cultural continuity?
+
+When does an organisational interpretation provide explanatory clarification or improvement beyond established anthropological, sociological, or cultural evolutionary accounts?
 
 ### Explanatory Boundaries
 
 Cultural organisation does not necessarily imply biological autonomy, collective agency, beneficial adaptation, or increasing complexity.
 
-Socially distributed organisation must not be equated without qualification with the viability-oriented, constraint-closed organisation of a living organism.
+Socially distributed cultural organisation must not be equated without qualification with the viability-oriented, constraint-closed organisation of a living organism.
 
 Cultural practices may persist, fragment, transform, or disappear, and their historical continuity does not itself establish their biological or social value.
 
-APS does not claim that an organisational interpretation automatically supersedes anthropological, sociological, or cultural evolutionary explanations.
+The organisational interpretation does not replace the interpretive analysis of cultural meaning or the established investigation of cultural transmission and evolutionary dynamics.
 
 Any claim of explanatory advance requires comparison with the strongest relevant alternative.
 
-### Corpus Significance
+### Position Within APS
 
 Within APS, Cultural Organisation provides the principal account of culture as a socially distributed form of organised persistence.
 
 It connects communication, coordination, normativity, symbolic activity, collective memory, institutions, and technology without reducing culture to any one of these phenomena.
 
-Its central architectural contribution is to distinguish the organisation of cultural life from the processes through which cultural resources are inherited and transformed.
+Its central architectural contribution is to distinguish the constitution and maintenance of cultural organisation from the processes through which cultural resources are inherited and transformed.
+
+This distinction provides a possible basis for conceptual clarification, but it does not by itself demonstrate explanatory superiority over established approaches. Such a contribution must be established through explicit comparison with alternative explanations and the evidence relevant to particular cultural phenomena.
