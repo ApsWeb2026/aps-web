@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-11-08
+revised: 2026-11-09
 cluster: philosophy-of-biology
 role: clarification
 abstract: >
@@ -131,7 +131,7 @@ This distinction matters because the question is not simply whether living syste
 
 [[box:aps-box-semiosis-is-operational]]
 
-# Why Information Became Central
+## Why Information Became Central
 
 The prominence of information in biology has strong historical and scientific justification. Twentieth-century developments in communication theory, cybernetics, molecular genetics, computation, and neuroscience provided powerful formal tools for analysing signalling, coding, transmission, uncertainty, regulation, and coordination. Shannon's mathematical theory of communication gave information a precise statistical meaning, while the growth of molecular biology encouraged informational descriptions of genetic sequence and gene expression. Cybernetic and computational approaches further reinforced the idea that biological systems could be understood in terms of signals, feedback, coding, and control.
 
@@ -145,7 +145,7 @@ The distinction also applies to mathematical explanations in evolutionary biolog
 
 This is also why APS does not treat information theory, cybernetics, computation, autonomy theory, or the Free Energy Principle as interchangeable competitors. They may address different questions, operate with different formal resources, and illuminate different aspects of biological organisation. Comparison becomes meaningful only when their explanatory targets overlap sufficiently for the contrast to be assessed.
 
-# Shannon Information and Biological Meaning
+## Shannon Information and Biological Meaning
 
 A central distinction concerns Shannon information. In mathematical communication theory, information concerns statistical relations among possible signals and, in particular, the reduction of uncertainty associated with message transmission. This framework is exceptionally powerful because it permits communication to be analysed without requiring an account of what a message means to a sender or receiver.
 
@@ -159,7 +159,7 @@ APS uses the term **biological significance** for this viability-relative conseq
 
 [[box:aps-box-viability-grounds-evaluation]]
 
-# Evaluation and Biological Information
+## Evaluation and Biological Information
 
 APS connects biological significance with evaluation. Biological evaluation is the process through which agency generates significance. This does not imply deliberation, cognition, or conscious assessment. It refers to the organisation of activity in relation to differences that affect viability.
 
@@ -185,7 +185,7 @@ Information is therefore organisationally dependent in a specific sense: its bio
   </p>
 </div>
 
-# Semiosis and Informational Meaning
+## Semiosis and Informational Meaning
 
 APS also distinguishes information from semiosis. Semiosis concerns the organisation through which differences function as signs within biological activity. It therefore directs attention not simply to the presence or transmission of a difference, but to the relation between that difference and the activity it modulates.
 
@@ -211,7 +211,7 @@ APS therefore resists an information-first progression in which signal structure
   </p>
 </div>
 
-# Information Is Organisationally Derivative
+## Information Is Organisationally Derivative
 
 To describe information as **organisationally derivative** is not to deny that informational relations are physically real or biologically important. The claim concerns explanatory dependence. Information becomes biological information because differences participate in an organised system for which alternative conditions have different consequences.
 
@@ -223,7 +223,7 @@ APS consequently places biological information within viability-oriented organis
 
 The distinction matters because biological explanation should not move automatically from the statement that information is present to the stronger claim that information explains the organisation within which it is biologically effective.
 
-# Persistence, Evaluation, Semiosis, and Information
+## Persistence, Evaluation, Semiosis, and Information
 
 The relation among viability, evaluation, semiosis, meaning, information, and representation is better understood in APS as a set of explanatory dependencies than as a temporal ladder or hierarchy.
 
@@ -235,7 +235,7 @@ These relations should not be interpreted as claims that every biological system
 
 This architecture helps explain why APS resists treating information as the single foundation from which the remaining biological phenomena are derived. The terms identify related but non-identical aspects of living organisation, and their explanatory relations must be established in relation to the biological target at issue.
 
-# Genetic Information
+## Genetic Information
 
 Genetic information provides the most familiar biological example. Genes are often described as blueprints, programs, instructions, or repositories of biological information. Such language can be useful when it identifies sequence-dependent regularities or the transmission of heritable molecular patterns, but it can become misleading when it implies that genes operate independently of the living organisation in which they function.
 
@@ -247,7 +247,7 @@ APS therefore treats genetic information relationally. The informational role of
 
 The point parallels broader critiques of information metaphors in biology: the usefulness of the metaphor depends on what explanatory work it is being asked to perform. Where sequence structure, transmission, or coding is the relevant target, informational language may be exact and productive. Where the explanandum concerns the organised persistence of a living system, further biological dependencies may need to be specified.
 
-# Cognition and Information
+## Cognition and Information
 
 Information processing also plays a central role in cognitive science. Many cognitive systems detect signals, integrate inputs, transform information, preserve state across time, and use previous conditions to modulate subsequent activity. APS has no reason to deny these phenomena. The question is whether cognition can therefore be identified with information processing as such.
 
@@ -259,7 +259,7 @@ The important explanatory task is therefore not to oppose cognition and informat
 
 This also prevents the language of information from doing hidden explanatory work. Saying that an organism "processes information" may accurately describe part of what occurs, but it does not by itself explain why particular inputs matter, how their significance is integrated with prior conditions, or how present activity is organised relative to possible future outcomes.
 
-# Information and Representation
+## Information and Representation
 
 A similar distinction applies to representation. APS does not deny that representational capacities exist. It rejects only the assumption that biological meaning must begin with representation or that every informative biological relation therefore involves an internal representation.
 
@@ -269,7 +269,7 @@ The distinction is important because the terms *information*, *meaning*, and *re
 
 Information therefore does not need representation in order to matter biologically, while representation presupposes a prior organisation in which differences can already acquire significance. This is not a claim that representational systems appear at a sharply defined biological boundary. It is a methodological requirement to avoid inferring representation merely from the existence of signal processing or adaptive response.
 
-# Information Across Biological Scales
+## Information Across Biological Scales
 
 Information is also encountered across very different spatial and temporal extents. At molecular scales, researchers analyse signalling pathways, gene regulation, metabolic coordination, and sequence relations. At organismal scales, informational language is used for perception, memory, learning, behavioural regulation, and anticipation. Across ecological contexts, organisms respond to environmental cues, communicate with other organisms, modify niches, and participate in distributed networks of biological interaction.
 
@@ -279,7 +279,7 @@ A molecular signal, for example, may be locally characterised through receptor d
 
 The general point is that biological information is context-sensitive. There is no single entity called *information* that performs the same explanatory role everywhere in biology. Informational concepts are most useful when the relevant relation, material implementation, biological target, and scale of organisation are made explicit.
 
-# Information Without Life
+## Information Without Life
 
 The distinction between information and life becomes especially clear in artificial systems. Computers and communication networks process signals, encode and transform data, reduce uncertainty, classify patterns, optimise outputs, and generate complex responses. Contemporary artificial systems can display informational organisation of extraordinary sophistication.
 
@@ -291,7 +291,7 @@ This distinction is not intended to prejudge every possible artificial system. I
 
 Information is therefore compatible with life but not sufficient for it. The existence of information processing establishes neither biological agency nor cognition without further organisational evidence.
 
-# Information Within APS Explanatory Architecture
+## Information Within APS Explanatory Architecture
 
 Within APS, information occupies an important but bounded explanatory role. APS begins from living organisation: life is viability-oriented, constraint-closed organisation, and biological agency is viability-oriented organisational activity. Process concerns how continuity is maintained despite change, while Scale concerns where persistence is organised across spatial and temporal extents. Agency, Process, and Scale are analytic projections of the same living organisation rather than separable components or hierarchical levels.
 
@@ -317,7 +317,7 @@ The APS contribution is therefore methodological as well as conceptual. It asks 
   </p>
 </div>
 
-# Why Information Matters
+## Why Information Matters
 
 Clarifying the place of information matters because informational vocabulary can obscure as much as it illuminates when several explanatory questions are compressed into one term. Distinguishing statistical information from biological significance helps prevent uncertainty reduction from being mistaken for meaning. Distinguishing information from semiosis clarifies how differences can function within living activity. Distinguishing information from representation prevents every biological response from being described as the manipulation of an internal model. Distinguishing information processing from cognition prevents a formal computational description from automatically settling a biological question.
 
@@ -327,7 +327,7 @@ APS therefore naturalises biological information by locating it within materiall
 
 This formulation also keeps the claim empirically assessable. If APS is to provide explanatory gain in a particular case, it must show what relevant dependency an informational account leaves unspecified, how that dependency is materially realised, and why including it improves explanation of the specified target. Conceptual preference for organisational language is not enough.
 
-# Conclusion
+## Conclusion
 
 Information is indispensable to contemporary biology, but its ubiquity should not be confused with explanatory priority. Living systems transmit signals, preserve molecular patterns, coordinate activity, respond selectively to environmental differences, and, in some cases, organise information across extended temporal horizons. Informational concepts are therefore legitimate and often powerful tools of biological explanation.
 
