@@ -7401,3 +7401,56 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-11-09
+- id: kriegman-et-al-2020-reconfigurable-organisms
+  type: journal-article
+  authors: Kriegman, S., Blackiston, D., Levin, M., & Bongard, J.
+  year: 2020
+  title: "A Scalable Pipeline for Designing Reconfigurable Organisms"
+  journal: Proceedings of the National Academy of Sciences
+  volume: '117'
+  issue: '4'
+  pages: 1853–1859
+  doi: 10.1073/pnas.1910837117
+  verification:
+    status: verified
+    authority: Proceedings of the National Academy of Sciences
+    verifiedDate: 2026-11-10
+- id: gumuskaya-et-al-2024-motile-living-biobots
+  type: journal-article
+  authors: Gumuskaya, G., Srivastava, P., Cooper, B. G., Lesser, H., Semegran, B., Garnier, S., & Levin, M.
+  year: 2024
+  title: "Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Seed Cells"
+  journal: Advanced Science
+  volume: '11'
+  issue: '4'
+  article-number: '2303575'
+  doi: 10.1002/advs.202303575
+  verification:
+    status: verified
+    authority: Wiley / Advanced Science
+    verifiedDate: 2026-11-10
+- id: pradeu-2012-limits-of-the-self
+  type: book
+  authors: Pradeu, T.
+  year: 2012
+  title: "The Limits of the Self: Immunology and Biological Identity"
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199775286.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-11-10
+- id: love-2018-individuation-experimental-practice
+  type: book-chapter
+  authors: Love, A. C.
+  year: 2018
+  title: "Individuation, Individuality, and Experimental Practice in Developmental Biology"
+  book-title: "Individuation, Process, and Scientific Practices"
+  editors: Bueno, O., Chen, R.-L., & Fagan, M. B.
+  publisher: Oxford University Press
+  pages: 165–191
+  doi: 10.1093/oso/9780190636814.003.0008
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-11-10

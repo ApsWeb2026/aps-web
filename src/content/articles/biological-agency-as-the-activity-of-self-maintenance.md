@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-10-27
+revised: 2026-11-10
 cluster: conceptual-foundations
 role: anchor
 
@@ -74,6 +74,8 @@ references:
   - thompson-2007-mind-in-life
   - nicholson-dupre-2018-everything-flows
   - bourrat-barron-2026-agency-goal-directedness-levels
+  - kriegman-et-al-2020-reconfigurable-organisms
+  - gumuskaya-et-al-2024-motile-living-biobots
 ---
 
 ## Introduction
@@ -160,6 +162,8 @@ This problem has become increasingly prominent in contemporary discussions of bi
 APS shares the need for discrimination but approaches the problem through viability-oriented organisation rather than hierarchical position. A cell does not qualify as an agent merely because cells are conventionally assigned to one biological level, just as a tissue, organism, colony, or other collective does not acquire agency simply by occupying a wider organisational extent. Conversely, membership within a larger organisation does not by itself establish that a candidate cannot instantiate agency. The relevant question is whether the candidate organisation itself enacts viability-oriented activity through which the conditions of its own persistence are maintained or re-established.
 
 This requires distinguishing **being an agent** from **participating in the organisation through which agency is enacted**. A molecular process, tissue structure, regulatory constraint, or cellular activity may make an indispensable contribution to the viability of a living system without thereby constituting an independent agent. Its causal and functional importance is not in question. What remains to be established is whether the candidate itself instantiates the viability-oriented organisation required for attribution of biological agency.
+
+Experimental studies of xenobots and anthrobots provide instructive cases for this distinction. Living cells can be reorganised into novel multicellular configurations exhibiting coordinated movement and other experimentally demonstrable capacities (Kriegman et al. 2020; Gumuskaya et al. 2023). These findings establish important forms of cellular competence and organisational plasticity, but neither movement nor collective coordination alone establishes that the resulting configuration constitutes an independent biological agent. For APS, that attribution requires evidence that the candidate organisation itself enacts viability-oriented activity contributing to the maintenance or re-establishment of the conditions of its own persistence.
 
 Nor should independent reproduction be treated as a universal APS criterion of agency. Reproduction can provide important evidence concerning biological autonomy and historical continuity, but the APS definition of agency concerns present-tense viability-oriented organisational activity. Sterility, developmental dependence, or participation within a larger biological organisation therefore cannot settle the attribution question by themselves. What matters is the organisation actually instantiated and the dependencies through which its viability is maintained.
 

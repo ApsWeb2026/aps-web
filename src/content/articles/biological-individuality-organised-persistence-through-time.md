@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-10-30
+revised: 2026-11-10
 cluster: conceptual-foundations
 role: core
 
@@ -66,58 +66,28 @@ relatedArticles:
   - development-and-biological-individuality
 
 references:
-  - id: nicholson-dupre-2018
-    authors: "Nicholson, D. J.; Dupré, J."
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-
-  - id: godfrey-smith-2013
-    authors: "Godfrey-Smith, P."
-    year: 2013
-    title: "Darwinian Populations and Natural Selection"
-    publisher: "Oxford University Press"
-
-  - id: queller-strassmann-2009
-    authors: "Queller, D. C.; Strassmann, J. E."
-    year: 2009
-    title: "Beyond Society: The Evolution of Organismality"
-    journal: "Philosophical Transactions of the Royal Society B"
-    volume: "364"
-    pages: "3143–3155"
-    doi: "10.1098/rstb.2009.0095"
-
-  - id: pradeu-2012
-    authors: "Pradeu, T."
-    year: 2012
-    title: "The Limits of the Self: Immunology and Biological Identity"
-    publisher: "Oxford University Press"
-
-  - id: moreno-mossio-2015
-    authors: "Moreno, A.; Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: "Springer"
-
-  - id: spencer-2026-agency
-    authors: "Spencer, R. D."
-    year: 2026
-    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
-    journal: "Biological Theory"
-    doi: "10.1007/s13752-026-00547-6"
+  - nicholson-dupre-2018-everything-flows
+  - godfrey-smith-2009-darwinian-populations
+  - queller-strassmann-2009-evolution-organismality
+  - pradeu-2012-limits-of-the-self
+  - moreno-mossio-2015-biological-autonomy
+  - spencer-2026-agency-defining-activity-life
+  - love-2018-individuation-experimental-practice
+  - kriegman-et-al-2020-reconfigurable-organisms
+  - gumuskaya-et-al-2024-motile-living-biobots
 ---
 
-## Biological Individuality — Organised Persistence Through Time
+**Where this article fits:** 
 
-> **Where this article fits:** This article develops the APS account of biological individuality as viability-oriented organised persistence sustained across continual transformation. It integrates persistence, temporal organisation, development, biological agency, constraint organisation, and organism–environment coupling within a unified continuity-based account of biological individuality.
+*This article develops the APS account of biological individuality as viability-oriented organised persistence sustained across continual transformation. It integrates persistence, temporal organisation, development, biological agency, constraint organisation, and organism–environment coupling within a unified continuity-based account of biological individuality.*
 
-Biology has long treated individuals as discrete entities occupying a privileged position within biological explanation. Organisms are often assumed to be bounded objects possessing stable identities, coherent structures, and clearly defined material limits. Genetic uniqueness, physiological integration, and structural cohesion have frequently been invoked as criteria through which individuality can be identified and explained. These approaches capture important features of living systems, but they struggle to explain how biological continuity persists despite continual material turnover, developmental transformation, ecological dependence, and ongoing environmental interaction.
+*Biology has long treated individuals as discrete entities occupying a privileged position within biological explanation. Organisms are often assumed to be bounded objects possessing stable identities, coherent structures, and clearly defined material limits. Genetic uniqueness, physiological integration, and structural cohesion have frequently been invoked as criteria through which individuality can be identified and explained. These approaches capture important features of living systems, but they struggle to explain how biological continuity persists despite continual material turnover, developmental transformation, ecological dependence, and ongoing environmental interaction.*
 
-APS approaches individuality from a different starting point. Rather than asking what static properties make something an individual, APS asks how living systems preserve continuity through time despite continual change. Living systems do not persist because their material composition remains fixed. Cells are replaced, structures are reorganised, developmental trajectories unfold, and ecological conditions continually shift. Yet individuals remain recognisable across these transformations. APS argues that this continuity cannot be explained adequately through material identity alone. Biological individuality therefore depends upon the organised persistence through which viability is actively maintained across changing conditions.
+*APS approaches individuality from a different starting point. Rather than asking what static properties make something an individual, APS asks how living systems preserve continuity through time despite continual change. Living systems do not persist because their material composition remains fixed. Cells are replaced, structures are reorganised, developmental trajectories unfold, and ecological conditions continually shift. Yet individuals remain recognisable across these transformations. APS argues that this continuity cannot be explained adequately through material identity alone. Biological individuality therefore depends upon the organised persistence through which viability is actively maintained across changing conditions.*
 
-From this perspective, individuality is not fundamentally a matter of possessing particular components, boundaries, or structures. It is a matter of sustaining continuity through processes that preserve viability despite transformation. Biological individuals are therefore understood not as static objects but as continuity-producing organisational unities whose persistence emerges through the active maintenance of organised relations across time.
+*From this perspective, individuality is not fundamentally a matter of possessing particular components, boundaries, or structures. It is a matter of sustaining continuity through processes that preserve viability despite transformation. Biological individuals are therefore understood not as static objects but as continuity-producing organisational unities whose persistence emerges through the active maintenance of organised relations across time.*
 
-## Beyond Static Individuality
+## Introduction - Beyond Static Individuality
 
 Traditional accounts of biological individuality often seek a defining criterion capable of separating individuals from non-individuals. Some emphasise physical boundaries, others genetic identity, reproductive cohesion, developmental integration, or physiological organisation. Each captures an aspect of biological reality, yet none adequately explains how living systems maintain continuity while undergoing continual reconstruction.
 
@@ -245,6 +215,8 @@ Holobionts and lichens are particularly instructive because they demonstrate how
 Similar considerations apply to superorganisms and colonies. Eusocial insect colonies, for example, often display forms of coordination, regulation, and continuity that resemble organismal organisation. APS therefore investigates where viability is regulated and how persistence is maintained rather than assuming that individuality must reside exclusively within either the colony or its members.
 
 These cases are not failures of biological theory. They are opportunities to clarify the diverse forms through which organised persistence can be realised. APS consequently treats fringe systems as valuable diagnostic probes of biological individuality because they reveal the organisational conditions under which continuity, agency, organismhood, and persistence become integrated into distinct forms of biological unity.
+
+Experimental studies of xenobots and anthrobots extend these questions to multicellular configurations assembled or self-organised under experimental conditions. Xenobots demonstrate that living cells can be reorganised into novel configurations exhibiting coordinated activity, while anthrobots demonstrate that adult human somatic progenitor cells can self-organise into motile multicellular constructs (Kriegman et al. 2020; Gumuskaya et al. 2024). These findings establish important capacities for cellular organisation and morphological plasticity, but neither coordinated movement nor experimental construction alone determines whether a resulting configuration constitutes a biological individual. For APS, the relevant question is whether the candidate exhibits sufficiently integrated, viability-oriented organisational continuity to warrant treatment as a persistence-bearing unity. Establishing this requires evidence concerning the organisation's maintenance, regulation, and continuity through time, rather than an inference from its behaviour or morphology alone.
 
 ## Individuality and Normativity
 
