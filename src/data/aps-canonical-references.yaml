@@ -7387,3 +7387,17 @@ references:
     status: verified
     authority: Biodiversity Heritage Library and Wellcome Collection
     verifiedDate: '2026-11-09'
+- id: varela-1991-organism-meshwork-selfless-selves
+  type: book-chapter
+  authors: Varela, F. J.
+  year: 1991
+  title: "Organism: A Meshwork of Selfless Selves"
+  book-title: "Organism and the Origins of Self"
+  editors: Tauber, A. I.
+  publisher: Kluwer Academic Publishers
+  pages: 79–107
+  doi: 10.1007/978-94-011-3406-4_5
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-09
