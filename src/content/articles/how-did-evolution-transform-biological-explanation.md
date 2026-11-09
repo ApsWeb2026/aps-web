@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-23
-revised: 2026-11-08
+revised: 2026-11-09
 cluster: history-of-ideas
 role: core
 abstract: >
@@ -15,11 +15,27 @@ abstract: >
   arguments through genetics, the Modern Synthesis, and subsequent developments.
   The article distinguishes historical reconstruction, causal modelling, and
   historical attribution, while preserving a qualified account of the relevance
-  of contemporary evolutionary debates to APS.
+  of contemporary evolutionary debates to APS
+keyPoints:
+  - "Evolutionary thinking transformed biological explanation by making the historical origins, relationships, and diversification of organisms subjects of causal investigation."
+  - "Darwin and Wallace established natural selection as a powerful explanatory mechanism, while common descent provided a historical framework for understanding biological diversity."
+  - "Genetics, population theory, and the Modern Synthesis connected evolutionary mechanisms with experimental, mathematical, and historical evidence."
+  - "Evolutionary explanation distinguishes historical reconstruction, causal modelling, and evidence that particular processes produced particular outcomes."
+  - "Evolutionary biology provides an indispensable historical dimension to biological explanation without replacing accounts of biological organisation, regulation, and persistence."
+
+relatedGlossaryEntries:
+  - biological-organisation
+  - biological-explanation
+  - environment
+  - niche
+  - scale
+  - explanatory-gain
+
 relatedArticles:
   - from-aristotle-to-modern-biology-the-transformation-of-a-science
   - evolution-taxonomy-and-the-reorganisation-of-biological-explanation
   - aps-and-the-extended-evolutionary-synthesis
+  
 references:
   - lamarck-1809-philosophie-zoologique
   - darwin-wallace-1858-tendency-species
@@ -48,6 +64,14 @@ references:
   - van-wyhe-2018-wallaces-help
   - nature-1946-society-study-evolution
 ---
+
+**Where This Article Fits**
+
+*This **History of Ideas** article examines how evolutionary thinking transformed biological explanation, from natural history and Darwin–Wallace through genetics, the Modern Synthesis, and subsequent developments. It emphasises changing evidence, methods, causal mechanisms, and approaches to historical reconstruction.*
+
+*It complements *How Did Ecology Transform Biological Explanation?* and *Technology and the Transformation of Biological Knowledge*, *which examine related changes in biological investigation.*
+
+*For APS, evolutionary explanation is indispensable to understanding the historical origins and diversification of living organisation, but remains distinct from explaining its ongoing maintenance, regulation, and persistence. The article neither presents evolutionary history as a progression towards APS nor claims APS explanatory superiority. Contemporary theoretical comparisons, including the Extended Evolutionary Synthesis, are addressed elsewhere.*
 
 ## Introduction: When Biological Diversity Acquired a History
 
