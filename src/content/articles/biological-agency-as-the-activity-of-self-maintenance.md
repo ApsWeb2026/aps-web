@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-11-10
+revised: 2026-11-11
 cluster: conceptual-foundations
 role: anchor
 
@@ -76,6 +76,7 @@ references:
   - bourrat-barron-2026-agency-goal-directedness-levels
   - kriegman-et-al-2020-reconfigurable-organisms
   - gumuskaya-et-al-2024-motile-living-biobots
+  - jaeger-2024-ontogenesis-organisation-agency
 ---
 
 ## Introduction
@@ -130,6 +131,10 @@ Biology has achieved extraordinary explanatory success in revealing how living s
 Biologists routinely describe organisms as regulating, repairing, adapting, developing, reproducing, and interacting with their environments. These descriptions identify important biological processes, but they do not by themselves make explicit the organisational activity through which these processes collectively sustain a living system. The concept of biological agency remains widely employed across the life sciences, yet its meaning often shifts between behaviour, autonomy, control, goal-directedness, cognition, or decision-making according to disciplinary context. The result is not conceptual failure but conceptual plurality.
 
 This plurality reflects an underlying explanatory question that has not always been explicitly distinguished from the many biological phenomena through which it is expressed. The issue is not whether organisms act, but what kind of activity their actions collectively instantiate. Clarifying biological agency therefore requires identifying the organisational activity common to the diverse processes through which living systems maintain themselves.
+
+Contemporary organisational approaches also connect agency with developmental continuity. Jaeger (2024), for example, examines organismal agency through ontogenesis, living organisation, and the maintenance of organisational closure during development. This provides a relevant independent comparison with APS, which defines biological agency specifically as viability-oriented organisational activity and distinguishes the attribution of agency from its demonstrated explanatory contribution.
+
+Contemporary organisational approaches also connect agency with developmental continuity. Jaeger (2024), for example, examines organismal agency through ontogenesis, living organisation, and the maintenance of organisational closure during development. This provides a relevant independent comparison with APS, which defines biological agency specifically as viability-oriented organisational activity and distinguishes the attribution of agency from its demonstrated explanatory contribution.
 
 Within APS, biological agency is not introduced as an additional biological mechanism, a competing theory, or a replacement for existing explanations. Rather, Agency provides an analytic projection through which activities already investigated across biology can be examined in relation to viability-oriented living organisation. Agency identifies the ongoing activity through which organisms continually sustain the conditions required for their own organised persistence.
 

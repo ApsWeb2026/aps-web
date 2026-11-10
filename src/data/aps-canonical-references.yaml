@@ -7478,3 +7478,45 @@ references:
     status: verified
     authority: Journal of Big History / Published article
     verifiedDate: 2026-11-10
+- id: jaeger-2024-ontogenesis-organisation-agency
+  type: book-chapter
+  authors: Jaeger, J.
+  year: 2024
+  title: "Ontogenesis, Organisation, and Organismal Agency"
+  book-title: "Organismal Agency: Biological Concepts and Their Philosophical Foundations"
+  editors: Švorcová, J.
+  publisher: Springer
+  pages: 165–190
+  doi: 10.1007/978-3-031-53626-7_10
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-11'
+- id: markos-2024-biosemiosis-agency
+  type: book-chapter
+  authors: Markoš, A.
+  year: 2024
+  title: "(Bio)Semiosis as Life-Specific Form of Agency"
+  book-title: "Organismal Agency: Biological Concepts and Their Philosophical Foundations"
+  editors: Švorcová, J.
+  publisher: Springer
+  pages: 129–141
+  doi: 10.1007/978-3-031-53626-7_8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-11'
+- id: svorcova-2024-plastic-ontogenesis
+  type: book-chapter
+  authors: Švorcová, J.
+  year: 2024
+  title: "Plastic Ontogenesis: Memory, Closure, and Habitual Teleology in Development"
+  book-title: "Organismal Agency: Biological Concepts and Their Philosophical Foundations"
+  editors: Švorcová, J.
+  publisher: Springer
+  pages: 143–164
+  doi: 10.1007/978-3-031-53626-7_9
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-11'
