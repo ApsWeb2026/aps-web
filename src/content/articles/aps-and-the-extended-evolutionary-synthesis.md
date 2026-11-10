@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-11-08
+revised: 2026-11-10
 cluster: philosophy-of-biology
 role: extension
 abstract: >
@@ -86,6 +86,15 @@ references:
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
+
+  - id: VeiglVasilyevaMuller2026
+    authors: "Veigl, S. J., Vasilyeva, Z., & Müller, R."
+    year: 2026
+    title: "Scientific-intellectual movements in the post-truth age: The case of the Extended Evolutionary Synthesis"
+    journal: "Social Studies of Science"
+    volume: "56(1)"
+    pages: "142–167"
+    doi: "10.1177/03063127251348254"
 ---
 
 **Where This Article Fits**
@@ -166,6 +175,8 @@ APS may investigate proposed relations among inheritance, adaptation, fitness, s
 The EES addresses evolutionary questions through an expanded range of developmental, ecological, hereditary, and organismal processes. APS makes living organisation itself an explicit explanatory target and asks how evolutionary processes bear upon organised persistence and historical transformation.
 
 These differences in scope do not establish that the EES is explanatorily incomplete, that APS supplies its missing foundation, or that the two frameworks are necessarily complementary. Where their targets differ, each may remain adequate for its own question. Where their targets overlap, their relative explanatory contribution requires target-matched comparison.
+
+The EES can also be examined as a scientific-intellectual movement, rather than solely as a set of evolutionary proposals. Veigl, Vasilyeva, and Müller (2026) investigate how its proponents establish scientific credibility and negotiate disputes about theoretical authority, including the effects of wider controversies surrounding scientific legitimacy. Such sociological investigation helps explain the development and reception of the EES, but does not establish the explanatory adequacy of its biological claims. The distinction applies equally to APS: the historical development, intellectual organisation, and reception of a framework must be distinguished from evidence that it improves explanations of particular biological phenomena.
 
 ## Comparing the EES and APS
 
