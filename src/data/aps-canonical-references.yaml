@@ -7454,3 +7454,27 @@ references:
     status: verified
     authority: Oxford University Press / Oxford Academic
     verifiedDate: 2026-11-10
+- id: spencer-1862-first-principles
+  type: book
+  authors: Spencer, H.
+  year: 1862
+  title: First Principles
+  publisher: Williams and Norgate
+  verification:
+    status: verified
+    authority: Stanford Encyclopedia of Philosophy / Project Gutenberg
+    verifiedDate: 2026-11-10
+- id: grinin-korotayev-2026-universal-evolution-big-history
+  type: journal-article
+  authors: Grinin, L., & Korotayev, A.
+  year: 2026
+  title: 'Universal Evolution and Big History: Potential, Problems, Perspectives'
+  journal: Journal of Big History
+  volume: '9'
+  issue: '2'
+  pages: 170–188
+  doi: 10.22339/jbh.v9i2.9207
+  verification:
+    status: verified
+    authority: Journal of Big History / Published article
+    verifiedDate: 2026-11-10

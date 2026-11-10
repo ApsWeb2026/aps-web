@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-23
-revised: 2026-11-09
+revised: 2026-11-10
 cluster: history-of-ideas
 role: core
 abstract: >
@@ -63,6 +63,8 @@ references:
   - smocovitis-1996-unifying-biology
   - van-wyhe-2018-wallaces-help
   - nature-1946-society-study-evolution
+  - spencer-1862-first-principles
+  - grinin-korotayev-2026-universal-evolution-big-history
 ---
 
 **Where This Article Fits**
@@ -102,6 +104,8 @@ The disagreement between Lamarck and Cuvier demonstrates why the history of evol
 Geology contributed another dimension. Charles Lyell's Principles of Geology, published in successive volumes beginning in 1830, developed an influential account of geological change through causes whose operation could be investigated in the present. Lyell's position should not be confused with a complete evolutionary theory. Nevertheless, geological investigation helped establish the importance of reconstructing processes operating over immense periods.
 
 Robert Chambers's anonymously published Vestiges of the Natural History of Creation (1844) subsequently brought developmental and transformational interpretations of nature to a broad readership. Its arguments were controversial and scientifically uneven, but its reception demonstrates that questions about the historical development of living forms were already circulating well beyond a narrow community of specialists.
+
+The wider nineteenth-century intellectual context also included attempts to understand change throughout nature and society through general principles of development. Herbert Spencer subsequently developed a programme of universal evolutionism, articulated systematically in *First Principles* (1862), that differed in scope and explanatory ambition from Darwin's account of biological descent and natural selection. Spencer's generalisation concerned transformations across physical, biological, and social domains, whereas Darwinian evolutionary explanation addressed the historical relationships of organisms and the processes responsible for their diversification. Contemporary Big History has renewed interest in comparisons across cosmic, geological, biological, and social evolution, although its approaches and theoretical commitments are not uniform (Grinin and Korotayev, 2026). These traditions should not be conflated: identifying similarities across different forms of change does not by itself establish common causal mechanisms or universally applicable evolutionary laws.
 
 These naturalists did not necessarily understand their investigations as contributions to the same scientific problem. Buffon's historical naturalism, Lamarck's theory of transformation, Cuvier's reconstruction of extinct organisms, and Lyell's geological explanations rested on different assumptions about the objects and purposes of scientific inquiry. Their eventual importance to evolutionary biology should not be confused with their original explanatory intentions. Historians must therefore distinguish what these investigators sought to establish from the significance subsequently attributed to their work (Bowler, 2009; Ruse, 1979).
 
