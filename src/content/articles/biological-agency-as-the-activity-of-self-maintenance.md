@@ -79,6 +79,16 @@ references:
   - jaeger-2024-ontogenesis-organisation-agency
 ---
 
+## Where This Article Fits
+
+*This article provides the core APS account of **biological agency**. Its principal task is to explain what Agency means within APS: biological agency is viability-oriented organisational activity, enacted through the continuing self-maintenance by which living systems maintain and re-establish the conditions of their own persistence.*
+
+*Other APS articles develop distinct questions arising from this account. *Agency as the Defining Activity of Life* *addresses why Agency occupies a defining position in the APS account of living organisation. *Biological Agency Without Intentions* *distinguishes biological agency from intention, deliberation, and psychological goal attribution. *Agency and Organised Persistence* *develops the relationship between present-tense viability-oriented activity and the continuity that activity sustains. *Biological Agency, Evolution, and the Architecture of Biological Explanation* *extends the analysis into evolutionary and explanatory questions, while *Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework* *compares the APS account with contemporary approaches to biological agency.*
+
+*The present article therefore owns the foundational question of **what biological agency is and where its attribution is warranted**. It does not follow from APS that every biological component, subsystem, collective, or organisational extent constitutes an independent agent. Nor does an attribution of agency follow from assigning a system to a particular biological level. Agency must be grounded in the viability-oriented organisation instantiated by the candidate system, while Scale asks across what spatial and temporal extent the organisation relevant to that attribution and explanandum must be followed.*
+
+*This distinction also separates **agency attribution** from **agency explanation**. A biological organisation may warrant analysis as an agent without Agency necessarily providing explanatory gain for every phenomenon involving that organisation. APS therefore requires both the attribution of agency and its explanatory use to be justified relative to the biological organisation and explanandum under investigation.*
+
 ## Introduction
 
 What are living systems doing when they remain alive?
@@ -114,15 +124,6 @@ Agency is the viability-oriented activity through which living systems sustain t
 
 </div>
 
-## Where This Article Fits
-
-This article provides the core APS account of **biological agency**. Its principal task is to explain what Agency means within APS: biological agency is viability-oriented organisational activity, enacted through the continuing self-maintenance by which living systems maintain and re-establish the conditions of their own persistence.
-
-Other APS articles develop distinct questions arising from this account. *Agency as the Defining Activity of Life* addresses why Agency occupies a defining position in the APS account of living organisation. *Biological Agency Without Intentions* distinguishes biological agency from intention, deliberation, and psychological goal attribution. *Agency and Organised Persistence* develops the relationship between present-tense viability-oriented activity and the continuity that activity sustains. *Biological Agency, Evolution, and the Architecture of Biological Explanation* extends the analysis into evolutionary and explanatory questions, while *Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework* compares the APS account with contemporary approaches to biological agency.
-
-The present article therefore owns the foundational question of **what biological agency is and where its attribution is warranted**. It does not follow from APS that every biological component, subsystem, collective, or organisational extent constitutes an independent agent. Nor does an attribution of agency follow from assigning a system to a particular biological level. Agency must be grounded in the viability-oriented organisation instantiated by the candidate system, while Scale asks across what spatial and temporal extent the organisation relevant to that attribution and explanandum must be followed.
-
-This distinction also separates **agency attribution** from **agency explanation**. A biological organisation may warrant analysis as an agent without Agency necessarily providing explanatory gain for every phenomenon involving that organisation. APS therefore requires both the attribution of agency and its explanatory use to be justified relative to the biological organisation and explanandum under investigation.
 
 ## Why Agency Requires Clarification
 
