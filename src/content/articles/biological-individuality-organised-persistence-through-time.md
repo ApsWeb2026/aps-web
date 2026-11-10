@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-11-10
+revised: 2026-11-11
 cluster: conceptual-foundations
 role: core
 
@@ -215,6 +215,8 @@ Holobionts and lichens are particularly instructive because they demonstrate how
 Similar considerations apply to superorganisms and colonies. Eusocial insect colonies, for example, often display forms of coordination, regulation, and continuity that resemble organismal organisation. APS therefore investigates where viability is regulated and how persistence is maintained rather than assuming that individuality must reside exclusively within either the colony or its members.
 
 These cases are not failures of biological theory. They are opportunities to clarify the diverse forms through which organised persistence can be realised. APS consequently treats fringe systems as valuable diagnostic probes of biological individuality because they reveal the organisational conditions under which continuity, agency, organismhood, and persistence become integrated into distinct forms of biological unity.
+
+Experimental studies of xenobots and anthrobots extend these questions to multicellular configurations assembled or self-organised under experimental conditions. Xenobots demonstrate that living cells can be reorganised into novel configurations exhibiting coordinated activity, while anthrobots demonstrate that adult human somatic progenitor cells can self-organise into motile multicellular constructs (Kriegman et al. 2020; Gumuskaya et al. 2024). These findings establish important capacities for cellular organisation and morphological plasticity, but neither coordinated movement nor experimental construction alone determines whether a resulting configuration constitutes a biological individual. For APS, the relevant question is whether the candidate exhibits sufficiently integrated, viability-oriented organisational continuity to warrant treatment as a persistence-bearing unity. Establishing this requires evidence concerning the organisation's maintenance, regulation, and continuity through time, rather than an inference from its behaviour or morphology alone.
 
 Experimental studies of xenobots and anthrobots extend these questions to multicellular configurations assembled or self-organised under experimental conditions. Xenobots demonstrate that living cells can be reorganised into novel configurations exhibiting coordinated activity, while anthrobots demonstrate that adult human somatic progenitor cells can self-organise into motile multicellular constructs (Kriegman et al. 2020; Gumuskaya et al. 2024). These findings establish important capacities for cellular organisation and morphological plasticity, but neither coordinated movement nor experimental construction alone determines whether a resulting configuration constitutes a biological individual. For APS, the relevant question is whether the candidate exhibits sufficiently integrated, viability-oriented organisational continuity to warrant treatment as a persistence-bearing unity. Establishing this requires evidence concerning the organisation's maintenance, regulation, and continuity through time, rather than an inference from its behaviour or morphology alone.
 

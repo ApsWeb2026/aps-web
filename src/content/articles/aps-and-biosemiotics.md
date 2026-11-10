@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-08-10
+revised: 2026-11-11
 cluster: philosophy-of-biology
 role: synthesis
 
@@ -73,8 +73,14 @@ references:
   - nicholson-2019-cell-machine
   - barandiaran-di-paolo-rohde-2009-defining-agency
   - rosslenbroich-kuemmell-bembe-2024-agency-inherent-property-living-organisms
-
+  - markos-2024-biosemiosis-agency
 ---
+
+**Where This Article Fits**
+
+*This Synthesis article belongs to the *Philosophy of Biology* cluster. It compares biosemiotics and the Agency–Process–Scale (APS) framework as approaches to biological meaning, examining their shared organisational commitments and differing explanatory priorities.*
+
+*It builds upon the APS accounts of biological agency, evaluation, significance, and information. Its purpose is to clarify how semiosis relates to viability-oriented organisation, not to replace biosemiotics or claim explanatory superiority without comparative evidence.*
 
 ## Introduction
 
@@ -103,6 +109,8 @@ The comparison developed here builds upon earlier APS analyses of contemporary t
 Biosemiotics seeks to explain how meaning arises within living systems. It approaches this question by proposing that semiosis is a constitutive feature of life itself: it emerged from the recognition that living systems cannot be adequately understood through mechanistic or informational descriptions alone. While molecular biology, genetics, physiology, and systems biology have greatly expanded our understanding of biological processes, biosemiotics argues that these approaches leave unresolved a fundamental question: how do biological interactions become meaningful for the organisms that participate in them? Rather than treating meaning as an exclusively human or linguistic phenomenon, biosemiotics maintains that the production, interpretation, and use of signs are intrinsic features of life itself.
 
 This perspective has developed through the convergence of several intellectual traditions. Charles Sanders Peirce's general theory of signs provided the philosophical foundation for understanding semiosis as a triadic relation involving a sign, its object, and its interpretant. Jakob von Uexküll demonstrated that organisms inhabit species-specific Umwelten, in which environmental features acquire significance through the organism's own mode of life. Thomas A. Sebeok subsequently extended semiotic inquiry across the living world, arguing that semiosis characterises biological organisation generally rather than human language alone. Contemporary authors, including Jesper Hoffmeyer, Kalevi Kull, Marcello Barbieri, Donald Favareau, and Claus Emmeche, have developed these ideas into a coherent programme within theoretical biology.
+
+A contemporary contribution by Markoš (2024) explicitly examines biosemiosis as a life-specific form of agency, bringing the relationship between biological meaning, interpretation, and living activity into focus. This provides a relevant point of comparison with APS, which distinguishes viability-oriented organisational activity from the semiotic processes through which biological significance may be expressed and coordinated. The approaches therefore share an interest in agency and biological meaning, but they should not be treated as conceptually equivalent or assumed to offer identical explanatory accounts.
 
 The central claim of biosemiotics is that living systems are fundamentally semiotic systems. Organisms do not merely undergo causal interactions with their environments. They interpret signs that guide their activity in ways that contribute to their continued existence and interaction with the world. A chemical signal, a visual cue, a vocalisation, or a molecular recognition event is therefore understood not simply as a physical event but as part of a semiotic relation through which an organism interprets and responds to its circumstances. Semiosis is consequently regarded as a constitutive feature of living organisation rather than an additional process superimposed upon biological mechanisms.
 
@@ -189,4 +197,34 @@ The principal contribution of this article therefore lies not only in clarifying
 This methodological perspective has implications extending beyond the present comparison. Contemporary theoretical biology encompasses a growing diversity of organisational approaches, each seeking to illuminate different aspects of living systems. Comparative explanatory methodology provides a systematic means of analysing these approaches without reducing them to isolated concepts or treating them as mutually exclusive alternatives. By comparing explanatory architectures rather than theoretical labels, it becomes possible to identify shared concerns, clarify genuine points of divergence, and understand how different frameworks contribute to biological explanation.
 
 The comparison developed here therefore suggests that progress in theoretical biology depends not only upon continued empirical investigation but also upon increasing clarity concerning the organisation of biological explanation itself. As organisational approaches continue to develop, the ability to compare their explanatory architectures may become an important component of theoretical inquiry. Within this broader context, the relationship between APS and biosemiotics is significant not simply because it compares two frameworks concerned with biological meaning, but because it illustrates how comparative explanatory methodology can contribute to a more coherent and integrative understanding of living organisation.
+
+## Explanatory Architecture
+
+### Central Question
+
+How do biosemiotics and APS differ in their explanations of biological meaning, and what does comparison of their explanatory architectures reveal?
+
+### Architectural Role
+
+This is a canonical Synthesis article within the *Philosophy of Biology* cluster. It examines convergence and divergence between biosemiotics and APS, particularly their treatment of semiosis, agency, biological evaluation, and significance.
+
+### Preceding Explanatory Dependencies
+
+The comparison depends conceptually on the APS accounts of life as viability-oriented, constraint-closed organisation; biological agency as viability-oriented organisational activity; and biological evaluation and significance. Biosemiotics provides an independent intellectual tradition, historically informed by Peircean semiotics and von Uexküll's biological thought, rather than a developmental stage leading towards APS.
+
+### Subsequent and Related Explanatory Developments
+
+The comparison informs related APS discussions of information, communication, cognition, and the organisation of biological meaning. These are conceptual relationships, not claims of historical derivation or necessary theoretical progression.
+
+### Related Explanatory Questions
+
+What distinguishes biological significance from semiotic interpretation? Under what conditions does semiosis contribute to biological organisation? How might the explanatory contributions of semiotic and viability-oriented approaches be assessed against relevant alternatives?
+
+### Position Within APS
+
+APS interprets semiosis as a potentially important organisational process through which biological significance is expressed, coordinated, and stabilised. It does not equate semiosis with biological agency or treat semiotic interpretation as a necessary substitute for viability-oriented organisation.
+
+### Where This Article Fits
+
+This article connects the APS conceptual foundations with comparative philosophy of biology. It clarifies the explanatory relationship between biosemiotics and APS while leaving questions of distinctive explanatory gain open to further investigation.
 
