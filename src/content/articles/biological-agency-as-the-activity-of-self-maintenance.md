@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-11-11
+revised: 2026-11-12
 cluster: conceptual-foundations
 role: anchor
 
@@ -79,7 +79,7 @@ references:
   - jaeger-2024-ontogenesis-organisation-agency
 ---
 
-## Where This Article Fits
+**Where This Article Fits**
 
 *This article provides the core APS account of **biological agency**. Its principal task is to explain what Agency means within APS: biological agency is viability-oriented organisational activity, enacted through the continuing self-maintenance by which living systems maintain and re-establish the conditions of their own persistence.*
 

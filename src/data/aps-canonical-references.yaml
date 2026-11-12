@@ -7520,3 +7520,99 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: '2026-11-11'
+- id: love-lugar-2013-dimensions-of-integration
+  type: journal-article
+  authors: "Love, A. C., & Lugar, G. L."
+  year: 2013
+  title: "Dimensions of Integration in Interdisciplinary Explanations of the Origin of Evolutionary Novelty"
+  journal: "Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences"
+  volume: '44'
+  issue: '4 Pt A'
+  pages: '537–550'
+  doi: 10.1016/j.shpsc.2013.09.008
+  verification:
+    status: verified
+    authority: PubMed and University of Minnesota publication record
+    verifiedDate: '2026-11-12'
+- id: fanselow-wassum-2016-vertebrate-pavlovian-conditioning
+  type: journal-article
+  authors: "Fanselow, M. S., & Wassum, K. M."
+  year: 2016
+  title: "The Origins and Organization of Vertebrate Pavlovian Conditioning"
+  journal: Cold Spring Harbor Perspectives in Biology
+  volume: '8'
+  issue: '1'
+  article-number: 'a021717'
+  doi: 10.1101/cshperspect.a021717
+  verification:
+    status: verified
+    authority: Cold Spring Harbor Perspectives in Biology issue record
+    verifiedDate: '2026-11-12'
+- id: hampton-2001-rhesus-metamemory
+  type: journal-article
+  authors: Hampton, R. R.
+  year: 2001
+  title: Rhesus Monkeys Know When They Remember
+  journal: Proceedings of the National Academy of Sciences
+  volume: '98'
+  issue: '9'
+  pages: '5359–5362'
+  doi: 10.1073/pnas.071600998
+  verification:
+    status: verified
+    authority: PubMed and PubMed Central
+    verifiedDate: '2026-11-12'
+- id: jozefowiez-staddon-cerutti-2009-animal-metacognition
+  type: journal-article
+  authors: "Jozefowiez, J., Staddon, J. E. R., & Cerutti, D. T."
+  year: 2009
+  title: "Metacognition in Animals: How Do We Know That They Know?"
+  journal: Comparative Cognition & Behavior Reviews
+  volume: '4'
+  pages: '29–39'
+  doi: 10.3819/ccbr.2009.40003
+  verification:
+    status: verified
+    authority: Comparative Cognition & Behavior Reviews publisher record
+    verifiedDate: '2026-11-12'
+- id: lai-et-al-2020-honeybee-reward-devaluation
+  type: journal-article
+  authors: "Lai, Y., Despouy, E., Sandoz, J.-C., Su, S., de Brito Sanchez, M. G., & Giurfa, M."
+  year: 2020
+  title: Degradation of an Appetitive Olfactory Memory via Devaluation of Sugar Reward Is Mediated by 5-HT Signaling in the Honey Bee
+  journal: Neurobiology of Learning and Memory
+  volume: '173'
+  article-number: '107278'
+  doi: 10.1016/j.nlm.2020.107278
+  verification:
+    status: verified
+    authority: PubMed bibliographic record
+    verifiedDate: '2026-11-12'
+- id: hampton-zivin-murray-2004-rhesus-information-seeking
+  type: journal-article
+  authors: "Hampton, R. R., Zivin, A., & Murray, E. A."
+  year: 2004
+  title: Rhesus Monkeys (Macaca mulatta) Discriminate Between Knowing and Not Knowing and Collect Information as Needed Before Acting
+  journal: Animal Cognition
+  volume: '7'
+  issue: '4'
+  pages: '239–246'
+  doi: 10.1007/s10071-004-0215-1
+  verification:
+    status: verified
+    authority: PubMed bibliographic record
+    verifiedDate: '2026-11-12'
+- id: tu-pani-hampton-2015-rhesus-information-seeking
+  type: journal-article
+  authors: "Tu, H.-W., Pani, A. A., & Hampton, R. R."
+  year: 2015
+  title: Rhesus Monkeys (Macaca mulatta) Adaptively Adjust Information Seeking in Response to Information Accumulated
+  journal: Journal of Comparative Psychology
+  volume: '129'
+  issue: '4'
+  pages: '347–355'
+  doi: 10.1037/a0039595
+  verification:
+    status: verified
+    authority: PubMed bibliographic record
+    verifiedDate: '2026-11-12'
