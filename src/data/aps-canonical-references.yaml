@@ -7668,3 +7668,14 @@ references:
     status: verified
     authority: Oxford University Press / Oxford Academic
     verifiedDate: '2026-11-12'
+- id: bechtel-2006-discovering-cell-mechanisms
+  type: book
+  authors: Bechtel, W.
+  year: 2006
+  title: "Discovering Cell Mechanisms: The Creation of Modern Cell Biology"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781139164962
+  verification:
+    status: verified
+    authority: Cambridge University Press original print copyright page and Cambridge Core
+    verifiedDate: '2026-11-12'
