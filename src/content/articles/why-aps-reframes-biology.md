@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-10-17
+revised: 2026-11-12
 cluster: methodology-and-explanation
 role: anchor
 
@@ -26,6 +26,12 @@ abstract: >
   explanatory gain, requires independent assessment and, where
   comparative advantage is claimed, target-matched evaluation
   against the strongest relevant alternatives.
+
+keyPoints:
+  - "APS makes viability-oriented living organisation and organised persistence explicit targets of biological explanation."
+  - "Agency, Process, and Scale provide complementary perspectives on how living organisation is maintained and transformed."
+  - "Explanations from different biological domains can be related through a shared organisational question while retaining their distinct explanatory targets and evidential requirements."
+  - "Evidence that an APS analysis applies to a case, evidence bearing on the definition of life, and evidence of a distinctive scientific contribution address different questions."
 
 relatedGlossaryTerms:
   - biological-organisation
@@ -130,7 +136,9 @@ references:
     publisher: Oxford University Press
 ---
 
-> **Where this article fits:** This Anchor article explains why APS makes living organisation and organised persistence explicit explanatory targets and how this orientation informs its approach to biological explanation. It complements *APS as Philosophy — A Viability-Oriented Account of Biological Reality*, which examines the framework's philosophical commitments, and *The Explanatory Geometry of Biology*, which develops its explanatory structure. The present article concentrates on the scientific rationale for reframing familiar biological questions and relating explanations across domains. It distinguishes the conceptual integration proposed by APS from demonstrated scientific usefulness and comparative explanatory gain, which are investigated through the wider APS research and explanatory-methodology programmes.
+**Where This Article Fits.** 
+
+*This Anchor article explains why APS makes living organisation and organised persistence explicit explanatory targets. *APS as Philosophy — A Viability-Oriented Account of Biological Reality* examines the framework’s philosophical commitments, and *The Explanatory Geometry of Biology* *develops its explanatory structure. The present article sets out the scientific rationale for relating explanations across biological domains and the evidence needed to assess what that integration contributes.*
 
 ## Introduction — Why Reframe Biology?
 
@@ -148,9 +156,11 @@ The significance of this proposal is not that biology has previously ignored org
 
 APS defines life as **viability-oriented, constraint-closed organisation**. This definition identifies the organisational character of living systems, while organised persistence concerns how such organisation maintains or re-establishes the conditions of its continuity through change. The distinction is important. A definition proposes what characterises living organisation; an explanation must investigate the processes and dependencies through which that organisation is realised and sustained.
 
+Viability concerns the conditions under which a particular living system can continue as an organised whole. These conditions are system-relative: the consequences of a change depend on the organisation of the system and the circumstances in which it occurs. A change may support viability by sustaining those conditions, undermine it by disrupting them, or restore it by re-establishing conditions that have been impaired.
+
 Living systems are neither materially static nor organisationally unchanging. Their constituents undergo continual turnover, metabolic activities respond to changing demands, developmental processes transform their structure, and interactions with the environment alter the conditions under which they operate. Biological persistence therefore cannot generally be equated with the preservation of an unchanging material arrangement. It depends instead on forms of continuity maintained through organised activity.
 
-The concept of constraint-closure contributes to this account by identifying relationships in which constraints on biological processes are themselves maintained through the organisation to which they contribute. Such relationships have been investigated extensively within theories of biological autonomy (Moreno and Mossio 2015). APS incorporates this organisational insight into its account of viability-oriented persistence without claiming that constraint-closure is an original APS discovery or that its invocation is sufficient to explain a particular biological system.
+Constraint closure describes a network of reciprocal dependencies in which constraints shape biological processes that, in turn, maintain the constraints on which those processes depend. Theories of biological autonomy have investigated these relationships extensively (Moreno and Mossio 2015). In the APS definition of life, constraint closure and viability orientation are jointly required. Establishing closure in a particular system therefore addresses one part of the definition. Explaining how that system persists also requires evidence of how its constraints and processes sustain or restore its viability conditions.
 
 The explanatory task is to establish which processes and constraints contribute to the maintenance of a specified organisation, how those contributions depend on one another, and under what conditions they succeed or fail. Metabolic regulation, cellular maintenance, physiological adjustment, and developmental repair may each contribute to persistence, but their roles must be established through the evidence appropriate to the system under investigation.
 
@@ -162,7 +172,7 @@ This orientation gives APS a potentially general explanatory concern because via
 
 APS investigates living organisation through three complementary analytic projections: Agency, Process, and Scale. These are not independent components of life, separate causal powers, or distinct hierarchical levels. They are analytically distinguishable perspectives on one materially realised, viability-oriented organisation.
 
-**Agency** concerns the activity through which living systems contribute to maintaining or re-establishing the conditions of their viability. In this biological sense, agency does not presuppose consciousness, intention, intelligence, or mental representation. It identifies activity in relation to the organisation whose continued existence is at issue.
+**Agency** is viability-oriented organisational activity. It comprises the activities through which a living system contributes to sustaining or re-establishing the conditions of its own viability. The attribution of agency depends on the activity’s role in the system’s organisation and requires no assumption of consciousness, intention, intelligence, or mental representation.
 
 **Process** concerns the temporally extended activities and transformations through which organisational continuity is achieved. Biological systems persist through ongoing metabolism, regulation, repair, development, and other processes rather than through the passive retention of fixed structures. Process therefore makes explicit the temporal character of living organisation and the dependencies through which continuity is maintained despite change.
 
@@ -197,6 +207,8 @@ These are research possibilities rather than established comparative achievement
 The generality of APS follows from the explanatory target it proposes, not from a claim of universal explanatory authority. Living organisation is relevant across the biological domain, but the fact that a question can be placed within a general organisational framework does not mean that the framework provides the most adequate explanation of that question.
 
 Explanatory priority is consequently target-relative. When the object of inquiry is a particular molecular reaction, developmental mechanism, ecological interaction, or evolutionary process, a specialist explanation may be sufficient. When the question concerns how these processes contribute to the maintenance or transformation of living organisation, organisational dependencies become especially relevant. This distinction does not establish that organisation is ontologically more fundamental than its material constituents.
+
+Evidence bears on three distinct questions. First, can an APS analysis be applied to the case? Evidence that a regulatory response helps restore a specified viability condition can support that application. Second, is the defining account of life adequate? This requires examining whether viability-oriented, constraint-closed organisation characterises living systems and how the definition handles boundary cases. Third, what does APS contribute to the investigation? A claim of distinctive contribution requires identifying what APS adds to existing accounts. A claim of comparative explanatory gain further requires comparing the strongest relevant accounts of the same phenomenon.
 
 The methodological challenge is to determine what APS contributes beyond a coherent reformulation of familiar biological knowledge. Several forms of contribution should be distinguished.
 
@@ -238,20 +250,17 @@ Agency, Process, and Scale provide complementary analytic projections through wh
 
 ### Preceding Explanatory Dependencies
 
-The following articles and concepts provide the APS background used here. These relationships identify conceptual dependencies within the APS corpus rather than a hierarchy of causal or ontological priority.
+The argument draws on three conceptual dependencies:
 
-- What Is APS?
-- How APS Explains Life
-- Biological Explanation — What Needs to Be Explained
-- Biological Explanation and Organised Persistence
-- Explanatory Grammar
-- Organised Persistence
-- Biological Organisation
-- The Core Structure of APS — How the Framework Fits Together
+- *Biological Organisation* and *Organised Persistence* distinguish what characterises living organisation from how it continues through change.
+- *Explanatory Grammar* supplies the basis for treating Agency, Process, and Scale as complementary analytic perspectives.
+- *Biological Explanation — What Needs to Be Explained* and *Biological Explanation and Organised Persistence* supply the distinction between a specialist explanatory target and the question of how a process bears on the continuity of living organisation.
 
-### Subsequent Explanatory Developments
+*What Is APS?*, *How APS Explains Life*, and *The Core Structure of APS — How the Framework Fits Together* provide broader orientation. The organisational autonomy tradition, discussed in the main text, is a scholarly antecedent for the treatment of constraint closure.
 
-The questions introduced here are developed, compared, or applied in:
+#### Related Explanatory Developments
+
+The following articles develop the philosophical and methodological issues raised here or compare APS with other explanatory approaches.
 
 - APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
