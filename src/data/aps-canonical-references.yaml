@@ -7616,3 +7616,55 @@ references:
     status: verified
     authority: PubMed bibliographic record
     verifiedDate: '2026-11-12'
+- id: hossain-2026-politics-of-famine-bangladesh
+  type: journal-article
+  authors: Hossain, N.
+  year: 2026
+  title: "Theorising the Politics of Famine: Bangladesh in 1974"
+  journal: Disasters
+  volume: '50'
+  issue: '1'
+  article-number: e70041
+  doi: 10.1111/disa.70041
+  verification:
+    status: verified
+    authority: Wiley / PubMed
+    verifiedDate: '2026-11-12'
+- id: ostrom-2010-beyond-markets-and-states
+  type: journal-article
+  authors: Ostrom, E.
+  year: 2010
+  title: "Beyond Markets and States: Polycentric Governance of Complex Economic Systems"
+  journal: American Economic Review
+  volume: '100'
+  issue: '3'
+  pages: '641–672'
+  doi: 10.1257/aer.100.3.641
+  verification:
+    status: verified
+    authority: American Economic Association
+    verifiedDate: '2026-11-12'
+- id: ravallion-1987-markets-and-famines
+  type: book
+  authors: Ravallion, M.
+  year: 1987
+  title: Markets and Famines
+  publisher: Clarendon Press
+  verification:
+    status: verified
+    authority: University of Canterbury Library catalogue / The Economic Journal
+    verifiedDate: '2026-11-12'
+- id: sen-1981-ingredients-of-famine-analysis
+  type: journal-article
+  authors: Sen, A.
+  year: 1981
+  title: "Ingredients of Famine Analysis: Availability and Entitlements"
+  journal: The Quarterly Journal of Economics
+  volume: '96'
+  issue: '3'
+  pages: '433–464'
+  doi: 10.2307/1882681
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: '2026-11-12'

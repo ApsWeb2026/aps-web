@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-19
-revised: 2026-09-19
+revised: 2026-11-12
 cluster: cognition-and-mind
 role: extension
 
@@ -61,7 +61,7 @@ Cognition is often associated with specialised nervous systems and, especially, 
 
 This is a question of material implementation and explanatory localisation. Within APS, cognition is not identified by the presence or absence of a particular structure. It is attributed when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. That criterion specifies what must be established before cognitive attribution is warranted; it does not determine in advance which material structures must implement the relevant organisation.
 
-The localisation problem therefore begins only after cognition has been independently warranted. It asks which biological processes, structures, constraints, and relations realise the cognitive organisation under investigation, across what spatial and temporal extents they operate, and whether tracing their distribution makes a scientifically consequential difference to the explanation.
+Cognitive attribution and localisation ask different questions, and evidence about the same material processes can inform both. A claim of distributed cognition requires evidence that the system meets the cognition criterion and that distributed relations help realise the capacity in question. It asks which biological processes, structures, constraints, and relations realise the cognitive organisation under investigation, across what spatial and temporal extents they operate, and whether tracing their distribution makes a scientifically consequential difference to the explanation.
 
 ## Non-Neural Does Not Mean Cognitive
 
@@ -73,7 +73,7 @@ Non-neurality therefore has no privileged evidential status. It neither excludes
 
 ## Cognition Must Be Established First
 
-This distinction follows from the broader APS cognition architecture. Living systems exhibit Agency: viability-oriented activity through which the conditions of organised persistence are sustained. Biological Evaluation establishes viability-relative asymmetries among conditions; Significance concerns the viability-relative relevance of those evaluated differences to continued organisation; and Integration brings multiple significant relations into functional coordination.
+This distinction follows from the broader APS cognition architecture. Living systems exhibit Agency: viability-oriented activity through which the conditions of organised persistence are sustained. Conditions differ in how they affect a living system’s viability. Biological Evaluation concerns how the system responds differentially to those conditions; Significance concerns the viability-relative relevance of those evaluated differences to continued organisation; and Integration brings multiple significant relations into functional coordination.
 
 None of these, individually or jointly, is sufficient for cognition.
 

@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-09-14
+revised: 2026-11-12
 cluster: philosophy-of-biology
 role: anchor
 abstract: >
@@ -225,7 +225,9 @@ references:
       authority: Springer Nature
 ---
 
-> **Where This Article Fits** Having introduced APS in *What Is APS?*, this article explains why such a framework remains worth investigating. It identifies unresolved questions concerning living organisation, asks what an APS organisational perspective might contribute alongside established biological and theoretical approaches, and explains how those possible contributions should be assessed. Readers may wish to read this article immediately after *What Is APS?* before continuing to the broader orientation pathway.
+**Where This Article Fits** 
+
+*Having introduced APS in *What Is APS?*, *this article explains why such a framework remains worth investigating. It identifies unresolved questions concerning living organisation, asks what an APS organisational perspective might contribute alongside established biological and theoretical approaches, and explains how those possible contributions should be assessed. Readers may wish to read this article immediately after *What Is APS?* before continuing to the broader orientation pathway.*
 
 ## Section 1 — Introduction. Biology's Extraordinary Achievement
 
@@ -319,13 +321,15 @@ APS therefore begins from an organisational proposal rather than a new biologica
 
 This perspective distinguishes two complementary tasks that can arise within biological explanation. The first is to explain particular biological phenomena through the appropriate empirical sciences, including molecular biology, physiology, developmental biology, ecology, and evolutionary biology. The second, where living organisation itself is explanatorily relevant, is to ask how those explanations bear upon the organisation and continuity of the living system. APS addresses this second task without assuming that it is required for every biological explanandum.
 
-This orientation also explains why APS is organised around three complementary analytic projections:
+To investigate how living organisation persists, APS brings together three familiar kinds of question about activity, change over time, and spatial and temporal extent.
 
 > **Agency**, **Process**, and **Scale**. These are neither separate components of reality nor independent causal forces. They are complementary analytic projections of one and the same living organisation.
 
-> **Agency** asks what living systems do. It investigates the viability-oriented activity through which organisms maintain and re-establish the conditions of their own persistence.
+> **Agency** asks how a living system’s activity sustains or restores the conditions it needs to remain viable.
 
-> **Process** asks how continuity is maintained despite ongoing material turnover, developmental change, and environmental variation. It examines the dynamic organisation through which organised persistence is sustained.
+> **Process** asks how activities and changes fit together over time so that the system’s organisation continues or is re-established.
+
+The same activity can figure in both answers. Agency directs attention to what it contributes to viability, while Process directs attention to how it fits into the system’s continuity through change.
 
 > **Scale** asks across what spatial and temporal extents, and through what materially implemented relations among them, persistence is organised. It does not treat those extents as explanatory hierarchies.
 

@@ -9,12 +9,12 @@ revised: 2026-11-12
 cluster: cognition-and-mind
 role: extension
 abstract: >
-  This companion to How Did Matter Become Aware of Itself? uses the proposed
+  This companion to *How Did Matter Become Aware of Itself?* uses the proposed
   APS pathway from living organisation to reflective agency as an exercise in
   biological explanation. It examines how explanations across disciplines and
   scales can inform one another, what the evidence warrants at each proposed
   connection, and how to assess a claim of explanatory gain. The first worked
-  comparison uses food–odour learning in Caenorhabditis elegans to distinguish
+  comparison uses food–odour learning in *Caenorhabditis elegans* to distinguish
   learned changes in navigation from the capacity to use the current value of
   an expected outcome. The second uses rhesus macaque memory tests to examine
   what memory-guided decisions support and what further evidence would bear on
@@ -24,7 +24,7 @@ abstract: >
 keyPoints:
   - The matter-to-mind question brings together distinct questions about biological organisation, evolution, cognition, self-awareness, and subjective experience.
   - Explanatory pluralism allows accounts from different disciplines and scales to inform one another where the connections can be specified and supported.
-  - Food–odour learning changes cue-guided navigation in Caenorhabditis elegans. A selective outcome-revaluation test would ask whether the worm can use the current value of a specific learned outcome.
+  - Food–odour learning changes cue-guided navigation in *Caenorhabditis elegans*. A selective outcome-revaluation test would ask whether the worm can use the current value of a specific learned outcome.
   - Rhesus macaques selectively decline memory tests when they are less likely to succeed. How a learning-based account explains the specific results, and what the results imply for self-awareness, remain open.
   - The two comparisons clarify what evidence bears on each proposed connection. Comparative clarity and efficiency remain untested, and explanatory gain has yet to be established.
 relatedArticles:
@@ -66,9 +66,9 @@ references:
   - tu-pani-hampton-2015-rhesus-information-seeking
 ---
 
-## Where This Article Fits
+**Where This Article Fits**
 
-This evolving companion to [How Did Matter Become Aware of Itself?](/articles/how-did-matter-become-aware-of-itself/) uses two worked comparisons to examine how proposed connections in the APS account can be tested. Each comparison specifies an explanatory target, assesses what the evidence and existing accounts support, and revises the APS claim in light of the result.
+*This evolving companion article to [How Did Matter Become Aware of Itself?](/articles/how-did-matter-become-aware-of-itself/) uses two worked comparisons to examine how proposed connections in the APS account can be tested. Each comparison specifies an explanatory target, assesses what the evidence and existing accounts support, and revises the APS claim in light of the result.*
 
 ## Introduction
 
