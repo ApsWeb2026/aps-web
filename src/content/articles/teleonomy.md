@@ -6,35 +6,37 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-10-17
+revised: 2026-11-12
 cluster: philosophy-of-biology
 role: core
 
 abstract: >
-  Teleonomy was introduced in twentieth-century biology as a way to describe
-  the apparent goal-directedness of living systems without invoking
-  metaphysical teleology. From Pittendrigh’s original formulation through the
-  influential accounts of Mayr and Monod, and into recent work by Corning and
-  others, teleonomy has attempted to naturalise purposiveness within biology.
-  APS retains the central insight of teleonomy while arguing that purposive
-  organisation cannot be fully explained through evolutionary history or
-  program-like inheritance alone. Instead, APS grounds purpose, function, and
-  normativity in viability-oriented, constraint-closed organisation operating
-  in the present tense.
+  Teleonomy entered twentieth-century biology as a way to discuss goal-directed
+  organisation within a naturalistic account of life. Pittendrigh, Mayr, and
+  Monod gave the term different explanatory roles, and its recent revival has
+  reopened questions about the causal role of organismal activity in evolution
+  and the status of purposive explanation. The Agency–Process–Scale (APS)
+  framework interprets biological purposiveness in relation to the activity
+  through which viability-oriented, constraint-closed systems sustain
+  themselves. This interpretation shares ground with organisational accounts
+  of teleology. Its scope becomes clearer when we distinguish the evolutionary
+  history of a capacity, its contribution to viability in a particular context,
+  and the direction of developmental change.
 
 inBrief: >
-  Teleonomy describes the naturalised goal-directedness of living systems.
-  APS reinterprets teleonomy organisationally by grounding purposiveness in
-  viability-oriented, constraint-closed biological organisation rather than
-  in external design or historical programs alone.
+  Teleonomy names a family of naturalistic accounts of biological
+  goal-directedness. APS locates a basic form of purposiveness in the activity
+  through which living systems sustain the conditions of their own viability.
+  Developmental direction and evolutionary consequences require further
+  explanation at their respective scales.
 
 keyPoints:
-  - Teleonomy was introduced to naturalise biological goal-directedness.
-  - Pittendrigh, Mayr, and Monod developed teleonomy within evolutionary and molecular biology.
-  - Classical teleonomy often explains purposiveness through historical selection and inherited programs.
-  - Recent work by Corning and others revives teleonomy as an active feature of living systems.
-  - APS grounds purpose in present-tense viability-oriented organisation.
-  - Biological normativity arises intrinsically from organised persistence.
+  - Pittendrigh, Mayr, and Monod used teleonomy to address overlapping questions about adaptation, inherited organisation, and goal-directed activity.
+  - Contemporary authors disagree over whether teleonomy improves on the language of naturalised teleology.
+  - Evolutionary history and present organisational activity answer different causal questions about the same capacities.
+  - APS grounds basic biological purposiveness in viability-oriented activity and traces biological normativity to how organisms differentiate and respond to conditions that affect their viability.
+  - Explaining a developmental transition requires identifying the processes that bring it about and the conditions that make it viable.
+  - Organismal activity can influence selection when it changes exposure to conditions relevant to differential survival or reproduction.
 
 relatedGlossaryTerms:
   - purpose
@@ -59,265 +61,91 @@ relatedArticles:
   - why-aps-is-not-holism
 
 references:
-  - id: pittendrigh1958
-    authors: "Pittendrigh, C. S."
-    year: 1958
-    title: "Adaptation, Natural Selection, and Behavior"
-    publisher: "Yale University Press"
-    pages: "390–416"
-
-  - id: delaguna1962
-    authors: "De Laguna, G. A."
-    year: 1962
-    title: "The Role of Teleonomy in Evolution"
-    journal: "Philosophy of Science"
-    volume: "29(2)"
-    pages: "117–131"
-
-  - id: mayr1961
-    authors: "Mayr, E."
-    year: 1961
-    title: "Cause and Effect in Biology"
-    journal: "Science"
-    volume: "134(3489)"
-    pages: "1501–1506"
-    doi: "10.1126/science.134.3489.1501"
-
-  - id: williams1966
-    authors: "Williams, G. C."
-    year: 1966
-    title: "Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought"
-    publisher: "Princeton University Press"
-
-  - id: monod1971
-    authors: "Monod, J."
-    year: 1971
-    title: "Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology"
-    publisher: "Alfred A. Knopf"
-
-  - id: mayr1974
-    authors: "Mayr, E."
-    year: 1974
-    title: "Teleological and Teleonomic: A New Analysis"
-    publisher: "D. Reidel"
-    pages: "91–117"
-
-  - id: mayr1992
-    authors: "Mayr, E."
-    year: 1992
-    title: "The Idea of Teleology"
-    journal: "Journal of the History of Ideas"
-    volume: "53(1)"
-    pages: "117–135"
-    doi: "10.2307/2709913"
-
-  - id: corning2019
-    authors: "Corning, P. A."
-    year: 2019
-    title: "Teleonomy and the Proximate–Ultimate Distinction Revisited"
-    journal: "Biological Journal of the Linnean Society"
-    volume: "127(4)"
-    pages: "912–916"
-    doi: "10.1093/biolinnean/blz087"
-
-  - id: corning2023
-    authors: "Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A. (Eds.)"
-    year: 2023
-    title: "Evolution “On Purpose”: Teleonomy in Living Systems"
-    publisher: "MIT Press"
-
-  - id: dresow2023
-    authors: "Dresow, M."
-    year: 2023
-    title: "Teleonomy: Revisiting a Proposed Conceptual Replacement for Teleology"
-    journal: "Biological Theory"
-    volume: "18"
-    pages: "1–17"
-
-  - id: rama2026
-    authors: "Rama, T."
-    year: 2026
-    title: "Autonomy and Development: Distinguishing Teleological Development from Teleological Physiology"
-    journal: "PhilSci Archive"
+  - pittendrigh-1958-adaptation-natural-selection-behavior
+  - mayr-1961-cause-effect-biology
+  - de-laguna-1962-role-teleonomy-evolution
+  - williams-1966-adaptation-natural-selection
+  - monod-1971-chance-necessity
+  - mayr-1974-teleological-teleonomic
+  - mayr-1992-idea-teleology
+  - mossio-bich-2017-biological-organisation-teleological
+  - corning-2019-teleonomy-proximate-ultimate
+  - joshi-et-al-2022-plant-photosynthesis-hydraulics
+  - corning-et-al-2023-evolution-purpose
+  - dresow-love-2023-teleonomy
+  - vane-wright-corning-2023-teleonomy-overview
+  - bich-2024-organisational-teleology-regulatory-control
+  - corning-2026-teleonomy-synergy
+  - cuciniello-2026-organisational-approach-teleology
+  - rama-2026-autonomy-development-teleology
 ---
 
-## The Problem Teleonomy Was Introduced to Solve
+**Where This Article Fits**
 
-Living systems exhibit forms of organisation that appear directed toward the
-maintenance and continuation of life. Organisms regulate internal conditions,
-repair damage, acquire resources, coordinate development, and reproduce across
-generations. Such activities have long appeared purposive or goal-directed.
+*This Core article connects the history of teleonomy with the APS accounts of biological agency, function, and normativity. It begins with twentieth-century attempts to explain goal-directed activity and asks what an organisational account can explain about self-maintenance, development, and evolution.*
 
-Classical teleology explained these phenomena through final causes, intrinsic
-purposes, or cosmic design. With the rise of mechanistic science, however,
-teleological explanation came to be regarded as scientifically problematic
-because it appeared to invoke intention, foresight, or non-natural causes.
+## Introduction
 
-Teleonomy emerged as an attempt to preserve the descriptive reality of
-biological purposiveness while eliminating these metaphysical commitments.
+WWhen water becomes scarce, a plant may close its stomata. Closure can conserve water while restricting carbon dioxide uptake and limiting photosynthesis (Joshi et al., 2022). Whether closure supports the plant’s viability depends on the severity of water stress and how long the response lasts. Explaining why the activity counts as purposive requires attention to the mechanism, the organism that the mechanism helps sustain, and the circumstances in which it acts.
 
-## The Historical Development of Teleonomy
+In twentieth-century biology, *teleonomy* offered a way to discuss such cases within a naturalistic account of life. The term helped distinguish the goal-directed activities of organisms from the proposition that evolution itself moves towards a predetermined end. It also brought into view a question that survives any choice of terminology. What gives an activity its direction, and what makes the outcome matter biologically?
 
-The concept of teleonomy is generally associated with Colin S. Pittendrigh,
-whose 1958 discussion of adaptation and behaviour introduced the term into
-modern biology. Pittendrigh sought a way to discuss the organised,
-goal-directed character of biological systems without returning to classical
-teleology.
+## How Teleonomy Entered Biology
 
-Teleonomy quickly became influential within evolutionary biology and the
-philosophy of biology. George A. de Laguna expanded the discussion into
-evolutionary theory, while George C. Williams reinforced the importance of
-adaptation and natural selection in explaining biological function.
+Colin Pittendrigh introduced *teleonomy* in a discussion of adaptation and behaviour (1958). The term let biologists speak of end-directed organisation while setting aside the implication that an end could explain an event by acting as its future cause. The question of what explanatory work the term could do arose early. Grace A. De Laguna (1962), discussing the Darwin Centennial proceedings, argued that treating teleonomy as merely descriptive left its possible significance for evolutionary theory unexplored.
 
-Ernst Mayr later provided the most influential formulation of teleonomy. In
-Mayr’s account, organisms behave teleonomically because they operate according
-to inherited programs produced through evolutionary history.
+Ernst Mayr gave the concept a more specific meaning. In 1961, he distinguished proximate questions about how an activity occurs from ultimate questions about its evolutionary history and used the idea of a programme to explain how goal-directed activity unfolds. His later treatments made explicit that teleonomy applied to processes whose course was governed by a programme (Mayr, 1974, 1992). Selection could explain how the capacity became established, while the programme addressed how it operated. Williams (1966) used *teleonomy* for the study of trait function, giving the term a different role in the analysis of adaptation.
 
-Jacques Monod further popularised the concept in molecular biology. In
-*Chance and Necessity*, Monod treated teleonomy as one of the defining
-characteristics of life while insisting that biological purposiveness must be
-explained through natural processes rather than design.
+Jacques Monod (1971) gave teleonomy a prominent place in molecular biology by treating the preservation and transmission of the organisation characteristic of living beings as a general project served by their structures and performances. His account linked teleonomy to reproductive continuity, molecular organisation, and selection. The differences among Pittendrigh, Mayr, and Monod matter because the historical term covers a range of explanatory projects. A question about how an organism regulates its activity, a question about how inherited capacities shape that activity, and a question about why those capacities persisted in a lineage can each elicit a different answer.
 
-These formulations were historically important because they allowed biology to
-retain concepts such as function, regulation, adaptation, and purposiveness
-without invoking metaphysical teleology.
+## Why the Debate Reopened
 
-## Classical Teleonomy
+Corning (2019) argues that purposiveness is evident in the way organisms actively use means to achieve ends and that these activities can themselves influence survival and reproduction. The Linnean Society special issue introduced by Vane-Wright and Corning (2023), and the companion volume *Evolution “On Purpose”* (Corning et al., 2023), develop this theme from several perspectives. Corning (2026) extends it by considering how purposive activity and the functional consequences of cooperation can shape evolutionary outcomes. An organism’s activities can change the conditions it encounters or creates. Where those changes affect differential survival or reproduction, the activities can enter a causal account of selection as well as having an evolutionary history of their own.
 
-In its standard form, teleonomy explains purposive organisation through
-evolutionary history.
+The revival also raises a question about the value of the term itself. Dresow and Love (2023) trace the variety of problems for which teleonomy has been proposed and question its merits as a general replacement for *teleology*. Their analysis gives reason to specify the explanatory problem before deciding which term best fits it. A study of an evolved function, an account of regulatory activity, and an explanation of a developmental trajectory need different kinds of evidence even when all three concern purposiveness.
 
-Organisms appear goal-directed because natural selection has preserved forms
-of organisation that contribute to survival and reproduction. Biological
-activity is therefore interpreted in relation to inherited programs,
-adaptations, and historically selected functions.
-
-Teleonomic explanation commonly appeals to:
-
-- natural selection
-- inherited organisation
-- genetic and developmental programs
-- adaptive function
-- evolutionary history
-
-This was a major conceptual advance. Purpose no longer required external
-design or future causes. Instead, purposive organisation could be understood
-as the outcome of evolutionary processes operating across time.
-
-## The Contemporary Revival of Teleonomy
-
-Recent work has reopened the concept of teleonomy rather than abandoning it.
-
-Peter A. Corning has argued that teleonomy should not be reduced to historical
-selection or genetic instruction alone. Living systems exhibit internally
-organised means–ends relations that operate causally in the present.
-
-The 2023 volume *Evolution “On Purpose”: Teleonomy in Living Systems* further
-develops this revival. Contributors including Corning, Kauffman, Noble,
-Shapiro, Vane-Wright, and Pross argue that purposive organisation is not
-merely an explanatory illusion but a real feature of living systems and their
-evolutionary dynamics.
-
-APS shares much of this motivation while seeking a more precise explanatory
-grounding.
-
-## The Limits of Classical Teleonomy
-
-Although teleonomy successfully naturalised purposive language, important
-problems remained unresolved.
-
-### Historical Displacement of Purpose
-
-Classical teleonomy often explains purposiveness primarily through historical
-selection. This clarifies how biological organisation emerged, but does not
-fully explain why organisms regulate themselves purposively in the present.
-
-### The Program Problem
-
-Program-based formulations of teleonomy risk portraying organisms as systems
-that merely execute inherited instructions.
-
-APS rejects this interpretation. Organisms are dynamically organised systems
-whose activities continuously sustain their own viability across changing
-conditions.
-
-### Under-specification of Normativity
-
-Teleonomic accounts also struggle to explain biological normativity in the
-present tense.
-
-Evolutionary history can explain why traits were selected, but it does not by
-itself explain why starvation, injury, dysregulation, or system failure are
-bad for the organism now.
-
-APS treats this evaluative asymmetry as intrinsic to living organisation.
-
-### Developmental Direction
-
-Related critiques note that self-maintenance alone may be insufficient to
-explain the organised directionality of biological development.
-
-APS addresses this by interpreting development as the temporally extended
-reorganisation of viability-oriented, constraint-closed organisation across
-time and scale.
-
-## APS: Organisational Grounding of Purpose
-
-APS resolves these tensions by grounding purposiveness in present-tense
-organisation rather than in historical explanation alone.
+## Purposiveness, Function, and Normativity in APS
 
 [[box:aps-box-what-aps-adds-to-contemporary-biology]]
 
-In APS, purpose is not imposed externally and is not reducible to inherited
-programs. It emerges from viability-oriented, constraint-closed organisation.
+APS locates a basic form of purposiveness in the activity through which a living system sustains its viability. Viability depends on conditions relative to the system and its circumstances. Constraint closure concerns the reciprocal dependencies among constraints that help sustain the organisation. Those dependencies can be realised through processes operating over different timescales, and the system remains materially and energetically open to its surroundings. APS uses *biological agency* for the viability-oriented activity of this organisation. In this sense, purposiveness concerns what the activity does within the system’s ongoing life. It requires neither anticipation of an outcome nor a conscious goal.
 
-Living systems continuously regulate the conditions required for their own
-persistence. This activity constitutes biological agency.
+The stomatal example gives this interpretation empirical content. An account would identify which changes in the plant and its surroundings alter stomatal opening and how that response affects water balance and carbon assimilation over the relevant period. In APS, *evaluation* is the organism’s active differentiation of conditions through responses that bear on its viability. This differentiation grounds biological normativity: stomatal regulation can succeed in conserving water under one set of conditions and become inadequate or costly under another. Its contribution to viability is a claim about current organisational function. Establishing that past selection favoured the capacity because of a particular effect requires historical evidence.
 
-From this perspective:
+This account shares substantial ground with organisational theories of teleology. Mossio and Bich (2017) explain biological teleology through the way a system’s activity helps determine its own conditions of existence. Bich (2024) extends the analysis to regulatory control, asking how organisms change their activity as conditions vary. The APS formulation makes the relation between agency, viability, and organised persistence explicit and asks at what scale a contribution occurs and over what interval it matters. A general appeal to closure or viability establishes a question for investigation. The explanation of a particular case comes from identifying the constraints, activities, and effects that connect the two.
 
-- purpose is organisation directed toward viability
-- function is the contribution of a process to organised persistence
-- normativity is intrinsic to living organisation
-- evolution is the long-term transformation of viability-oriented systems
+## The Developmental Question
 
-## Normativity and Organised Persistence
+The distinction between self-maintenance and developmental direction sets a limit on what the basic organisational account can explain. A seedling must remain viable as it develops, but the conditions that sustain it at one stage leave open how its tissues differentiate and how its dependence on stored reserves changes as photosynthetic capacity develops. An explanation of that transition requires identifying the processes that generate a new organisation, the conditions that enable the transition, and the range of trajectories available under different circumstances.
 
-APS grounds normativity directly in the organisation of living systems.
+Rama (2026) argues that theories developed to explain physiological autonomy do not, by themselves, explain the direction of developmental transitions and trajectories. Cuciniello (2026) likewise examines how far organisational teleology extends from reciprocal self-maintenance to regulation and development. APS treats development as a transformation of living organisation through time. This makes continuity of viability through organisational change part of the problem to be explained. It leaves the direction of a particular developmental trajectory to be established by tracing the constraints, inherited resources, interactions, and environmental conditions that shape it.
 
-Processes within organisms are not neutral. Some states contribute to
-viability and continuity, while others lead toward breakdown and loss of
-organisation.
+## Conclusion
 
-Teleonomy identified the reality of biological purposiveness. APS provides its
-organisational grounding.
+Teleonomy helped make goal-directed activity discussable within a naturalistic biology. The history of the term also shows how easily questions about the origin of a capacity, its operation, and its biological significance can be run together. APS interprets basic purposiveness in relation to what an activity contributes to the viable persistence of the organisation that performs it. This interpretation applies most directly where the relevant conditions, processes, and consequences can be specified. When the question concerns a developmental trajectory or an evolutionary outcome, the explanation must also show how transitions occur or how organismal activities change the conditions of differential survival and reproduction.
 
-## Reinterpreting Teleonomy
+## Explanatory Architecture
 
-From an APS perspective, teleonomy represents an important transitional stage
-in the naturalisation of biological purpose.
+### Central Question
 
-It correctly recognised that living systems exhibit genuine purposive
-organisation and that this organisation must be explained scientifically.
-However, classical teleonomy often grounded purposiveness too heavily in
-historical selection and inherited programs.
+What makes an activity biologically purposive, and what must be explained when its significance is physiological, developmental, or evolutionary?
 
-Recent work by Corning and others moves closer to an organisational account by
-emphasising organismal activity and internally organised purposiveness.
+### Architectural Role
 
-APS extends this development further by grounding purpose directly in
-viability-oriented, constraint-closed organisation operating in the present
-tense.
+This Core article connects the historical problem of naturalising biological purposiveness with the APS account of viability-oriented activity. It uses teleonomy to distinguish questions about evolutionary origin, causal organisation, and biological significance.
 
-## In Brief
+### Preceding Explanatory Dependencies
 
-Teleonomy emerged as a twentieth-century attempt to naturalise biological
-goal-directedness without invoking classical teleology. From Pittendrigh and
-Mayr to recent work by Corning and others, teleonomy has sought to explain the
-purposive organisation of living systems within a scientific framework.
+The APS argument depends on the concepts of viability, constraint closure, biological agency, and organised persistence. The twentieth-century teleonomy literature supplies the historical problem and its early formulations. Organisational accounts of teleology are closely related contemporary explanations and provide a basis for comparison.
 
-APS retains this insight while providing a deeper organisational grounding.
-Biological purposiveness is not merely the outcome of historical selection or
-program-like inheritance. It is the present-tense activity of
-viability-oriented, constraint-closed systems sustaining organised persistence
-across time.
+### Related Explanatory Developments
+
+*APS and Autonomy Theory* provides the closest comparison for organisational self-maintenance. The article on organism–world coupling develops the role of environmental relations in agency, *Explanatory Priority Is Not Ontological Priority* distinguishes the importance of a factor for answering a biological question from claims about what is most fundamental in existence.
+
+### Related Explanatory Questions
+
+How can a current contribution to viability be established? When does a selected effect coincide with a current organisational function? What determines the direction of a developmental transition? Under what conditions does organismal activity change the course of selection?
+
+### Position Within APS
+
+Agency concerns the viability-oriented activity of living organisation. Process concerns how that organisation is maintained and transformed over time. Scale identifies the organism, component, or lineage and the timescale relevant to a given claim about purpose or function.

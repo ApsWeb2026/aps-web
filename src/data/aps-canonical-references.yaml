@@ -7679,3 +7679,152 @@ references:
     status: verified
     authority: Cambridge University Press original print copyright page and Cambridge Core
     verifiedDate: '2026-11-12'
+- id: mayr-1961-cause-effect-biology
+  type: journal-article
+  authors: Mayr, E.
+  year: 1961
+  title: Cause and Effect in Biology
+  journal: Science
+  volume: '134'
+  issue: '3489'
+  pages: '1501–1506'
+  doi: 10.1126/science.134.3489.1501
+  verification:
+    status: verified
+    authority: PubMed bibliographic record
+    verifiedDate: '2026-11-12'
+- id: de-laguna-1962-role-teleonomy-evolution
+  type: journal-article
+  authors: De Laguna, G. A.
+  year: 1962
+  title: The Role of Teleonomy in Evolution
+  journal: Philosophy of Science
+  volume: '29'
+  issue: '2'
+  pages: '117–131'
+  doi: 10.1086/287855
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: '2026-11-12'
+- id: williams-1966-adaptation-natural-selection
+  type: book
+  authors: Williams, G. C.
+  year: 1966
+  title: 'Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press and Google Books original-edition record
+    verifiedDate: '2026-11-12'
+- id: mayr-1974-teleological-teleonomic
+  type: book-chapter
+  authors: Mayr, E.
+  year: 1974
+  title: Teleological and Teleonomic, a New Analysis
+  book-title: Methodological and Historical Essays in the Natural and Social Sciences
+  editors: Cohen, R. S., & Wartofsky, M. W.
+  publisher: D. Reidel Publishing Company
+  pages: '91–117'
+  doi: 10.1007/978-94-010-2128-9_6
+  verification:
+    status: verified
+    authority: Springer Nature volume record and Stanford Encyclopedia of Philosophy bibliography
+    verifiedDate: '2026-11-12'
+- id: mayr-1992-idea-teleology
+  type: journal-article
+  authors: Mayr, E.
+  year: 1992
+  title: The Idea of Teleology
+  journal: Journal of the History of Ideas
+  volume: '53'
+  issue: '1'
+  pages: '117–135'
+  doi: 10.2307/2709913
+  verification:
+    status: verified
+    authority: PhilPapers bibliographic record
+    verifiedDate: '2026-11-12'
+- id: joshi-et-al-2022-plant-photosynthesis-hydraulics
+  type: journal-article
+  authors: Joshi, J., Stocker, B. D., Hofhansl, F., Zhou, S., Dieckmann, U., & Prentice, I. C.
+  year: 2022
+  title: Towards a unified theory of plant photosynthesis and hydraulics
+  journal: Nature Plants
+  volume: '8'
+  issue: '11'
+  pages: '1304–1316'
+  doi: 10.1038/s41477-022-01244-5
+  verification:
+    status: verified
+    authority: Nature Plants and PubMed
+    verifiedDate: '2026-11-12'
+- id: dresow-love-2023-teleonomy
+  type: journal-article
+  authors: Dresow, M., & Love, A. C.
+  year: 2023
+  title: 'Teleonomy: Revisiting a Proposed Conceptual Replacement for Teleology'
+  journal: Biological Theory
+  volume: '18'
+  issue: '2'
+  pages: '101–113'
+  doi: 10.1007/s13752-022-00424-y
+  verification:
+    status: verified
+    authority: Springer Nature and PubMed
+    verifiedDate: '2026-11-12'
+- id: vane-wright-corning-2023-teleonomy-overview
+  type: journal-article
+  authors: Vane-Wright, R. I., & Corning, P. A.
+  year: 2023
+  title: 'Teleonomy in living systems: an overview'
+  journal: Biological Journal of the Linnean Society
+  volume: '139'
+  issue: '4'
+  pages: '341–356'
+  doi: 10.1093/biolinnean/blad037
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: '2026-11-12'
+- id: corning-2026-teleonomy-synergy
+  type: journal-article
+  authors: Corning, P. A.
+  year: 2026
+  title: 'Teleonomy and synergy: How living systems have shaped biological evolution'
+  journal: BioSystems
+  volume: '266'
+  article-number: '105845'
+  doi: 10.1016/j.biosystems.2026.105845
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect and PubMed
+    verifiedDate: '2026-11-12'
+- id: cuciniello-2026-organisational-approach-teleology
+  type: journal-article
+  authors: Cuciniello, R. R.
+  year: 2026
+  title: 'What teleology (if any) does the Organisational Approach naturalise?'
+  journal: History and Philosophy of the Life Sciences
+  volume: '48'
+  issue: '2'
+  article-number: '24'
+  doi: 10.1007/s40656-026-00731-8
+  verification:
+    status: verified
+    authority: Springer Nature and PubMed
+    verifiedDate: '2026-11-12'
+- id: rama-2026-autonomy-development-teleology
+  type: journal-article
+  authors: Rama, T.
+  year: 2026
+  title: 'Autonomy and development: distinguishing teleological development from teleological physiology'
+  journal: Biology & Philosophy
+  volume: '41'
+  issue: '1'
+  article-number: '6'
+  doi: 10.1007/s10539-026-10007-x
+  verification:
+    status: verified
+    authority: Springer Nature version of record
+    verifiedDate: '2026-11-12'
