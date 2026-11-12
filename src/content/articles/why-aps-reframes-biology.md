@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why APS Reframes Biology"
 date: 2026-05-12
 slug: why-aps-reframes-biology
