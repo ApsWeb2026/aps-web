@@ -9,12 +9,12 @@ revised: 2026-11-13
 cluster: cognition-and-mind
 role: extension
 abstract: >
-  This companion to *How Did Matter Become Aware of Itself?* uses the proposed
+  This companion to How Did Matter Become Aware of Itself? uses the proposed
   APS pathway from living organisation to reflective agency as an exercise in
   biological explanation. It examines how explanations across disciplines and
   scales can inform one another, what the evidence warrants at each proposed
   connection, and how to assess a claim of explanatory gain. The article examines two proposed connections in the APS pathway from living organisation to self-awareness. It asks what using the current value of a learned outcome would tell us about cognition, and what using information about the availability of a memory would tell us about awareness of oneself as remembering. The first worked
-  comparison uses food–odour learning in *Caenorhabditis elegans* to distinguish
+  comparison uses food–odour learning in Caenorhabditis elegans to distinguish
   learned changes in navigation from the capacity to use the current value of
   an expected outcome. The second uses rhesus macaque memory tests to examine
   what memory-guided decisions support and what further evidence would bear on

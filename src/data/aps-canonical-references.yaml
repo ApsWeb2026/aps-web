@@ -7828,3 +7828,96 @@ references:
     status: verified
     authority: Springer Nature version of record
     verifiedDate: '2026-11-12'
+- id: beadle-1958-genes-chemical-reactions-neurospora
+  type: archival-document
+  authors: Beadle, G. W.
+  year: 1958
+  title: Genes and Chemical Reactions in Neurospora
+  repository: Nobel Prize Outreach
+  identifier: Nobel Lecture, 11 December 1958
+  url: https://www.nobelprize.org/uploads/2018/06/beadle-lecture.pdf
+  verification:
+    status: verified
+    authority: NobelPrize.org official lecture PDF
+    verifiedDate: '2026-11-13'
+- id: beadle-tatum-1941-genetic-control-neurospora
+  type: journal-article
+  authors: Beadle, G. W., & Tatum, E. L.
+  year: 1941
+  title: Genetic Control of Biochemical Reactions in Neurospora
+  journal: Proceedings of the National Academy of Sciences
+  volume: '27'
+  issue: '11'
+  pages: 499–506
+  doi: 10.1073/pnas.27.11.499
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-13'
+- id: berget-moore-sharp-1977-spliced-segments
+  type: journal-article
+  authors: Berget, S. M., Moore, C., & Sharp, P. A.
+  year: 1977
+  title: Spliced Segments at the 5′ Terminus of Adenovirus 2 Late mRNA
+  journal: Proceedings of the National Academy of Sciences
+  volume: '74'
+  issue: '8'
+  pages: 3171–3175
+  doi: 10.1073/pnas.74.8.3171
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-13'
+- id: creighton-mcclintock-1931-crossing-over-maize
+  type: journal-article
+  authors: Creighton, H. B., & McClintock, B.
+  year: 1931
+  title: A Correlation of Cytological and Genetical Crossing-Over in Zea Mays
+  journal: Proceedings of the National Academy of Sciences
+  volume: '17'
+  issue: '8'
+  pages: 492–497
+  doi: 10.1073/pnas.17.8.492
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-13'
+- id: jacob-monod-1961-genetic-regulatory-mechanisms
+  type: journal-article
+  authors: Jacob, F., & Monod, J.
+  year: 1961
+  title: Genetic Regulatory Mechanisms in the Synthesis of Proteins
+  journal: Journal of Molecular Biology
+  volume: '3'
+  issue: '3'
+  pages: 318–356
+  doi: 10.1016/S0022-2836(61)80072-7
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: '2026-11-13'
+- id: meunier-2025-gene
+  type: book
+  authors: Meunier, R.
+  year: 2025
+  title: Gene
+  publisher: Stanford Encyclopedia of Philosophy
+  url: https://plato.stanford.edu/archives/spr2025/entries/gene/
+  verification:
+    status: verified
+    authority: Stanford Encyclopedia of Philosophy author and citation record
+    verifiedDate: '2026-11-13'
+- id: sturtevant-1913-linear-arrangement-sex-linked-factors
+  type: journal-article
+  authors: Sturtevant, A. H.
+  year: 1913
+  title: The Linear Arrangement of Six Sex-Linked Factors in Drosophila, as Shown by Their Mode of Association
+  journal: Journal of Experimental Zoology
+  volume: '14'
+  issue: '1'
+  pages: 43–59
+  doi: 10.1002/jez.1400140104
+  verification:
+    status: verified
+    authority: Wiley Online Library
+    verifiedDate: '2026-11-13'
