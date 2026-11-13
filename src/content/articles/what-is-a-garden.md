@@ -23,6 +23,7 @@ references:
   - liberty-hyde-bailey-hortorium-1976-hortus-third
   - obrien-2010-gardening-philosophy
   - wittgenstein-2009-philosophical-investigations
+  - leslie-hunt-2013-cultural-history-gardens
 ---
 
 **Where This Article Fits**
@@ -73,23 +74,35 @@ A further possibility is to sharpen the concept for a task. Suppose we were esta
 
 Our question can therefore receive several legitimate kinds of answer. A register needs criteria that people can apply consistently. An essay on gardens can make progress by showing which features explain familiar cases, why other cases are difficult, and where greater precision would help. The dry garden and the old shrubbery have earned their place in the inquiry because they show what we might lose by insisting on a sharp boundary before we know what it is for.
 
-## What Gardens Mean to Us
+## How We Read a Garden
 
-A plan of a garden can show where the trees stand, how the paths curve, and which parts catch the afternoon sun. It may tell us very little about why someone returns to sit beside a particular tree. David E. Cooper’s *A Philosophy of Gardens* (2006) gives us reason to take that question seriously. A garden is encountered through activities and experiences that a plan can only partly convey. The person who waters the vegetables before work, the visitor who comes to remember someone, and the child who has just discovered that peas grow in pods may all notice different things about the same place.
+Suppose we find three records of our overgrown suburban garden. A plan shows a straight path from the kitchen door to the vegetable beds. A photograph shows chairs beneath the fruit tree. Someone who grew up there remembers summer evenings spent picking beans and carrying water from the back tap. Was this principally a productive garden, or had it become a place for sitting outdoors? The answer may depend on when we look, whose experience we consider, and what each record allows us to see.
 
-Purpose can also shape what is there to be noticed. In a productive garden, a path may be placed where it makes watering and harvesting easier. In a memorial garden, a path may lead to a place where people can sit together. Those purposes help explain the arrangement. Someone may later find solace in the productive garden, and children may turn the memorial path into a favourite route through the grounds. A garden’s significance can grow through use and experience long after the choices that gave it its form.
+The six volumes of *A Cultural History of Gardens* follow the same lines of enquiry across different periods (Leslie and Hunt 2013). Design asks how the place was laid out. Garden type asks which traditions or purposes help us understand it. Planting asks what was grown, where, and how it changed. Use and reception ask what people did there and how they responded to the place. Meaning asks what it came to signify. Verbal and visual representations help us investigate those questions, and they show how people chose to describe or depict the garden. The larger landscape brings into view relationships that extend beyond the plot.
 
-Gardening itself deserves a place in this discussion. The essays collected by Dan O’Brien (2010) give a sense of the range of questions that open up once we attend to what gardeners do. Tending a garden can involve learning to recognise what thrives in a particular spot, adjusting a plan in response to what grows, and discovering what can be left alone. The meadow is a good illustration. Its character depends on what the gardener does and on what happens between those interventions. A visitor who sees it only once may appreciate the arrangement. A gardener who returns through the seasons may see something else in it as well.
+Let’s see what those questions do for our three records. The plan makes the garden look like a place organised around growing food, but we would have to trace the old path and look for the edges of the beds to see how closely the garden followed the plan. The photograph records a moment of leisure. Its framing leaves the vegetable beds out of view, so it tells us little about how much of the plot was still given over to food. The recollection brings the work of growing food back into the picture. Someone else in the household might remember those same evenings chiefly for the company beneath the tree. The garden could have served both purposes at once, or its balance of uses could have changed as the tree grew and the beds received less attention.
 
-These differences of purpose and experience enrich our understanding of particular gardens. They also help us see why a description of the physical elements, however complete, can leave the place only partly understood. We may agree that the vegetable plot and the memorial garden both count as gardens while having quite different things to say about why they matter.
+The neighbouring properties might help explain that change. Suppose a tree next door eventually shaded the vegetable beds. What looks on the plan like a decision about where to grow food may have become, years later, a question of where there was still enough sun. The ha-ha made this relationship with the wider landscape easy to see in a grand garden. In a suburban plot, the influence may be as ordinary as shade falling across a fence.
+
+These questions give gardeners and garden historians an explanatory grammar. They help us decide what to look for, what to ask, and what we can infer from the answers. They also sharpen our opening question. The path can survive after the beds disappear, and someone can remember the garden as a place of work long after the photograph becomes the family’s favourite image of it. To ask whether the garden has survived is now to ask which parts of its design, planting, use, and significance have endured, and how we know.
+
+## What Gardens Come to Mean
+
+Think again of the chairs beneath the fruit tree. Whoever planted the tree may have wanted fruit, and its shade may later have made it a place to sit. The photograph shows where someone put the chairs on one occasion. To understand what that corner of the garden came to mean, we would want to know who sat there, whether they came back, and what they remembered of it afterwards.
+
+David E. Cooper’s *A Philosophy of Gardens* (2006) takes the significance of gardens as a philosophical question in its own right. The distinction between use and meaning gives us a way into that question. A path in a memorial garden may be designed to lead visitors to a place of remembrance. A path through a vegetable garden may be laid out for harvesting and become, over years of use, the route someone takes whenever they want a moment to themselves. In one case, the purpose helps explain the design. In the other, a meaning emerges from a use the designer may never have imagined.
+
+The essays collected by Dan O’Brien (2010) also invite us to consider what it is like to be the person doing the gardening. Think again of the sown meadow. A visitor might see a pleasing arrangement of grasses and flowers. The gardener who comes back week after week may recognise which plants have spread, what the last cut encouraged, and where waiting another fortnight would make a difference. The same planting is understood through different kinds of attention. Over time, the practice of tending it can become part of what makes the place significant.
 
 ## Back to the Old Path
 
-By now we can say something more informative about the patch of ground with which we began. In familiar cases, a garden is a place deliberately shaped or tended, usually through the cultivation or arrangement of plants. Its character can persist through changes in its appearance, its use, and the care it receives. This is a working account of familiar cases. The dry garden gives us reason to leave room for forms of garden-making in which plants are absent. The cultivated field gives us reason to look beyond cultivation alone. The meadow shows how much a garden can owe to restraint.
+At first, the height of the grass seemed to tell us how far the place had gone towards becoming a former garden. Now we can ask more of what we see. If the old path follows the route shown on the plan, we have some evidence that the design was carried out. If the vegetable beds have disappeared, the recollection of picking beans helps us recover a use the photograph leaves out. And if a neighbouring tree now shades the old beds, the garden’s surroundings may help explain why that use declined. Each clue tells us something different about what has endured and what has changed.
 
-Is the old shrubbery still a garden? If the paths and beds remain legible, and the place is still understood and used in relation to its former arrangement, *overgrown garden* may be the most illuminating description. If very little of that arrangement survives and the site’s current use has lost its connection to gardening, *former garden* may say more. Between those possibilities there may be a long period in which either description makes sense. Someone researching the history of the place and someone deciding how to care for it today may have different reasons for choosing.
+In familiar cases, a garden is a place deliberately shaped or tended, usually through the cultivation or arrangement of plants. Our examples give that account some room to breathe. A dry garden shows what deliberate arrangement can achieve with stones and gravel. A meadow garden shows that care can include restraint. A cultivated field makes us ask what other features, alongside cultivation, help us recognise a place as a garden.
 
-The gnome is still there. We now know to look at more than the height of the grass. We can ask what the place owes to its makers, what survives of their work, and whether the garden is still part of anyone’s life. Even if we continue to disagree about what to call it, we can understand what our disagreement is about.
+So is the shrubbery still a garden? The old planting may survive after regular care has ceased. The design may be legible to someone who knows where to look. A person who grew up there may still speak of *the garden* after a visitor has come to see it as scrub. These judgements draw on different aspects of the same place, and there may be a long period in which both *overgrown garden* and *former garden* are defensible.
+
+The gnome is still there. We began by asking how much neglect a garden could withstand. We can now ask which parts of this garden have endured, how we know, and why they matter to the people who remember or use it. That is what made the journey worth taking.
 
 ## Explanatory Architecture
 
@@ -99,7 +112,7 @@ What is a garden, and what kind of answer can we reasonably expect to give?
 
 ### Architectural Role
 
-The article offers a worked example of philosophical inquiry. It follows a series of judgements about gardens and shows how the reasons for those judgements change as the cases become more demanding.
+The article follows a series of judgements about what counts as a garden and shows how the reasons for those judgements change as the cases become more demanding. It then uses the framework of garden history to examine how we understand a particular garden through its design, type, planting, use and reception, meaning, verbal and visual representations, and relationship to the larger landscape.
 
 ### Preceding Explanatory Dependencies
 

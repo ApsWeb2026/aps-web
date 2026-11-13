@@ -8016,3 +8016,14 @@ references:
     status: verified
     authority: Wiley / Bibliothèque nationale de France
     verifiedDate: '2026-11-13'
+- id: leslie-hunt-2013-cultural-history-gardens
+  type: edited-book
+  editors: Leslie, M., & Hunt, J. D.
+  year: 2013
+  title: A Cultural History of Gardens
+  publisher: Bloomsbury Academic
+  note: 'Six-volume set. Volume 1, A Cultural History of Gardens in Antiquity, was edited by Kathryn L. Gleason.'
+  verification:
+    status: verified
+    authority: Bloomsbury Academic six-volume set catalogue
+    verifiedDate: '2026-11-13'
