@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-11-12
+revised: 2026-11-13
 cluster: philosophy-of-biology
 role: core
 
@@ -86,7 +86,7 @@ references:
 
 ## Introduction
 
-WWhen water becomes scarce, a plant may close its stomata. Closure can conserve water while restricting carbon dioxide uptake and limiting photosynthesis (Joshi et al., 2022). Whether closure supports the plant’s viability depends on the severity of water stress and how long the response lasts. Explaining why the activity counts as purposive requires attention to the mechanism, the organism that the mechanism helps sustain, and the circumstances in which it acts.
+When water becomes scarce, a plant may close its stomata. Closure can conserve water while restricting carbon dioxide uptake and limiting photosynthesis (Joshi et al., 2022). Whether closure supports the plant’s viability depends on the severity of water stress and how long the response lasts. Explaining why the activity counts as purposive requires attention to the mechanism, the organism that the mechanism helps sustain, and the circumstances in which it acts.
 
 In twentieth-century biology, *teleonomy* offered a way to discuss such cases within a naturalistic account of life. The term helped distinguish the goal-directed activities of organisms from the proposition that evolution itself moves towards a predetermined end. It also brought into view a question that survives any choice of terminology. What gives an activity its direction, and what makes the outcome matter biologically?
 

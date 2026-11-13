@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
-revised: 2026-10-27
+revised: 2026-11-13
 cluster: cognition-and-mind
 role: anchor
 
@@ -71,9 +71,11 @@ references:
   - chalmers-1995-facing-consciousness
 ---
 
-**Where This Article Fits** 
+**Where This Article Fits**
 
-*This article is an advanced synthesis within APS. It draws together concepts developed separately across the framework and uses them to organise the matter-to-mind problem. It does not establish the biological dependencies among those concepts merely by placing them in an explanatory order. Those dependencies remain subject to specification, comparison, and empirical test.*
+*This article is an advanced synthesis within APS. It draws together concepts developed separately across the framework to organise the matter-to-mind problem. Its explanatory ordering identifies proposed biological dependencies that need to be specified, compared with existing accounts, and tested empirically.*
+
+*The companion article [From Matter to Mind: An Exercise in Biological Explanation](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/) examines two of these proposed connections. It asks what a worm’s ability to adjust its response when an expected food changes in value would tell us about the relation between integrated regulation and cognition, and how far evidence of memory monitoring in macaques bears on awareness of oneself as remembering. Each comparison asks what the evidence supports and whether APS adds explanatory content beyond the strongest existing account.*
 
 ## Introduction
 
