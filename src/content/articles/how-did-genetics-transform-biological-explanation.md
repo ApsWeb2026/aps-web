@@ -48,7 +48,6 @@ references:
   - meunier-2025-gene
   - sturtevant-1913-linear-arrangement-sex-linked-factors
 ---
-- Meunier, R. 2025. [Gene](https://plato.stanford.edu/archives/spr2025/entries/gene/). In *The Stanford Encyclopedia of Philosophy*, Spring 2025 edition, edited by E. N. Zalta and U. Nodelman.
 
 **Where This Article Fits**
 
@@ -119,14 +118,3 @@ What does a genetic map represent? Under what conditions does a hereditary diffe
 ### Position Within APS
 
 This is a historical inquiry. Its examples help specify where an organisational interpretation can clarify an existing explanation and what would have to be shown for it to add explanatory content.
-
-## References
-
-- Beadle, G. W. 1958. [Genes and Chemical Reactions in Neurospora](https://www.nobelprize.org/uploads/2018/06/beadle-lecture.pdf). Nobel Lecture.
-- Beadle, G. W., and Tatum, E. L. 1941. [Genetic Control of Biochemical Reactions in Neurospora](https://doi.org/10.1073/pnas.27.11.499). *Proceedings of the National Academy of Sciences* 27: 499–506.
-- Berget, S. M., Moore, C., and Sharp, P. A. 1977. [Spliced Segments at the 5′ Terminus of Adenovirus 2 Late mRNA](https://doi.org/10.1073/pnas.74.8.3171). *Proceedings of the National Academy of Sciences* 74: 3171–3175.
-- Creighton, H. B., and McClintock, B. 1931. [A Correlation of Cytological and Genetical Crossing-Over in Zea Mays](https://doi.org/10.1073/pnas.17.8.492). *Proceedings of the National Academy of Sciences* 17: 492–497.
-- Jacob, F., and Monod, J. 1961. [Genetic Regulatory Mechanisms in the Synthesis of Proteins](https://doi.org/10.1016/S0022-2836(61)80072-7). *Journal of Molecular Biology* 3: 318–356.
-- Mendel, G. 1866. [Versuche über Pflanzen-Hybriden](https://pmc.ncbi.nlm.nih.gov/articles/PMC5068836/). *Verhandlungen des naturforschenden Vereines in Brünn* 4: 3–47. Link to the English translation.
-- Rheinberger, H.-J., and Müller-Wille, S. 2022. [Gene](https://plato.stanford.edu/entries/gene/). *The Stanford Encyclopedia of Philosophy*.
-- Sturtevant, A. H. 1913. [The Linear Arrangement of Six Sex-Linked Factors in Drosophila, as Shown by Their Mode of Association](https://doi.org/10.1002/jez.1400140104). *Journal of Experimental Zoology* 14: 43–59.
