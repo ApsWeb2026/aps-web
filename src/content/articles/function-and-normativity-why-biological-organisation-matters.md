@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-24
-revised: 2026-10-25
+revised: 2026-11-14
 cluster: philosophy-of-biology
 role: core
 abstract: >
@@ -124,6 +124,8 @@ Developmental and ecological uses require similar care. Participation in develop
 APS therefore uses **function** in a restricted organisational sense:
 
 > **A biological function is a viability-relative contribution made by a structure, process, or activity within living organisation.**
+
+Purpose concerns how living activity is organised relative to viability, while function concerns the contribution of a particular structure, process, or activity within that organisation.
 
 This formulation distinguishes function from mere activity or effect while leaving evolutionary, developmental, mechanistic, and ecological explanations available for the different questions they address.
 

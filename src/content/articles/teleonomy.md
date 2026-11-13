@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-11-13
+revised: 2026-11-14
 cluster: philosophy-of-biology
 role: core
 
