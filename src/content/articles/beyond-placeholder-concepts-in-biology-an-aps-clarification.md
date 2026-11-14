@@ -10,7 +10,21 @@ revised: 2026-11-15
 cluster: philosophy-of-biology
 role: clarification
 abstract: >
-  Biology frequently relies on concepts such as emergence, information, design, and cognition to describe complex organisation and system-level behaviour. While these terms capture real features of living systems, they often function as explanatory placeholders rather than precise accounts of underlying organisation. The Agency–Process–Scale (APS) framework clarifies this by grounding biological explanation in viability-oriented, constraint-closed organisation. This article shows how widely used placeholder concepts can be retained descriptively but re-specified in terms of explicit organisational processes, replacing ambiguity with a unified explanatory framework.
+  Terms such as emergence, information, design, and cognition can identify
+  important biological phenomena while leaving open how they arise or are
+  sustained. This article examines when such terms function as explanatory
+  placeholders and how the Agency–Process–Scale (APS) framework can help turn
+  them into more precise questions. By asking how activity is organised, how
+  it bears on viability, and over what times and scales it operates, APS
+  provides a shared vocabulary for connecting specialist explanations.
+  A worked example from macaque memory research shows how this approach
+  clarifies what existing evidence supports and where a further inference
+  requires evidence of its own.
+keyPoints:
+  - A term functions as an explanatory placeholder when it identifies a phenomenon and leaves the relationship needed to explain it unspecified.
+  - APS gives researchers a common set of questions about how living activity is organised, how it bears on viability, and how it unfolds across time and scale.
+  - Connecting specialist explanations requires showing how evidence from one inquiry supports, qualifies, or constrains a claim in another.
+  - The macaque example shows how existing findings can sharpen an APS claim about reflective agency without establishing additional explanatory gain.
 relatedGlossaryTerms:
   - biological-agency
   - viability
@@ -22,24 +36,27 @@ relatedGlossaryTerms:
   - biological-design
   - emergence
 relatedArticles:
-  - explanatory-geometry-of-biology
+  - structure-of-biological-explanation-in-aps
   - design-in-nature-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
   - why-life-is-not-information-processing
   - cognition-where-does-it-belong-in-biology
+  - from-matter-to-mind-an-exercise-in-biological-explanation
+references:
+  - templer-hampton-2012-rhesus-memory-awareness
 ---
 
-### The Problem of Placeholder Concepts in Biology
+**Where This Article Fits**
 
-Biological explanation frequently relies on a set of concepts that appear to carry explanatory weight but whose meaning remains under-specified. Terms such as *emergence*, *information*, *design*, and *cognition* are widely used across biology and related disciplines to describe complex organisation, adaptive behaviour, and system-wide coordination. They capture something real about living systems. Yet their explanatory status is often unclear.
+*Read this article alongside [The Structure of Biological Explanation in APS](/articles/structure-of-biological-explanation-in-aps/). That article sets out how APS organises inquiry into living systems. This clarification asks when a familiar biological term identifies something that needs explaining, and what further work allows the term to contribute to an explanation. Continue with *From Matter to Mind* *for the full worked comparisons on learning, memory-guided choice, and self-awareness.*
 
-In many contexts, these terms function as explanatory placeholders. They are invoked to mark the presence of organised complexity without specifying the organisational conditions that produce and sustain it. To say that a system is *emergent*, that it *processes information*, or that its behaviour is *cognitive* can indicate that something significant is occurring, but it does not by itself explain how or why that organisation exists.
+## When Does a Concept Become a Placeholder?
 
-This is not a failure of the concepts themselves. Each arises from attempts to describe genuine features of biological systems: the formation of extended organisation across scale, the sensitivity of systems to their environment, the coordination of activity, and the purposive character of living processes. The difficulty lies in how these terms are used. When treated as explanatory primitives, they obscure the organisational basis of the phenomena they describe.
+Terms such as *emergence*, *information*, *design*, and *cognition* help biologists identify patterns, capacities, and relationships worth investigating. They can also do explanatory work when their meaning is precise and the relevant processes or dependencies are supported by evidence. A term functions as a placeholder when it identifies a phenomenon but leaves open the relationship needed to explain it. Calling a pattern emergent, for example, can direct attention to its collective character. Explaining that pattern requires an account of how the relevant interactions produce it.
 
-The Agency–Process–Scale (APS) framework addresses this problem by clarifying the structure of biological explanation. Rather than rejecting these concepts, APS situates them within a more precise account of how living systems are organised. What is often described in terms of emergence, information, design, or cognition can be understood more explicitly in terms of viability-oriented, constraint-closed organisation, in which activity is structured, stabilised, and transformed across time and scale.
+A placeholder can serve a useful purpose. It gives researchers a way to refer to a phenomenon while the processes responsible for it are still being investigated. The difficulty arises when naming the phenomenon is taken to settle the question that the term helped pose. The same standard applies to APS vocabulary. Invoking *viability* or *constraint closure* does explanatory work when the account specifies the conditions or dependencies involved and shows what evidence supports their role.
 
-[The Structure of Biological Explanation in APS](/articles/structure-of-biological-explanation-in-aps/) explains how APS organises inquiry into living organisation and organised persistence. This article examines how widely used concepts function within biological explanation and asks what organisational relations must be specified for those concepts to do explanatory work.
+Established approaches already make many of these distinctions. Selected-effects accounts ask how a trait’s past effects contributed to its retention. Causal-role accounts ask how a component contributes to a system capacity. These are different questions that can both be asked about the same trait. APS contributes a shared point of reference where the question concerns how a living system maintains its organisation. That point of reference can help researchers identify where specialist accounts bear on one another and where each requires evidence of its own. [The Structure of Biological Explanation in APS](/articles/structure-of-biological-explanation-in-aps/) sets out the wider approach.
 
 ### Why Placeholder Concepts Persist
 
@@ -57,72 +74,55 @@ This does not replace existing insights, but repositions them within a more expl
 
 For example, what is described as the function of the heart, the informational sensitivity of a cell, or the cognitive behaviour of an organism can all be understood as different expressions of the same underlying organisation: the evaluation, structuring, and coordination of activity in relation to conditions that sustain viability.
 
-## The APS Strategy: Clarification Without Elimination
+## From Labels to Explanatory Questions
 
-APS does not eliminate placeholder concepts. Instead, it clarifies their role.
+APS asks how biological activity bears on viability, through what processes it occurs, and over what spatial, temporal, and organisational scales the relevant dependencies hold. These questions give researchers a way to move between specialist accounts while keeping the same living system in view. The value of the approach depends on specifying the actual relations in each case.
 
-The central move is to distinguish between descriptive and explanatory uses. Concepts such as emergence, information, design, and cognition may be retained as descriptive shorthand, but they are not treated as explanatory primitives. Explanation is instead grounded in the organisation of living systems: in how activity is structured, how constraints are maintained, and how systems sustain their own persistence.
+- **Emergence.** Which interactions produce the system-wide pattern, under what conditions does it persist, and which changes would disrupt it?
+- **Information.** Which difference can the system detect, how does that difference alter its activity, and under what conditions does the resulting response matter to the system’s functioning?
+- **Design.** Which features of the organisation contribute to a particular capacity or to continued functioning? Where evolutionary history is at issue, what evidence accounts for the origin or retention of those features?
+- **Cognition.** What can the organism do with what it has learnt? Which observations distinguish a change in a learned response from a capacity to adjust that response when circumstances change?
 
-In APS, living systems are viability-oriented, constraint-closed organisations. They maintain the conditions of their own existence through ongoing activity. This activity is normatively structured: some processes support persistence, while others undermine it. This asymmetry is enacted through evaluation, the differential modulation of activity in relation to viability.
+These questions can make the scope of an explanation clearer and help identify the evidence needed to take it further. A proposed connection across disciplines becomes explanatory when the account shows how evidence from one inquiry supports, qualifies, or constrains a claim in another.
 
-Within this framework, semiosis structures differences as mattering for the system, and cognition arises when evaluative activity becomes sufficiently integrated and temporally extended across time. Biological design refers to the structured organisation of activity through which systems sustain themselves, while what is often described as emergence corresponds to the reorganisation of constraint-closed systems across scale and time.
+## Worked Example — Memory-Guided Choice
 
-These concepts are thus not rejected, but re-specified. Their descriptive role is preserved, but their explanatory content is located within a unified account of biological organisation.
+In rhesus macaque experiments, decisions to decline a memory test tracked likely memory performance. The macaques declined more often under conditions that weakened memory and less often when the food location was shown twice. These results weigh against a general tendency to avoid unusual trials. They leave open whether memory strength directly guides the choice or whether the animal separately assesses memory availability. Awareness of oneself as remembering is a further claim with its own evidential requirements. ([Templer and Hampton 2012](https://doi.org/10.1007/s10071-011-0468-4))
 
-[[box:why-aps-replaces-placeholder-concepts]]
-
-## Case Studies in Re-Specification
-
-The value of this approach can be seen by examining how several commonly used concepts are clarified within APS.
-
-Emergence is often used to describe the formation of extended organisation. In APS, this is understood as the continuous production and transformation of constraint-closed systems. There is no need to invoke irreducible novelty; properties of organised systems reflect reconfigured constraint relations across scale.
-
-Information is frequently treated as a fundamental feature of biological systems. APS reverses this perspective. Information is not primary, but derivative of organisation. Differences become informative only insofar as they matter for the viability of the system, which is determined through evaluation and semiosis.
-
-Cognition is often taken as a defining feature of life or as a specialised property of complex organisms. APS situates it more precisely. All living systems exhibit evaluation, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. It is a development within biological organisation, not its foundation.
-
-Design is commonly interpreted either as the result of external intention or as an illusion produced by evolutionary processes. APS shows that biological design is real, but not imposed. It is the structured organisation of activity through which living systems sustain themselves.
-
-In each case, the concept captures something real. The difficulty lies in its use as an explanatory endpoint. APS replaces this with an account of how the relevant organisation is produced and maintained.
-
-## What Replaces Placeholder Concepts
-
-By clarifying these concepts, APS does not leave an explanatory gap. It replaces placeholder terms with an explicit organisational framework.
-
-Biological explanation proceeds through the analysis of:
-
-- viability-oriented organisation  
-- constraint closure  
-- evaluation and the modulation of activity  
-- semiosis and the structuring of meaningful differences  
-- coordination across scale and time  
-
-Within this framework, system-wide phenomena are not explained by invoking abstract categories, but by identifying the processes and relations that generate them. What is described as emergence, information, or cognition is understood as the outcome of these organisational dynamics viewed at a particular resolution.
-
-This shift does not reduce complexity. It makes it tractable. By grounding explanation in organisation, APS provides a way of analysing biological systems that remains continuous across scale and sensitive to the conditions that sustain them.
-
-## Implications for Biological Explanation
-
-The replacement of placeholder concepts with explicit organisational accounts has important implications.
-
-First, it removes explanatory ambiguity. Terms that previously functioned as shorthand are given precise meaning within a broader framework.
-
-Second, it preserves continuity across biological domains. The same principles apply to cellular processes, organismal regulation, cognition, and ecological organisation.
-
-Third, it avoids both reductionism and metaphysical inflation. Biological phenomena are neither reduced to isolated components nor treated as irreducible mysteries. They are understood as organised processes that can be analysed in terms of their structure and dynamics.
-
-Finally, it reorients the task of explanation. Instead of asking whether a phenomenon is emergent, informational, or cognitive, the question becomes how it is organised, how it is maintained, and how it contributes to the persistence of the system.
+Comparative cognition supplies the experiments and the distinctions needed to interpret them. The APS treatment in *From Matter to Mind* shows how those findings constrain a broader account of reflective agency. The evidence supports a connection between memory availability and the decision to act. The mechanism of that choice and the inference to self-awareness remain open. This is an example of integration across inquiries. The comparison sharpens the APS claim and establishes no additional explanatory gain over the existing accounts.
 
 ## Conclusion
 
-Concepts such as emergence, information, design, and cognition have long played a central role in biological thought. They capture real features of living systems, but they often function as explanatory placeholders when their meaning is left unspecified.
+A familiar term can give researchers a shared object of inquiry. The next step is to specify which processes produce the phenomenon, which conditions sustain it, and how the evidence bears on those claims. APS offers a common set of questions for doing this across biological fields. It keeps attention on the living system while researchers move among explanations of its activity, its organisation, and the conditions under which it persists.
 
-APS retains their descriptive usefulness while removing their explanatory ambiguity. Biological phenomena are not explained by invoking these concepts, but by analysing the viability-oriented, constraint-closed organisation that makes them possible.
+The value of that approach is visible in the macaque example. Findings from memory research help specify which part of a broader account of reflective agency the evidence supports and where the next inference needs further work. This is a contribution to organising inquiry and clarifying claims. Any further claim that APS improves communication, guides research more effectively, or adds explanatory power calls for evidence suited to that claim.
 
-In this way, APS replaces loosely defined abstractions with a unified account of organised biological activity. What were once treated as explanatory endpoints become phenomena to be explained in terms of organisation, process, and scale.
+## Explanatory Architecture
 
-Seen in this light, phenomena often described as emergent, informational, functional, or cognitive do not require distinct explanatory frameworks. The coordinated activity of a heart, the sensitivity of a cell to its environment, and the adaptive behaviour of an organism can all be understood as expressions of the same underlying organisation: the evaluation, structuring, and coordination of activity in relation to conditions that sustain viability. What differ are not the principles involved, but the ways in which this organisation is stabilised, integrated, and extended across scale and time.
+### Central Question
 
-## Key Point
+When does a biological concept function as an explanatory placeholder, and what evidence would allow it to do explanatory work?
 
-APS replaces explanatory placeholder concepts with explicit organisational accounts: emergence, information, design, and cognition are not primitives, but expressions of viability-oriented, constraint-closed biological organisation.
+### Architectural Role
+
+This Clarification article provides a way to assess how terms such as emergence, information, design, and cognition are used in particular explanations. It applies the same standard to APS terms such as viability and constraint closure.
+
+### Preceding Explanatory Dependencies
+
+*The Structure of Biological Explanation in APS* supplies the organising questions about activity, process, scale, and organised persistence. Specialist biological accounts supply the evidence needed to establish particular processes and dependencies.
+
+### Related Explanatory Developments
+
+The APS clarifications on emergence, information, design, and cognition develop the issues raised here in their respective domains. *From Matter to Mind* provides a worked comparison that traces how evidence about memory-guided choice bears on a broader account of reflective agency.
+
+### Related Explanatory Questions
+
+What distinguishes naming a phenomenon from explaining it? When can a finding in one field support, qualify, or constrain an explanation in another? What would show that a shared vocabulary helps researchers formulate more precise questions or judge evidence more accurately?
+
+### Position Within APS
+
+APS gives researchers a common set of questions about how living activity is organised, how it bears on viability, and over what times and scales it unfolds. Those questions help identify where specialist explanations can connect and what evidence would support the connection.
+
+### Scope and Evidential Limits
+
+The macaque example shows how findings from comparative cognition can sharpen an APS claim about reflective agency. The comparison establishes no additional explanatory gain over existing accounts. Whether the APS formulation helps readers or researchers reach sound judgements more accurately or efficiently remains open.

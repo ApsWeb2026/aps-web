@@ -39,6 +39,7 @@ relatedArticles:
   - how-do-scientific-explanations-go-wrong
   - what-counts-as-explanatory-gain
   - how-do-biological-explanations-improve
+  - beyond-placeholder-concepts-in-biology-an-aps-clarification
   - a-practical-guide-to-building-better-scientific-explanations
 relatedGlossaryTerms:
   - biological-agency
@@ -70,7 +71,11 @@ references:
 
 **Where This Article Fits**
 
-*This is an evolving companion article to [How Did Matter Become Aware of Itself?](/articles/how-did-matter-become-aware-of-itself/), it uses two worked comparisons to examine how proposed connections in the APS account can be tested. Each comparison specifies an explanatory target, assesses what the evidence and existing accounts support, and revises the APS claim in light of the result.*
+## Where This Article Fits
+
+*This article is a companion to [How Did Matter Become Aware of Itself?](/articles/how-did-matter-become-aware-of-itself/). It uses two worked comparisons to examine proposed connections in the APS account of cognition and self-awareness. Each comparison specifies what needs explaining, assesses what the evidence and existing accounts support, and revises the APS claim in light of the result.*
+
+*[Beyond Placeholder Concepts in Biology](/articles/beyond-placeholder-concepts-in-biology-an-aps-clarification/) sets out the general principle used here. A term such as *cognition* *can identify a capacity worth investigating. Explaining that capacity requires specifying the processes or relationships involved and showing what evidence supports them.*
 
 ## Introduction
 
@@ -84,7 +89,7 @@ APS provides a philosophical framework for this inquiry by taking *organised per
 
 Together, these precisely defined and interrelated concepts form an *explanatory grammar*. Their definitions give each concept a distinct role, and their relationships let us formulate claims about what one capacity may depend on. Making the explanatory grammar explicit has value in its own right. It allows readers to assess the starting point, trace what follows from the definitions, and identify where a proposed biological dependency requires independent evidence. For example, the APS definition of cognition includes integrated biological significance. Whether a particular cognitive capacity depends on a specific form of integration is an empirical question about the organism. The wider explanatory architecture is developed in [How Did Matter Become Aware of Itself?](/articles/how-did-matter-become-aware-of-itself/).
 
-This article applies the strongest-comparator method to APS’s own account of the matter-to-mind problem. The two comparisons sharpen the account by specifying what evidence would support two proposed connections. In the worm case, the proposed test asks whether the current value of a learned outcome guides behaviour, a result already predicted by an outcome-sensitive account of associative learning. In the macaque case, existing results show that choices track likely memory performance, and whether a case-specific learning account can explain the full pattern remains open. The comparisons make the APS claims more precise. Neither has yet established additional explanatory gain.  
+This article applies the strongest-comparator method to APS’s own account of the matter-to-mind problem. The two comparisons sharpen the account by specifying what evidence would support two proposed connections. In the worm case, the proposed test asks whether the current value of a learned outcome guides behaviour, a result already predicted by an outcome-sensitive account of associative learning. In the macaque case, choices track likely memory performance across trials that weakened or strengthened memory. The results weigh against explanations based on particular external cues and leave open whether memory strength guides choice directly or whether the animal separately assesses memory availability. The comparisons make the APS claims more precise. Neither has yet established additional explanatory gain.
 
 ### How Explanations Connect Across Biology
 
@@ -104,7 +109,7 @@ Terms with familiar mentalistic meanings can help connect fields when their use 
 
 A demonstrated improvement in communication would be worthwhile in its own right. What would count as such an improvement is considered below.
 
-The pathway also distinguishes what enables a capacity, what constitutes it, and what provides evidence for it. Retaining a memory makes that memory available for use. Whether an animal can monitor its availability is a further question. Evidence that the availability of a memory guides a decision would support an attribution of monitoring. A claim that the animal recognises the remembered state as its own requires evidence for that further capacity. The order of these questions guides the inquiry. Establishing a developmental or evolutionary sequence requires evidence about how the capacities arise in individuals or change across lineages. See [Architectural Dependency and Biological Explanation](/articles/architectural-dependency-and-biological-explanation/) and [How Do Scientific Explanations Go Wrong?](/articles/how-do-scientific-explanations-go-wrong/).
+The pathway also distinguishes what enables a capacity, what constitutes it, and what provides evidence for it. Retaining a memory makes that memory available for use. Whether an animal can monitor its availability is a further question. Evidence that memory availability guides a decision supports a claim about memory-guided choice. To use *memory monitoring* as an explanation of that choice, we need to specify what the animal assesses and what evidence would distinguish that assessment from the direct influence of memory strength. A claim that the animal recognises the remembered state as its own requires evidence for that further capacity. The order of these questions guides the inquiry. Establishing a developmental or evolutionary sequence requires evidence about how the capacities arise in individuals or change across lineages. See [Architectural Dependency and Biological Explanation](/articles/architectural-dependency-and-biological-explanation/) and [How Do Scientific Explanations Go Wrong?](/articles/how-do-scientific-explanations-go-wrong/).
 
 ### Why These Two Comparisons Come First
 
@@ -137,6 +142,8 @@ Both cases apply the approach developed in the unpublished manuscript *Testing C
 3. **Translate the APS claim and check for redescription.** Restate the biological relationship APS proposes in terms that preserve the claim and allow comparison with the established account. Ask whether a substantive difference remains once differences in terminology have been set aside.
 4. **Test the remaining difference.** Ask whether it changes what can be explained, inferred, ruled out, or expected. Specify what evidence would establish that consequence and whether the comparator already supports it.
 5. **State the outcome and its limits.** The accounts may complement one another, address different questions, or make incompatible claims. Where the evidence permits a verdict on explanatory gain, state what the comparison establishes. Where the comparison remains unresolved, identify what evidence or analysis is needed.
+
+An account can clarify what is being claimed, make the evidence easier to assess, show how findings from different fields bear on one another, or help researchers formulate a question they can test. Each benefit should be stated and assessed on its own terms. A claim of clearer communication asks whether readers understand the evidence and its limits more accurately. A claim of greater efficiency asks whether they reach a defensible judgement with less effort. A claim of research usefulness asks whether the account helps specify a tractable question or a test that can distinguish alternatives. A claim of comparative explanatory gain asks what the account enables us to explain, infer, or predict beyond what the strongest existing account already supports.
 
 The comparator depends on the question. Explaining how learning changes navigation can draw on behavioural and neurobiological findings together. Explaining whether the worm uses the current value of an expected food calls for an outcome-sensitive account of associative learning. See [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/) and [How Should the Strongest Comparator Be Chosen?](/articles/how-should-the-strongest-comparator-be-chosen/).
 
@@ -198,7 +205,7 @@ The evidence supports placing memory-guided choice within the APS account of how
 
 ## Where the Inquiry Currently Stands
 
-**12 November 2026.** The worm comparison identifies a test of whether the current value of an expected food guides a learned response. An outcome-sensitive associative account already predicts the selective response that the proposed test would look for. In rhesus macaques, decisions to decline a test tracked likely memory performance. Generalisation across trials that weakened or strengthened memory weighs against explanations based on particular external cues. The results leave open whether memory strength guides choice directly or whether the animal separately assesses memory availability. Attributing self-awareness requires further evidence. The comparisons sharpen the APS claims and identify what further work could change the judgement. Neither has yet established additional explanatory gain for APS. Comparative clarity and efficiency remain untested.
+**15 November 2026.** The worm comparison identifies a test of whether the current value of an expected food guides a learned response. An outcome-sensitive associative account already predicts the selective response that the proposed test would look for. In rhesus macaques, decisions to decline a test tracked likely memory performance. Generalisation across trials that weakened or strengthened memory weighs against explanations based on particular external cues. The results leave open whether memory strength guides choice directly or whether the animal separately assesses memory availability. Attributing self-awareness requires further evidence. The comparisons sharpen the APS claims and identify what further work could change the judgement. Neither has yet established additional explanatory gain for APS. Comparative clarity and efficiency remain untested.
 
 ## What Would Count as Progress?
 
@@ -230,7 +237,9 @@ The worm studies show that learning changes navigation. Selective revaluation wo
 
 The macaque studies show that decisions to decline a test track likely memory performance. Generalisation across trials that weakened or strengthened memory weighs against explanations based on particular external cues. The results leave open whether memory strength guides choice directly or whether the animal separately assesses memory availability. Attributing awareness of oneself as remembering requires further evidence.
 
-The two comparisons sharpen the proposed connections in the APS account by specifying what the evidence supports and where further evidence is needed. Neither comparison establishes additional explanatory gain for APS. Comparative clarity and efficiency remain untested. Explaining how these capacities evolved would also require historical and comparative evidence about their distribution and antecedents.
+APS gives the matter-to-mind inquiry a common set of questions. What matters to an organism? How does experience change what it does? How does the information available to it shape its next action? The worm case brings the value of an expected outcome into focus, and the macaque case brings the reliability of information into focus. Considered together, they suggest a testable question. How do outcome value and information reliability jointly shape whether an animal acts or seeks more information?
+
+APS offers an alternative way to organise this inquiry by bringing findings about learning and memory to bear on a common question about action. Neither comparison establishes additional explanatory gain for APS. Whether this organisation helps readers reach sound judgements more accurately or efficiently remains to be tested. Explaining how these capacities evolved would also require historical and comparative evidence about their distribution and antecedents.
 
 ## Explanatory Architecture
 
@@ -248,7 +257,7 @@ This article is an evolving worked example of how to specify an explanatory targ
 
 ### Related Explanatory Developments
 
-The first comparisons examine the links from biological integration to cognition and from memory monitoring to self-awareness. The next comparison starts from existing macaque information-seeking experiments and asks how sensitivity to available information can be distinguished from reliance on familiar cues.
+The first comparison examines the proposed connection between biological integration and cognition. The second examines how evidence about memory-guided choice bears on self-awareness. A further macaque comparison would need to identify a condition under which direct use of memory strength and a separate assessment of memory availability predict different choices.
 
 ### Related Explanatory Questions
 
@@ -258,6 +267,6 @@ What distinguishes an enabling condition from evidence that a capacity is presen
 
 The article applies the APS approach to assessing explanatory advance to APS’s own account of cognition and mind. It records which proposed connections the comparisons clarify and which remain open.
 
-### Where This Article Fits
+### Scope and Evidential Limits
 
-Read this companion for the worked comparisons and their revisions. The anchor article presents the wider pathway from living organisation to reflective agency.
+The comparisons clarify what would support two proposed connections in the APS account of cognition and self-awareness. Explaining how these capacities evolved requires historical and comparative evidence about their distribution and antecedents.
