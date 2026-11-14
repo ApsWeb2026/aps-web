@@ -8027,3 +8027,30 @@ references:
     status: verified
     authority: Bloomsbury Academic six-volume set catalogue
     verifiedDate: '2026-11-13'
+- id: pradeu-2016-physiological-evolutionary-individuality
+  type: journal-article
+  authors: Pradeu, T.
+  year: 2016
+  title: 'Organisms or Biological Individuals? Combining Physiological and Evolutionary Individuality'
+  journal: Biology & Philosophy
+  volume: '31'
+  issue: '6'
+  pages: 797–817
+  doi: 10.1007/s10539-016-9551-1
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-14'
+- id: wood-2011-bacterial-osmoregulation
+  type: journal-article
+  authors: Wood, J. M.
+  year: 2011
+  title: 'Bacterial Osmoregulation: A Paradigm for the Study of Cellular Homeostasis'
+  journal: Annual Review of Microbiology
+  volume: '65'
+  pages: 215–238
+  doi: 10.1146/annurev-micro-090110-102815
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: '2026-11-14'
