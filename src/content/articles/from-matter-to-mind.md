@@ -93,7 +93,7 @@ Explanatory pluralism distinguishes accounts that answer complementary questions
 
 An explanatory grammar can have a wider reach than any particular explanation that uses it. Mechanistic reasoning can guide inquiry across biology, while an explanation of how a worm steers depends on evidence about its particular sensory and motor circuits. See [Explanatory Grammar](/articles/explanatory-grammar/). Specialist terms give each field the precision it needs, and shared terms help researchers identify where their findings bear on a common question. *Memory*, for example, can direct attention to a persistent cellular change or to the retention of a learned association. In the macaque case, the question goes further and asks whether an animal can use the availability of a memory to guide a decision. Comparing these uses requires specifying what persists, how it affects later activity, and what evidence would show that the animal monitors its availability. Explanatory integration occurs when a connection is clear enough for findings in one inquiry to support, qualify, or constrain an explanation in another. ([Brigandt 2013](https://doi.org/10.1016/j.shpsc.2013.06.002) and [Love and Lugar 2013](https://doi.org/10.1016/j.shpsc.2013.09.008))
 
-#### What APS Proposes to Connect
+### What APS Proposes to Connect
 
 APS provides a shared technical vocabulary for connecting explanations across biological disciplines. Its terms are defined for the study of living organisation and complement the specialist concepts needed to explain particular phenomena. This is what APS calls *constrained explanatory pluralism*. The question determines which accounts are relevant, and connecting them requires specifying what each explains, identifying the biological relationship between them, and showing what evidence supports it. Organised persistence gives researchers a common point of reference where the continuity of living organisation matters to the question. See [What Is Biology Trying to Explain?](/articles/what-is-biology-trying-to-explain/) and [The Philosophical Foundations of APS](/articles/the-philosophical-foundations-of-aps/).
 
@@ -101,9 +101,7 @@ In the worm case, APS asks how the food’s significance for the animal, its pre
 
 Terms with familiar mentalistic meanings can help connect fields when their use is sufficiently precise. *Agency* connects questions about microbial regulation, animal navigation, and deliberate action by directing attention to how an organism’s activity bears on its conditions of viability. Each application requires evidence about which conditions matter and how the activity affects them. *Purpose* can direct attention to the outcome towards which activity is organised. Evidence that activity is organised towards an outcome and evidence that an organism intends that outcome support distinct claims.
 
-The same questions can guide inquiry into how people coordinate their activity to sustain an institution. An account of why a person acts and an account of how an institution persists have different explanatory targets. Connecting them requires evidence about how individual actions are coordinated and how that coordination contributes to institutional continuity over time. Specifying the scale makes clear whose activity is being explained, what persists, and which relationship requires evidence.
-
-A shared vocabulary may help researchers communicate an explanation more precisely even when the accounts support the same conclusion. A demonstrated improvement in communication would be a worthwhile result in its own right. To test for it, readers from different specialisms could examine the same evidence in comparably detailed accounts, one using APS and the other using the relevant specialist concepts. We could then compare how accurately they identify the claims and judge what the evidence supports, or how long they take to reach equally accurate judgements.
+A demonstrated improvement in communication would be worthwhile in its own right. What would count as such an improvement is considered below.
 
 The pathway also distinguishes what enables a capacity, what constitutes it, and what provides evidence for it. Retaining a memory makes that memory available for use. Whether an animal can monitor its availability is a further question. Evidence that the availability of a memory guides a decision would support an attribution of monitoring. A claim that the animal recognises the remembered state as its own requires evidence for that further capacity. The order of these questions guides the inquiry. Establishing a developmental or evolutionary sequence requires evidence about how the capacities arise in individuals or change across lineages. See [Architectural Dependency and Biological Explanation](/articles/architectural-dependency-and-biological-explanation/) and [How Do Scientific Explanations Go Wrong?](/articles/how-do-scientific-explanations-go-wrong/).
 
@@ -149,7 +147,7 @@ A comparison can improve an account by clarifying its claim, specifying where it
 
 APS proposes that biological agency becomes cognitive when integrated biological significance guides activity across viability-relevant possibilities beyond immediate or fixed regulation. The question for this comparison is whether the way an animal uses a learned association helps us draw that distinction. Bacterial chemotaxis gives us a reference point. Recent chemical conditions affect how a bacterium responds to its present surroundings, and receptor adaptation and feedback explain how this temporal comparison biases movement. The case shows why sensitivity to past conditions alone leaves the question of cognition open. ([Sourjik and Wingreen 2012](https://doi.org/10.1016/j.ceb.2011.11.008))
 
-In the worm, food–odour learning provides a way to ask a more specific question. Experience can change how an odour guides navigation. Can the worm also adjust its response to that odour when the food it predicts changes in value after training? A selective adjustment would support the claim that the current value of a particular learned outcome helps guide present behaviour. The APS question is what that capacity would tell us about the boundary between integrated regulation and cognition.
+Food–odour learning shows that experience can change how an odour guides navigation. The proposed test asks whether a worm can selectively adjust its response to an odour after the food it predicts changes in value. Such an adjustment would support an attribution of flexible, outcome-sensitive regulation. Whether that flexibility involves guidance across alternatives in the APS sense would require a further argument and evidence.
 
 ### What the Strongest Comparator Already Explains
 
@@ -171,7 +169,7 @@ The existing worm studies show that experience changes how an odour guides navig
 
 The comparison sharpens the APS question about the boundary between integrated regulation and cognition. Food–odour learning shows that prior experience changes how a cue guides navigation. Selective revaluation would help establish whether the worm can use the current value of a particular learned outcome. Whether that capacity meets the APS criterion for cognition depends on which viability-relevant possibilities guide the worm’s activity and what evidence would establish their role.
 
-A positive result would extend what we know about the worm and would accord with a prediction already available from outcome-sensitive associative learning. The gain for APS at this stage is a more precise claim and a testable question. To establish additional explanatory gain, APS would need to show how independent evidence about the food’s contribution to the worm’s continued functioning changes an inference about its behaviour that the associative account leaves open.
+**Comparative verdict.** A positive result would support outcome-sensitive behaviour in the worm and fulfil a prediction already made by the strongest associative account. That result alone would leave additional explanatory gain for APS unestablished.
 
 ## Second Worked Comparison — From Memory Monitoring to Self-Awareness
 
@@ -197,9 +195,13 @@ Hampton’s results show that the macaques’ choices tracked likely memory perf
 
 ### What the Comparison Changes in APS
 
-The comparison gives memory monitoring a more precise place in the APS pathway. Retaining a memory makes it available for use. Guiding a decision by whether that memory is available would show that the animal can monitor an aspect of its own cognitive activity. Recognising the remembered state as its own is a further claim with its own evidential requirements.
+A retained memory may be available for use. Evidence that its availability guides a decision would support an attribution of memory monitoring. Recognising the remembered state as a state of oneself is a further capacity that requires evidence of its own.
 
-The improvement is a clearer account of what each attribution requires. The comparative verdict remains open. The next step is to establish whether a case-specific learning account can explain the full pattern of results, including the probe trials, and to identify a result that would distinguish it from an account based on memory monitoring. Even if that result favours monitoring, the question of what warrants attributing self-awareness would still need to be addressed.
+**Comparative verdict.** The results constrain learning-based accounts of the macaques’ choices. Whether a case-specific learning account can explain the full pattern remains open, so the comparison is unresolved. The next step is to identify evidence that would distinguish such an account from an account based on memory monitoring. Attributing self-awareness would require separate evidence of self-attribution.
+
+## Where the Inquiry Currently Stands
+
+**12 November 2026.** The worm comparison identifies a test of whether the current value of an expected food guides a learned response. An outcome-sensitive associative account already predicts the selective response that the proposed test would look for. The macaque experiment shows that decisions to attempt a memory test track likely performance. Whether a case-specific learning account can explain the full pattern remains open, and an attribution of self-awareness would require evidence that the animal recognises the remembered state as its own. The comparisons sharpen the APS claims and identify what further work could change the judgement. Neither has yet established additional explanatory gain for APS. Comparative clarity and efficiency remain untested.
 
 ## What Would Count as Progress?
 
@@ -213,15 +215,11 @@ The same standard applies to explanations within a subdiscipline and to framewor
 
 ## What the Two Comparisons Reveal Together
 
-The worm and macaque comparisons draw attention to two factors that can guide action. The proposed worm test asks whether a learned response changes with the current value of an expected food. The macaque comparison asks whether an animal’s decision to attempt a test is guided by the availability of a memory. Together they suggest a further question. How does an animal decide whether to act or seek more information when both the value of the outcome and the reliability of the information available to it can change?
+Taken together, the two comparisons suggest a question about how animals regulate action. How do the current value of an expected outcome and the reliability of the information needed to obtain it jointly affect whether an animal acts or seeks more information? The worm comparison isolates the question about outcome value, while the macaque comparison examines whether memory availability guides a decision.
 
 The two cases concern different species and tasks. To investigate the relationship directly, researchers could vary outcome value and information reliability independently within a single task. They could then ask whether, for example, the value of a reward changes how much uncertainty an animal will tolerate before it seeks more information.
 
 Bringing the cases together helps formulate a testable question. An explanatory gain for APS would require showing that relating outcome value to information reliability changes what we can explain, infer, or predict beyond what the strongest existing account of the same behaviour already supports.
-
-## Where the Inquiry Currently Stands
-
-**12 November 2026.** The worm comparison identifies a test of whether the current value of an expected food guides a learned response. An outcome-sensitive associative account already predicts the selective response that the proposed test would look for. The macaque experiment shows that decisions to attempt a memory test track likely performance. Whether a case-specific learning account can explain the full pattern remains open, and an attribution of self-awareness would require evidence that the animal recognises the remembered state as its own. The comparisons sharpen the APS claims and identify what further work could change the judgement. Neither has yet established additional explanatory gain for APS. Comparative clarity and efficiency remain untested.
 
 ## Where the Inquiry Goes Next
 
