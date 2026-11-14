@@ -8054,3 +8054,44 @@ references:
     status: verified
     authority: Annual Reviews
     verifiedDate: '2026-11-14'
+- id: templer-hampton-2012-rhesus-memory-awareness
+  type: journal-article
+  authors: "Templer, V. L., & Hampton, R. R."
+  year: 2012
+  title: "Rhesus monkeys (Macaca mulatta) show robust evidence for memory awareness across multiple generalization tests"
+  journal: Animal Cognition
+  volume: '15'
+  issue: '3'
+  pages: '409–419'
+  doi: 10.1007/s10071-011-0468-4
+  verification:
+    status: verified
+    authority: PubMed and PubMed Central
+    verifiedDate: '2026-11-15'
+- id: crystal-foote-2009-metacognition-in-animals
+  type: journal-article
+  authors: "Crystal, J. D., & Foote, A. L."
+  year: 2009
+  title: "Metacognition in animals"
+  journal: Comparative Cognition & Behavior Reviews
+  volume: '4'
+  pages: '1–16'
+  doi: 10.3819/ccbr.2009.40001
+  verification:
+    status: verified
+    authority: PubMed and PubMed Central
+    verifiedDate: '2026-11-15'
+- id: basile-et-al-2015-rhesus-metamemory
+  type: journal-article
+  authors: "Basile, B. M., Schroeder, G. R., Brown, E. K., Templer, V. L., & Hampton, R. R."
+  year: 2015
+  title: "Evaluation of seven hypotheses for metamemory performance in rhesus monkeys"
+  journal: "Journal of Experimental Psychology: General"
+  volume: '144'
+  issue: '1'
+  pages: '85–102'
+  doi: 10.1037/xge0000031
+  verification:
+    status: verified
+    authority: PubMed and PubMed Central
+    verifiedDate: '2026-11-15'

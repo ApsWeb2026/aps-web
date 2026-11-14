@@ -5,7 +5,7 @@ slug: from-matter-to-mind-an-exercise-in-biological-explanation
 type: article
 status: draft
 canonical: false
-revised: 2026-11-14
+revised: 2026-11-15
 cluster: cognition-and-mind
 role: extension
 abstract: >
@@ -14,19 +14,19 @@ abstract: >
   of cognition and self-awareness. The worm comparison proposes a test of
   whether the current value of an expected food guides a learned response.
   An outcome-sensitive account of associative learning already predicts the
-  selective response the test would look for. The rhesus macaque comparison
-  examines existing evidence that decisions to attempt a memory test track
-  likely performance. Whether a case-specific learning account can explain
-  the full pattern remains open, and attributing self-awareness requires
-  further evidence. The comparisons sharpen the APS claims and identify what
-  further work could change the judgement. Neither has yet established
-  additional explanatory gain for APS. Comparative clarity and efficiency
-  remain untested.
+  selective response the test would look for. The second comparison examines
+  rhesus macaque memory tests. Generalisation across trials that weakened or
+  strengthened memory weighs against explanations based on particular external
+  cues. The results remain compatible with both direct use of memory strength
+  and a separate assessment of memory availability. The comparison sharpens
+  the APS account of memory-guided choice while leaving the mechanism and the
+  inference to self-awareness open. Neither comparison establishes additional
+  explanatory gain for APS. Comparative clarity and efficiency remain untested.
 keyPoints:
   - The matter-to-mind question brings together distinct questions about biological organisation, evolution, cognition, self-awareness, and subjective experience.
   - Explanatory pluralism allows accounts from different disciplines and scales to inform one another where the connections can be specified and supported.
   - Food–odour learning changes cue-guided navigation in *Caenorhabditis elegans*. A selective outcome-revaluation test would ask whether the worm can use the current value of a specific learned outcome.
-  - Rhesus macaques selectively decline memory tests when they are less likely to succeed. How a learning-based account explains the specific results, and what the results imply for self-awareness, remain open.
+  - Rhesus macaques adjust whether they take a test as likely memory performance changes. Generalisation across novel trials weighs against explanations based on particular external cues. The results leave open whether memory strength directly guides choice or whether the animal separately assesses memory availability.
   - The two comparisons clarify what evidence bears on each proposed connection. Comparative clarity and efficiency remain untested, and explanatory gain has yet to be established.
 relatedArticles:
   - how-did-matter-become-aware-of-itself
@@ -62,9 +62,10 @@ references:
   - lai-et-al-2020-honeybee-reward-devaluation
   - corcoran-pezzulo-hohwy-2020-counterfactual-cognisers
   - hampton-2001-rhesus-metamemory
-  - jozefowiez-staddon-cerutti-2009-animal-metacognition
   - hampton-zivin-murray-2004-rhesus-information-seeking
-  - tu-pani-hampton-2015-rhesus-information-seeking
+  - templer-hampton-2012-rhesus-memory-awareness
+  - crystal-foote-2009-metacognition-in-animals
+  - basile-et-al-2015-rhesus-metamemory
 ---
 
 **Where This Article Fits**
@@ -171,37 +172,33 @@ The comparison sharpens the APS question about the boundary between integrated r
 
 **Comparative verdict.** A positive result would support outcome-sensitive behaviour in the worm and fulfil a prediction already made by the strongest associative account. That result alone would leave additional explanatory gain for APS unestablished.
 
-## Second Worked Comparison — From Memory Monitoring to Self-Awareness
+## Second Worked Comparison — From Memory-Guided Choice to Self-Awareness
 
-### What APS Proposes
+### What Needs Explaining?
 
-In the APS account, self-awareness involves a capacity to recognise some aspect of one’s own activity as one’s own. The macaque case lets us ask how far evidence about memory bears on that claim. An animal can retain and use a memory to recognise an image. It may also use the availability of that memory to decide whether to attempt a test. This second capacity is a form of memory monitoring, sometimes called *metamemory*. Recognising the remembered state as one’s own is a further capacity.
+An animal can use a memory to recognise something it has seen. It can also decide whether to attempt a task for which that memory is needed. The question is what guides the second decision. Does the strength of the memory itself influence the choice, or does the animal make a further assessment of whether the memory is available? The distinction matters to the APS pathway because either process could guide behaviour, while awareness of oneself as remembering requires a further inference.
 
-The comparison therefore asks two questions. What would show that the macaques’ decisions are guided by the availability of a memory? If the evidence supports memory monitoring, what further evidence would warrant saying that the animals are aware of themselves as remembering?
+### What the Experiments Support
 
-### What the Strongest Comparator Already Explains
+Hampton gave two rhesus macaques the choice of taking a memory test or declining it for a less preferred but guaranteed reward. The macaques chose before the test images appeared. At a fixed delay, both were more accurate on tests they chose to take than on compulsory trials. Both also declined more often when the sample image was omitted, including in their first session with those trials. Elapsed time alone cannot explain why the animals selected tests more accurately at the same delay. The timing of the choice also excludes cues available only once the test images appear. ([Hampton 2001](https://doi.org/10.1073/pnas.071600998))
 
-Hampton gave two rhesus macaques a choice between attempting a memory test for a larger but uncertain reward and declining it for a smaller guaranteed reward. They decided before seeing the test images. They generally performed better on tests they chose to take than on tests they were required to take, and they tended to decline when memory was likely to be weak or absent. Their choices therefore tracked likely performance. ([Hampton 2001](https://pmc.ncbi.nlm.nih.gov/articles/PMC33214/))
+Templer and Hampton tested six rhesus macaques in a spatial memory task. The animals could choose the cup under which they had seen food hidden or decline the test for a smaller guaranteed reward. They declined more often when no cup had been baited or after a long delay. When the food location was shown twice, accuracy on compulsory trials improved and the animals declined less often. The repeated exposure was itself unusual, so the opposite shifts count against a general tendency to decline unfamiliar trials. Together, the results support a choice that varies with how well the animal is likely to remember. ([Templer and Hampton 2012](https://doi.org/10.1007/s10071-011-0468-4))
 
-The relevant comparator is a learning-based account of those choices. An animal could learn to decline under conditions associated with poor performance, such as a long delay. Learning-based models show how reward contingencies can produce some patterns of performance associated with metacognition. To assess such an account here, we would need to show whether it can explain the advantage on tests the macaques chose to take, how they made that choice before seeing the test images, and how they responded on probe trials in which the sample was omitted. Hampton’s probes constrain the learning-based explanation, and the adequacy of a case-specific account remains unresolved. ([Hampton 2001](https://pmc.ncbi.nlm.nih.gov/articles/PMC33214/) and [Jozefowiez et al. 2009](https://doi.org/10.3819/ccbr.2009.40003))
+### Where the Accounts Still Differ
 
-### What Evidence Would Distinguish the Accounts?
+A learned decision could depend directly on the strength of the memory trace. A strong trace would favour taking the test and improve the chances of choosing correctly. A weak trace would favour the guaranteed reward. A separate assessment of memory availability could produce the same pattern. The generalisation tests weaken explanations based on particular external cues, but they change the strength of the memory in ways that either process could use. ([Hampton 2001](https://doi.org/10.1073/pnas.071600998), [Templer and Hampton 2012](https://doi.org/10.1007/s10071-011-0468-4), and [Crystal and Foote 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC4621963/))
 
-One possibility is that the macaques use a signal related to memory availability when deciding whether to attempt the test. A follow-up could ask whether they use that signal to guide a different decision, such as whether to seek another look at the sample. The test would be most informative if memory availability varied independently of familiar cues to difficulty and the competing accounts made different predictions. If information-seeking tracked memory availability under those conditions, the result would strengthen the case for monitoring beyond the original task.
+Information-seeking experiments show that macaques can also obtain missing information before acting. They looked for hidden food more often when they had missed the baiting. In a later computerised task, macaques selectively chose to see the answer before the test options appeared. These studies extend the range of decisions that an account of memory-guided behaviour must explain. Whether the same process governs declining a test and seeking the answer remains an empirical question. ([Hampton et al. 2004](https://doi.org/10.1007/s10071-004-0215-1) and [Basile et al. 2015](https://doi.org/10.1037/xge0000031))
 
-### What the Evidence Warrants
+### How the Comparison Changes the APS Claim
 
-Hampton’s results show that the macaques’ choices tracked likely memory performance. Their decisions before seeing the test images and their responses on probe trials constrain how a learning-based account can explain that pattern. Whether a case-specific learning account can explain the full set of results remains open. Evidence of transfer would strengthen the inference to flexible memory monitoring. Attributing self-awareness would require further evidence that the animal recognises the remembered state as its own.
+The evidence supports placing memory-guided choice within the APS account of how an animal regulates its own activity. The macaques’ decisions track the availability of information relevant to acting. What remains unresolved is whether these decisions require a separate assessment of memory and what, if anything, that assessment would imply about awareness of oneself as remembering. Comparative cognition already supplies the distinctions and the experimental reasoning behind them. Here they refine the APS pathway by identifying the connection the evidence supports and the further claim that still needs justification.
 
-### What the Comparison Changes in APS
-
-A retained memory may be available for use. Evidence that its availability guides a decision would support an attribution of memory monitoring. Recognising the remembered state as a state of oneself is a further capacity that requires evidence of its own.
-
-**Comparative verdict.** The results constrain learning-based accounts of the macaques’ choices. Whether a case-specific learning account can explain the full pattern remains open, so the comparison is unresolved. The next step is to identify evidence that would distinguish such an account from an account based on memory monitoring. Attributing self-awareness would require separate evidence of self-attribution.
+**Comparative verdict.** The comparison sharpens the APS account of memory-guided choice, while the mechanism remains unresolved. No additional explanatory gain over existing comparative cognition accounts was established.
 
 ## Where the Inquiry Currently Stands
 
-**12 November 2026.** The worm comparison identifies a test of whether the current value of an expected food guides a learned response. An outcome-sensitive associative account already predicts the selective response that the proposed test would look for. The macaque experiment shows that decisions to attempt a memory test track likely performance. Whether a case-specific learning account can explain the full pattern remains open, and an attribution of self-awareness would require evidence that the animal recognises the remembered state as its own. The comparisons sharpen the APS claims and identify what further work could change the judgement. Neither has yet established additional explanatory gain for APS. Comparative clarity and efficiency remain untested.
+**12 November 2026.** The worm comparison identifies a test of whether the current value of an expected food guides a learned response. An outcome-sensitive associative account already predicts the selective response that the proposed test would look for. In rhesus macaques, decisions to decline a test tracked likely memory performance. Generalisation across trials that weakened or strengthened memory weighs against explanations based on particular external cues. The results leave open whether memory strength guides choice directly or whether the animal separately assesses memory availability. Attributing self-awareness requires further evidence. The comparisons sharpen the APS claims and identify what further work could change the judgement. Neither has yet established additional explanatory gain for APS. Comparative clarity and efficiency remain untested.
 
 ## What Would Count as Progress?
 
@@ -223,17 +220,17 @@ Bringing the cases together helps formulate a testable question. An explanatory 
 
 ## Where the Inquiry Goes Next
 
-Hampton, Zivin, and Murray gave rhesus macaques the opportunity to look for a hidden food reward before choosing. The macaques looked more often when they had been prevented from seeing where the food was hidden. Tu, Pani, and Hampton subsequently examined how macaques adjust their search as information accumulates. These studies give the next comparison a starting point in existing experiments. ([Hampton et al. 2004](https://doi.org/10.1007/s10071-004-0215-1) and [Tu et al. 2015](https://doi.org/10.1037/a0039595))
+The immediate question is what evidence would distinguish direct use of memory strength from a separate assessment of whether a memory is available. Both accounts can accommodate the finding that macaques decline more often when memory is weak and less often when it is strong. A further comparison would need to specify how each account explains the decision and identify a condition under which they predict different choices. Whether APS can supply a distinctive prediction remains open.
 
-The immediate follow-up asks whether macaques seek information because what they remember is unreliable or because a familiar cue, such as having missed the hiding event, has been associated with poor performance. A comparison would vary memory reliability independently of such cues and ask which account better explains when the animals choose to look. This would increase the resolution of the macaque comparison by sharpening the distinction between the two accounts. It would also test the reach of the monitoring interpretation by asking whether it applies to actively seeking information as well as to declining a memory test.
-
-A longer-term comparison would vary outcome value and information reliability within the same task. This would broaden the inquiry by asking how the two factors jointly influence the decision to act or seek more information. To assess what APS contributes, the comparison would identify an inference about their joint influence and ask whether the strongest existing account already supports it.
+The two worked comparisons also suggest a longer-term question. How do the current value of an expected outcome and the reliability of the information needed to obtain it jointly affect whether an animal acts or seeks more information? A single task that varies both factors could address that question. To assess the contribution of APS, the comparison would ask whether their interaction supports an inference beyond what the strongest existing account already provides.
 
 ## Conclusion
 
-The worm studies show that learning changes navigation. Selective revaluation would test a further claim about the use of a learned outcome’s current value, an inference already available from outcome-sensitive associative learning. The macaque study shows that decisions to take a test track likely memory performance. The comparison with a case-specific learning model remains open, and attributing self-awareness requires a further argument.
+The worm studies show that learning changes navigation. Selective revaluation would test whether worms use the current value of a learned outcome to guide their response. An outcome-sensitive account of associative learning already predicts the selective response that would support this inference.
 
-The two cases sharpen the APS account by specifying what the proposed connections claim and where further evidence is needed. They have yet to establish explanatory gain, and comparative clarity and efficiency remain untested. An account of how these capacities evolved would also require historical and comparative evidence about their distribution and antecedents.
+The macaque studies show that decisions to decline a test track likely memory performance. Generalisation across trials that weakened or strengthened memory weighs against explanations based on particular external cues. The results leave open whether memory strength guides choice directly or whether the animal separately assesses memory availability. Attributing awareness of oneself as remembering requires further evidence.
+
+The two comparisons sharpen the proposed connections in the APS account by specifying what the evidence supports and where further evidence is needed. Neither comparison establishes additional explanatory gain for APS. Comparative clarity and efficiency remain untested. Explaining how these capacities evolved would also require historical and comparative evidence about their distribution and antecedents.
 
 ## Explanatory Architecture
 
@@ -255,7 +252,7 @@ The first comparisons examine the links from biological integration to cognition
 
 ### Related Explanatory Questions
 
-What distinguishes an enabling condition from evidence that a capacity is present? When does integrating existing explanations warrant a further conclusion? What evidence would show that one account is clearer or more efficient to use?
+What distinguishes an enabling condition from evidence that a capacity is present? What evidence would distinguish direct use of memory strength from a separate assessment of memory availability? When does integrating existing explanations warrant a further conclusion? What evidence would show that one account is clearer or more efficient to use?
 
 ### Position Within APS
 

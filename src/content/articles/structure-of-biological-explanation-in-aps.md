@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-10-18
+revised: 2026-11-15
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -51,7 +51,7 @@ The APS framework addresses these questions in two stages. The article Biologica
 
 This article develops the second stage. It specifies the explanatory architecture APS uses to investigate that target.
 
-If living systems are understood within APS as viability-oriented organisations, their activity, continuity, transformation, spatial and temporal organisation, and environmental relations become interconnected explanatory concerns. APS organises these concerns through a coherent explanatory architecture without treating that architecture as obligatory for biological explanation generally.
+If living systems are understood within APS as viability-oriented organisations, their activity, continuity, transformation, spatial and temporal organisation, and environmental relations become interconnected explanatory concerns. Organised persistence concerns the continuity of living organisation through change. Viability concerns the conditions under which that organisation can continue. Agency, Process, and Scale help APS investigate how the activities of a living system, its continuity through change, and its organisation across space and time bear on that explanatory target.
 
 This article forms part of a two-step account of biological explanation in APS. For the full entry sequence, see:
 
@@ -65,9 +65,7 @@ Living systems maintain themselves through ongoing activity, reorganise under ch
 
 APS therefore asks how these features are organised in the persistence and transformation of living systems. Its explanatory architecture is designed to make those relationships explicit. Other biological explanations may legitimately address narrower or different explananda without thereby being incomplete.
 
-APS organises these concerns into a coherent explanatory structure.
-
-→ This article characterises the elements of biological explanation within APS; their systematic organisation is developed in The Explanatory Geometry of Biology.
+Organised persistence concerns the continuity of living organisation through change. Viability concerns the conditions under which that organisation can continue. Agency, Process, and Scale help APS investigate how the activities of a living system, its continuity through change, and its organisation across space and time bear on that explanatory target.
 
 ## The Core Explanatory Dimensions
 
@@ -78,6 +76,19 @@ Agency concerns what living systems do. Process concerns how continuity is maint
 These are not separate components, causal sources, or levels. They are analytic projections of one viability-oriented, constraint-closed organisation rather than components of reality.
 
 APS uses these projections together where their combination clarifies how living organisation is enacted, maintained, and transformed. They belong to the APS explanatory architecture rather than functioning as obligatory categories for biological explanation generally.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/aps-explanatory-geometry.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/aps-explanatory-geometry.png"
+      alt="Organised persistence as an APS explanatory target, investigated through the complementary projections of Agency, Process, and Scale."
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption"><strong>APS Explanatory Geometry.</strong> Organised persistence is the target in this diagram. Agency, Process, and Scale direct attention to different aspects of the same living organisation. Which aspects matter depends on the question being investigated.</p>
+</div>
+
+The bacterial example in [What Is a Biological System?](/articles/what-is-a-biological-system/#a-bacterial-cell-under-osmotic-disturbance) shows how this works. Agency directs attention to what the cell does to help restore conditions for continued functioning. Process tracks the continuity of the cell’s organisation through the disturbance and response. Scale connects transport at the membrane with changes across the cell over time. The projections organise the inquiry. Any claim of [additional explanatory gain](/articles/what-counts-as-explanatory-gain/) requires comparison with a strong account addressing the same question.
 
 ## The Temporal Structure of Biological Organisation
 

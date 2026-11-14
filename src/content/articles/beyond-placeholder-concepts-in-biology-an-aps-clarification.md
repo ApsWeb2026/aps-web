@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-30
-revised: 2026-10-17
+revised: 2026-11-15
 cluster: philosophy-of-biology
 role: clarification
 abstract: >
@@ -39,7 +39,7 @@ This is not a failure of the concepts themselves. Each arises from attempts to d
 
 The Agency–Process–Scale (APS) framework addresses this problem by clarifying the structure of biological explanation. Rather than rejecting these concepts, APS situates them within a more precise account of how living systems are organised. What is often described in terms of emergence, information, design, or cognition can be understood more explicitly in terms of viability-oriented, constraint-closed organisation, in which activity is structured, stabilised, and transformed across time and scale.
 
-For a formal account of how biological explanation is structured, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation]*. That article specifies the conditions under which biological explanation is possible. The present article addresses a complementary task. It examines how widely used concepts function within biological explanation and shows how they can be clarified by grounding them in the organisational framework specified by APS.
+[The Structure of Biological Explanation in APS](/articles/structure-of-biological-explanation-in-aps/) explains how APS organises inquiry into living organisation and organised persistence. This article examines how widely used concepts function within biological explanation and asks what organisational relations must be specified for those concepts to do explanatory work.
 
 ### Why Placeholder Concepts Persist
 
