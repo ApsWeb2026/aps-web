@@ -1,26 +1,35 @@
 ---
-date: 2026-04-13
+date: '2026-04-13'
 title: Explanatory Grammar
 slug: explanatory-grammar
 type: article
-
-abstract: >
-  This article develops Explanatory Grammar as the organised conceptual and explanatory structure through which APS addresses living organisation and organised persistence. APS relates viability-oriented, constraint-closed organisation to Agency, Process, and Scale as analytic projections of one integrated living organisation. Its explanatory grammar has potential foundational generality because it explicitly addresses the organisation characteristic of living systems, but it is not proposed as an obligatory structure for every biological explanation. The article distinguishes this APS-specific grammar from the broader Explanatory Architectures through which different biological research programmes can be characterised and compared.
-
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-29
-revised: 2026-10-17
+canonicalLockDate: '2026-05-29'
+revised: '2026-11-14'
 cluster: methodology-and-explanation
 role: core
 
+abstract: >
+  This article explains how the Agency–Process–Scale framework organises
+  inquiry into living organisation and organised persistence. It distinguishes
+  sharing a term, sharing a concept, and establishing a relationship between
+  explanations. Biologists already connect specialist inquiries through shared
+  concepts, methods, and models. APS contributes a technical vocabulary
+  centred on viability-oriented, constraint-closed organisation, with Agency,
+  Process, and Scale as analytic projections of that organisation. The article
+  considers how this vocabulary can help formulate questions across fields,
+  what evidence supports the proposed connections, and how to distinguish
+  clearer communication from additional explanatory gain.
+
 keyPoints:
-  - Explanatory Grammar identifies the organised conceptual and explanatory relations through which APS structures its account of living organisation.
-  - Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation rather than independent explanatory components or levels.
-  - Organised persistence is a principal explanatory target and integrative focus of the APS Explanatory Grammar.
-  - APS claims potential foundational generality because its explanatory grammar explicitly addresses living organisation itself, not because every biological explanation must employ APS.
-  - Different biological questions may legitimately require different explanatory approaches, and specialist explanations need not be absorbed into APS.
-  - Explanatory Grammar is APS-specific; Explanatory Architecture provides the more general framework-neutral basis for characterising and comparing research programmes.
+  - An explanatory grammar makes explicit which concepts and relationships guide an inquiry and what its explanations aim to establish.
+  - Sharing a term can help researchers recognise a common question. Connecting explanations requires evidence that findings from one inquiry bear on another.
+  - A shared technical vocabulary can complement specialist terminology by making the scope and evidential requirements of its terms explicit.
+  - Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation. Organised persistence is the explanatory problem that brings them together.
+  - APS has potential foundational generality because it asks how living organisation is maintained through change across the biological domain.
+  - Gains in communication and gains in explanatory content require different kinds of assessment. Explanatory gain is judged against the strongest established account of the same question.
+  - The APS explanatory grammar specifies the framework’s own conceptual commitments. Explanatory architecture provides a more general basis for describing and comparing research programmes.
 
 relatedGlossaryTerms:
   - explanatory-grammar
@@ -45,196 +54,132 @@ relatedArticles:
   - organisational-realism-in-biology
   - function-and-normativity-why-biological-organisation-matters
   - why-philosophy-of-biology-matters
+  - what-is-a-scientific-explanation
+  - purpose-the-organisation-of-viability-oriented-activity
+  - teleology-in-biology-an-aps-clarification
+
+references:
+  - machamer-darden-craver-2000-mechanisms
+  - brigandt-2013-explanation-biology
+  - brigandt-2013-systems-biology-explanatory-integration
+  - mitchell-2023-landscape-integrative-pluralism
+  - mossio-saborido-moreno-2009-functions
+  - montevil-mossio-2015-closure-constraints
 ---
+
+**Where This Article Fits**
+
+*This Core article takes the [APS framework overview](/orientation/understanding-aps-the-structure-of-the-framework/) as its starting point. It explains how Agency, Process, and Scale organise inquiry into living organisation and organised persistence, and asks how a shared technical vocabulary can connect specialist explanations.*
+
+*[Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/) develops the question of explanatory direction. [From Matter to Mind](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/) shows how the distinctions made here work in two comparative cases.*
 
 ## Introduction
 
-Scientific explanations do not simply report observations. They employ concepts, relations, representations, and explanatory priorities through which phenomena are made intelligible. APS uses the term Explanatory Grammar for the organised conceptual and explanatory relations through which it structures its account of living organisation.
+A geneticist and a developmental biologist can investigate the same trait while asking different questions. One may ask which inherited difference accounts for variation in the trait. The other may ask how that difference affects the processes through which the trait develops. Their findings can inform one another when the relationship between inheritance and development is specified and supported. The terms they share help them formulate that relationship. Establishing it takes biological evidence.
 
-An explanatory grammar influences what an explanatory framework treats as relevant, how it relates phenomena, and what kinds of questions it is organised to answer. It should not be confused with reality itself: its categories remain explanatory commitments whose adequacy must be assessed against the phenomena, evidence, and alternatives concerned.
+An *explanatory grammar* is an organised set of concepts and relationships that helps investigators specify what needs explaining, what kinds of evidence are relevant, and how findings can be connected. A mechanistic grammar, for example, directs attention to the entities and activities that produce a phenomenon and to the organisation through which they do so. It can guide inquiries across molecular biology, physiology, and neuroscience. Each inquiry still depends on evidence about the particular mechanism involved. ([Machamer, Darden, and Craver 2000](https://doi.org/10.1086/392759))
 
-Within APS, Explanatory Grammar relates viability-oriented organisation, organised persistence, and the analytic projections of Agency, Process, and Scale. Its purpose is to make explicit how APS structures its explanation of living organisation, not to prescribe the necessary form of every biological explanation.
+APS makes its explanatory grammar explicit by stating its starting point, defining its concepts, and showing how they relate. It takes organised persistence as a principal explanatory target and asks how living systems maintain and re-establish the conditions of their viability through change. This leads to a wider methodological question. How can a vocabulary developed to investigate living organisation help connect specialist explanations across biology?
 
-Scientific progress often involves changes in explanatory grammar: new ways of organising phenomena that render previously obscured patterns intelligible. Biology provides a particularly demanding case, because living systems are dynamically organised, historically evolving, and coordinated across interacting spatial and temporal domains.
+## How Specialist Explanations Connect
 
-## Explanatory Grammars in Science
+Consider a developmental difference associated with variation in the timing of gene expression. A genetic inquiry can ask whether an inherited variant accounts for the difference in timing. A developmental inquiry can ask how the timing of expression affects the formation of a tissue. An organisational inquiry can ask how the resulting tissue contributes to the organism’s functioning and how that contribution depends on other processes. These questions concern the same system, and each identifies a relationship that needs its own evidence.
 
-Across the sciences, explanatory frameworks organise phenomena through characteristic sets of categories. These are not arbitrary descriptors but determine what is treated as causally relevant.
+The findings become connected when evidence about one relationship supports an inference about another. For example, a study might establish that the variant changes when a protein is expressed and that changing the timing alters tissue formation under specified conditions. The resulting explanation links the inherited difference to a developmental outcome through an identified process. Whether that outcome affects the organism’s continued functioning remains a further question.
 
-> Newtonian physics: mass – force – motion → mechanical causation
 
-> Thermodynamics: energy – entropy – state → transformations of energy
+<div class="aps-diagram">
+  <a href="/assets/diagrams/shared-terms-and-explanatory-connections.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/shared-terms-and-explanatory-connections.png"
+      alt="Two panels show how genetics, development, and organisational inquiry ask different questions about gene expression. In the schematic example, an inherited variant changes expression timing, which affects tissue formation. The effect on continued functioning remains an open question."
+      loading="lazy"
+    />
+  </a>
+  <p class="diagram-caption">
+    <strong>From a shared term to an explanatory connection.</strong>
+    Gene expression gives researchers a common point of reference. In this schematic example, evidence links an inherited variant to a change in expression timing and links that change to tissue formation. The dashed arrow marks a further question about the tissue’s contribution to continued functioning.
+  </p>
+</div>
 
-> Electromagnetism: field – charge – interaction → distributed physical influence
+Explanatory pluralism recognises this division of labour. Complementary accounts can address different questions about the same phenomenon. Accounts also compete when they address the same question and make claims that cannot both hold. The explanatory target determines which relationship applies. In this respect, a shared scientific problem can organise collaboration more effectively than an attempt to reconcile whole disciplines or theories in advance. ([Brigandt 2013a](https://doi.org/10.1007/s11191-011-9350-7) and [Mitchell 2023](https://doi.org/10.1387/theoria.25273))
 
-> Darwinian evolution: variation – inheritance – selection → adaptive change
+Biologists already make these connections through shared experimental systems, measurements, models, and concepts. A mathematical model can identify conditions under which a process is sufficient to produce a pattern. A mechanistic investigation can establish whether the relevant processes operate under those conditions in the organism. The model and the mechanistic account can then constrain one another. This is one way explanatory integration proceeds in biological practice. ([Brigandt 2013b](https://doi.org/10.1016/j.shpsc.2013.06.002))
 
-> Information theory: signal – code – transmission → informational organisation
+## Can Biology Share a Technical Vocabulary?
 
-Such grammars shape what is measured, what is treated as causal, and what counts as explanation. When explanatory grammars change, scientific understanding changes with them.
+Biology can draw on the vocabularies of its specialist fields to describe a wide range of phenomena. It can also develop general concepts for questions that recur across those fields. The need for a shared term depends on what researchers want to communicate or investigate. Some questions can be handled by translating between established specialist usages. Others benefit from a common definition that makes a recurring relationship easier to identify and compare.
 
-## Why Biology Is Especially Sensitive to Grammar
+Sharing a word, sharing a concept, and connecting explanations are distinct achievements. Researchers share a word whenever they use the same expression, even if they use it to pick out different things. They share a concept when they agree on the distinction or relationship the term expresses, even if they investigate it by different methods. They connect explanations when they show how findings from one inquiry support, qualify, or constrain an inference in another.
 
-Living systems are organisationally complex, self-maintaining, historically evolving, and coordinated across multiple interacting scales. Because of this, biological explanation has developed through multiple partially overlapping grammars, each emphasising different aspects of life.
+Differences in usage can be productive when they reflect differences in what investigators need to explain. Confusion arises when an inference warranted in one usage is carried into another without showing that it still holds. A shared technical vocabulary can reduce this confusion by specifying the common relationship, its scope, and the evidence needed to establish it. Where specialist usages track genuinely different relationships, distinguishing the senses preserves information that a single broad definition would lose.
 
-These grammars capture genuine features of living systems. However, they also tend to privilege particular components or processes as explanatorily primary, generating recurring debates about the “fundamental unit” of biology.
+*Purpose* illustrates how an existing term can acquire a wider technical application. In APS, an account of biological purposiveness asks how activity is organised towards an outcome that bears on the organism’s viability. This question can be asked of physiological regulation as well as behaviour. Its application requires evidence about the organisation of the activity and the contribution of the outcome. Attributing an intention calls for evidence about the organism’s capacity to act towards an intended outcome. Explaining why a trait was favoured by selection calls for historical evidence. These inquiries can bear on one another while retaining distinct explanatory targets. See [Purpose — The Organisation of Viability-Oriented Activity](/articles/purpose-the-organisation-of-viability-oriented-activity/) and [Teleology in Biology — An APS Clarification](/articles/teleology-in-biology-an-aps-clarification/).
 
-## Major Explanatory Grammars in Biology
-
-Gene-centric grammar explains biological change in terms of gene frequencies across generations, enabling precise modelling of evolutionary dynamics while offering a limited account of organismal organisation.
-
-Cell-centric grammar establishes the cell as the fundamental unit of life, grounding development and physiology while remaining less explanatory for evolutionary dynamics.
-
-Organism-centric grammar emphasises integrated regulation and environmental interaction, providing a strong account of functional organisation but weaker formal modelling of evolutionary change.
-
-Systems biology grammar focuses on networks, interactions, and distributed dynamics, enabling multiscale modelling while often under-specifying biological normativity.
-
-Each grammar captures a real aspect of biological organisation. Each also risks treating a particular component or scale as explanatorily primary.
-
-## The Problem of Privileged Scale
-
-Some biological explanations have assigned particular explanatory importance to genes, cells, organisms, networks, or other domains of organisation. Such priorities can be scientifically productive when they are appropriate to the question being addressed, but they need not identify a universally privileged basis of biological causation or explanation.
-
-APS approaches this issue differently. It does not assign intrinsic explanatory priority to any particular spatial or temporal scale. Scale identifies where persistence is organised across spatial and temporal extents, while the explanatory importance of particular processes depends upon the biological question and organisation under investigation.
-
-A related distinction concerns analysis and synthesis. Biological inquiry often gains explanatory power by analysing systems into components and processes. Other questions require attention to how those components and processes are organised into functioning systems. APS does not treat either explanatory orientation as universally preferable. Where living organisation and organised persistence are the explanatory targets, however, it gives particular importance to the organisation through which activities, processes, constraints, and interactions jointly contribute to continued viability (see Analysis, Synthesis, and the Direction of Explanation).
-
-Similar care is required in explanations of cognition and behaviour. Concepts such as representation, computation, inference, and decision-making may be useful within appropriate explanatory contexts, but their applicability to biological systems cannot simply be assumed. APS approaches cognition from living organisation, asking how increasingly complex capacities arise from viability-oriented organisational activity rather than taking human cognition as the general model for life.
-
-Human cognition is therefore treated within APS as a specialised development of biological organisation rather than as the starting point for explaining that organisation.
-
-Reductionism should consequently not be identified simply with explanation at smaller scales. The relevant question is whether an explanatory strategy is adequate to the phenomenon and question under investigation. Component-based analysis may sometimes be sufficient; where the target is living organisation and its persistence, APS asks additionally how those components and processes participate in the organisation through which viability is maintained.
-
-## Distributed and Reciprocal Causation
-
-IBiological processes occurring across different spatial and temporal extents can influence one another through materially implemented interactions and constraints. Molecular, cellular, organismal, and environmental processes are therefore not explanatory layers exercising abstract upward or downward causation. Their relations are realised through the organisation of the living system itself.
-
-APS treats such cross-scale influence as materially implemented: constraints operating across wider spatial or temporal extents alter the local conditions under which particular processes occur. No scale thereby acquires intrinsic causal or explanatory priority.
-
-## From Explanatory Grammar to Continuity Architecture
-
-APS applies Explanatory Grammar to a foundational question: what organisation characterises living systems, and how is that organisation maintained through change?
-
-Living systems do not merely exhibit activity, process, or coordination across spatial and temporal extents. They persist while continually replacing components, reorganising processes, responding to perturbations, and interacting with changing environments. APS therefore treats organised persistence as a principal explanatory target in its account of life.
-
-APS describes the organisation through which such persistence is maintained as a continuity architecture: viability-oriented organisation that continually maintains and re-establishes the conditions required for its own continuation. Agency, Process, and Scale provide analytic projections of this organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents. They are analytic projections rather than independent explanatory domains or components of reality.
-
-The APS Explanatory Grammar therefore organises its account of living systems around viability-oriented organisation and organised persistence rather than assigning intrinsic explanatory priority to genes, cells, organisms, networks, or any particular scale. Biological mechanisms, developmental processes, ecological relations, and evolutionary transformations can be considered in relation to this continuity architecture where doing so contributes to the question being addressed. They do not thereby become subordinate to APS, nor does their explanatory adequacy depend upon incorporation into it.
-
-This gives APS potential foundational generality when living organisation itself is the explanatory target. It does not give APS universal authority over biological explanation. Particular biological phenomena may be adequately explained through other approaches, while APS addresses the more general question of how living organisation is maintained through change.
-
-This revision makes two particularly important corrections to the original.
-
-First, “what kind of organisation biological explanation must ultimately explain” becomes the question APS explicitly addresses. Second, the original final claim that biological phenomena “become intelligible insofar as” they contribute to continuity architecture is removed. That formulation effectively made APS the condition of intelligibility for biology. The replacement preserves APS's foundational reach without absorbing specialist explanations into APS.
+A vocabulary with general biological reach is therefore a coherent aim. Its terms can apply wherever the relationships they describe can be established. APS develops a vocabulary of this kind for living organisation. Its technical character comes from the precision of its definitions, and its cross-disciplinary reach depends on whether those definitions help researchers relate questions and evidence across fields.
 
 ## The APS Explanatory Grammar
 
-The Agency–Process–Scale (APS) framework makes explanatory grammar explicit and grounds it in viability-oriented, constraint-closed organisation. Within this grammar, living systems are understood as actively sustaining the conditions of their own persistence through ongoing processes coordinated across interacting scales.
+APS takes organised persistence as a principal explanatory target. Living systems maintain and re-establish the conditions of their viability as their components, activities, and surroundings change. APS asks how viability-oriented, constraint-closed organisation makes this continuity possible. The account of constraint closure developed by Montévil and Mossio provides a scholarly basis for investigating how constraints depend on other constraints within living organisation. APS relates this organisational problem explicitly to viability and persistence. ([Montévil and Mossio 2015](https://doi.org/10.1016/j.jtbi.2015.02.029))
 
-Within the APS Explanatory Grammar, living systems are understood as viability-oriented, constraint-closed organisations that actively maintain and re-establish the conditions of their own persistence.
+Organised persistence names the continuity to be explained. APS uses *continuity architecture* for the organisation through which a living system sustains that continuity. Explaining how this architecture works in a particular system requires showing how its processes and constraints depend on one another and how those relationships help maintain the conditions of viability through change.
 
-APS approaches this organisation through three analytic projections:
-
-> Agency — what living systems do: viability-oriented organisational activity.
-
-> Process — how continuity is maintained despite change.
-
-> Scale — where persistence is organised across spatial and temporal extents.
-
-Agency, Process, and Scale are analytic projections rather than components of reality. Organised persistence is not a fourth projection. It identifies the continuity problem around which these projections are brought into explanatory relation.
-
-APS's Explanatory Grammar therefore organises its account of life around the relationship between viability-oriented organisation and organised persistence without treating any particular component, scale, or projection as independently fundamental.
-
-Living systems regulate because persistence requires regulation. They undergo continual transformation because persistence requires ongoing process. They coordinate activity across scales because persistence depends upon interactions extending beyond any single spatial or temporal domain.
-
-APS therefore replaces the search for a privileged unit with an explanatory grammar grounded in organised persistence.
+Agency, Process, and Scale are three analytic projections of the same living organisation. *Agency* concerns what living systems do in relation to their conditions of viability. *Process* concerns how their organisation is maintained and transformed through time. *Scale* concerns the spatial and temporal extents across which the relevant activities and dependencies operate. Organised persistence is the explanatory problem that brings these projections together.
 
 [[box:aps-box-why-aps-is-not-arbitrary]]
 
-This framework is not introduced as a classificatory scheme but identified as the minimal structure required for explanatory adequacy. Without agency, normativity disappears; without process, organisation becomes static; without scale, coordination across time and space cannot be explained; without organised persistence, these dimensions remain disconnected and fail to explain what is distinctive about living systems.
+This grammar makes explicit why APS treats some differences as biologically significant. A change matters to an organism insofar as it supports, undermines, or helps restore the conditions of its viability. An explanation can then ask which activities respond to that change, which processes make the response possible, and how their effects are coordinated across space and time. The answers depend on evidence about the particular system.
 
-APS therefore identifies the organisational conditions that biological explanation must ultimately account for.
+Organisational accounts of biological function provide a close point of comparison. Mossio, Saborido, and Moreno ask how a component contributes to maintaining the organisation that, in turn, sustains the component. This makes reciprocal dependence part of the explanation of function. APS shares the concern with self-maintaining organisation and uses Agency, Process, and Scale to articulate questions about activity, continuity, and coordination. A comparison can then ask what these formulations each establish about the same biological relationship. ([Mossio, Saborido, and Moreno 2009](https://doi.org/10.1093/bjps/axp036))
 
-Within this framework, biological normativity emerges from the conditions required for continued viability. Living systems do not require externally imposed goals or observer-defined purposes. Conditions become biologically significant because they affect the persistence of organised activity itself. Evaluation, regulation, adaptation, function, and teleonomy therefore arise from the organisational requirements of continuity rather than from standards imposed upon the system from outside.
+## Scale, Mechanism, and Organised Persistence
 
-APS therefore replaces the search for a privileged unit with an explanatory grammar grounded in distributed organisation and continuity-preserving persistence.
+The scale at which an inquiry begins depends on its target. The activity of a transporter can explain one part of a regulatory response. An account of how that response maintains an internal condition may need to relate transport to metabolism, cellular regulation, and the duration of an environmental disturbance. The wider account earns its scope by specifying the material dependencies among those processes.
 
-It also reframes causation. Rather than treating causation solely as the production of events, APS understands biological causation as the viability-oriented modulation of constraints within organised systems. Mechanistic interactions remain essential, but they are situated within organisation that sustains the conditions under which those interactions remain viable (see *Biological Causation — From Mechanism to Organised Persistence*).
+Analysing a system into its components can establish what each component does and under what conditions it acts. Bringing those findings together can show how the activities jointly sustain a capacity or maintain a condition. This is especially important where the system’s wider organisation alters the conditions under which local processes occur. Such an explanation needs to identify what mediates that influence, where it operates, and on what timescale. See [Analysis, Synthesis, and the Direction of Explanation](/articles/analysis-synthesis-and-the-direction-of-explanation/) and [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/).
 
-Mechanisms explain how particular biological activities occur. Within APS, organised persistence provides a wider organisational context for asking whether and how particular activities contribute to continued viability. Mechanistic and organisational explanations can therefore be complementary where the explanatory question requires both. 
+Mechanistic and organisational explanations can therefore contribute to the same inquiry. A mechanistic account may explain how a response occurs. An organisational account may explain how the response contributes to continued viability and how the system maintains the processes that make the response possible. Which account is sufficient, and whether connecting them changes what we can infer, depends on the question being asked.
 
 ## APS, Evolution, and Organised Persistence
 
-The APS explanatory grammar reveals a complementary relationship between biological organisation and evolutionary theory.
+An account of how an organism maintains a capacity and an account of how that capacity evolved address different time spans and evidential questions. A physiological account can establish how a regulatory response protects functioning under particular conditions. An evolutionary account can investigate how the capacity arose, how it was transmitted, and which conditions affected its distribution or retention in lineages.
 
-Evolutionary theory explains how populations of organisms change through time through processes such as variation, inheritance, selection, drift, and ecological interaction.
+The inquiries can inform one another. Establishing how a capacity works helps specify what an evolutionary account needs to explain. Evidence about its development and distribution across lineages can constrain explanations of its origins and guide further investigation of its organisation. Connecting those accounts requires evidence appropriate to the proposed relationship.
 
-APS addresses a different but equally fundamental question: how viability-oriented organisation is maintained in the first place.
+Organised persistence gives APS a way to formulate questions about both continuity within a lifetime and continuity through reproduction and change across generations. The process that maintains a capacity in an individual and the processes that sustain or transform it in a lineage must be specified for the case at hand. See [How Did Evolution Transform Biological Explanation?](/articles/how-did-evolution-transform-biological-explanation/).
 
-Before variation can be inherited or selected, there must already exist systems capable of maintaining organised persistence across time. Organisms must sustain viability long enough to reproduce. Developmental systems must regenerate organisational structure across generations. Ecological conditions must support the continuation of living organisation.
+## What Would Count as an Improvement?
 
-APS is not proposed as an alternative to evolutionary theory. It addresses questions about the organisation whose historical transformation evolutionary explanations investigate. The explanatory relationship between them depends upon the question being asked. Rather, it provides an explanatory framework for understanding the organised systems upon which evolutionary processes operate.
+The APS grammar has potential foundational generality because it addresses the organisation characteristic of living systems across the biological domain. That is a claim about the reach of its explanatory target. Its adequacy for a particular problem depends on the evidence and on what other accounts of the same problem already establish.
 
-APS explains the organisation that persists.
+Making the grammar explicit has value in its own right. Readers can assess its starting point, trace what follows from its definitions, and identify where a biological claim requires independent evidence. For example, the APS definition of cognition includes integrated biological significance. Whether a particular cognitive capacity depends on a specific form of integration is an empirical question about the organism.
 
-Evolution explains the transformation of that organised persistence through time.
+A shared vocabulary can also make explanations easier to communicate. That benefit can be tested by asking readers from different specialisms to assess the same evidence using comparably detailed accounts. Greater accuracy in identifying the claims and their evidential limits, or less time to reach an equally accurate judgement, would count as a communicative improvement.
 
-The two frameworks therefore address complementary dimensions of biological explanation: one concerned with the maintenance of viability-oriented organisation, the other with its historical transformation.
+Additional explanatory gain requires a further result. At a shared explanatory target, the APS account would need to support a conclusion that the strongest established account leaves open. A connection could provide such a gain if evidence from one field ruled out an otherwise viable account in another. The comparison would have to identify the inference that changes and show why. [From Matter to Mind](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/) applies these distinctions in two worked comparisons. See also [What Counts as Explanatory Gain?](/articles/what-counts-as-explanatory-gain/).
 
-## Foundational Generality without Explanatory Monopoly
+## Explanatory Architecture
 
-APS makes living organisation itself an explicit explanatory target. In this restricted sense, its Explanatory Grammar has potential foundational generality: it proposes an account intended to apply to the organisation characteristic of living systems across the biological domain.
+### Central Question
 
-Foundational generality does not mean that APS is causally prior, hierarchically deeper, or obligatory for every biological explanation. Particular mechanisms, developmental processes, evolutionary transformations, ecological relations, and other biological phenomena may be adequately explained without reconstructing them through APS.
+How does APS organise inquiry into living organisation, and under what conditions can its grammar help connect explanations across biological disciplines?
 
-The claim is instead that APS addresses a question that bears upon the identity of the biological domain itself: what distinguishes living organisation and how is that organisation maintained through change? Whether APS provides the preferred general account of this target cannot be inferred from the breadth or coherence of its grammar. It requires comparison with the strongest alternative accounts addressing the same question and a demonstration of explanatory gain.
+### Architectural Role
 
-## Why This Grammar Matters
+This article makes explicit the relationships among viability-oriented organisation, organised persistence, and Agency, Process, and Scale. It shows how those relationships guide inquiry and how their contribution can be assessed.
 
-By making explanatory grammar explicit, APS clarifies core biological questions. It specifies what counts as a biological individual, how organisms regulate their internal conditions, how evolution transforms organised systems, and how cognition emerges from biological activity.
+### Preceding Explanatory Dependencies
 
-Explanation is thereby grounded not in isolated components or privileged scales, but in viability-oriented organisation sustained through interacting processes across scales.
+The account draws on the definitions of viability, constraint closure, and organised persistence to specify its explanatory target. [Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/) develops those relationships. Mechanistic explanation, explanatory pluralism, and organisational accounts of function provide scholarly context and points of comparison.
 
-This shift has important consequences.
+### Subsequent and Related Explanatory Developments
 
-> Biological individuality becomes a question of continuity-preserving organisation rather than static material composition.
+[From Matter to Mind](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/) applies the grammar to questions about biological organisation, cognition, and self-awareness. [What Counts as Explanatory Gain?](/articles/what-counts-as-explanatory-gain/) develops the standard for assessing whether a proposed connection adds explanatory content.
 
-> Biological causation becomes a question of how constraints are organised and modulated within viable systems.
+### Related Explanatory Questions
 
-> Function becomes a question of contribution to organised persistence rather than externally assigned purpose.
+When do disciplines share a concept? What evidence allows a finding in one field to constrain an explanation in another? How can we assess whether a shared vocabulary improves communication?
 
-> Cognition becomes a specialised elaboration of biological organisation rather than the conceptual foundation from which biological explanation must begin.
+### Position Within APS
 
-Across these domains, APS seeks to explain life in terms of the organisational conditions that allow living systems to maintain themselves despite continual change.
-
-## Explanatory Grammar and Scientific Practice
-
-Scientific explanation necessarily employs conceptual categories that render complex phenomena intelligible. These categories are indispensable, yet they can also become invisible. When this occurs, elements of an explanatory grammar may come to appear as intrinsic features of reality itself rather than as components of a particular explanatory framework.
-
-In biology, this tendency has repeatedly generated debates concerning the fundamental units and causes of life. Genes, cells, organisms, populations, networks, developmental systems, and ecological communities have each been proposed as privileged explanatory centres. Yet these disputes often persist not because of conflicting evidence, but because different explanatory grammars prioritise different aspects of biological organisation.
-
-APS suggests that many long-standing controversies in biology are therefore best understood as disagreements about explanatory grammar rather than disagreements about empirical facts. Different traditions frequently illuminate genuine features of living systems while simultaneously elevating particular explanatory categories to positions of explanatory priority.
-
-This insight also helps clarify a number of familiar philosophical debates. Reductionism, emergence, mechanism, holism, and organicism need not be understood as mutually exclusive accounts of life. Each highlights important aspects of biological organisation while operating within a particular explanatory orientation. Their apparent incompatibilities often arise from differences in explanatory grammar, explanatory direction, or explanatory scale.
-
-APS does not seek to eliminate or absorb these perspectives. Its comparative role is to clarify their explanatory targets, priorities, relations, strengths, and limits and, where appropriate, to identify ways in which independently successful explanations can contribute to understanding living organisation. Integration therefore means relating explanatory contributions where this produces gain, not subordinating all biological explanation to APS.
-
-The central question therefore shifts. Instead of asking which entity, mechanism, process, or scale is fundamentally responsible for life, APS asks how organised persistence is achieved and maintained. Within APS, the foundational explanatory question becomes how living systems achieve and maintain organised persistence through continual transformation.
-
-Living systems are not defined by a privileged component. They are continuity-preserving organisations maintained through distributed and interacting processes. Explanation must therefore track this organisation rather than reduce it to any single explanatory domain.
-
-APS provides an explicit explanatory grammar for investigating that question.
-
-## Where to Go Next
-
-To see how this explanatory grammar is developed within the APS framework:
-
-- Read **[What Is APS?](/orientation/what-is-aps/)** for a concise introduction.
-- See **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)** for an overview of how the framework is organised.
-- Explore **[Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)** for a complementary account of explanatory structure and explanatory direction.
-- Read **[Analysis, Synthesis, and the Direction of Explanation](/articles/analysis-synthesis-and-the-direction-of-explanation/)** for a detailed discussion of explanatory direction.
-- See **[Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/)** for the APS account of biological causation.
-- Explore **[Organisational Realism in Biology](/articles/organisational-realism-in-biology/)** for the ontological implications of viability-oriented organisation.
-- Consult the **[Glossary](/glossary/)** for precise definitions of core APS concepts.
-
-Explanatory Grammar is not an additional component of biological reality. In APS, it names the organised conceptual and explanatory relations through which living organisation and organised persistence are made intelligible. By making this grammar explicit, APS seeks to explain living systems as viability-oriented, constraint-closed organisations that persist, transform, and evolve through time. Its potential foundational generality derives from that explanatory target; its adequacy and any comparative superiority remain matters for evidence and target-matched assessment.
+The APS explanatory grammar specifies the framework’s own conceptual commitments. Explanatory architecture is the more general way of describing how a research programme relates its questions, concepts, explanations, and evidence. This distinction allows APS and other programmes to be compared on shared targets.
