@@ -8207,3 +8207,56 @@ references:
     status: verified
     authority: PubMed Central and BMJ
     verifiedDate: '2026-11-15'
+- id: jussieu-1789-genera-plantarum
+  type: book
+  authors: Jussieu, A. L. de
+  year: 1789
+  title: Genera plantarum secundum ordines naturales disposita
+  publisher: Veuve Hérissant and Théophile Barrois
+  doi: 10.5962/bhl.title.284
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library
+    verifiedDate: '2026-11-15'
+- id: liden-2025-linnaean-revolution
+  type: journal-article
+  authors: Lidén, M.
+  year: 2025
+  title: The Linnaean revolution – A history of the Natural System
+  journal: Taxon
+  volume: '74'
+  issue: '5'
+  pages: '1011–1034'
+  doi: 10.1002/tax.13381
+  verification:
+    status: verified
+    authority: Wiley / Taxon
+    verifiedDate: '2026-11-15'
+- id: barrett-et-al-2016-commelinid-plastid-phylogenomics
+  type: journal-article
+  authors: "Barrett, C. F., Baker, W. J., Comer, J. R., Conran, J. G., Lahmeyer, S. C., Leebens-Mack, J. H., Li, J., Lim, G. S., Mayfield-Jones, D. R., Perez, L., Medina, J., Pires, J. C., Santos, C., Stevenson, D. W., Zomlefer, W. B., & Davis, J. I."
+  year: 2016
+  title: Plastid genomes reveal support for deep phylogenetic relationships and extensive rate variation among palms and other commelinid monocots
+  journal: New Phytologist
+  volume: '209'
+  issue: '2'
+  pages: '855–870'
+  doi: 10.1111/nph.13617
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: '2026-11-15'
+- id: angiosperm-phylogeny-group-2016-apg-iv
+  type: journal-article
+  authors: The Angiosperm Phylogeny Group
+  year: 2016
+  title: "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV"
+  journal: Botanical Journal of the Linnean Society
+  volume: '181'
+  issue: '1'
+  pages: '1–20'
+  doi: 10.1111/boj.12385
+  verification:
+    status: verified
+    authority: Botanical Journal of the Linnean Society
+    verifiedDate: '2026-11-15'
