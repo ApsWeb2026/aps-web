@@ -837,7 +837,7 @@ const groupedArticles = articleRoleGroups
 }
 
       {
-        cluster.startHere && (
+        cluster.startHere && cluster.startHere.length > 0 && (
           <section class="domain-start-here">
             <h2>Start Here</h2>
 
@@ -858,7 +858,7 @@ const groupedArticles = articleRoleGroups
       }
 
       {
-        cluster.keyQuestions && (
+        cluster.keyQuestions && cluster.keyQuestions.length > 0 && (
           <section class="domain-key-questions">
             <h2>Key Questions</h2>
 
