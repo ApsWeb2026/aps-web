@@ -3409,7 +3409,7 @@ references:
   journal: Experimental & Molecular Medicine
   volume: '48'
   article-number: e219
-  doi: 10.1038/emm.2016.6
+  doi: 10.1038/emm.2016.e6
   verification:
     status: verified
     authority: Springer Nature / Experimental & Molecular Medicine
@@ -8094,4 +8094,116 @@ references:
   verification:
     status: verified
     authority: PubMed and PubMed Central
+    verifiedDate: '2026-11-15'
+- id: anonymous-1857-bernard-physiology-lectures-report
+  type: journal-article
+  authors: Anonymous
+  year: 1857
+  title: "Lectures on Experimental Physiology Applied to Medicine, Delivered at the Collège de France"
+  journal: The British and Foreign Medico-Chirurgical Review
+  volume: '19'
+  issue: '37'
+  pages: '27–44'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5183383/
+  verification:
+    status: verified
+    authority: PubMed and PubMed Central
+    verifiedDate: '2026-11-15'
+- id: cannon-1929-physiological-homeostasis
+  type: journal-article
+  authors: Cannon, W. B.
+  year: 1929
+  title: Organization for Physiological Homeostasis
+  journal: Physiological Reviews
+  volume: '9'
+  issue: '3'
+  pages: '399–431'
+  doi: 10.1152/physrev.1929.9.3.399
+  verification:
+    status: verified
+    authority: Physiological Reviews
+    verifiedDate: '2026-11-15'
+- id: cooper-2008-emergence-homeostasis
+  type: journal-article
+  authors: Cooper, S. J.
+  year: 2008
+  title: From Claude Bernard to Walter Cannon. Emergence of the Concept of Homeostasis
+  journal: Appetite
+  volume: '51'
+  issue: '3'
+  pages: '419–427'
+  doi: 10.1016/j.appet.2008.06.005
+  verification:
+    status: verified
+    authority: PubMed and ScienceDirect
+    verifiedDate: '2026-11-15'
+- id: defronzo-tobin-andres-1979-glucose-clamp
+  type: journal-article
+  authors: "DeFronzo, R. A., Tobin, J. D., & Andres, R."
+  year: 1979
+  title: "Glucose Clamp Technique: A Method for Quantifying Insulin Secretion and Resistance"
+  journal: American Journal of Physiology
+  volume: '237'
+  issue: '3'
+  pages: 'E214–E223'
+  doi: 10.1152/ajpendo.1979.237.3.E214
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: '2026-11-15'
+- id: haldane-priestley-1905-lung-ventilation
+  type: journal-article
+  authors: "Haldane, J. S., & Priestley, J. G."
+  year: 1905
+  title: The Regulation of the Lung-Ventilation
+  journal: The Journal of Physiology
+  volume: '32'
+  issue: '3–4'
+  pages: '225–266'
+  doi: 10.1113/jphysiol.1905.sp001081
+  verification:
+    status: verified
+    authority: PubMed Central
+    verifiedDate: '2026-11-15'
+- id: mcadam-brodribb-2015-stomatal-response-vpd
+  type: journal-article
+  authors: "McAdam, S. A. M., & Brodribb, T. J."
+  year: 2015
+  title: The Evolution of Mechanisms Driving the Stomatal Response to Vapor Pressure Deficit
+  journal: Plant Physiology
+  volume: '167'
+  issue: '3'
+  pages: '833–843'
+  doi: 10.1104/pp.114.252940
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: '2026-11-15'
+- id: ramsay-woods-2014-homeostasis-allostasis
+  type: journal-article
+  authors: "Ramsay, D. S., & Woods, S. C."
+  year: 2014
+  title: Clarifying the Roles of Homeostasis and Allostasis in Physiological Regulation
+  journal: Psychological Review
+  volume: '121'
+  issue: '2'
+  pages: '225–247'
+  doi: 10.1037/a0035942
+  verification:
+    status: verified
+    authority: PubMed and American Psychological Association
+    verifiedDate: '2026-11-15'
+- id: young-1957-bernard-discovery-glycogen
+  type: journal-article
+  authors: Young, F. G.
+  year: 1957
+  title: "Claude Bernard and the Discovery of Glycogen: A Century of Retrospect"
+  journal: British Medical Journal
+  volume: '1'
+  issue: '5033'
+  pages: '1431–1437'
+  doi: 10.1136/bmj.1.5033.1431
+  verification:
+    status: verified
+    authority: PubMed Central and BMJ
     verifiedDate: '2026-11-15'
