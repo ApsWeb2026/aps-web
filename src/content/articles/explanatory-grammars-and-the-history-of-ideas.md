@@ -3,156 +3,124 @@ title: "Explanatory Grammars and the History of Ideas"
 slug: "explanatory-grammars-and-the-history-of-ideas"
 type: article
 date: 2026-05-10
-revised: 2026-10-24
+revised: 2026-11-15
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
 cluster: history-of-ideas
 role: core
 abstract: >
-  APS approaches intellectual history not simply as a sequence of doctrines or discoveries, but as the historical transformation of explanatory grammars. Different periods organise understanding through different assumptions about causation, organisation, persistence, and explanation itself. This article argues that the history of ideas can therefore be understood partly as the history of changing explanatory structures through which reality becomes intelligible.
+  The history of biological ideas includes changes in what investigators seek to explain,
+  which relations they consider relevant, and how they gather evidence for their accounts.
+  This article uses explanatory grammar to examine the conceptual side of those changes.
+  Cases from evolutionary biology, ecology, and research on regulation show how new
+  explanatory questions emerge and how different approaches coexist or become connected.
+  The article also situates the Agency–Process–Scale grammar as a contemporary proposal
+  whose usefulness depends on what it helps researchers clarify, connect, or explain.
+keyPoints:
+  - "An explanatory grammar relates the concepts through which investigators formulate questions and candidate explanations. The warrant for those explanations comes from the evidence and reasoning appropriate to the question."
+  - "Historical changes in explanation can alter the object of inquiry, the relations under investigation, and the kinds of evidence available. Older approaches can remain productive alongside newer ones."
+  - "Sharing a term, sharing a concept, and connecting explanations are distinct achievements. An explanatory connection requires showing how one account bears on an inference in another."
+  - "APS uses Agency, Process, and Scale to investigate how living organisation persists through change. Its contribution must be assessed against established accounts of the same phenomenon."
 relatedArticles:
-  - description-explanation-and-definition-in-biology
-  - aps-and-contemporary-theories
-  - how-aps-concepts-fit-together
-  - understanding-aps-the-structure-of-the-framework
+  - explanatory-grammar
+  - explanatory-geometry-of-biology
+  - from-life-to-explanation-emerging-architecture
+  - how-did-scientists-learn-to-think-about-explanation
+  - how-did-evolution-transform-biological-explanation
+  - how-did-ecology-transform-biological-explanation
+  - history-as-organised-persistence
+  - from-matter-to-mind-an-exercise-in-biological-explanation
 relatedGlossaryTerms:
   - process
   - scale
   - viability
   - normativity
+references:
+  - bowler-1983-eclipse-darwinism
+  - brigandt-2013-systems-biology-explanatory-integration
+  - darwin-1859-origin
+  - egerton-2017-history-ecological-sciences-59
+  - hacking-1992-style-historians-philosophers
+  - kuhn-1962-structure-scientific-revolutions
+  - machamer-darden-craver-2000-mechanisms
+  - montevil-mossio-2015-closure-constraints
+  - tansley-1935-use-abuse-vegetational
+  - wiener-1948-cybernetics
 ---
 
-# Explanatory Grammars and the History of Ideas
+**Where This Article Fits**
 
-The history of ideas is often presented as a succession of thinkers, theories, discoveries, and debates. Intellectual traditions emerge, compete, evolve, and sometimes disappear. Philosophical systems rise to prominence before being replaced by new explanatory frameworks.
+*This article introduces a way of comparing changes in biological explanation across the History of Ideas. Read [How Did Scientists Learn to Think About Explanation?](/articles/how-did-scientists-learn-to-think-about-explanation/) for the history of philosophical accounts of explanation, and [Explanatory Grammar](/articles/explanatory-grammar/) for the technical sense in which APS uses the term. Continue with the case histories of [evolution](/articles/how-did-evolution-transform-biological-explanation/) and [ecology](/articles/how-did-ecology-transform-biological-explanation/) to see how changes in questions, methods, and evidence can be reconstructed in detail.*
 
-Yet beneath these visible conceptual changes lies a deeper level of organisation.
+## Introduction
 
-Different historical periods do not merely hold different beliefs. They organise explanation differently. They employ different assumptions about causation, order, persistence, agency, structure, and intelligibility itself. In this sense, intellectual history is not only the history of ideas, but also the history of changing explanatory grammars.
+A biologist can ask how a trait arose in a lineage, how it develops in an individual, or how it contributes to the organism’s activity. Each question requires a different account, even though all three concern the same trait. A change in biological explanation may therefore involve a change in what investigators are trying to explain. It may also involve a change in how they formulate an existing problem, which causal or organisational relations they investigate, or what observations can distinguish competing answers.
 
-APS approaches the history of ideas from this perspective.
+These changes are part of the history of ideas. They become visible when we examine the concepts and practices through which investigators made particular relationships open to inquiry. The term *explanatory grammar* identifies the conceptual side of that history. This article uses examples from evolution, ecology, and regulation to show how explanatory questions and candidate answers changed, how earlier lines of inquiry continued alongside them, and what is involved when explanations from different fields become connected.
 
 ## What Is an Explanatory Grammar?
 
-An explanatory grammar is the underlying organisational structure through which explanation becomes possible within a particular conceptual framework.
+An explanatory grammar is the pattern of relations among the concepts through which an approach specifies what needs explaining and formulates possible answers. A selection explanation, for example, relates heritable variation to differences in reproductive success and changes in a population across generations. The vocabulary has explanatory force when those relations can be specified for the phenomenon in question and supported by evidence. An isolated reference to ‘selection’ might only name a proposed explanation.
 
-It determines:
-- what counts as a legitimate explanation,
-- what kinds of causes are recognised,
-- what entities are treated as fundamental,
-- what relations are considered intelligible,
-- and what forms of organisation become visible or invisible.
+The wider *explanatory architecture* of a research programme includes how its questions, concepts, methods, evidence, and candidate answers fit together. A grammar can foreground certain relations, such as descent, feedback, or reciprocal dependence. Whether those relations obtain, and whether they explain the phenomenon, depends on the relevant evidence and reasoning. This distinction also separates description, which identifies a pattern, from explanation, which addresses how or why it occurs. The corresponding distinctions within APS are developed in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
 
-Most explanatory grammars are not explicitly stated. They function implicitly as conditions shaping how inquiry proceeds.
+This usage belongs alongside established work in the history and philosophy of science. Kuhn (1962) drew attention to the shared examples and standards through which scientific communities recognise and pursue problems. Hacking’s (1992) account of styles of reasoning asks how historically established ways of reasoning make particular kinds of claims and investigations possible. Explanatory grammar directs attention to a specific issue within that broader territory. Which conceptual relations allow investigators to pose a question and formulate a candidate answer? A historical reconstruction can then examine how those relations were used in texts, models, experiments, and debates.
 
-For example:
-- some frameworks prioritise substance,
-- others process,
-- others mechanism,
-- others information,
-- others historical transformation.
+## How Explanatory Questions Change
 
-Each grammar highlights certain forms of organisation while obscuring others.
+Darwin’s *On the Origin of Species* (1859) illustrates a change in what familiar observations could explain. Resemblances and differences documented by comparative anatomists and classifiers could be interpreted as evidence of common descent and divergence. Darwin also offered natural selection as a causal account of how heritable differences could accumulate over generations. Evidence for shared ancestry and evidence for the operation of selection could bear on the same historical reconstruction while supporting different conclusions. The subsequent disputes over the causes of evolutionary change show that acceptance of evolution could coexist with disagreement over the role of selection (Bowler 1983). Comparative anatomy and classification continued to supply problems and evidence as their relationship to historical explanation changed.
 
-APS treats explanatory grammars as historically significant because they influence not only what people believe, but what kinds of explanations become conceptually available.
+In ecology, some changes concerned the boundaries of the phenomenon under investigation. Tansley’s (1935) formulation of the ecosystem placed organisms and physical surroundings within the same system of inquiry. Exchanges between organisms and their surroundings could then be investigated as part of the system’s dynamics. The proposal arose amid disputes over whether vegetation formed an organism-like whole. Bringing organisms and their surroundings into a single unit of inquiry made their exchanges available for systematic study. Whether such a system had the unity of an organism was a separate question (Egerton 2017). Other ecological traditions pursued different problems, making organism–environment relationships open to measurement, modelling, experiment, and causal investigation in different ways.
 
-## Historical Change as Explanatory Reorganisation
+Cybernetics illustrates a third kind of change. Wiener (1948) treated feedback and control as relations that could be investigated in both organisms and machines. The comparison gave researchers a way to ask how the effects of an activity could alter its subsequent course. A feedback model can specify conditions under which a variable returns towards a range after disturbance. An account of physiological regulation must also establish which processes realise the feedback, under what conditions it operates, and how maintaining the variable affects the organism. Mechanistic and mathematical work can constrain one another when evidence about the mechanism helps assess the model’s assumptions and the model identifies which interactions could produce the observed dynamics (Machamer, Darden, and Craver 2000, and Brigandt 2013).
 
-From an APS perspective, intellectual history is not adequately understood as the accumulation of isolated theories. It also involves the reorganisation of explanatory structure itself.
+These cases show why the unit of comparison should usually be a specified problem or tradition. Evolutionary, ecological, mechanistic, and regulatory accounts can be pursued at the same time and can bear on the same phenomenon. Their relations depend on what each is trying to explain and which inferences their evidence supports.
 
-Major conceptual shifts often occur when an existing explanatory grammar can no longer adequately organise emerging phenomena.
+## How Explanatory Grammars Persist and Travel
 
-The transition from Aristotelian natural philosophy to mechanistic science, for example, did not merely replace one set of answers with another. It transformed:
-- what counted as explanation,
-- how causation was understood,
-- what kinds of entities were considered fundamental,
-- and how organisation itself was conceptualised.
+An explanatory grammar persists through the activities of people who teach, use, adapt, and sometimes dispute it. Textbooks transmit exemplary problems. Instruments and protocols make observations reproducible. Journals and professional communities establish expectations about what a persuasive account should contain. These arrangements may preserve an approach while its applications change. Explaining its persistence requires historical evidence about which practices sustained it and how. The durability of a practice and the evidential strength of the accounts it produces are separate questions.
 
-Similarly, Darwinian evolution transformed explanation by shifting emphasis from fixed forms to historical processes of variation and persistence. Cybernetics introduced new explanatory grammars centred on regulation, feedback, and control. Contemporary computational approaches increasingly organise explanation around information, prediction, and formal processing.
+Transmission between fields also calls for care. Researchers may share a word while using it for different relations. They share a concept when the word expresses a common distinction or relationship. They connect explanations when a result from one inquiry supports, qualifies, or constrains an inference in another. Feedback provides an example. A shared concept permits comparison between a physiological system and a control device. An explanatory connection requires evidence that both instantiate the particular relation relevant to the inference being transferred. What travels may therefore be a word, a concept, a modelling practice, or part of an explanation.
 
-APS interprets these shifts not simply as changes in opinion, but as reorganisations of explanatory possibility.
+[History as Organised Persistence](/articles/history-as-organised-persistence/) develops a related question about how historical patterns are re-established through change. Here the relevant means of continuity include training, textual transmission, institutional memory, and material infrastructure. The analogy with biological persistence concerns continuity through changing conditions. The processes sustaining a scientific tradition belong to its own social and material history.
 
-## Explanatory Grammars Shape What Becomes Visible
+## APS as a Contemporary Explanatory Grammar
 
-Every explanatory grammar reveals some organisational features while concealing others.
+APS takes organised persistence as a principal explanatory target. It asks how living systems maintain and re-establish the conditions of their viability through change. In APS, life is viability-oriented, constraint-closed organisation. Constraint closure concerns the reciprocal dependence of constraints that help sustain that organisation (Montévil and Mossio 2015). Viability concerns the conditions under which the organisation of the particular living system can continue.
 
-Mechanistic frameworks excel at analysing component interactions, but may underemphasise persistence and system-level organisation. Information-based approaches illuminate signalling and coordination while sometimes obscuring the viability conditions making information biologically meaningful. Evolutionary approaches explain historical transformation while occasionally neglecting the present-tense organisation through which living systems sustain themselves.
+Agency, Process, and Scale are complementary analytic perspectives on that organisation. Agency directs attention to what the system does in relation to its viability. Process directs attention to how continuity is maintained through time and transformation. Scale directs attention to the spatial and temporal extents over which the relevant activities and dependencies operate. The explanatory target determines which questions matter in a given inquiry. Giving organised persistence explanatory priority for this purpose confers no general causal or ontological priority on any particular scale or kind of entity.
 
-No explanatory grammar is entirely neutral.
+The APS grammar can help formulate questions about the relationship between, for example, a regulatory mechanism and the conditions of an organism’s continued viability. Whether the resulting account clarifies a distinction, improves communication between fields, connects evidence, or adds explanatory content depends on what can be demonstrated. A claim of additional explanatory gain requires a shared target, the strongest relevant established account, and evidence that the proposed connection supports an inference that account leaves open. [From Matter to Mind](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/) illustrates that comparison in two cases and reports that explanatory gain has yet to be established. [From Life to Explanation](/articles/from-life-to-explanation-emerging-architecture/) develops the wider distinction between organising inquiry and warranting a biological conclusion.
 
-This does not mean all frameworks are equally adequate. Some explanatory grammars integrate more dimensions of organisation than others. APS therefore approaches intellectual history not as a sequence of arbitrary conceptual fashions, but as an evolving attempt to capture increasingly complex forms of organisation.
+The historical value of examining explanatory grammars lies in tracing how particular questions became investigable, how proposed answers acquired evidential support, and how distinct traditions came to bear on one another’s problems. The same questions can be asked of APS as a contemporary proposal.
 
-## Why Explanatory Grammars Persist
+## Explanatory Architecture
 
-Ideas do not survive historically solely because they are logically correct. They persist because they become stabilised across institutions, practices, technologies, educational systems, and conceptual traditions.
+### Central Question
 
-An explanatory grammar persists when it successfully organises:
-- inquiry,
-- communication,
-- prediction,
-- coordination,
-- and conceptual integration.
+How have changes in the relations among biological concepts altered what investigators seek to explain and how they formulate candidate answers?
 
-Scientific paradigms therefore function partly as persistence-maintaining conceptual systems. They coordinate what counts as evidence, explanation, legitimacy, and intelligibility within a historical community of inquiry.
+### Architectural Role
 
-APS interprets this persistence organisationally rather than merely sociologically. Conceptual systems survive when they successfully stabilise explanatory coordination across time.
+This core History of Ideas article supplies a way to compare explanatory changes across the historical case studies. It connects the reconstruction of conceptual relationships with the history of evidence, methods, and practices.
 
-## The Importance of Conceptual Constraints
+### Preceding Explanatory Dependencies
 
-Explanatory grammars also constrain thought.
+The argument draws on the distinction between describing a phenomenon and explaining it, the distinction between an explanatory target and a candidate explanation, and historical work on paradigms and styles of reasoning. The APS application draws on the definitions of viability, constraint closure, and organised persistence.
 
-Once a framework becomes dominant, certain questions become easier to formulate while others become difficult to articulate or even recognise. Concepts that do not fit the prevailing grammar may appear confused, unscientific, or unintelligible despite identifying genuine organisational problems.
+### Related or Subsequent Explanatory Developments
 
-This is particularly important in biology.
+The evolution and ecology articles examine the formation of particular explanatory traditions. *How Did Scientists Learn to Think About Explanation?* traces the branching history of theories of explanation. *Explanatory Grammar* and *From Matter to Mind* develop the question of how evidence and explanations can be connected across disciplines.
 
-Contemporary biology possesses extraordinarily powerful mechanistic and computational tools, yet often lacks an explicit account of what makes living systems biological in the first place. APS argues that this reflects not a failure of biology itself, but a limitation in the dominant explanatory grammar through which biological phenomena are currently interpreted.
+### Related Explanatory Questions
 
-APS therefore attempts not simply to introduce new concepts, but to reorganise biological explanation around viability-oriented organisation as its explicit explanatory target.
+When does a new term register a change in the explanatory target? How do instruments and modelling practices make new relations investigable? When can findings from one field constrain an explanation in another? What historical evidence accounts for the persistence of an explanatory practice?
 
-## APS as an Explanatory Grammar
+### Explanatory Boundaries
 
-APS is itself an explanatory grammar.
+The examples are selective and concern particular traditions within the history of biological inquiry. A recurring conceptual pattern may guide historical comparison. Claims about influence, discontinuity, or explanatory superiority require separate evidence. The continuity of a research tradition provides an analogy with organised persistence, and its causes must be established from the history of that tradition.
 
-It proposes that living systems become intelligible only when analysed through the co-constitutive dimensions of:
-- agency,
-- process,
-- and scale,
-within systems organised toward maintaining viability.
+### Position Within APS
 
-This does not replace mechanistic, evolutionary, informational, or computational explanations. Rather, APS attempts to situate them within a broader organisational framework clarifying:
-- what they explain,
-- how they relate,
-- and why they matter biologically.
-
-APS therefore approaches explanation as fundamentally organisational rather than merely descriptive, computational, or reductionistic.
-
-## Why This Matters Beyond Biology
-
-Although APS originates in biology, the concept of explanatory grammar has broader implications for understanding intellectual history itself.
-
-Different periods of thought can be understood partly through the explanatory structures organising them:
-- Aristotelian teleology,
-- mechanistic causation,
-- evolutionary historicism,
-- cybernetic regulation,
-- computational formalism,
-- and organisational process frameworks.
-
-The history of ideas therefore involves more than changing doctrines. It involves changing ways of organising intelligibility.
-
-This perspective also clarifies why conceptual conflict often persists even when empirical evidence accumulates. Competing frameworks may disagree not only about facts, but about what kinds of explanation are meaningful in the first place.
-
-## Explanatory Transformation and Organised Persistence
-
-APS ultimately interprets intellectual history as a process of organised conceptual persistence and transformation.
-
-Conceptual systems survive by stabilising explanatory coordination across generations, institutions, and practices. They change when existing grammars can no longer adequately integrate emerging forms of organisation. Intellectual history therefore exhibits dynamics analogous to other forms of organised persistence:
-- continuity through reorganisation,
-- stability through adaptation,
-- and transformation through changing constraints.
-
-APS does not reduce ideas to biology, nor does it treat conceptual systems as literally living organisms. Rather, it extends organisational analysis to the historical structures through which explanation itself becomes possible.
-
-Seen in this way, the history of ideas is not simply a history of beliefs. It is a history of changing explanatory grammars through which reality becomes intelligible.
-
+The article locates APS within a plural history of biological explanation. It provides historical context for the framework’s choice of organised persistence as a target and for its use of Agency, Process, and Scale. Its contribution is methodological. Any gain from applying that grammar to a biological problem remains a question for evidence and comparison.

@@ -8457,3 +8457,17 @@ references:
     status: verified
     authority: Science and PubMed
     verifiedDate: '2026-11-15'
+- id: hacking-1992-style-historians-philosophers
+  type: journal-article
+  authors: Hacking, I.
+  year: 1992
+  title: "‘Style’ for Historians and Philosophers"
+  journal: Studies in History and Philosophy of Science Part A
+  volume: '23'
+  issue: '1'
+  pages: 1–20
+  doi: 10.1016/0039-3681(92)90024-Z
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect bibliographic record
+    verifiedDate: '2026-11-15'
