@@ -8523,3 +8523,36 @@ references:
     status: verified
     authority: Elsevier / ScienceDirect
     verifiedDate: '2026-11-16'
+- id: cantino-de-queiroz-2020-phylocode
+  type: book
+  authors: "Cantino, P. D., & de Queiroz, K."
+  year: 2020
+  title: International Code of Phylogenetic Nomenclature (PhyloCode)
+  publisher: CRC Press
+  doi: 10.1201/9780429446320
+  verification:
+    status: verified
+    authority: Smithsonian Profiles and CRC Press
+    verifiedDate: '2026-11-16'
+- id: cbse-2015-library-information-science-class-xii
+  type: book
+  authors: Central Board of Secondary Education
+  year: 2015
+  title: "Library and Information Science: Class XII"
+  publisher: Central Board of Secondary Education
+  verification:
+    status: verified
+    authority: Central Board of Secondary Education first-edition PDF
+    verifiedDate: '2026-11-16'
+- id: w3c-2009-skos-primer
+  type: archival-document
+  authors: World Wide Web Consortium
+  year: 2009
+  title: SKOS Simple Knowledge Organization System Primer
+  repository: World Wide Web Consortium
+  identifier: NOTE-skos-primer-20090818
+  url: https://www.w3.org/TR/2009/NOTE-skos-primer-20090818/
+  verification:
+    status: verified
+    authority: World Wide Web Consortium publication history and dated Working Group Note
+    verifiedDate: '2026-11-16'

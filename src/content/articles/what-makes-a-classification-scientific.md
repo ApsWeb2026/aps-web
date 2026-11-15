@@ -46,6 +46,9 @@ references:
   - medin-ortony-1989-psychological-essentialism
   - osherson-et-al-1990-category-based-induction
   - rosch-mervis-1975-family-resemblances
+  - cantino-de-queiroz-2020-phylocode
+  - cbse-2015-library-information-science-class-xii
+  - w3c-2009-skos-primer
 ---
 
 **Where This Article Fits**
@@ -68,23 +71,39 @@ Medin and Ortony explain a further tendency in human reasoning. People can expec
 
 Categorisation is the act of treating something as a member of a category. Classification makes groupings and their relationships explicit, so other people can use and question them. The PlantsPeoplePlanet account of *cognitive taxonomy* connects these activities by asking how the categories we form guide what we notice and infer. That proposal becomes more precise when we ask which inference a particular grouping supports. ([Classification](https://plantspeopleplanet.au/classification/) and [Representation](https://plantspeopleplanet.au/representation/))
 
-## How Classifications Differ
+### What We Group and How We Arrange It
 
-First specify what is being classified. A field key helps identify specimens. A phylogenetic classification groups lineages. A classification of plant uses can record a relation between a plant and a human activity in a particular setting. A species name can connect all three records while the units and criteria differ.
+A classification involves three choices. What are we grouping? What determines membership? How are the resulting groups related? In the street-tree example, we might classify specimens, evolutionary lineages, or records of plant use. We might group them by resemblance, descent, ecological function, or use. The basis of a grouping and the way we arrange the groups are separate choices.
 
-Next specify the basis for grouping. Resemblance, descent, function, and use each support different questions. Two trees can share a growth habit through different evolutionary histories. They can both provide shade even if they belong to distant lineages. An identification key and a classification can use some of the same characters. The key directs the reader through observable differences. A grouping that represents ancestry also depends on evidence about the history of those characters. ([Scientific Plant Classification](https://plantspeopleplanet.au/plant-classification/))
+A **flat classification** puts categories at one level. A survey might record each tree’s principal use as shade, food, ornament, or shelter. If the survey records all uses, the categories can **overlap**. The same tree can then appear under shade and food.
 
-Finally specify how the categories are arranged. Clades can be nested within larger clades. Use categories can overlap because a tree may provide shade and food. A comparison may also use a measured threshold, such as the proportion of a footpath shaded at a specified hour. The threshold makes a decision rule explicit. Evidence collected on either side of it may show a gradual change in performance. ([General Plant Classification](https://plantspeopleplanet.au/general-plant-classification/) and [Economic Botany Data Collection Standard](https://www.tdwg.org/standards/economic-botany/))
+A **hierarchical classification** nests groups within more inclusive groups. In a simple hierarchy, each group below the top level has one immediate parent. In a **polyhierarchy**, a group can have more than one broader category. *Urban fruit trees*, for example, could sit under both *urban trees* and *food plants*. A subject vocabulary can also link categories by association. *Urban trees* and *heat exposure* are related subjects, and a link between them helps readers find relevant material even though neither is a subdivision of the other. ([W3C, SKOS Primer](https://www.w3.org/TR/skos-primer/))
+
+A hierarchy may have **named ranks**, such as genus, family, and order. Phylogenetic nomenclature can also name nested clades independently of such ranks. **Ranking by performance** answers a different question. Ordering trees from greatest to least expected shade produces a ranking. Dividing that ranking into high, medium, and low shade produces classes. The cut-offs should be stated and justified for the decision at hand. ([PhyloCode, Article 3](https://phylonames.org/documents/PhyloCode4c.pdf))
+
+Libraries illustrate the difference between how categories are arranged and how that arrangement is written down. The Dewey Decimal Classification distinguishes its hierarchy of subjects from the hierarchy expressed by its numbers. The Library of Congress Classification uses letters for its main classes and sets out their subdivisions in separate schedules. These systems organise material so people can find it. Their notation gives readers and librarians a way to navigate the arrangement. ([OCLC, Introduction to the Dewey Decimal Classification](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf) and [Library of Congress Classification Outline](https://www.loc.gov/aba/cataloging/classification/lcco/))
+
+A **faceted classification** keeps several dimensions available for combination. S. R. Ranganathan’s Colon Classification is a library example. A tree inventory could record site type, canopy size, season, and use as separate facets. Someone looking for trees that provide summer shade on narrow streets could combine those criteria directly. A facet can itself be hierarchical, so a single system can combine several of these arrangements. ([Library and Information Science](https://cbseacademic.nic.in/web_material/doc/2015/Final%20Book%20of%20Library%20and%20Information%20Science%20-%20Class%20XII.pdf))
 
 ## What Makes a Classification Scientific?
 
-A scientific classification is accountable for the inferences people draw from it. Its purpose identifies what matters. Its criteria and evidence allow others to check the assignments, judge how far the results apply, and revise the grouping when better evidence becomes available. This brings together two emphases in the PlantsPeoplePlanet essays. Classifications serve purposes, and the relationships they represent are open to investigation. ([Classification](https://plantspeopleplanet.au/classification/) and [Scientific Plant Classification](https://plantspeopleplanet.au/plant-classification/))
+Consider two lists. One records trees a council has planted for shade. Membership tells us why the trees were planted. The other groups trees by the shade they can be expected to provide at a stated age on a particular kind of street. Membership in that group supports a prediction. Checking it requires observations under comparable conditions and evidence about how far the result applies at other sites.
 
-Take the decision about street trees. A council can choose to prioritise summer afternoon shade. That commits it to a practical aim. A claim that a group of trees will shade more of a footpath under stated conditions can be checked. The comparison needs to allow for site, age, and management. Agreement about how to record plant uses helps people share the data. Establishing how well those uses are served takes evidence about performance. ([Economic Botany Data Collection Standard](https://www.tdwg.org/standards/economic-botany/))
+A grouping based on resemblance can likewise serve different purposes. A leaf character earns its place in an identification key if it helps distinguish specimens that might otherwise be confused. To use that character as evidence of shared ancestry, a botanist needs grounds for thinking the resemblance was inherited from a common ancestor. Similar features can arise independently. Scientific adequacy depends on the claim the grouping is used to make and on the evidence that bears on it.
 
-John Dupré’s account of classificatory pluralism helps explain why more than one grouping can be defensible. Different inquiries can bring different real patterns into view. Shared descent is a historical relationship. Similar shade under specified conditions is a pattern of performance. Trees that group together by ancestry may differ in their shade performance, and trees that cast similar shade may belong to distant lineages. A purpose selects the pattern to investigate. The evidence can show whether the proposed grouping captures it and where its usefulness ends. ([Dupré 1993](https://history.aip.org/history/catalog/books/46770.html) and [Natural Kinds](https://plato.stanford.edu/entries/natural-kinds/))
+### What the Classification Claims to Represent
 
-Classifications also influence the practices that use them. Geoffrey Bowker and Susan Leigh Star show how standard categories organise what institutions record and make available for comparison. Imagine a tree inventory that records shade as yes or no. That field is easy to share. It leaves later users without the time of day, tree age, or site conditions they may need to interpret the entry. If the inventory is meant to guide planting, those conditions matter to what a recorded use can tell us about a new site. ([Bowker and Star 1999](https://doi.org/10.7551/mitpress/6352.001.0001))
+A phylogenetic classification aims to represent relationships of descent that exist independently of the purposes of the classifier. People decide which organisms to study, which evidence to examine, and how to name the resulting groups. Whether the grouping accurately represents shared ancestry is a question about the history of the organisms.
+
+A classification by use represents a relationship between organisms and human activities or aims. A tree is useful for shade in relation to a need for shade in a particular place. How much shade the tree provides under stated conditions is something we can measure. Whether shade should take priority over other aims is a practical judgement that also depends on what the community values.
+
+John Dupré’s account of classificatory pluralism helps explain why more than one grouping can be defensible. The same trees may share ancestry with one set of trees and shade performance with another. Both groupings can track real relationships. Our purposes determine which relationship we investigate. Evidence determines whether the grouping captures that relationship and what we can infer from it. ([Dupré 1993](https://history.aip.org/history/catalog/books/46770.html))
+
+### How Far Does Scientific Knowledge Apply?
+
+Scientific knowledge is public in the sense that others can examine a claim, its methods, and its evidence. That openness is one sense in which scientific knowledge can be called universal. How widely a particular finding applies is a separate question. A finding about afternoon shade can be objective and apply only to streets of a certain orientation, trees of a certain age, or a particular pruning regime. Establishing how far the finding travels requires further evidence.
+
+Standards help investigators record and compare observations. Bowker and Star show how the categories built into a standard shape what later users can learn from a record. An inventory that records shade as yes or no can be shared easily. A planner assessing a new site may also need the age of the tree, the time of measurement, and the conditions under which it grew. Recording those details helps others judge whether the inference applies to their case. ([Bowker and Star 1999](https://doi.org/10.7551/mitpress/6352.001.0001) and [Economic Botany Data Collection Standard](https://www.tdwg.org/standards/economic-botany/))
 
 ## When a Category Should Change
 
@@ -94,7 +113,9 @@ A revision in ancestry has a different basis. If fresh evidence supports a diffe
 
 ## Conclusion
 
-The tree can be recognised by its appearance, placed in an evolutionary lineage, and assessed for shade. Each judgement earns its authority in a different way. A classification tells us which things belong together for a stated purpose. Its scientific value depends on what that grouping allows us to learn and how we can check it.
+The same street tree can be identified through observable features, placed in an evolutionary lineage, and assessed for its capacity to provide shade. A phylogenetic classification aims to represent a history that exists independently of our purposes. A use classification relates the tree to a human purpose and can support testable claims about how well it serves that purpose under stated conditions.
+
+What makes a classification scientifically informative is that others can check how membership was assigned, examine the evidence for the claims it supports, and judge where those claims apply. A classification can be objective about a relationship that holds only in particular circumstances. Its purpose tells us what to investigate. Its evidence tells us what we are entitled to conclude.
 
 ## Explanatory Architecture
 
