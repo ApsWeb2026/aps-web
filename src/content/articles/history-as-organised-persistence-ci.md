@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-10-17
+revised: 2026-11-15
 cluster: methodology-and-explanation
 role: extension
 abstract: >
@@ -24,6 +24,7 @@ relatedArticles:
   - reframing-biology-how-aps-reorganises-core-concepts
   - scale-time-persistence
   - explanatory-priority-is-not-ontological-priority
+  - explanatory-grammars-and-the-history-of-ideas
 ---
 
 ## Introduction
@@ -78,6 +79,8 @@ APS does not treat this as biological inheritance. Instead, it identifies a more
 > organised persistence requires mechanisms through which patterns are re-established across time.
 
 Historical continuity depends on such mechanisms, even though their material basis differs from biological systems.
+
+Scientific traditions provide a concrete example. Textbooks and training pass on exemplary problems, instruments and protocols allow investigators to reproduce observations, and journals help sustain standards of argument and evidence. These practices can carry a tradition forward as its questions and applications change. What sustained a tradition and how well its explanations were supported are separate historical questions. [Explanatory Grammars and the History of Ideas](/articles/explanatory-grammars-and-the-history-of-ideas/) develops this distinction for the history of biological inquiry.
 
 ## Multi-Scale Historical Processes
 

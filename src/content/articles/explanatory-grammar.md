@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: '2026-05-29'
-revised: '2026-11-14'
+revised: '2026-11-15'
 cluster: methodology-and-explanation
 role: core
 
@@ -117,6 +117,8 @@ Differences in usage can be productive when they reflect differences in what inv
 *Purpose* illustrates how an existing term can acquire a wider technical application. In APS, an account of biological purposiveness asks how activity is organised towards an outcome that bears on the organism’s viability. This question can be asked of physiological regulation as well as behaviour. Its application requires evidence about the organisation of the activity and the contribution of the outcome. Attributing an intention calls for evidence about the organism’s capacity to act towards an intended outcome. Explaining why a trait was favoured by selection calls for historical evidence. These inquiries can bear on one another while retaining distinct explanatory targets. See [Purpose — The Organisation of Viability-Oriented Activity](/articles/purpose-the-organisation-of-viability-oriented-activity/) and [Teleology in Biology — An APS Clarification](/articles/teleology-in-biology-an-aps-clarification/).
 
 A vocabulary with general biological reach is therefore a coherent aim. Its terms can apply wherever the relationships they describe can be established. APS develops a vocabulary of this kind for living organisation. Its technical character comes from the precision of its definitions, and its cross-disciplinary reach depends on whether those definitions help researchers relate questions and evidence across fields.
+
+The history of cybernetics illustrates how a concept can travel between disciplines. Feedback gave engineers and physiologists a common way to ask how the effects of a process alter its subsequent course. To explain how a physiological variable returns towards its usual range after a disturbance, investigators must identify the processes that realise the feedback and show that their interactions can account for the observed recovery. [Explanatory Grammars and the History of Ideas](/articles/explanatory-grammars-and-the-history-of-ideas/) examines how such conceptual transfers open new lines of inquiry and what evidence is needed to connect explanations across fields.
 
 ## The APS Explanatory Grammar
 
