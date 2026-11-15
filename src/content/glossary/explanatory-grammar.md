@@ -3,22 +3,18 @@ date: 2026-04-14
 title: Explanatory Grammar
 slug: explanatory-grammar
 type: glossary
-definition: "Explanatory Grammar is the organised set of conceptual and explanatory
-  relations through which APS structures its account of living organisation
-  and organised persistence. It relates Agency, Process, Scale,
-  viability-oriented organisation, organised persistence, and associated
-  explanatory commitments without treating them as independent components,
-  hierarchical levels, or obligatory categories for biological explanation
-  generally."
-inBrief: "APS's Explanatory Grammar organises the concepts and relations through which
-  it explains living organisation and organised persistence. It has potential
-  foundational generality because living organisation itself is its principal
-  explanatory target, but it is not an obligatory grammar for every biological
-  explanation."
+definition: >
+  An explanatory grammar is the pattern of relations among the concepts
+  through which an approach identifies what needs explaining, selects
+  relevant relationships, and formulates candidate explanations.
+inBrief: >
+  An explanatory grammar shapes the questions an approach asks and the
+  answers it can formulate. APS uses Agency, Process, and Scale to ask
+  how living organisation persists through change.
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-08-19
+revised: 2026-11-15
 cluster: methodology-and-explanation
 seeAlso:
   - biological-agency
@@ -31,33 +27,24 @@ seeAlso:
   - biological-causation
   - reductionism
 relatedArticles:
+  - explanatory-grammar
+  - explanatory-grammars-and-the-history-of-ideas
   - explanatory-geometry-of-biology
   - analysis-synthesis-and-the-direction-of-explanation
 ---
 
-## Conventional framing
+## General meaning
 
-In many scientific contexts, explanatory assumptions remain implicit rather than explicitly articulated. Biology, in particular, often operates with mixed explanatory grammars, drawing on concepts such as genes, mechanisms, selection, or systems without clearly specifying how these relate within a unified framework. As a result, different explanations may rely on incompatible assumptions about what entities are fundamental, what counts as a cause, and what constitutes an adequate explanation.
+An explanatory grammar can be explicit in a theory or implicit in a tradition of inquiry. A natural selection explanation, for example, relates heritable variation to differences in reproductive success and changes in a population across generations. A physiological explanation may instead relate a disturbance, a regulatory response, and the subsequent behaviour of a variable. The two approaches can address the same trait while asking different questions about it.
+
+A grammar makes certain relationships salient and helps investigators formulate possible explanations. Whether those relationships obtain and account for the phenomenon is a further question for evidence and reasoning. The wider explanatory architecture of a research programme includes how its questions and concepts are connected to methods, evidence, and accounts of particular phenomena. [Explanatory Grammars and the History of Ideas](/articles/explanatory-grammars-and-the-history-of-ideas/) examines how these relationships change as new questions become investigable.
 
 ## APS reframing
 
-APS makes explanatory grammar explicit and treats it as foundational to biological theory. Explanatory grammar does not describe particular mechanisms or processes, but the conditions under which biological phenomena become intelligible as objects of explanation.
+The APS explanatory grammar takes organised persistence as a principal target. It asks how viability-oriented, constraint-closed living organisation maintains and re-establishes the conditions of its viability through change. Agency concerns what living systems do in relation to those conditions. Process concerns how organisational continuity is maintained through time and transformation. Scale concerns the spatial and temporal extents over which the relevant activities and dependencies operate. These are complementary analytic perspectives on the same living organisation.
 
-This includes:
-- what counts as an entity (e.g., gene, cell, organism, process)  
-- what counts as a cause (e.g., mechanism, selection, constraint)  
-- what is taken to have explanatory priority  
-
-Taken together, these dimensions define explanatory grammar as a unified framework that integrates ontology (what exists), causation (what counts as a cause), explanatory structure (how intelligibility is organised), and explanatory direction (how explanation is oriented).
-
-Explanatory grammar also structures **explanatory direction**: the orientation of explanation either toward components (analysis) or toward the organised systems within which those components function (synthesis) (see *Analysis, Synthesis, and the Direction of Explanation*).
-
-In many biological traditions, analytic direction is implicitly privileged, and explanatory priority is assigned to lower-level components. This orientation underlies reductionist interpretations, in which biological phenomena are treated as fully explainable in terms of their constituent parts.
-
-APS reframes this by grounding explanatory grammar in viability-oriented, constraint-closed organisation. Biological explanation is therefore organised around agency, process, and scale: living systems are understood as actively sustaining and modulating the conditions of their own persistence through constraint-closed organisation enacted across continuous processes and interacting scales.
-
-In this way, reductionism is not rejected but re-situated: it reflects a partial explanatory grammar that captures material constitution but omits the organisational conditions required for biological intelligibility.
+The explanatory question also guides the direction of inquiry. Analysis can identify the components and activities involved in regulation. Synthesis can show how their coordinated activity contributes to the organism’s continued viability. Mechanistic, evolutionary, developmental, and ecological accounts can each contribute where their findings bear on the question. [Explanatory Grammar](/articles/explanatory-grammar/) develops this account and distinguishes clearer communication across fields from additional explanatory gain.
 
 ## Key Point
 
-Explanatory grammar defines the conditions of biological intelligibility—what counts as real, what counts as a cause, and how explanation is oriented—grounding both the structure of biological explanation and the limits of reductionist accounts.
+An explanatory grammar guides the formulation of questions and candidate answers. The contribution of a particular explanation depends on what it establishes about the phenomenon, given the evidence and the strongest relevant alternatives.
