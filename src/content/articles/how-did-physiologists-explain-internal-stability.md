@@ -39,6 +39,7 @@ relatedGlossaryTerms:
   - biological-organisation
   - constraint-closure
   - organised-persistence
+  - homeostasis
 
 references:
   - anonymous-1857-bernard-physiology-lectures-report
