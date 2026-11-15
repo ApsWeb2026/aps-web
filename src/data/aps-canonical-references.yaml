@@ -8260,3 +8260,200 @@ references:
     status: verified
     authority: Botanical Journal of the Linnean Society
     verifiedDate: '2026-11-15'
+- id: angiosperm-phylogeny-group-2009-apg-iii
+  type: journal-article
+  authors: The Angiosperm Phylogeny Group
+  year: 2009
+  title: "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III"
+  journal: Botanical Journal of the Linnean Society
+  volume: '161'
+  issue: '2'
+  pages: '105–121'
+  doi: 10.1111/j.1095-8339.2009.00996.x
+  verification:
+    status: verified
+    authority: Botanical Journal of the Linnean Society
+    verifiedDate: '2026-11-15'
+- id: berlin-1992-ethnobiological-classification
+  type: book
+  authors: Berlin, B.
+  year: 1992
+  title: "Ethnobiological Classification: Principles of Categorization of Plants and Animals in Traditional Societies"
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press / JSTOR
+    verifiedDate: '2026-11-15'
+- id: berlin-breedlove-raven-1973-folk-biology
+  type: journal-article
+  authors: "Berlin, B., Breedlove, D. E., & Raven, P. H."
+  year: 1973
+  title: General Principles of Classification and Nomenclature in Folk Biology
+  journal: American Anthropologist
+  volume: '75'
+  issue: '1'
+  pages: '214–242'
+  doi: 10.1525/aa.1973.75.1.02a00140
+  verification:
+    status: verified
+    authority: Wiley / American Anthropologist
+    verifiedDate: '2026-11-15'
+- id: berlin-breedlove-raven-1974-tzeltal-plant-classification
+  type: book
+  authors: "Berlin, B., Breedlove, D. E., & Raven, P. H."
+  year: 1974
+  title: "Principles of Tzeltal Plant Classification: An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas"
+  publisher: Academic Press
+  verification:
+    status: verified
+    authority: Elsevier and Smithsonian Libraries
+    verifiedDate: '2026-11-15'
+- id: cesalpino-1583-de-plantis
+  type: book
+  authors: Cesalpino, A.
+  year: 1583
+  title: De plantis libri XVI
+  publisher: Apud Georgium Marescottum
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library
+    verifiedDate: '2026-11-15'
+- id: chase-et-al-1993-seed-plant-phylogenetics
+  type: journal-article
+  authors: Chase, M. W., et al.
+  year: 1993
+  title: "Phylogenetics of Seed Plants: An Analysis of Nucleotide Sequences from the Plastid Gene rbcL"
+  journal: Annals of the Missouri Botanical Garden
+  volume: '80'
+  issue: '3'
+  pages: '528–580'
+  doi: 10.2307/2399846
+  verification:
+    status: verified
+    authority: JSTOR and Boise State University repository
+    verifiedDate: '2026-11-15'
+- id: conklin-1954-hanunoo-plant-world
+  type: archival-document
+  authors: Conklin, H. C.
+  year: 1954
+  title: The Relation of Hanunóo Culture to the Plant World
+  repository: WorldCat
+  identifier: OCLC 222231662
+  url: https://search.worldcat.org/title/The-relation-of-Hanunoo-culture-to-the-plant-world/oclc/222231662
+  verification:
+    status: verified
+    authority: WorldCat catalogue
+    verifiedDate: '2026-11-15'
+- id: felsenstein-1981-dna-maximum-likelihood
+  type: journal-article
+  authors: Felsenstein, J.
+  year: 1981
+  title: "Evolutionary Trees from DNA Sequences: A Maximum Likelihood Approach"
+  journal: Journal of Molecular Evolution
+  volume: '17'
+  pages: '368–376'
+  doi: 10.1007/BF01734359
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: '2026-11-15'
+- id: felsenstein-1985-phylogeny-bootstrap
+  type: journal-article
+  authors: Felsenstein, J.
+  year: 1985
+  title: "Confidence Limits on Phylogenies: An Approach Using the Bootstrap"
+  journal: Evolution
+  volume: '39'
+  issue: '4'
+  pages: '783–791'
+  doi: 10.1111/j.1558-5646.1985.tb00420.x
+  verification:
+    status: verified
+    authority: Wiley / Evolution
+    verifiedDate: '2026-11-15'
+- id: hennig-1966-phylogenetic-systematics
+  type: book
+  authors: Hennig, W.
+  year: 1966
+  title: Phylogenetic Systematics
+  publisher: University of Illinois Press
+  verification:
+    status: verified
+    authority: University of Illinois Press
+    verifiedDate: '2026-11-15'
+- id: mayr-1969-principles-systematic-zoology
+  type: book
+  authors: Mayr, E.
+  year: 1969
+  title: Principles of Systematic Zoology
+  publisher: McGraw-Hill
+  verification:
+    status: verified
+    authority: Smithsonian Libraries
+    verifiedDate: '2026-11-15'
+- id: rouhan-gaudeul-2021-plant-taxonomy
+  type: book-chapter
+  authors: "Rouhan, G., & Gaudeul, M."
+  year: 2021
+  title: "Plant Taxonomy: A Historical Perspective, Current Challenges, and Perspectives"
+  book-title: "Molecular Plant Taxonomy: Methods and Protocols"
+  editors: Besse, P.
+  publisher: Humana
+  pages: '1–38'
+  doi: 10.1007/978-1-0716-0997-2_1
+  verification:
+    status: verified
+    authority: PubMed and Springer
+    verifiedDate: '2026-11-15'
+- id: sokal-1963-numerical-taxonomy
+  type: journal-article
+  authors: Sokal, R. R.
+  year: 1963
+  title: The Principles and Practice of Numerical Taxonomy
+  journal: Taxon
+  volume: '12'
+  issue: '5'
+  pages: '190–199'
+  doi: 10.2307/1217562
+  verification:
+    status: verified
+    authority: JSTOR / Taxon
+    verifiedDate: '2026-11-15'
+- id: stevens-1994-development-biological-systematics
+  type: book
+  authors: Stevens, P. F.
+  year: 1994
+  title: "The Development of Biological Systematics: Antoine-Laurent de Jussieu, Nature, and the Natural System"
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: Columbia University Press
+    verifiedDate: '2026-11-15'
+- id: wainright-et-al-1993-metazoa-fungi
+  type: journal-article
+  authors: "Wainright, P. O., Hinkle, G., Sogin, M. L., & Stickel, S. K."
+  year: 1993
+  title: "Monophyletic Origins of the Metazoa: An Evolutionary Link with Fungi"
+  journal: Science
+  volume: '260'
+  issue: '5106'
+  pages: '340–342'
+  doi: 10.1126/science.8469985
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: '2026-11-15'
+- id: whittaker-1969-kingdoms-organisms
+  type: journal-article
+  authors: Whittaker, R. H.
+  year: 1969
+  title: New Concepts of Kingdoms of Organisms
+  journal: Science
+  volume: '163'
+  issue: '3863'
+  pages: '150–160'
+  doi: 10.1126/science.163.3863.150
+  verification:
+    status: verified
+    authority: Science and PubMed
+    verifiedDate: '2026-11-15'
