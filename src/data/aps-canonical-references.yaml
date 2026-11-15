@@ -8471,3 +8471,55 @@ references:
     status: verified
     authority: Elsevier / ScienceDirect bibliographic record
     verifiedDate: '2026-11-15'
+- id: bowker-star-1999-sorting-things-out
+  type: book
+  authors: "Bowker, G. C., & Star, S. L."
+  year: 1999
+  title: "Sorting Things Out: Classification and Its Consequences"
+  publisher: MIT Press
+  doi: 10.7551/mitpress/6352.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: '2026-11-16'
+- id: medin-ortony-1989-psychological-essentialism
+  type: book-chapter
+  authors: "Medin, D. L., & Ortony, A."
+  year: 1989
+  title: Psychological Essentialism
+  book-title: Similarity and Analogical Reasoning
+  editors: "Vosniadou, S., & Ortony, A."
+  publisher: Cambridge University Press
+  pages: '179–195'
+  verification:
+    status: verified
+    authority: Author-hosted chapter and Wiley bibliographic record
+    verifiedDate: '2026-11-16'
+- id: osherson-et-al-1990-category-based-induction
+  type: journal-article
+  authors: "Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E."
+  year: 1990
+  title: Category-Based Induction
+  journal: Psychological Review
+  volume: '97'
+  issue: '2'
+  pages: '185–200'
+  doi: 10.1037/0033-295X.97.2.185
+  verification:
+    status: verified
+    authority: Psychological Review article and DOI metadata
+    verifiedDate: '2026-11-16'
+- id: rosch-mervis-1975-family-resemblances
+  type: journal-article
+  authors: "Rosch, E., & Mervis, C. B."
+  year: 1975
+  title: "Family Resemblances: Studies in the Internal Structure of Categories"
+  journal: Cognitive Psychology
+  volume: '7'
+  issue: '4'
+  pages: '573–605'
+  doi: 10.1016/0010-0285(75)90024-9
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: '2026-11-16'
