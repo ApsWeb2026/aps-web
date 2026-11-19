@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-07-06
+revised: 2026-11-19
 cluster: cognition-and-mind
 role: core
 
@@ -137,7 +137,7 @@ Human beings extend significance into domains such as identity, knowledge, beaut
 
 Biological significance occupies a foundational position within the Cognition and Mind domain because it provides the basis from which several later developments emerge. Once conditions become significant, they can become incorporated into increasingly complex forms of organisation.
 
-Meaning emerges when significance becomes part of an agent's ongoing relationship with its world. Cognition emerges through processes that organise, retain, anticipate, and respond to significant conditions. Mind emerges through the integration of meaningful cognition into coherent patterns of engagement across time and context. Although each of these developments introduces additional forms of organisation, all remain dependent upon the prior existence of significance.
+Meaning becomes an additional explanatory question when biological significance is organised in ways that support interpretation within an agent's relationship with its world. Significance alone does not establish meaning, and the relevant interpretive organisation must be demonstrated rather than inferred from viability-oriented responsiveness. Cognition emerges through processes that organise, retain, anticipate, and respond to significant conditions. Mind emerges through the integration of meaningful cognition into coherent patterns of engagement across time and context. Although each of these developments introduces additional forms of organisation, all remain dependent upon the prior existence of significance.
 
 For this reason, biological significance should not be regarded as a specialised concept relevant only to early biological processes. Instead, it represents a foundational layer of organisation that remains present throughout the subsequent development of cognition and mind. Later forms of organisation transform and extend significance, but they do not replace it.
 

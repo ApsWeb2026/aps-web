@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-11-07
+revised: 2026-11-19
 cluster: artificial-systems-and-boundaries
 role: extension
 abstract: >
@@ -49,6 +49,7 @@ references:
   - moreno-mossio-2015-biological-autonomy
   - restrepo-sierra-et-al-2026-synthetic-cell
   - stepney-2025-virtual-artificial-life
+  - oliveira-et-al-2026-vegetal-ai
 ---
 
 **Where This Article Fits**
@@ -106,6 +107,8 @@ Even a convincing case for machine consciousness would not, by itself, settle wh
 Contemporary AI is not immaterial. A large language model operates through processors, memory, electrical power, cooling systems, communication networks, and extensive engineered infrastructure. It would be tempting to argue that such dependence distinguishes AI from life, but that would be a mistake. Plants require light, water, and mineral nutrients; animals require food and suitable environmental conditions; and many organisms depend upon other species for essential resources or functions. Dependence on the surroundings is a condition of living, not an objection to it.
 
 What differs is the **organisation of that dependence**. A bacterium draws upon external resources while its own metabolic and regulatory processes transform those resources and contribute to maintaining the components and relations through which it functions. A contemporary language model may detect a failing server, recommend a repair, or instruct another system to allocate more computing capacity. Yet its computational activity does not ordinarily produce and regenerate the processors, cooling infrastructure, and other material conditions upon which that activity depends. The distinction is not between complete independence and external support, but between different causal arrangements of maintenance.
+
+Recent proposals to develop artificial intelligence by drawing upon plant organisation place particular emphasis on metabolic vulnerability, environmental dependence, and the relationship between living activity and its material conditions (Oliveira et al., 2026). Such proposals draw attention to an important distinction: susceptibility to disruption is not itself evidence of life, since non-living machines also depend upon conditions that can fail. The relevant question is whether vulnerability arises within a materially realised organisation whose activities maintain or restore the conditions of its own viability. Plant organisation provides an instructive comparison, but neither biological vulnerability nor plant-inspired computational architecture independently establishes biological agency, cognition, or meaning in an artificial system.
 
 ### Where does the candidate system end?
 

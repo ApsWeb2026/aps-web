@@ -6,20 +6,21 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-07-28
+revised: 2026-11-19
 cluster: cognition-and-mind
 
 definition: >
-  In APS, meaning is the biological significance that differences acquire
-  within viability-oriented organisation through evaluation and semiosis.
-  Meaning emerges as systems differentiate conditions relative to persistence,
-  regulation, and organisational coherence. Meaning therefore originates in
-  viability-oriented activity before language, symbolic representation, or
-  explicit cognition arise.
+  In APS, meaning concerns the interpretive organisation of biological
+  significance. Biological Evaluation generates significance because conditions
+  bear differently upon the viability of living systems, but significance
+  alone does not establish meaning. Meaning becomes an additional explanatory
+  question where significance is organised in ways that support interpretation.
+  Such organisation need not require language, symbolic representation, or
+  reflective consciousness.
 
 inBrief: >
-  Meaning is the viability-relative significance that differences acquire
-  within organised biological activity.
+  Meaning concerns the interpretive organisation of what matters biologically,
+  rather than biological significance alone.
 
 relatedGlossaryTerms:
   - evaluation

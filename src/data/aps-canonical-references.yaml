@@ -8567,3 +8567,15 @@ references:
     status: verified
     authority: Oxford University Press / Oxford Academic
     verifiedDate: 2026-11-19
+- id: oliveira-et-al-2026-vegetal-ai
+  type: preprint
+  authors: Oliveira, T. F. C., Parise, A. G., Reissig, G. N., Posso, D. A., Guerra, S., Castiello, U., Pereira, D. R., & Souza, G. M.
+  year: 2026
+  title: 'The Future of Artificial Intelligence is Vegetal: The Vulnerable Body of the Plant and the Anchoring of Reality in AI'
+  repository: SSRN
+  doi: 10.2139/ssrn.6487382
+  url: https://ssrn.com/abstract=6487382
+  verification:
+    status: verified
+    authority: SSRN preprint record and DOI; ResearchGate manuscript cross-check
+    verifiedDate: 2026-11-19

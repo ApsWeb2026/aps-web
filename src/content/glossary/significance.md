@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-07-05
+revised: 2026-11-19
 definition: Significance is the relevance of conditions, events, or possibilities to an agent, arising through biological evaluation and shaping meaning, cognition, value, and action.
 inBrief: Significance is what matters to an agent.
 
@@ -33,7 +33,9 @@ Significance emerges through biological evaluation. Evaluation is the process th
 
 ## Significance and Meaning
 
-Meaning emerges from significance. Significance concerns relevance, whereas meaning concerns relevance as it exists for an agent. Conditions become meaningful because they are already significant in relation to the activity, organisation, or concerns of a living system. Meaning therefore depends upon significance, but significance does not depend upon meaning. Within APS, significance provides the foundation from which meaning develops.
+Significance concerns the relevance of conditions, events, or possibilities to a living system in relation to its viability and organised activity. Meaning concerns the further organisation and interpretation of that significance within patterns of relation, consequence, and activity.
+
+Biological significance therefore provides a foundation for meaning without being identical to it. Conditions may be significant because they affect the viability of an organism, but the attribution of meaning requires consideration of how those conditions participate in the organisation of the organism's activity. More elaborate forms of meaning may involve integration, cognition, representation, or conscious interpretation, but these should not be assumed to be present in every case of biological significance.
 
 ## Significance and Cognition
 
