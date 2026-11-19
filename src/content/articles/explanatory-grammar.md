@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: '2026-05-29'
-revised: '2026-11-15'
+revised: 2026-11-19
 cluster: methodology-and-explanation
 role: core
 
@@ -65,6 +65,7 @@ references:
   - mitchell-2023-landscape-integrative-pluralism
   - mossio-saborido-moreno-2009-functions
   - montevil-mossio-2015-closure-constraints
+  - love-lugar-2013-dimensions-of-integration
 ---
 
 **Where This Article Fits**
@@ -102,7 +103,7 @@ The findings become connected when evidence about one relationship supports an i
   </p>
 </div>
 
-Explanatory pluralism recognises this division of labour. Complementary accounts can address different questions about the same phenomenon. Accounts also compete when they address the same question and make claims that cannot both hold. The explanatory target determines which relationship applies. In this respect, a shared scientific problem can organise collaboration more effectively than an attempt to reconcile whole disciplines or theories in advance. ([Brigandt 2013a](https://doi.org/10.1007/s11191-011-9350-7) and [Mitchell 2023](https://doi.org/10.1387/theoria.25273))
+Explanatory pluralism recognises this division of labour. Complementary accounts can address different questions about the same phenomenon. Accounts also compete when they address the same question and make claims that cannot both hold. The explanatory target determines which relationship applies. In this respect, a shared scientific problem can organise collaboration more effectively than an attempt to reconcile whole disciplines or theories in advance. ([Brigandt 2013a](https://doi.org/10.1007/s11191-011-9350-7), [Love and Lugar 2013](https://doi.org/10.1016/j.shpsc.2013.03.011), and [Mitchell 2023](https://doi.org/10.1387/theoria.25273))
 
 Biologists already make these connections through shared experimental systems, measurements, models, and concepts. A mathematical model can identify conditions under which a process is sufficient to produce a pattern. A mechanistic investigation can establish whether the relevant processes operate under those conditions in the organism. The model and the mechanistic account can then constrain one another. This is one way explanatory integration proceeds in biological practice. ([Brigandt 2013b](https://doi.org/10.1016/j.shpsc.2013.06.002))
 

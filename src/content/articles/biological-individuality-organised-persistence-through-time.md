@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-11-11
+revised: 2026-11-19
 cluster: conceptual-foundations
 role: core
 
@@ -71,6 +71,7 @@ references:
   - queller-strassmann-2009-evolution-organismality
   - pradeu-2012-limits-of-the-self
   - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2020-identity-organisms
   - spencer-2026-agency-defining-activity-life
   - love-2018-individuation-experimental-practice
   - kriegman-et-al-2020-reconfigurable-organisms
@@ -159,6 +160,8 @@ Biological individuality therefore cannot be understood apart from development. 
 
 The organisational constitution of a biological individual should be distinguished from the investigative practices through which scientists identify and study individuals. As Love (2018) emphasises, experimental individuation in developmental biology is guided by particular research problems: embryos, tissues, cells, and developmental processes may be identified, counted, compared, or tracked according to different investigative purposes. APS accommodates this methodological plurality without assuming that every experimentally useful unit must itself constitute an autonomous or persistence-bearing biological individual. Its account of viability-oriented organised persistence addresses the organisational conditions of biological individuality, while the selection of investigative boundaries requires justification relative to the scientific question, evidence, and experimental practice. Whether this organisational account provides additional explanatory value in particular cases remains a matter for comparative assessment.
 
+Montévil and Mossio (2020) provide a complementary account of the relationship between biological identity and scientific practice. Their integration of historical and relational conceptions of organisms shows why organismal identity cannot be established solely through a fixed structural criterion or through organisational relations considered independently of history. This perspective is consistent with APS's emphasis on continuity through transformation, while also identifying an important qualification: the organisational conditions that sustain an individual and the historical conditions through which its identity is established are related but distinguishable. APS's account of organised persistence should therefore be understood as one contribution to the investigation of biological individuality, rather than as a replacement for historical, developmental, or practice-dependent criteria.
+
 ## Organism–Environment Coupling and Individuality
 
 Traditional accounts often treat individuals as self-contained entities existing independently of their environments. APS rejects this separation. Living systems persist only through ongoing exchanges with surrounding conditions, and these interactions contribute directly to the maintenance of continuity. Individuality therefore extends beyond the simple possession of internal organisation and depends upon the coupling relations through which viability is sustained.
@@ -218,8 +221,6 @@ These cases are not failures of biological theory. They are opportunities to cla
 
 Experimental studies of xenobots and anthrobots extend these questions to multicellular configurations assembled or self-organised under experimental conditions. Xenobots demonstrate that living cells can be reorganised into novel configurations exhibiting coordinated activity, while anthrobots demonstrate that adult human somatic progenitor cells can self-organise into motile multicellular constructs (Kriegman et al. 2020; Gumuskaya et al. 2024). These findings establish important capacities for cellular organisation and morphological plasticity, but neither coordinated movement nor experimental construction alone determines whether a resulting configuration constitutes a biological individual. For APS, the relevant question is whether the candidate exhibits sufficiently integrated, viability-oriented organisational continuity to warrant treatment as a persistence-bearing unity. Establishing this requires evidence concerning the organisation's maintenance, regulation, and continuity through time, rather than an inference from its behaviour or morphology alone.
 
-Experimental studies of xenobots and anthrobots extend these questions to multicellular configurations assembled or self-organised under experimental conditions. Xenobots demonstrate that living cells can be reorganised into novel configurations exhibiting coordinated activity, while anthrobots demonstrate that adult human somatic progenitor cells can self-organise into motile multicellular constructs (Kriegman et al. 2020; Gumuskaya et al. 2024). These findings establish important capacities for cellular organisation and morphological plasticity, but neither coordinated movement nor experimental construction alone determines whether a resulting configuration constitutes a biological individual. For APS, the relevant question is whether the candidate exhibits sufficiently integrated, viability-oriented organisational continuity to warrant treatment as a persistence-bearing unity. Establishing this requires evidence concerning the organisation's maintenance, regulation, and continuity through time, rather than an inference from its behaviour or morphology alone.
-
 ## Individuality and Normativity
 
 Biological individuality is intrinsically normative because persistence is never guaranteed. Living systems exist under conditions where continuity may be stabilised, disrupted, repaired, enhanced, or lost. The maintenance of individuality therefore depends upon organisational distinctions between conditions that support persistence and conditions that undermine it. These distinctions are not imposed externally by observers. They arise from the viability requirements of the individual itself.
@@ -240,7 +241,7 @@ This perspective further reinforces the processual nature of individuality. Livi
 
 Evolution transforms biological individuality historically. The forms through which continuity is organised have changed repeatedly across evolutionary time, producing new developmental architectures, novel ecological relationships, altered persistence conditions, and increasingly complex forms of biological organisation. Individuality is therefore neither timeless nor fixed. It has its own evolutionary history.
 
-At the same time, evolutionary transformation depends upon continuity. Selection, adaptation, diversification, and innovation occur because persistence-bearing systems remain sufficiently continuous for historical change to accumulate across generations. Evolution therefore both modifies individuality and depends upon it. Biological individuals provide the organisational continuity through which evolutionary processes become possible.
+At the same time, evolutionary transformation depends upon continuity. Selection, adaptation, diversification, and innovation occur because persistence-bearing systems remain sufficiently continuous for historical change to accumulate across generations. Evolution therefore both modifies the forms of biological individuality and depends upon historical continuity across generations. The organised persistence of individual living systems contributes to the conditions under which reproduction and evolutionary change occur, but individual persistence and genealogical continuity are distinct explanatory relations.
 
 APS consequently treats individuality as simultaneously historical and organisational. The forms individuality takes may change, diversify, and evolve, yet each remains grounded in viability-oriented organised persistence. Evolution therefore reveals not the abandonment of continuity, but the continual transformation of the organisational structures through which continuity is maintained.
 
@@ -250,7 +251,7 @@ APS situates biological individuality within the broader explanatory grammar org
 
 Agency contributes to individuality because continuity requires active regulation. Process contributes because individuality is maintained through ongoing transformation rather than static permanence. Scale contributes because persistence depends upon organisational relations extending across multiple spatial and temporal domains. Individuality therefore becomes intelligible only when these dimensions are considered together.
 
-This integration allows APS to avoid many traditional disputes concerning the nature of biological individuals. Rather than searching for a single defining property, APS asks how continuity is maintained, how viability is preserved, and how persistence is organised across changing conditions. Biological individuality therefore emerges as a consequence of organised persistence rather than as an independently defined category.
+This integration provides APS with a way of organising traditional disputes concerning the nature of biological individuals without assuming that a single criterion can settle every case. Rather than searching for a single defining property, APS asks how continuity is maintained, how viability is preserved, and how persistence is organised across changing conditions. Biological individuality therefore emerges as a consequence of organised persistence rather than as an independently defined category.
 
 ## Why Biological Individuality Matters
 

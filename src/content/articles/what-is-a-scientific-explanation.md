@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-03
-revised: 2026-09-05
+revised: 2026-11-19
 cluster: methodology-and-explanation
 role: anchor
 abstract: >
@@ -89,7 +89,7 @@ The same biological system can support several legitimate explanatory targets.
 
 Consider the action potential. One question asks how changes in membrane voltage depend quantitatively on ionic conductances. Another asks what physical structures produce those conductance changes. The questions are connected, but they are not identical.
 
-The Hodgkinâ€“Huxley model provided a powerful quantitative explanation of electrical excitation before the later molecular characterisation of individual ion-channel structures. Subsequent molecular work did not simply make the earlier explanation obsolete. It addressed a more specific mechanistic target and thereby added a different kind of explanatory detail (Hodgkin & Huxley, 1952; Darden, 2008).
+The Hodgkin-Huxley model provided a powerful quantitative explanation of electrical excitation before the later molecular characterisation of individual ion-channel structures. Subsequent molecular work did not simply make the earlier explanation obsolete. It addressed a more specific mechanistic target and thereby added a different kind of explanatory detail (Hodgkin & Huxley, 1952; Darden, 2007).
 
 This illustrates a general principle:
 
@@ -127,7 +127,7 @@ But the two achievements can also come apart.
 
 A model may predict accurately without identifying the dependency, mechanism, contrast, structure, or history relevant to the explanatory question. Conversely, an explanation may identify an important causal or structural relation even when precise prediction remains difficult.
 
-Examples drawn from Hodgkinâ€“Huxley physiology, circadian systems, population genetics, and evolutionary modelling illustrate different relationships among prediction, model adequacy, mechanism, and explanation (Ross, 2025; Darden, 2008).
+Examples drawn from Hodgkinâ€“Huxley physiology, circadian systems, population genetics, and evolutionary modelling illustrate different relationships among prediction, model adequacy, mechanism, and explanation (Ross, 2025; Darden, 2007).
 
 Prediction can nevertheless play a crucial explanatory role. Predictions may test candidate explanations, expose their limits, distinguish alternatives, and guide interventions.
 
@@ -187,7 +187,7 @@ Biology provides strong reasons not to collapse explanation into one form.
 
 A molecular mechanism, a developmental trajectory, a physiological dependency, an evolutionary history, a population-genetic model, and a mathematical baseline can all contribute genuine scientific understanding while answering different questions.
 
-Hardyâ€“Weinberg equilibrium provides a simple illustration.
+Hardy-Weinberg equilibrium provides a simple illustration.
 
 The Hardyâ€“Weinberg relation is idealised. It specifies what happens to allele and genotype frequencies under a defined set of assumptions. Its usefulness does not depend upon reproducing every causal detail of an actual population.
 
@@ -206,7 +206,7 @@ Before asking whether an explanation is good, first state what it is supposed to
 Where relevant, specify:
 
 - the phenomenon or pattern;
-- the contrast â€” why this rather than that;
+- the contrast - why this rather than that;
 - the spatial and temporal grain;
 - the explanatory aim;
 - and the kind of dependency, mechanism, relation, structure, or history being sought.
@@ -224,12 +224,6 @@ Those questions concern **explanatory success** and belong to the next stages of
 For the present, the essential principle is:
 
 > **Before asking whether an explanation is good, ask what it is an explanation of.**
-
-### Explanation Is Not Prediction
-
-A prediction tells us what is expected to occur. An explanation identifies the dependency, mechanism, relation, contrast, structure, or history relevant to why or how it occurs.
-
-The two often overlap, but neither guarantees the other.
 
 ### One Phenomenon, Different Explanatory Targets
 

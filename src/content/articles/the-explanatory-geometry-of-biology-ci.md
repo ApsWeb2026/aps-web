@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-16
-revised: 2026-09-07
+revised: 2026-11-19
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -63,30 +63,15 @@ relatedArticles:
   - why-life-is-not-active-inference
   - why-life-is-not-intelligence-an-aps-clarification
 references:
-  - id: nicholsondupre2018
-    authors: "Nicholson, D. J. & Dupré, J."
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-  - id: morenomossio2015
-    authors: "Moreno, A. & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: "Springer"
-  - id: montevilmossio2015
-    authors: "Montévil, M. & Mossio, M."
-    year: 2015
-    title: "Biological Organisation as Closure of Constraints"
-    journal: "Journal of Theoretical Biology"
-    volume: "372"
-    pages: "179–191"
-    doi: "10.1016/j.jtbi.2015.02.029"
-  - id: spencer2026
-    authors: "Spencer, R. D."
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: "Biological Theory"
-    doi: "10.1007/s13752-026-00547-6"
+  - nicholson-dupre-2018-everything-flows
+  - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2015-closure-constraints
+  - spencer-2026-agency-defining-activity-life
+  - brigandt-2013-explanation-biology
+  - brigandt-2013-systems-biology-explanatory-integration
+  - love-lugar-2013-dimensions-of-integration
+  - love-2008-evolutionary-innovations-novelties
+  - mitchell-2003-biological-complexity
 ---
 
 ## What This Article Explains
@@ -303,7 +288,7 @@ The empirical task is therefore not to locate APS terminology in a biological sy
 
 ## Explanatory Adequacy
 
-Explanatory adequacy must be assessed relative to an explanandum.
+Explanatory adequacy must be assessed relative to an explanandum, a principle consistent with problem-oriented accounts of scientific explanation developed by Love (2008) and Brigandt (2013).
 
 Predictive success, causal identification, mechanistic detail, historical reconstruction, organisational description, and other achievements can each be relevant depending upon what is being explained. APS does not supply a single criterion that renders explanations biologically inadequate whenever they omit organised persistence or one of the A–P–S projections.
 
@@ -319,7 +304,7 @@ Explanatory adequacy within APS therefore concerns both fit to the specified tar
 
 ## Relating Biological Domains Without Reducing Them
 
-APS can relate explanatory domains without claiming that they share a single established explanatory principle.
+APS can relate explanatory domains without claiming that they share a single established explanatory principle. The problem of relating explanations across biological domains has an extensive philosophical history. Mitchell (2003) examines the explanatory consequences of biological complexity, while Brigandt (2013) investigates the integration of explanatory approaches in biology. Love (2008) and Love and Lugar (2013) show how explanatory adequacy and interdisciplinary integration depend upon the particular scientific problems being investigated. These contributions establish important precedents for treating explanatory integration as problem-sensitive rather than assuming that biological explanations must conform to a single universal structure. APS approaches this established problem through its own conceptual organisation of Agency, Process, and Scale, without claiming that explanatory integration itself constitutes a novel achievement.
 
 Physiology may explain real-time regulation and coordination. Development may explain transformation across an individual lifetime. Evolution may explain historical change, adaptation, and diversification. Ecology may explain organism–environment relations. Molecular and cellular biology may explain mechanisms and organisation at their respective spatial and temporal extents. Cognition research addresses capacities requiring their own diagnostic and evidential controls.
 

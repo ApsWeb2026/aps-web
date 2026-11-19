@@ -7,7 +7,7 @@ status: draft
 canonical: false
 cluster: history-of-ideas
 role: core
-revised: 2026-11-15
+revised: 2026-11-19
 abstract: >
   A feature that helps identify an organism may tell us little about its
   closest relatives. This article traces how naturalists came to ask
@@ -83,6 +83,8 @@ In *Genera plantarum* (1789), Antoine Laurent de Jussieu arranged genera in natu
 ## Darwin gives affinity a history
 
 In chapter XIII of *On the Origin of Species*, Darwin argued that natural affinities could reflect descent with modification. If descendants inherit features and diverge, groups within groups become intelligible as products of branching histories. A resemblance now invited a historical question. Did the organisms inherit it from a common ancestor, or could similar conditions have favoured its independent appearance? Two plants may both have fleshy stems suited to dry conditions. That resemblance describes something important about how they live. Its value as evidence of close relationship depends on its history. ([Darwin 1859, chapter XIII](https://en.wikisource.org/wiki/On_the_Origin_of_Species_%281859%29/Chapter_XIII))
+
+The genealogical interpretation of classification did not depend on natural selection being the sole cause of evolutionary change. Descent with modification concerns the historical relationships among organisms, whereas natural selection concerns one of the processes through which inherited characteristics may change across generations. Evidence that organisms share ancestry does not, by itself, establish which evolutionary processes produced their similarities and differences. This distinction allowed evolutionary classification to develop alongside continuing disagreements about the causes of evolutionary change.
 
 Darwin also allowed classification to express differences in the extent of modification. This left a question for later systematists. What should a classification do when the order of branching and the degree of resemblance suggest different groupings? A lineage can change substantially after a split. It may still share a more recent ancestor with its less similar sister lineage than with a third lineage that happens to look more like it. ([Darwin 1859, chapter XIII](https://en.wikisource.org/wiki/On_the_Origin_of_Species_%281859%29/Chapter_XIII))
 
