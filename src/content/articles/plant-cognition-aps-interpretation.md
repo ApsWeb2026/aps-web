@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-11
-revised: 2026-09-12
+revised: 2026-11-20
 cluster: cognition-and-mind
 role: core
 
@@ -48,9 +48,14 @@ references:
   - gagliano-et-al-2016-learning-association-plants
   - markel-2020-lack-evidence-associative-learning-pea-plants
   - ponkshe-et-al-2024-learning-plants-pea-plants
+  - rosciglione-2026-plant-intelligence
 ---
 
-## 1. The Plant Cognition Problem
+**Where This Article Fits**
+
+*This article applies the APS cognition boundary to plants. It asks whether specific cases, including stress priming, warrant cognitive explanation when compared with the strongest adequate accounts based on biological regulation. For the history of how APS came to frame the question this way, see [Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation](/articles/plant-cognition-and-the-development-of-aps/).*
+
+## The Plant Cognition Problem
 
 Debates over plant cognition have long oscillated between two unsatisfactory poles. At one extreme, cognition is tied so closely to nervous systems, representation, consciousness, or animal-like behaviour that plants are excluded largely by definition. At the other, cognition is extended to adaptive responsiveness, signalling, plasticity, learning-like change, or biological complexity so broadly that the distinction between cognition and regulation becomes difficult to maintain (Alpi et al. 2007; Taiz et al. 2019; Segundo-Ortín et al. 2025).
 
@@ -66,15 +71,8 @@ APS approaches the issue from this direction. It does not begin by classifying p
 
 This shifts the debate from taxonomic classification to comparative explanation.
 
-**Where This Article Fits**
 
-*This article applies the APS cognition boundary to the plant-cognition debate. It does not own the general definition or demarcation of cognition, the broader continuity from Life to Mind, or the account of what cognition contributes once cognitive attribution has been warranted.*
-
-*Those questions are developed elsewhere in the APS cognition corpus. The present article has a narrower task: to ask whether specified plant phenomena warrant cognitive explanation relative to adequate non-cognitive comparators.*
-
-*Plants are especially informative for this purpose because they combine sophisticated viability-oriented regulation, distributed sensing, systemic signalling, developmental plasticity and history-sensitive activity without nervous systems. They therefore provide a demanding test of whether cognitive attribution can extend beyond familiar neural cases without collapsing cognition into biological regulation in general.*
-
-## 2. What Counts as Evidence for Plant Cognition?
+## What Counts as Evidence for Plant Cognition?
 
 Plants possess many capacities that are relevant to cognition research without independently establishing cognition.
 
@@ -95,7 +93,7 @@ That distinction places the burden of proof on the organisation itself rather th
 
 The comparative test therefore proceeds in four steps: specify the plant phenomenon and explanandum; reconstruct the strongest adequate non-cognitive explanation; ask whether the phenomenon exhibits the organisation required by the provisional APS cognitive boundary; and assign an evidential grade according to whether cognitive explanation is unnecessary, suggestive, unresolved against the comparator, or positively warranted. The test concerns explanatory gain for the specified phenomenon, not the cognitive status of plants as a whole.
 
-## 3. The Strongest Case for Plant Cognition
+## The Strongest Case for Plant Cognition
 
 The strongest case for plant cognition does not depend on claiming that plants possess consciousness, brains, or human-like mental states. **It arises from phenomena in which prior conditions appear to alter later activity in context-sensitive ways.**
 
@@ -125,7 +123,7 @@ The strongest case for plant cognition therefore exists not in generic claims ab
 
 The central question is whether those relations are actually demonstrated.
 
-## 4. The Strongest Non-Cognitive Explanation
+## The Strongest Non-Cognitive Explanation
 
 A fair cognitive interpretation must be compared with the strongest available biological alternative rather than with a simplistic model of plants as passive stimulus-response machines.
 
@@ -147,7 +145,7 @@ This comparator is not a residual explanation used only when cognition fails. It
 
 APS should therefore agree with sceptical interpretations whenever fixed or conditionally regulated physiological organisation adequately explains the phenomenon. Cognitive terminology adds no explanatory gain merely because regulation is distributed, adaptive, anticipatory in function, or extended through time.
 
-## 5. The APS Cognitive Boundary
+## The APS Cognitive Boundary
 
 APS distinguishes the biological foundations of cognition from cognition itself.
 
@@ -183,9 +181,9 @@ The distinction is decisive for plants. Stress responses, signalling networks, d
 
 The plant question is therefore not whether plants have biological significance. They plainly do within APS. The question is whether some plant phenomena organise that significance across time in the stronger sense identified by the provisional boundary.
 
-## 6. Plant Phenomena Against the Boundary
+## Plant Phenomena Against the Boundary
 
-### 6.1 Stress Priming: The Central Borderline Case
+### Stress Priming: The Central Borderline Case
 
 Recurrent drought or dehydration priming provides the strongest current plant case for testing the APS boundary.
 
@@ -223,7 +221,7 @@ Stress priming should therefore be classified as:
 
 This classification is substantive. It means that sophisticated temporally extended biological organisation is well supported, while cognitive and non-cognitive explanations remain insufficiently discriminated.
 
-### 6.2 Associative-Learning Claims: Suggestive but Contested
+### Associative-Learning Claims: Suggestive but Contested
 
 Pea associative-learning experiments potentially address the missing discriminator more directly.
 
@@ -239,7 +237,7 @@ Under APS this receives:
 
 The case remains theoretically important because robust evidence under strong controls could move plant evidence closer to the cognitive boundary. It cannot currently function as the foundation for a general claim that plants are cognitive.
 
-### 6.3 Habituation-Like Learning
+### Habituation-Like Learning
 
 Habituation-like effects are also potentially relevant because they concern the modification of present response by previous experience (Gagliano et al. 2014).
 
@@ -247,7 +245,7 @@ But apparent habituation must be distinguished from physiological adaptation, fa
 
 Existing evidence therefore supports treating such phenomena as **suggestive candidates**, not as established cognition.
 
-### 6.4 Developmental Plasticity, Sensing and Systemic Signalling
+### Developmental Plasticity, Sensing and Systemic Signalling
 
 Developmental plasticity, distributed sensing and whole-plant signalling remain important to the analysis but have a different evidential role.
 
@@ -265,7 +263,7 @@ They do not independently show that it does.
 
 Accordingly, generic developmental plasticity and systemic sensing or signalling should function principally as pre-cognitive baselines and non-cognitive comparators rather than as positive cognition criteria (Sultan 2000; Toyota et al. 2018).
 
-## 7. Evidence Grades and Case Verdicts
+## Evidence Grades and Case Verdicts
 
 The plant evidence can now be differentiated rather than aggregated into a single global judgement.
 
@@ -300,7 +298,7 @@ These are experimentally addressable questions.
 
 The evidential grades also apply to **phenomena rather than organisms**. A particular plant may exhibit ordinary regulation in one context and a stronger candidate phenomenon in another. Even a future Grade 3 result would initially justify cognitive attribution relative to that phenomenon, not automatically to every activity of the species or to plants generally.
 
-## 8. What Plant Cognition Would—and Would Not—Show
+## What Plant Cognition Would—and Would Not—Show
 
 If a plant phenomenon eventually satisfies the cognitive boundary, several conclusions would follow.
 
@@ -318,7 +316,7 @@ Conversely, failure to establish cognition in current plant cases would not dimi
 
 This point is especially important. Cognitive vocabulary should not function as a measure of biological importance or organisational sophistication. A non-cognitive plant is not thereby passive, mechanistically trivial, or biologically deficient.
 
-## 9. Implications for Minimal Cognition and Biological Explanation
+## Implications for Minimal Cognition and Biological Explanation
 
 The plant case is valuable precisely because it resists easy classification.
 
@@ -327,6 +325,8 @@ Much discussion of minimal cognition begins with rapidly moving organisms, behav
 A viable criterion for minimal cognition must therefore be applicable without importing locomotion, nervous systems, rapid decision-making or animal-specific behavioural paradigms as hidden requirements.
 
 At the same time, adapting cognitive tests to plant organisation cannot mean weakening the boundary until all adaptive plasticity qualifies.
+
+Rosciglione (2026) reaches a similar methodological conclusion in her review of plant intelligence, arguing that proposed cases of minimal cognition should be tested against plausible physiological explanations of the same responses.
 
 Plant stress priming makes this methodological problem particularly clear.
 
@@ -353,7 +353,7 @@ A comparative explanatory methodology should not guarantee the preferred attribu
 
 The plant cognition problem therefore becomes more scientifically productive once the answer is no longer built into the framework.
 
-## 10. Conclusion
+## Conclusion
 
 The plant cognition debate cannot be resolved by choosing between neural exclusivity and unrestricted cognitive extension. Plants plainly exhibit rich biological agency: they sense environmental conditions, coordinate activity through distributed signalling, alter development and physiology under changing conditions, retain effects of prior perturbation, and generate biological significance relative to viability. Within APS, none of these capacities by itself establishes cognition.
 

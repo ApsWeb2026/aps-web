@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-17
-revised: 2026-09-17
+revised: 2026-11-20
 cluster: cognition-and-mind
 role: synthesis
 
@@ -53,6 +53,10 @@ references:
   - spencer-2026-agency-defining-activity-life
 ---
 
+**Where This Article Fits**
+
+*This article traces how plant cognition helped shape the Agency–Process–Scale framework and how later changes in APS altered the evidence it required for cognitive attribution. For the current assessment of stress priming, habituation, and associative learning, see [Plant Cognition — A Critical Review and APS Interpretation](/articles/plant-cognition-aps-interpretation/).*
+
 ## Introduction
 
 Plant cognition has occupied an unusual place in the development of the Agency–Process–Scale framework. It was one of the problems through which APS was first publicly articulated, and it later became a case against which the framework's developing account of cognition and biological explanation could be tested.
@@ -61,7 +65,7 @@ The result is not a simple history in which an early position was replaced by a 
 
 Plant cognition therefore provides a longitudinal case through which APS itself can be examined. The question is not simply whether the framework once attributed cognition to plants and now does so more cautiously. It is what that change reveals about the development of the concepts and standards of biological explanation through which the attribution is made.
 
-## 1. Plant Cognition as an Originating APS Problem
+## Plant Cognition as an Originating APS Problem
 
 The 2025 paper *Biological Agency as the Context for Plant Cognition* placed biological Agency at the centre of the problem (Spencer 2025). Its starting point was that cognition should not be approached by assuming that familiar human or neural manifestations determine what cognition must be throughout biology. Plants therefore mattered not because they could be assimilated to animals, but because they forced attention towards the biological organisation within which capacities conventionally described as cognitive arise.
 
@@ -73,7 +77,7 @@ At the same time, the originating formulation placed considerable explanatory we
 
 That difference should not be retrospectively removed. The 2025 position needs to be understood in the conceptual terms available to APS at that time rather than rewritten as though the developed architecture were already fully present.
 
-## 2. What Remained Stable
+## What Remained Stable
 
 Development did not remove the biological starting point of the original argument.
 
@@ -87,7 +91,7 @@ What changes is not their existence or importance. What changes is what APS cons
 
 This distinction matters. A more restrictive attribution of cognition need not imply that plants have become explanatorily less interesting, that the earlier observations were mistaken, or that neural criteria have been restored by another route. The continuity lies in treating plant activity as a serious problem of biological organisation. The development lies in differentiating more precisely what kind of organisation different plant phenomena establish.
 
-## 3. When Agency Was No Longer Enough
+## When Agency Was No Longer Enough
 
 An important development occurred as APS differentiated what Life is from what living systems do.
 
@@ -103,7 +107,7 @@ Agency identifies what living systems do as active organisations. Cognition requ
 
 For plant cognition, this changes the burden of attribution. Demonstrating sophisticated plant Agency establishes an important biological result. It does not automatically establish a cognitive one.
 
-## 4. Evaluation, Significance and Integration
+## Evaluation, Significance and Integration
 
 A further change became possible as APS differentiated the organisational pathway connecting Agency and Cognition.
 
@@ -131,7 +135,7 @@ It may demonstrate Evaluation and Significance without demonstrating Cognition. 
 
 The conceptual architecture therefore does not diminish the phenomena. It increases the number of explanatory distinctions available for understanding them.
 
-## 5. A Development That Was Not Linear
+## A Development That Was Not Linear
 
 It would be tempting to turn these distinctions into a simple developmental sequence: APS began with a broad conception of plant cognition, differentiated Agency from Evaluation, Significance, Integration, and Cognition, and consequently withdrew its earlier attribution.
 
@@ -165,7 +169,7 @@ The historical case therefore contains genuine continuity alongside genuine chan
   </p>
 </div>
 
-## 6. A More Discriminating Boundary for Cognition
+## A More Discriminating Boundary for Cognition
 
 The dependency architecture made it possible to distinguish Cognition from earlier forms of viability-oriented organisation. It did not, by itself, determine where the boundary should be placed.
 
@@ -187,7 +191,7 @@ Plant cognition was clearly relevant to this developing boundary problem. The hi
 
 Their importance here lies in what became possible when they were returned to plants: phenomena could now be investigated without either dismissing their complexity or classifying that complexity as cognitive by default.
 
-## 7. From Interpretation to Comparative Explanation
+## From Interpretation to Comparative Explanation
 
 A second development changed the plant-cognition problem in a different way.
 
@@ -217,31 +221,11 @@ There is no basis in the closed historical record for claiming that plant cognit
 
 That application changes the status of the question. Plant cognition becomes not only something APS interprets but something against which APS's own explanatory discipline can be tested.
 
-## 8. Returning to Plants
+## Returning to Plants
 
-When these conceptual and methodological developments are brought together, the plant-cognition problem takes a different form.
+When APS returned to plant cognition with a more specific cognition boundary and an explicit comparative method, the question shifted from what plant agency might support in general to what the evidence warrants for each phenomenon. In the [current Core assessment](/articles/plant-cognition-aps-interpretation/), none of the cases reviewed meets the strongest positive evidential grade for minimal cognition. That outcome shows what changed in APS: the framework could recognise plant agency and the biological importance of the underlying phenomena while leaving their cognitive status open.
 
-The current APS assessment does not ask for a global verdict on whether “plants are cognitive.” It asks whether specified plant phenomena warrant cognitive explanation relative to the strongest adequate non-cognitive account.
-
-This permits an asymmetric result.
-
-Plant Agency is robust. Plants regulate their relations with changing conditions, coordinate distributed activity, and sustain viability through complex physiological, developmental, and ecological organisation.
-
-Biological Evaluation and Significance can also be recognised without thereby settling cognition. Conditions matter differently to plant viability, and plant organisation responds to those differences.
-
-Some phenomena become more interesting near the cognitive boundary. Stress priming and other temporally extended effects can preserve consequences of earlier conditions and alter later activity. Habituation-like findings may be suggestive. Claims of associative learning remain contested.
-
-But the existence of such phenomena does not remove the comparative burden. The question is whether cognitive explanation adds something that an adequate account of regulation, plasticity, physiological memory, or other non-cognitive organisation does not already explain.
-
-The present Core Plant Cognition article therefore distinguishes pre-cognitive, suggestive, cognitively indeterminate, and potentially positive cases rather than inferring cognition from plant complexity as a whole. In the current assessment, no plant phenomenon considered warrants the strongest positive minimal-cognition classification.
-
-That conclusion belongs to the current Core article and should be evaluated there. The significance of the result for the present synthesis is historical and methodological.
-
-APS can now return a null or indeterminate cognitive attribution while continuing to affirm the Agency, Evaluation, Significance, Integration, and biological importance demonstrated by the underlying phenomena.
-
-The framework therefore no longer requires plant cognition to validate the biological insight with which its plant-cognition programme began.
-
-## 9. What the Plant Case Reveals About APS
+## What the Plant Case Reveals About APS
 
 The development of APS plant cognition is neither straightforward continuity nor straightforward reversal.
 
@@ -266,3 +250,33 @@ If a plant phenomenon is adequately explained without cognition, that result hel
 Plant cognition thus remains important to APS for a reason that differs from the role it played at the framework's public beginning. It is no longer only a domain in which a biologically grounded conception of cognition can be extended beyond familiar neural cases. It is also a domain in which the distinctions and comparative controls of APS can be exposed to a demanding test.
 
 The history therefore illustrates a broader feature of the framework's development. Increasing conceptual differentiation does not necessarily produce broader explanatory claims. Stronger methodological controls may instead narrow what can responsibly be asserted. In the plant-cognition case, that narrowing preserves rather than diminishes the underlying biological problem: how living organisation comes to evaluate what matters, integrate significance across changing conditions, and, in some cases, organise that significance across time in ways that warrant the further attribution of cognition.
+
+## Explanatory Architecture
+
+### Central Question
+
+How did the development of APS change what the framework could responsibly claim about plant cognition?
+
+### Architectural Role
+
+This article uses plant cognition as a case study in the development of APS. It traces how changes in the framework's concepts and standards of evidence altered what could warrant cognitive attribution.
+
+### Builds On
+
+The article builds on the 2025 account of biological agency as the context for plant cognition, the subsequent differentiation of agency, evaluation, significance, and integration, and the development of the APS cognition boundary and comparative explanatory methodology.
+
+### Develops Into
+
+The historical account leads to the current [Core assessment of plant cognition](/articles/plant-cognition-aps-interpretation/), where the cognition boundary and comparative method are applied to individual plant phenomena.
+
+### Related Explanatory Questions
+
+What distinguishes cognition from sophisticated biological regulation? What evidence could discriminate between cognitive and physiological accounts of the same phenomenon? How should a framework revise its claims when its standards of evidence change?
+
+### Position within APS
+
+This is a Synthesis article in the Cognition and Mind cluster. It connects the history of APS's account of plant agency with the development of its cognition concepts and its method for comparing explanations.
+
+### Corpus Significance
+
+Earlier APS versions continued to attribute minimal cognition to plants after several of the framework's conceptual distinctions were already in place. Tracing that overlap helps explain why the later change in judgement also depended on comparing cognitive explanations with adequate accounts of regulation.
