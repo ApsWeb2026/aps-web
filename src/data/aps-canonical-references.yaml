@@ -8556,3 +8556,14 @@ references:
     status: verified
     authority: World Wide Web Consortium publication history and dated Working Group Note
     verifiedDate: '2026-11-16'
+- id: edelaar-2026-selective-organism
+  type: book
+  authors: Edelaar, P.
+  year: 2026
+  title: 'The Selective Organism: An Expanded Theory of Adaptive Evolution'
+  publisher: Oxford University Press
+  doi: 10.1093/9780191987649.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-11-19

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-23
-revised: 2026-11-10
+revised: 2026-11-19
 cluster: history-of-ideas
 role: core
 abstract: >
@@ -65,6 +65,7 @@ references:
   - nature-1946-society-study-evolution
   - spencer-1862-first-principles
   - grinin-korotayev-2026-universal-evolution-big-history
+  - edelaar-2026-selective-organism
 ---
 
 **Where This Article Fits**
@@ -294,6 +295,8 @@ Advances in phylogenetic methods transformed the reconstruction of evolutionary 
 Research on development also renewed questions about the relationship between the production of variation and its evolutionary consequences. Evolutionary developmental biology investigated how developmental processes influence the forms of variation available to evolutionary change.
 
 Other research programmes examined phenotypic plasticity, niche construction, ecological inheritance, and organism–environment relationships.
+
+Edelaar (2026) develops a related account in *The Selective Organism: An Expanded Theory of Adaptive Evolution*. His distinction between the selective reproduction of heritable variation and its selective production draws attention to the ways developmental processes, organismal activities, and organism–environment interactions can influence evolutionary outcomes. The account places organismal activity within evolutionary causation without requiring conscious intention or treating natural selection as irrelevant. It provides an important contemporary comparator for organisational approaches such as APS, although its explanatory contribution must be assessed independently of any apparent conceptual affinity.
 
 Advocates of an Extended Evolutionary Synthesis have argued that some of these processes deserve greater prominence in evolutionary theory. Other researchers accept their importance while maintaining that established evolutionary approaches can accommodate them without a fundamental theoretical reconstruction.
 

@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-11-12
+revised: 2026-11-19
 cluster: conceptual-foundations
 role: anchor
 
@@ -70,6 +70,7 @@ references:
   - moreno-mossio-2015-biological-autonomy
   - varela-1979-principles-biological-autonomy
   - walsh-2015-organism-agency
+  - edelaar-2026-selective-organism
   - dupre-2012-processes-life
   - thompson-2007-mind-in-life
   - nicholson-dupre-2018-everything-flows
@@ -135,13 +136,13 @@ This plurality reflects an underlying explanatory question that has not always b
 
 Contemporary organisational approaches also connect agency with developmental continuity. Jaeger (2024), for example, examines organismal agency through ontogenesis, living organisation, and the maintenance of organisational closure during development. This provides a relevant independent comparison with APS, which defines biological agency specifically as viability-oriented organisational activity and distinguishes the attribution of agency from its demonstrated explanatory contribution.
 
-Contemporary organisational approaches also connect agency with developmental continuity. Jaeger (2024), for example, examines organismal agency through ontogenesis, living organisation, and the maintenance of organisational closure during development. This provides a relevant independent comparison with APS, which defines biological agency specifically as viability-oriented organisational activity and distinguishes the attribution of agency from its demonstrated explanatory contribution.
-
 Within APS, biological agency is not introduced as an additional biological mechanism, a competing theory, or a replacement for existing explanations. Rather, Agency provides an analytic projection through which activities already investigated across biology can be examined in relation to viability-oriented living organisation. Agency identifies the ongoing activity through which organisms continually sustain the conditions required for their own organised persistence.
 
 The status of Agency as an analytic projection is clarified in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/). That article explains how Agency can concern a materially real feature of living organisation while the distinction between Agency, Process, and Scale belongs to explanatory analysis rather than constituting a division of biological reality.
 
 Clarifying agency in this way also clarifies its relationship to neighbouring biological concepts. Function describes the present contribution of traits and processes to viability. Development investigates the continuing reorganisation of living organisation across an individual life history. Evolution explains the historical transformation of biological organisation across generations. Ecology examines how organisms maintain viability within changing environmental relations. These remain distinct explanatory domains with their own explananda, methods, and evidential requirements. APS does not infer from their relation to living organisation that Agency supersedes their established explanations.
+
+Organismal activity can also have evolutionary consequences. Edelaar (2026), for example, develops an expanded account of adaptive evolution in which developmental plasticity, organism–environment interactions, and non-genetic inheritance contribute to the selective production of heritable variation. This provides an important independent evolutionary account of organismal activity, but addresses a different explanatory question from APS's definition of biological agency as viability-oriented organisational activity. The relationship is complementary rather than evidence of distinctive APS explanatory gain.
 
 The purpose of this article is therefore not to argue that biology has overlooked agency, nor to replace existing biological explanations with a single organising principle. It is to make explicit the APS concept of biological agency and to establish the conditions under which its attribution and explanatory use are warranted.
 
