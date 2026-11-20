@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04
-revised: 2026-11-14
+revised: 2026-11-20
 cluster: philosophy-of-biology
 role: clarification
 
@@ -65,6 +65,7 @@ references:
   - spencer-2026-agency-defining-activity-life
   - cuciniello-2026-organisational-approach-teleology
   - rama-2026-autonomy-development-teleology
+  - svensson-2026-agency-natural-purpose
 ---
 
 **Where This Article Fits**
@@ -104,6 +105,8 @@ A plant’s capacity to regulate stomatal aperture depends on an organisation th
 In APS, purpose concerns how living activity is organised relative to viability, while function concerns a particular contribution within that organisation. In the plant, the adjustment of gas exchange as conditions change illustrates purposive regulation. Limiting water loss is a specific functional contribution of stomatal closure under water stress.
 
 APS uses *evaluation* for the organism’s active differentiation of conditions through responses that bear on its viability. Stomatal closure may be adequate, inadequate, or costly in relation to the plant’s water balance and carbon requirements. Observing closure establishes that a response occurred. Assessing its adequacy requires evidence of its consequences for the plant over the relevant interval. The water-regulating function of stomatal closure can remain attributable when a particular response performs that role inadequately. Reduced carbon uptake may also be a cost of effective water regulation, so assessing the response requires tracing both effects under the conditions at issue. Biological normativity concerns these system-relative differences between activities and conditions that sustain, undermine, or restore viability.
+
+Viability-oriented activity should not be equated with successful adaptation or fitness maximisation. An evolved regulatory mechanism may operate under conditions in which its consequences undermine the organism's viability, as occurs in some ecological traps and environmental mismatches (Svensson, 2026). Such cases require distinguishing the organisation and operation of a regulatory capacity from its actual consequences under specified circumstances. Attributing biological agency therefore does not establish that an activity is beneficial, optimal, or historically selected for its present effect.
 
 ## Organisational Teleology and Regulatory Control
 
@@ -145,4 +148,4 @@ What evidence distinguishes a current organisational function from a selected ef
 
 ### Position Within APS
 
-Agency concerns viability-oriented organisational activity. Process concerns the maintenance and transformation of that organisation. Scale identifies the system, level of organisation, and interval relevant to a purposive claim.
+Agency concerns viability-oriented organisational activity. Process concerns the maintenance and transformation of that organisation. Scale identifies where the organisation and dependencies relevant to a purposive claim extend across spatial and temporal extents.

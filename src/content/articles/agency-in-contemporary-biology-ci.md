@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-10-11
+revised: 2026-11-20
 cluster: conceptual-foundations
 role: synthesis
 
@@ -63,6 +63,7 @@ references:
   - barandiaran-di-paolo-rohde-2009-defining-agency
   - virenque-mossio-2024-what-is-agency
   - difrisco-gawne-2025-biological-agency-research-program
+  - svensson-2026-agency-natural-purpose
 ---
 
 **Where This Article Fits**
@@ -398,6 +399,8 @@ The issue is not settled by collecting examples of organisms behaving purposeful
 A concept can be philosophically defensible without organising a distinctive empirical research programme. It can also provide an illuminating interpretation of known phenomena without identifying additional explanatory dependencies.
 
 The challenge is therefore to specify what biological agency contributes beyond the established concepts already used to investigate the relevant phenomena.
+
+Svensson (2026) extends this challenge specifically to evolutionary biology. He argues that organismal regulation, developmental responsiveness, and multiscale feedback can be investigated within existing evolutionary and mechanistic research programmes, without treating agency or natural purpose as independent evolutionary causes. His criticism does not require denying that organisms are active, self-regulating systems. Rather, it asks what additional analytical or explanatory contribution agency makes to the study of evolutionary change. Ball's response to DiFrisco and Gawne, by contrast, defends agency as an emergent biological property that can itself be explained through physiological, developmental, and evolutionary mechanisms. These positions differ over the scientific status and usefulness of agency, but neither establishes that agency supplies an additional evolutionary mechanism. For APS, the appropriate test is whether explicit agency analysis contributes to a specified explanation beyond its strongest existing comparator, rather than whether agency terminology can be defended in general.
 
 Does agency identify a distinctive organisational condition? Does it support new explanatory distinctions? Does it generate research questions that would otherwise be neglected? Does it connect findings across biological domains in a way that improves understanding? Or does it redescribe established mechanisms and processes without changing their explanation?
 

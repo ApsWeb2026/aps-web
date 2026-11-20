@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-09-09
+revised: 2026-11-20
 cluster: methodology-and-explanation
 role: extension
 
@@ -52,7 +52,18 @@ references:
   - walsh-2015-organism-agency
   - odling-smee-laland-feldman-2003-niche-construction
   - laland-et-al-2015-extended-synthesis
+  - svensson-2026-agency-natural-purpose
 ---
+
+**Where This Article Fits**
+
+*This article examines the explanatory relationship between present-tense biological Agency and evolutionary history.*
+
+*It builds upon **Biological Agency as the Activity of Self-Maintenance**, which establishes the canonical APS account of Agency, and the preceding Agency articles addressing its relationship to Life and organised persistence.*
+
+*The broader questions of evolutionary transformation, lineage continuity, and what evolves are addressed in **Evolution, Taxonomy, and the Reorganisation of Biological Explanation**.*
+
+*The present article focuses specifically on three distinctions: the evolutionary history of the organisation through which Agency is enacted, the possible evolutionary consequences of agential activity, and whether explicit Agency analysis provides additional explanatory value.*
 
 ## Introduction
 
@@ -78,25 +89,7 @@ APS distinguishes three questions that can otherwise easily be conflated:
 
 These questions are related, but they are not equivalent.
 
-## Where This Article Fits
-
-This article examines the explanatory interface between biological Agency and evolution.
-
-It does not redefine biological Agency. **Biological Agency as the Activity of Self-Maintenance** establishes the canonical APS account of Agency and the conditions governing its attribution.
-
-Nor does this article establish why Agency is the defining activity of Life, why Agency does not require intention or cognition, or how Agency relates to organised persistence within the lifetime of a living system. Those questions belong to earlier articles in the Agency corpus.
-
-The present article begins from those results and asks what follows when present-tense viability-oriented activity is considered in relation to evolutionary history.
-
-Its scope is deliberately narrower than a general APS account of evolution. Questions concerning what evolves, lineage continuity, phylogenetic organisation, taxonomy, and the historical transformation of organised persistence belong to the APS treatment of evolution itself.
-
-Here the focus remains on **Agency**.
-
-The article therefore distinguishes the evolutionary history of the organisation through which Agency is enacted from the possible evolutionary consequences of agential activity and from the further question of whether explicit Agency analysis provides explanatory gain.
-
-This prevents present activity and historical transformation from being separated completely while also preventing them from being collapsed into a single explanatory process.
-
-## 1. Present Organisation and Evolutionary History
+## Present Organisation and Evolutionary History
 
 Every living organism exists through an organisation with a history.
 
@@ -120,7 +113,7 @@ Evolutionary history can condition the possibilities of present Agency without r
 
 Likewise, present Agency can depend upon historically formed organisation without becoming an explanation of its own evolutionary origin.
 
-## 2. Historical Orientation: Organisation and Evolution
+## Historical Orientation: Organisation and Evolution
 
 The distinction has deep roots in biological thought.
 
@@ -144,7 +137,7 @@ The remaining question is how historically formed organisation can itself instan
 
 That is the problem addressed here.
 
-## 3. Historical Dependence
+## Historical Dependence
 
 Present Agency depends upon materially realised organisation.
 
@@ -166,7 +159,7 @@ A complete account of a particular phenomenon may sometimes require both. In oth
 
 APS does not decide that question in advance.
 
-## 4. Evolutionary Consequence
+## Evolutionary Consequence
 
 The explanatory relation also runs in another sense.
 
@@ -192,7 +185,7 @@ The methodological rule is therefore:
 
 “Agency affects evolution” is not by itself an evolutionary explanation.
 
-## 5. Agency Is Not an Additional Evolutionary Mechanism
+## Agency Is Not an Additional Evolutionary Mechanism
 
 Contemporary organism-centred approaches have argued that organismal activity can participate causally in evolutionary processes rather than being treated only as an outcome of selection (Walsh 2015).
 
@@ -201,6 +194,8 @@ APS can recognise this contribution without treating Agency itself as an additio
 An organism's activity can alter conditions relevant to selection, reproduction, development, inheritance, ecological interaction, or other processes involved in evolutionary explanations. But the causal work in such cases is performed through materially realised activities and relations.
 
 Agency does not enter the explanation as another mechanism alongside them.
+
+Svensson (2026) argues that the evolutionary origins and maintenance of adaptive organismal capacities must be investigated through established evolutionary processes, including selection acting on structured heritable variation. APS does not contest the importance of those processes or propose biological Agency as an alternative evolutionary cause. The remaining question is whether analysing present viability-oriented activity helps specify a causal dependency, integrate otherwise separated explanations, or formulate a discriminating investigation that the strongest relevant comparator does not already supply. That contribution must be demonstrated rather than inferred from the existence of organismal activity.
 
 Suppose an organism modifies its environment in a way that changes conditions encountered by itself or its descendants. An Agency analysis may clarify how the relevant activity is organised relative to the organism's viability. An evolutionary explanation may then establish whether and how the resulting environmental modification affects a historical outcome.
 
@@ -214,7 +209,7 @@ Agency can therefore become relevant to an evolutionary explanation without beco
 
 This distinction protects APS from turning a useful analytic projection into an unspecified causal variable.
 
-## 6. Evolution Is Not Agency Extended Through Time
+## Evolution Is Not Agency Extended Through Time
 
 The converse error must also be avoided.
 
@@ -238,7 +233,7 @@ This question belongs primarily to the broader APS treatment of evolution.
 
 Its importance here is negative but essential: historically extended continuity does not convert evolution into a temporally enlarged form of Agency.
 
-## 7. Agency and Process
+## Agency and Process
 
 Agency and Process are complementary analytic projections of one living organisation.
 
@@ -260,7 +255,7 @@ Nor does Process supply an alternative evolutionary theory.
 
 The distinction matters because otherwise a methodological projection becomes confused with the biological phenomena and mechanisms being explained.
 
-## 8. Agency and Scale
+## Agency and Scale
 
 Evolutionary questions frequently extend beyond the spatial and temporal extent of an individual organism.
 
@@ -282,7 +277,7 @@ Scale therefore helps prevent a common conflation.
 
 The temporal extension of an evolutionary process does not make it a larger form of Agency, just as the participation of many organisms in a historical process does not automatically create a higher-order agent.
 
-## 9. From Present Activity to Historical Consequence
+## From Present Activity to Historical Consequence
 
 The Agency–evolution relationship can now be stated more precisely.
 
@@ -315,7 +310,7 @@ And an evolutionary explanation can be adequate without explicitly invoking Agen
 
 The distinctions are therefore methodological safeguards against explanatory inflation.
 
-## 10. Organised Persistence Across Different Temporal Questions
+## Organised Persistence Across Different Temporal Questions
 
 The APS account of Agency and organised persistence establishes that they are analytically distinguishable aspects of one living organisation.
 
@@ -337,7 +332,7 @@ Agency attribution and the identification of historically relevant continuity re
 
 The Agency–evolution interface therefore requires attention to continuity without indiscriminate extension of agency attribution.
 
-## 11. Explanatory Gain
+## Explanatory Gain
 
 The presence of Agency in an evolutionary context does not guarantee that Agency provides explanatory gain.
 
@@ -363,7 +358,7 @@ APS should not respond by redescribing the same mechanism in agential language a
 
 Explanatory gain must be demonstrated at the matched target.
 
-## 12. Historical Dependence, Evolutionary Consequence, and Explanatory Gain
+## Historical Dependence, Evolutionary Consequence, and Explanatory Gain
 
 The architecture of the Agency–evolution relationship can therefore be expressed through three distinctions.
 
@@ -393,7 +388,7 @@ It cannot be inferred merely from historical dependence or evolutionary conseque
 
 Together these distinctions allow APS to connect present organisation with evolutionary history without collapsing them.
 
-## 13. The Architecture of Biological Explanation
+## The Architecture of Biological Explanation
 
 Biological phenomena frequently support more than one legitimate explanatory question.
 
@@ -455,58 +450,51 @@ How does present-tense biological Agency relate to historical evolutionary trans
 
 ### Architectural Role
 
-This article occupies the Agency–evolution interface within APS.
+This article occupies the Agency–evolution interface within APS. It does not provide a general theory of evolution or redefine Agency. Its purpose is to distinguish three questions that must not be conflated:
 
-It does not provide a general theory of evolution and does not redefine Agency. Its function is to distinguish the historical conditioning of present Agency, the possible evolutionary consequences of materially realised agential activity, and the explanatory contribution Agency analysis can make to specified evolutionary explananda.
+1. **Historical dependence:** how present Agency is conditioned by organisation with an evolutionary history.
+2. **Evolutionary consequence:** how materially realised agential activity can sometimes alter conditions relevant to evolutionary outcomes.
+3. **Explanatory gain:** whether explicit Agency analysis contributes something beyond the strongest relevant evolutionary comparator.
 
-### Historical Dependence
+Historical dependence does not make evolutionary history a complete explanation of present activity. Evolutionary consequence does not make Agency an additional evolutionary mechanism. Neither relationship establishes explanatory gain.
 
-Present Agency is enacted through living organisation whose structures, capacities, constraints, and relations can have evolutionary histories.
+### Preceding Dependencies
 
-Historical dependence does not make evolutionary history a complete explanation of present activity.
+This account depends upon the canonical APS characterisation of biological Agency as viability-oriented organisational activity and upon the distinction between Agency and organised persistence.
 
-### Evolutionary Consequence
+Agency concerns what living systems do. Organised persistence concerns continuity of living organisation through change. Neither should be extended without qualification into an account of evolutionary transformation.
 
-Materially realised activities analysed under Agency can sometimes alter conditions relevant to evolutionary outcomes.
+The relevant evolutionary background includes established explanations of selection, inheritance, development, ecological interaction, and organism–environment relations. These provide explanatory resources against which any additional contribution from Agency must be assessed.
 
-Such consequences must be connected to specified evolutionary dependencies. Agency itself is not an additional evolutionary mechanism.
+### Related and Subsequent Developments
 
-### Relationship to Process
+The relationship between Agency and evolution intersects with two further APS projections.
 
-Process asks how continuity is maintained despite change.
+**Process** asks how continuity is maintained despite change. Evolution involves historical transformation but is not therefore identical with the APS Process projection. Process questions become relevant when an evolutionary explanandum requires identification of the organisation whose continuity is being transformed.
 
-Evolution involves historical transformation but is not therefore identical with the APS Process projection. Process questions can become relevant to evolutionary explananda where continuity through transformation requires explanation.
+**Scale** asks where persistence relevant to an explanandum is organised across spatial and temporal extents. Evolutionary explanation may involve relations extending across organisms, generations, populations, and lineages without those wider extents automatically becoming higher-order agents or causally acting scales.
 
-### Relationship to Scale
+The broader treatment of evolutionary transformation, lineage continuity, phylogenetic organisation, taxonomy, and what evolves belongs to *Evolution, Taxonomy, and the Reorganisation of Biological Explanation*.
 
-Scale asks where persistence relevant to an explanandum is organised across spatial and temporal extents.
+### Related Questions
 
-Evolutionary explanation can involve relations extending across organisms and generations without those wider extents becoming higher-order agents or causally acting scales.
+Several questions remain important:
 
-### Relationship to Organised Persistence
+- Under what conditions does present agential activity materially alter an evolutionary dependency?
+- How should historically extended biological continuity be identified for a specified evolutionary explanandum?
+- When does an Agency analysis reveal a viability-relative dependency not adequately captured by an existing evolutionary explanation?
+- When is Agency terminology merely a redescription of already established mechanisms?
 
-Agency and organised persistence remain analytically distinguishable.
+These questions require investigation of particular biological cases rather than a general assertion that Agency contributes to evolution.
 
-When evolutionary questions concern historically extended continuity, the organisation whose persistence is relevant must be identified for the specified explanandum. It cannot simply be extrapolated from organismal Agency.
+### Position Within APS
 
-### Evolutionary-Theory Boundary
+Agency, Process, and Scale are complementary analytic projections of living organisation, not independent components of reality or a hierarchy of causal levels.
 
-Questions concerning what evolves, lineage continuity, phylogenetic organisation, taxonomy, and the general historical transformation of organised persistence belong to the APS treatment of evolution rather than to this article.
+Present Agency can be historically conditioned by inherited organisation. Agential activity can sometimes have evolutionary consequences through materially realised processes. Neither fact makes Agency an independent evolutionary mechanism or evolution a temporally extended form of Agency.
 
-This article remains focused on the explanatory relevance of present-tense Agency to evolutionary questions.
+The three-part distinction governing this article is:
 
-### Explanatory-Gain Condition
+**Historical dependence → evolutionary consequence → explanatory gain.**
 
-The presence of agential activity does not establish explanatory gain.
-
-For a specified evolutionary explanandum, Agency analysis must be compared with the strongest relevant evolutionary explanation. If the comparator already explains the relevant dependencies adequately, the Agency contribution can be null.
-
-### Corpus Significance
-
-This article establishes a three-part control for the APS Agency corpus:
-
-> **historical dependence → evolutionary consequence → explanatory gain**
-
-The three must not be conflated.
-
-Present Agency can depend upon historically formed organisation without evolutionary history replacing present-tense explanation. Agential activity can have evolutionary consequences without Agency becoming an evolutionary mechanism. And neither relationship establishes explanatory gain unless Agency contributes something to the specified explanandum beyond the strongest relevant comparator.
+The arrows indicate an order of explanatory assessment, not a necessary causal sequence or an implication that each condition establishes the next.

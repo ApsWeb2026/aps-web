@@ -8617,3 +8617,17 @@ references:
     status: verified
     authority: PubMed Central
     verifiedDate: 2026-11-20
+- id: svensson-2026-agency-natural-purpose
+  type: journal-article
+  authors: Svensson, E. I.
+  year: 2026
+  title: "Agency and Natural Purpose Should Not Be Part of Modern Evolutionary Biology"
+  journal: "Philosophy, Theory, and Practice in Biology"
+  volume: "18"
+  issue: "1"
+  article-number: "5"
+  doi: 10.3998/ptpbio.7256
+  verification:
+    status: verified
+    authority: University of Michigan Press
+    verifiedDate: 2026-11-20

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-23
-revised: 2026-11-19
+revised: 2026-11-20
 cluster: history-of-ideas
 role: core
 abstract: >
@@ -66,6 +66,7 @@ references:
   - spencer-1862-first-principles
   - grinin-korotayev-2026-universal-evolution-big-history
   - edelaar-2026-selective-organism
+  - svensson-2026-agency-natural-purpose
 ---
 
 **Where This Article Fits**
@@ -299,6 +300,8 @@ Other research programmes examined phenotypic plasticity, niche construction, ec
 Edelaar (2026) develops a related account in *The Selective Organism: An Expanded Theory of Adaptive Evolution*. His distinction between the selective reproduction of heritable variation and its selective production draws attention to the ways developmental processes, organismal activities, and organism–environment interactions can influence evolutionary outcomes. The account places organismal activity within evolutionary causation without requiring conscious intention or treating natural selection as irrelevant. It provides an important contemporary comparator for organisational approaches such as APS, although its explanatory contribution must be assessed independently of any apparent conceptual affinity.
 
 Advocates of an Extended Evolutionary Synthesis have argued that some of these processes deserve greater prominence in evolutionary theory. Other researchers accept their importance while maintaining that established evolutionary approaches can accommodate them without a fundamental theoretical reconstruction.
+
+Svensson (2026) provides a particularly explicit defence of the explanatory resources already available within contemporary evolutionary theory. Natural selection need not be understood as merely eliminating unsuccessful variants: acting on standing genetic variation, recombination, and correlated traits, selection can contribute to the accumulation and maintenance of complex adaptive combinations. Developmental processes remain important in generating phenotypic variation, but their contribution does not by itself establish agency as an additional evolutionary mechanism. This disagreement illustrates why claims of explanatory insufficiency must be tested against the strongest contemporary evolutionary accounts rather than simplified representations of the Modern Synthesis.
 
 These disagreements should not be represented as a simple choice between an obsolete synthesis and a complete replacement. They concern the explanatory importance of different processes, the organisation of evolutionary research, and the conditions under which theoretical revision is warranted.
 
