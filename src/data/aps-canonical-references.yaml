@@ -8645,3 +8645,56 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-11-20
+- id: kirkwood-1977-evolution-of-ageing
+  type: journal-article
+  authors: Kirkwood, T. B. L.
+  year: 1977
+  title: Evolution of ageing
+  journal: Nature
+  volume: '270'
+  issue: '5635'
+  pages: 301–304
+  doi: 10.1038/270301a0
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-11-21
+- id: lopez-otin-et-al-2013-hallmarks-of-aging
+  type: journal-article
+  authors: López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G.
+  year: 2013
+  title: The hallmarks of aging
+  journal: Cell
+  volume: '153'
+  issue: '6'
+  pages: 1194–1217
+  doi: 10.1016/j.cell.2013.05.039
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-11-21
+- id: rose-1991-evolutionary-biology-of-aging
+  type: book
+  authors: Rose, M. R.
+  year: 1991
+  title: Evolutionary Biology of Aging
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780195061338.001.0001
+  verification:
+    status: verified
+    authority: Oxford Academic
+    verifiedDate: 2026-11-21
+- id: jones-et-al-2014-diversity-of-ageing
+  type: journal-article
+  authors: Jones, O. R., Scheuerlein, A., Salguero-Gómez, R., Camarda, C. G., Schaible, R., Casper, B. B., Dahlgren, J. P., Ehrlén, J., García, M. B., Menges, E. S., Quintana-Ascencio, P. F., Caswell, H., Baudisch, A., & Vaupel, J. W.
+  year: 2014
+  title: Diversity of ageing across the tree of life
+  journal: Nature
+  volume: '505'
+  issue: '7482'
+  pages: 169–173
+  doi: 10.1038/nature12789
+  verification:
+    status: verified
+    authority: Nature and PubMed
+    verifiedDate: 2026-11-21
