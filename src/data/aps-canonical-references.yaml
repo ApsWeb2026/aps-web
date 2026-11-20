@@ -8631,3 +8631,17 @@ references:
     status: verified
     authority: University of Michigan Press
     verifiedDate: 2026-11-20
+- id: potochnik-2013-biological-explanation
+  type: book-chapter
+  authors: Potochnik, A.
+  year: 2013
+  title: Biological Explanation
+  book-title: "The Philosophy of Biology: A Companion for Educators"
+  editors: Kampourakis, K.
+  publisher: Springer
+  pages: "49–65"
+  doi: 10.1007/978-94-007-6537-5_3
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-20

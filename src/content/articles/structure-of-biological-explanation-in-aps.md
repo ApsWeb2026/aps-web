@@ -6,25 +6,28 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-11-15
+revised: 2026-11-20
 cluster: methodology-and-explanation
 role: core
+
 abstract: >
-  This article specifies how biological explanation is organised within the
-  Agency–Process–Scale (APS) framework. APS takes viability-oriented,
-  constraint-closed organisation and organised persistence as principal
-  explanatory concerns and uses Agency, Process, and Scale as analytic
-  projections through which living organisation can be investigated across
-  spatial and temporal extents. This architecture provides APS with a
-  comparative and integrative approach to biological explanation without
-  prescribing a necessary or exhaustive structure for biological explanation
-  generally.
+  This article is the second step in How APS Explains Life. It shows how
+  Agency, Process, and Scale guide inquiry into organised persistence, a
+  principal explanatory target of the Agency–Process–Scale (APS)
+  framework. Using bacterial recovery from osmotic disturbance, it
+  illustrates how to specify what persists, identify the conditions
+  that support continued functioning, and investigate how cellular
+  activity contributes to recovery. It also explains how to assess
+  whether an organisational analysis adds to an established explanation
+  addressing the same question.
+
 keyPoints:
-  - APS distinguishes its principal explanatory concerns from the architecture through which it investigates them.
-  - Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation.
-  - Persistence, adaptation, and evolution address different temporal aspects of biological organisation within APS.
-  - System–environment coupling is integral to the APS account of living organisation.
-  - APS provides a comparative and integrative explanatory architecture without requiring other biological explanations to adopt the same structure.
+  - APS distinguishes organised persistence as an explanatory target from the architecture it uses to investigate it.
+  - Agency, Process, and Scale direct attention to viability-oriented activity, continuity through change, and the spatial and temporal extents of organisation.
+  - Bacterial recovery from osmotic disturbance illustrates how cellular activity can help restore conditions for continued functioning.
+  - Physiological recovery, longer-term reorganisation, and evolutionary change involve different questions and evidential requirements.
+  - Claims of additional explanatory gain require comparison with the strongest established account addressing the same question.
+
 relatedGlossaryTerms:
   - biological-agency
   - process
@@ -35,129 +38,140 @@ relatedGlossaryTerms:
   - constraint-closure
   - coupling
   - environment
+
 relatedArticles:
   - biological-explanation-what-needs-to-be-explained
+  - explanatory-geometry-of-biology
+  - biological-explanation-and-organised-persistence
+  - what-is-a-biological-system
+  - what-counts-as-explanatory-gain
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - adaptation-how-living-systems-sustain-themselves-through-change
   - environment-coupling-and-biological-agency
   - reframing-biology-how-aps-reorganises-core-concepts
+
+references:
+  - bich-bechtel-2021-mechanism-autonomy-explanation
+  - brigandt-2013-explanation-biology
+  - montevil-mossio-2015-closure-constraints
+  - mossio-saborido-moreno-2009-functions
+  - potochnik-2013-biological-explanation
+  - wood-2011-bacterial-osmoregulation
 ---
+
+**Where This Article Fits**
+
+*This Core article is the second step in [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/). The first step, [Biological Explanation — What Needs to Be Explained](/articles/biological-explanation-what-needs-to-be-explained/), establishes organised persistence as a principal explanatory target within APS. This article shows how Agency, Process, and Scale guide inquiry into that target, using a bacterial cell recovering from osmotic disturbance. Continue with [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/) for the systematic account of how these explanatory elements relate.*
 
 ## Introduction
 
-What does APS take biological explanation to explain, and how does it organise explanation around that target?
+How does a living system maintain its organisation when the conditions that support it change? Answering that question requires specifying what persists, which conditions matter to its continued functioning, and how the system's activity affects those conditions.
 
-The APS framework addresses these questions in two stages. The article Biological Explanation — What Needs to Be Explained identifies viability-oriented, constraint-closed biological organisation as a principal explanatory target within APS. It asks how living systems sustain and re-establish the conditions of their own persistence rather than treating biological behaviour alone as sufficient to characterise living organisation.
-
-This article develops the second stage. It specifies the explanatory architecture APS uses to investigate that target.
-
-If living systems are understood within APS as viability-oriented organisations, their activity, continuity, transformation, spatial and temporal organisation, and environmental relations become interconnected explanatory concerns. Organised persistence concerns the continuity of living organisation through change. Viability concerns the conditions under which that organisation can continue. Agency, Process, and Scale help APS investigate how the activities of a living system, its continuity through change, and its organisation across space and time bear on that explanatory target.
-
-This article forms part of a two-step account of biological explanation in APS. For the full entry sequence, see:
-
-→ [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
+APS understands living systems as viability-oriented, constraint-closed organisations. Viability concerns the conditions under which a particular system can continue functioning. Constraint closure concerns the reciprocal dependence of constraints that contribute to one another's maintenance (Montévil & Mossio, 2015). Organised persistence concerns the continuity of living organisation through change. These concepts give APS a target for inquiry. Agency, Process, and Scale guide the investigation of that target.
 
 ## From Target to Structure
 
-Identifying viability-oriented organisation and organised persistence as principal explanatory concerns within APS determines the questions to which APS gives particular explanatory priority.
+The first step is to identify the system and the continuity to be explained. A study might ask how a cell preserves the organisation needed for metabolism across a disturbance, how an organism continues functioning through developmental change, or how a lineage changes across generations. Each question identifies a different kind of continuity or transformation and calls for evidence appropriate to it.
 
-Living systems maintain themselves through ongoing activity, reorganise under changing conditions, persist across time while undergoing transformation, operate across spatial and temporal extents, and exist through continuing relations with their environments.
+Within APS, Agency, Process, and Scale are complementary analytic projections of the same living organisation.
 
-APS therefore asks how these features are organised in the persistence and transformation of living systems. Its explanatory architecture is designed to make those relationships explicit. Other biological explanations may legitimately address narrower or different explananda without thereby being incomplete.
+- **Agency** directs attention to viability-oriented organisational activity. What does the system do that helps maintain or restore conditions for its continued functioning?
+- **Process** directs attention to continuity and transformation. What changes during the episode, what persists through it, and how do successive changes affect what the system can do next?
+- **Scale** directs attention to the relevant spatial and temporal extents. Where do the contributing activities occur, over what intervals do they operate, and how do their effects bear on the organisation under investigation?
 
-Organised persistence concerns the continuity of living organisation through change. Viability concerns the conditions under which that organisation can continue. Agency, Process, and Scale help APS investigate how the activities of a living system, its continuity through change, and its organisation across space and time bear on that explanatory target.
-
-## The Core Explanatory Dimensions
-
-Biological explanation in APS is articulated through three analytic projections: Agency, Process, and Scale.
-
-Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence is organised across spatial and temporal extents.
-
-These are not separate components, causal sources, or levels. They are analytic projections of one viability-oriented, constraint-closed organisation rather than components of reality.
-
-APS uses these projections together where their combination clarifies how living organisation is enacted, maintained, and transformed. They belong to the APS explanatory architecture rather than functioning as obligatory categories for biological explanation generally.
+The projections guide the selection of activities, processes, and relations to investigate. An explanation comes from identifying and supporting the dependencies that account for the specified phenomenon.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/aps-explanatory-geometry.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/aps-explanatory-geometry.png"
-      alt="Organised persistence as an APS explanatory target, investigated through the complementary projections of Agency, Process, and Scale."
+      alt="Organised persistence as an APS explanatory target investigated through Agency, Process, and Scale."
       loading="lazy"
     />
   </a>
-  <p class="aps-diagram-caption"><strong>APS Explanatory Geometry.</strong> Organised persistence is the target in this diagram. Agency, Process, and Scale direct attention to different aspects of the same living organisation. Which aspects matter depends on the question being investigated.</p>
+  <p class="aps-diagram-caption"><strong>APS Explanatory Geometry.</strong> Agency, Process, and Scale direct attention to different aspects of the same living organisation. The question under investigation determines which dependencies matter.</p>
 </div>
 
-The bacterial example in [What Is a Biological System?](/articles/what-is-a-biological-system/#a-bacterial-cell-under-osmotic-disturbance) shows how this works. Agency directs attention to what the cell does to help restore conditions for continued functioning. Process tracks the continuity of the cell’s organisation through the disturbance and response. Scale connects transport at the membrane with changes across the cell over time. The projections organise the inquiry. Any claim of [additional explanatory gain](/articles/what-counts-as-explanatory-gain/) requires comparison with a strong account addressing the same question.
+## A Bacterial Cell Under Osmotic Disturbance
 
-## The Temporal Structure of Biological Organisation
+Consider the case introduced in [What Is a Biological System?](/articles/what-is-a-biological-system/#a-bacterial-cell-under-osmotic-disturbance). When the concentration of dissolved substances outside a bacterial cell rises abruptly, water can leave the cell and turgor can fall. In bacteria capable of compensating, the uptake or synthesis of compatible solutes can help restore cellular hydration and turgor. The mechanisms and extent of recovery depend on the organism and the conditions of the disturbance (Wood, 2011).
 
-Biological organisation extends across different temporal extents.
+The explanatory question here is how the cell re-establishes conditions for continued functioning during that episode.
 
-Persistence concerns the continuing maintenance and re-establishment of viable organisation. Adaptation concerns changes through which living systems remain viable under altered conditions. Evolution concerns the historical transformation of biological organisation across generations.
+**Agency** directs attention to the cell's contribution to recovery. Water loss follows from the changed osmotic conditions. Solute uptake or synthesis is activity of the cell that can alter those conditions as they bear on its own functioning. Its relevance to agency depends on what it contributes to recovery in the circumstances under study.
 
-APS relates these phenomena through organised persistence while preserving their different explanatory questions and evidential requirements. Life persists, evolution transforms that persistence, and biological explanation clarifies the organisation that makes both possible.
+**Process** directs attention to the sequence of disturbance, adjustment, and recovery. The cell's hydration, turgor, and internal solute concentrations can change substantially while the organisation needed for recovery persists. This directs inquiry towards the activities that continue through the disturbance, the conditions that deteriorate, and the order in which adjustment and recovery occur.
 
-Their integration within APS provides one way of relating immediate regulation, ongoing reorganisation, and historical transformation without treating them as a single process or requiring every biological explanation to integrate them.
+**Scale** connects activity at the membrane and within the cell to changes in whole-cell hydration and turgor. It also connects the timing of water loss and solute accumulation to the interval over which cellular functioning is impaired or restored. An endpoint measurement can show that recovery occurred. Measurements through the episode can help establish which changes preceded and contributed to it.
 
-## System–Environment Coupling
+The analysis brings a specific dependency into view. Under the specified osmotic conditions, recovery may depend on the cell retaining the capacity to accumulate compatible solutes while its hydration is impaired. Evidence for that claim would have to connect solute accumulation to restoration of relevant cellular conditions and to a measure of continued functioning. Recovery of turgor, for example, supports a claim about one condition of functioning. A claim about resumed growth requires evidence of growth.
 
-Biological organisation does not exist in isolation.
+This example illustrates how APS formulates an organisational question and identifies the evidence it would require. Establishing an additional explanatory contribution would require showing that the strongest physiological account of the same episode leaves the relevant dependency or inference inadequately explained.
 
-Within APS, living systems are understood through continuing relations with their environments. Environmental conditions become biologically significant through their relations to the organisation and activity of living systems, while living systems can in turn modify relevant environmental conditions.
+## Temporal Organisation and System–Environment Coupling
 
-System–environment relations are therefore integral to the APS account of adaptation and organised persistence.
+The choice of time interval changes the explanatory question. The bacterial case concerns **physiological recovery** during a particular episode. A longer inquiry might ask how sustained exposure changes the cell's regulation or affects its response to a later disturbance. An **evolutionary** inquiry might ask how osmoregulatory capacities arose or changed across generations. Evidence that a response contributes to present functioning bears directly on the first question. The historical question requires evidence about the origin and subsequent change of that capacity.
 
-Where the explanandum requires it, APS explanation includes these relational dynamics rather than treating biological organisation as exclusively internal. This does not require every biological explanation to encompass the complete system–environment relation.
+The case also shows why system–environment coupling matters. The external solute concentration helps determine the conditions under which water moves across the membrane. Cellular activity changes internal solute concentrations and thereby alters the relation between the cell and its surroundings. The explanatory relevance of that relation depends on the conditions under study. A capacity that supports continued functioning in one environment may have a different contribution in another.
 
-## Organisation Across Scale
+Relations across scale are traced through their material implementation. Membrane transport changes cellular solute concentrations, which affect water movement and whole-cell conditions. The explanatory work lies in tracing that connection over the relevant interval and showing how it contributes to the specified outcome.
 
-Biological organisation extends across spatial and temporal extents.
+## Relating Mechanism, Function, and Evolution
 
-Molecular, cellular, organismal, ecological, and other processes need not be arranged in an explanatory hierarchy in which one scale possesses intrinsic priority. Their relevance depends upon the phenomenon and explanatory question under investigation.
+Mechanistic, functional, and evolutionary accounts can contribute to a common inquiry while answering distinguishable questions. A mechanistic account can explain how solute transport or synthesis changes the cell's internal conditions. An organisational account can ask how that activity contributes to continued functioning and how its operation depends on conditions sustained by the cell. Bich and Bechtel (2021) examine how mechanistic explanations can accommodate this kind of organisational dependence in autonomous systems.
 
-APS examines how materially implemented constraints and processes across different scales alter the local conditions under which biological activity occurs. Cross-scale influence therefore remains materially implemented rather than requiring wider scales to supersede local causation.
+The question of function calls for particular care. An observed effect, such as a rise in internal solute concentration, provides a starting point for identifying a present organisational contribution. A stronger claim about function in the organisational sense also asks how the contribution figures in the maintenance of the organisation that sustains the capacity itself (Mossio, Saborido, & Moreno, 2009). The osmotic example illustrates one part of this relation. Establishing constraint closure would require evidence of the reciprocal dependencies within the relevant organisation.
 
-Where the explanandum requires it, APS traces how living organisation is maintained through such relations across scale. This does not require every biological explanation to span multiple scales.
-
-## Relating Mechanism, Function, and evolution
-
-APS does not replace existing explanatory approaches or treat their independent contributions as deficient. Mechanistic, functional, evolutionary, developmental, ecological, and other explanations may address different explananda and carry different evidential responsibilities.
-
-Within APS, these explanations can sometimes be related through questions concerning viability-oriented organisation and organised persistence. Mechanistic accounts may clarify how relevant processes operate; functional accounts may clarify present-tense viability-relative organisational contributions; evolutionary accounts may clarify historical transformation.
-
-Their integration is warranted where relating these explanatory products produces additional understanding. APS does not assume that integration is always necessary or that explanatory independence is itself a defect.
+An evolutionary account can address how the capacity arose and why it was retained or modified. Connecting it with a present-day mechanistic or functional account is warranted where the connection helps answer a specific question. For example, explaining why a capacity was retained may require evidence about its effects under past conditions as well as evidence about how it operates today.
 
 ## Explanatory Adequacy
 
-APS does not provide a universal checklist by which every biological explanation should be judged. Explanatory adequacy depends upon the explanandum, the relations claimed, the evidence required, the scope of the account, and the explanatory product sought.
+An explanation is adequate relative to the question it addresses and the evidence needed to answer it. Different explanatory aims can justify different selections of causal factors and different idealisations, even when investigators study the same biological system (Potochnik, 2013). This is part of the case for explanatory pluralism in biology discussed by Brigandt (2013).
 
-Within APS, questions concerning viability, organisation, persistence, transformation, environmental relation, and scale become relevant where the explanandum concerns the organisation of living systems in ways that require them. Their relevance must be demonstrated rather than assumed.
+In the bacterial case, explaining how a transporter moves a solute and explaining how the cell restores conditions for continued functioning are distinguishable projects. A physiological account can address both. To assess an APS contribution, compare accounts that address the same recovery question and ask which dependencies each establishes, which inferences each warrants, and what evidence supports them.
 
-APS therefore distinguishes the coherence of its own explanatory architecture from the adequacy of particular biological explanations. An explanation does not become inadequate merely because it does not reproduce the APS architecture.
-
-## APS as an Explanatory Architecture
-
-Taken together, these elements constitute the explanatory architecture of APS.
-
-APS does not add a separate class of biological entities or prescribe a universal grammar for biological explanation. It organises its own explanatory commitments around viability-oriented organisation, organised persistence, and the analytic projections of Agency, Process, and Scale.
-
-This architecture can support comparison and integration where those operations produce explanatory gain. Its conceptual coherence, however, does not establish the truth or adequacy of the biological claims represented within it. Those claims remain subject to appropriate evidence, comparison, qualification, revision, or rejection.
-
-Where APS pathways represent relationships among biological phenomena, those relationships are dependency hypotheses. Architectural Dependency makes those commitments explicit; the framework-neutral Dependency-Hypothesis Audit provides a procedure for assessing them.
+If the physiological account already establishes the dependency between solute accumulation and recovery, the APS analysis can make the organisation of the inquiry explicit. A claim of [additional explanatory gain](/articles/what-counts-as-explanatory-gain/) requires a further result, such as identifying a consequential dependency or supporting a discriminating inference that the strongest available account leaves open. Where the evidence cannot decide between accounts, the comparison remains unresolved.
 
 ## Conclusion
 
-APS distinguishes between its principal explanatory concerns and the architecture through which it investigates them.
+APS gives organised persistence a central place in its account of living systems. Agency, Process, and Scale guide inquiry by directing attention to viability-oriented activity, continuity through change, and the spatial and temporal extents over which relevant dependencies operate.
 
-It understands life as viability-oriented, constraint-closed organisation and gives particular explanatory attention to organised persistence: how living organisation is maintained, re-established, and transformed through change.
+The bacterial case shows how to move from these projections to a question about what the cell does, which conditions its activity helps restore, and how that contribution can be assessed. The same approach can organise inquiry into other cases of persistence and transformation. Its explanatory contribution depends on the evidence for the proposed dependencies and on what a comparison with established accounts shows.
 
-Agency, Process, and Scale provide analytic projections through which APS investigates this organisation, while temporal organisation, system–environment coupling, and relations across scale extend that explanatory architecture.
+## Explanatory Architecture
 
-APS thereby offers a comparative and integrative methodology for biological explanation without claiming that all legitimate biological explanations must adopt its explanandum, categories, or architecture. Its contribution must instead be assessed by whether these commitments clarify biological organisation and generate defensible explanatory gain relative to established alternatives.
+### Central Question
 
-## Key Point
+How does APS turn organised persistence into an explanatory inquiry about the activity, continuity, and organisation of a living system?
 
-APS organises its account of biological explanation around viability-oriented organisation and organised persistence through the analytic projections of Agency, Process, and Scale, while recognising that other biological explanations may legitimately pursue different explananda and explanatory architectures.
+### Architectural Role
 
+This Core article develops the second step in the APS account of biological explanation. It shows how Agency, Process, and Scale guide the formulation of an explanatory question, the identification of relevant dependencies, and the assessment of evidence.
+
+### Preceding Explanatory Dependencies
+
+- [Biological Explanation — What Needs to Be Explained](/articles/biological-explanation-what-needs-to-be-explained/) establishes organised persistence as a principal APS explanatory target.
+- The concepts of viability, constraint closure, and biological agency specify the conditions, organisational relations, and activity presupposed by the analysis.
+
+### Subsequent Explanatory Developments
+
+- [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/) develops the systematic relationships among the elements of APS explanation.
+- [Biological Explanation and Organised Persistence](/articles/biological-explanation-and-organised-persistence/) develops the organisational approach and its comparative assessment.
+- [What Counts as Explanatory Gain?](/articles/what-counts-as-explanatory-gain/) sets out the criteria for judging whether a comparative contribution has been established.
+
+### Related Explanatory Questions
+
+- What must remain continuous for a living system to persist through disturbance?
+- What evidence connects a cellular activity to the restoration of conditions for continued functioning?
+- How do the relevant spatial and temporal extents affect the explanation?
+- When does an organisational analysis support an inference beyond those already warranted by an established account?
+
+### Position Within APS
+
+This article connects the APS account of life with the investigation of organised persistence in particular cases. It shows how the framework's concepts guide inquiry and how the resulting claims can be assessed against evidence and established explanations.
+
+### See Also
+
+- [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
+- [What Is a Biological System?](/articles/what-is-a-biological-system/)
 
