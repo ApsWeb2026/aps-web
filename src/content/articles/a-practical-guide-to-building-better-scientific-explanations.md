@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-10-11
+revised: 2026-11-21
 cluster: methodology-and-explanation
 role: core
 abstract: "Scientific explanations are easier to assess when their explananda, explanatory claims, explanatory resources, evidence, strongest relevant alternatives, claimed additional contributions and warranted scope remain explicitly aligned. This article converts the preceding Methodology and Explanation sequence into a practical, non-algorithmic guide for constructing and assessing explanations while permitting bounded positive, null, unresolved and non-comparable outcomes."
@@ -116,7 +116,7 @@ Evidence should support the explanatory relation claimed, not merely the existen
 
 A causal claim normally requires evidence capable of distinguishing causal dependence from association, with interventionist or structural reasoning providing important tools for doing so (Woodward, 2003; Pearl, 2009). A modelling claim requires clarity about what successful fit, validation or calibration establishes; numerical agreement does not by itself prove that a model is uniquely correct or literally true in all respects (Oreskes, Shrader-Frechette, & Belitz, 1994).
 
-Evidence also has a history. Exploratory analysis and post-hoc hypothesis generation are legitimate parts of research. Problems arise when a result discovered after inspecting the data is presented as though it had survived a prior independent test. HARKing and related forms of hidden flexibility can therefore inflate evidential appearance without making the exploratory work itself illegitimate (Kerr, 1998). Reproducibility practices, transparent reporting and preregistration can help where they are appropriate to the design, but they are means of evidential control rather than universal rituals (MunafÃ² et al., 2017).
+Evidence also has a history. Exploratory analysis and post-hoc hypothesis generation are legitimate parts of research. Problems arise when a result discovered after inspecting the data is presented as though it had survived a prior independent test. HARKing and related forms of hidden flexibility can therefore inflate evidential appearance without making the exploratory work itself illegitimate (Kerr, 1998). Reproducibility practices, transparent reporting and preregistration can help where they are appropriate to the design, but they are means of evidential control rather than universal rituals (Munafò et al., 2017).
 
 The operative rule is simple:
 
@@ -124,25 +124,21 @@ The operative rule is simple:
 
 ### Reconstruct the Strongest Relevant Comparator
 
-Not every explanation needs to defeat a rival. But when comparative advantage is claimed, a weak foil is not enough.
+When an account claims a comparative advantage, assess it against the strongest relevant alternative for the specified explanatory target. Accounts that address the same subject can answer different questions. Establish where their targets match before judging whether their contributions compete, overlap, or complement one another.
 
-The relevant comparator should address a sufficiently matched explanatory target and should be reconstructed in a form its proponents could recognise. This means giving it credit for the explanatory resources and evidence it actually possesses rather than comparing the candidate account with a simplified caricature.
+Reconstruct the comparator in a form its proponents could recognise. Give it full credit for the explanatory resources and evidence it can bring to bear on the target. This includes relevant developments of the account that fall within the scope of the comparison.
 
-Explanatory alternatives may compete, overlap, complement one another, or prove to be directed at different questions. Comparison should therefore begin by asking whether the accounts are genuinely comparable rather than assuming competition from shared subject matter alone.
+Where the claim concerns explanatory advance, specify the date against which the advance is being judged. A historical assessment asks what the account added relative to the strongest relevant alternative available when it was introduced. A present-day assessment asks what it adds relative to the strongest alternative available now. An account may have made a genuine advance when first proposed even if later work has since made the same explanatory contribution available elsewhere.
 
-Inference to the best explanation provides one influential way of thinking about explanatory alternatives, but PA-09 does not reduce comparison to a single philosophical theory of inference (Lipton, 2004). The practical requirement is narrower: compare the candidate with the strongest relevant alternative, not the weakest available rival.
+Inference to the best explanation offers one influential way to reason about alternatives (Lipton, 2004). The practical requirement here applies across theories of inference. Identify the strongest comparator for the target and date in question, then reconstruct it with enough care for the comparison to carry evidential weight.
 
 ### Compare Explanatory Contribution
 
-Once the target and comparator are sufficiently matched, compare what each account contributes.
+Once the explanatory targets are sufficiently matched, restate both accounts in terms their proponents could accept. Where possible, use shared language to describe what each account explains, which resources it uses, and what it allows us to infer. Where a technical term carries a substantive commitment, make that commitment explicit in the comparison.
 
-Ask what each explanation enables us to understand about the specified explanandum. Does one identify a dependency that the other omits? Does one discriminate between possibilities that remain undifferentiated in the comparator? Do they make different counterfactual commitments? Does each contribute something non-redundant to different but sufficiently connected aspects of the target?
+Ask what difference remains after this restatement. One account may identify a dependency the other omits, distinguish possibilities the other leaves open, or imply a different outcome under a specified change in conditions. Differences in vocabulary, emphasis, or presentation can leave the explanatory commitments intact. Accounts are complementary when each makes a non-redundant contribution to the same explanandum or to closely connected aspects of it.
 
-Difference alone is not enough.
-
-Two accounts may use different vocabulary while making the same explanatory commitments. They may emphasise different features without altering what can be explained. They may also be complementary, but complementarity should be reserved for cases in which each account contributes something genuinely non-redundant rather than merely coexisting without contradiction.
-
-At this point the comparison should remain descriptive and symmetrical. The next question is whether any claimed explanatory advance has actually been demonstrated.
+The comparison should give both accounts equal scrutiny. Its result is a statement of what they share and what, if anything, differs. Any remaining difference provides a specific claim to test in the next step.
 
 ### Test Any Claimed Additional Capacity
 
@@ -170,40 +166,30 @@ Can you state the explanandum clearly? Is the explanatory claim distinct from de
 
 ### Bound the Verdict and Its Scope
 
-A controlled assessment does not have to end with one account declared the winner.
+State the verdict for the specified explanandum, comparator, and conditions of the test. Where the accounts address sufficiently matched targets, the comparison can support several outcomes.
 
-For a specified explanandum and sufficiently strong comparator, several bounded outcomes are legitimate:
-
-- **Bounded positive gain** â€” additional target-relevant explanatory capacity is demonstrated.
-- **Comparator advantage** — the strongest relevant comparator provides greater explanatory capacity for the specified target than the candidate account.
-- **Complementarity** â€” each account contributes something non-redundant to the specified explanandum or to sufficiently linked aspects of it.
-- **No additional gain** â€” the candidate account does not establish additional explanatory capacity in the controlled comparison.
-- **Redescription** — the candidate reorganises or reformulates explanatory content already available from the strongest relevant comparator without demonstrating additional explanatory capacity.
-- **Unresolved** â€” the available evidence does not yet settle the residual-capacity question.
-- **Non-comparability** â€” the accounts are not sufficiently matched for the proposed direct comparison.
-
-These are alternatives, not positions on a single scale.
+- **Bounded explanatory gain.** The candidate demonstrates an additional explanatory capacity for the specified target within the tested scope.
+- **Comparator advantage.** The comparator provides greater explanatory capacity for the specified target within that scope.
+- **Complementarity.** Each account makes a non-redundant contribution to the same explanandum or to closely connected aspects of it.
+- **No additional gain.** An adequate comparison shows that the claimed contribution is already available from the comparator or adds no explanatory capacity for the specified target. Redescription is one basis for this verdict when restating both accounts in shared terms reveals equivalent explanatory commitments.
+- **Unresolved.** A potentially consequential difference remains, and the available evidence cannot settle whether it yields an explanatory gain. Specify what finding or analysis could resolve the question.
+- **Non-comparability.** The accounts lack a common basis for the proposed direct comparison. Where this arises because they answer different questions, state the target difference and identify any narrower comparison the accounts can support.
 
 <div class="aps-diagram">
-
-<a href="/assets/diagrams/methodology-implications.png" target="_blank" rel="noopener">
-  <img
-    src="/assets/diagrams/methodology-implications.png"
-    alt="Interpretation and consequences of comparative test findings, showing what bounded explanatory gain, comparator advantage, complementarity, no additional gain, redescription, non-comparability, and unresolved findings mean and what each scientifically warrants"
-    loading="lazy"
-  />
-</a>
-
-<p class="aps-diagram-caption">
-  <strong>Interpreting Comparative Findings.</strong>
-  Different comparative outcomes warrant different scientific conclusions. A bounded explanatory gain supports a correspondingly bounded claim, whereas comparator advantage, complementarity, no additional gain, redescription, non-comparability and unresolved evidence impose different constraints on what may legitimately be concluded.
-</p>
-
+  <a href="/assets/diagrams/methodology-implications.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/methodology-implications.png"
+      alt="Comparative outcomes and their implications for the conclusions warranted by a test"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Interpreting Comparative Findings.</strong>
+    The verdict records what the comparison warrants for the specified target. Redescription can explain a finding of no additional gain, while an unresolved finding identifies a question that remains open.
+  </p>
 </div>
 
-Scope must then be controlled. Evidence from one population, model system, species or regime does not automatically warrant a general biological conclusion. Generalisation requires bridge evidence or other justification appropriate to the domain (Yarkoni, 2022).
-
-The same principle applies to framework claims. A local explanatory success does not establish framework-wide superiority, and a local null result does not establish framework-wide failure.
+The verdict applies within the population, model system, species, or regime for which the evidence supports it. Extending it to a wider domain requires evidence or an explicit argument that the relevant explanatory relations carry over (Yarkoni, 2022). The same requirement applies to framework-level claims. A local gain supports a claim about the contribution tested, and a local finding of no additional gain limits that claim within the comparison. Either finding requires further evidence to support a judgement about the framework as a whole.
 
 ### Record What Remains Unresolved
 
@@ -211,7 +197,7 @@ A rigorous explanation should make its unresolved burdens visible.
 
 This may include uncertainty about the target, incomplete evidence for a proposed dependency, ambiguity about the strongest relevant comparator, uncertain scope, or a residual question that current data cannot adjudicate.
 
-â€œUnresolvedâ€ should not be treated as an embarrassment to be removed by stronger rhetoric. It is often the correct scientific result.
+-œUnresolved- should not be treated as an embarrassment to be removed by stronger rhetoric. It is often the correct scientific result.
 
 A useful unresolved statement identifies what remains open and what kind of further evidence or analysis could change the assessment. This makes the explanation more assessable because later work can be directed toward a specific burden rather than toward an indefinitely expanding research programme.
 
@@ -267,7 +253,7 @@ It does not prescribe one evidential method for every science, require every exp
 
 It also does not establish the scientific standing of an entire explanatory framework. A framework may contain multiple conceptual, methodological, modelling and substantive claims whose joint evaluation requires a different level of testing.
 
-Finally, nothing in this workflow depends on Agencyâ€“Processâ€“Scale or any other APS-specific biological proposition. The methodology is intended to remain independently applicable.
+Finally, nothing in this workflow depends on Agency-“Process-“Scale or any other APS-specific biological proposition. The methodology is intended to remain independently applicable.
 
 ## Related Terms and Next Step
 
@@ -277,3 +263,28 @@ For the diagnostic background, see [How Do Scientific Explanations Go Wrong?](/a
 
 PA-09 provides a practical method for constructing and assessing individual scientific explanations. The next article, **How Should a New Scientific Framework Be Tested?**, asks a different question: when a proposed scientific framework makes multiple explanatory, methodological, conceptual or substantive claims, how should the framework as a whole be tested fairly and allowed to fail?
 
+## Explanatory Architecture
+
+### Central Question
+
+How can an individual scientific explanation be constructed, assessed, and revised so that its claims remain proportionate to the evidence?
+
+### Architectural Role
+
+The article turns the preceding methodological distinctions into a practical workflow for specifying a target, assessing evidence, and testing any claimed comparative gain.
+
+### Preceding Dependencies
+
+[How Do Scientific Explanations Go Wrong?](/articles/how-do-scientific-explanations-go-wrong/) identifies recurrent failures. [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/) establishes fair comparison, and [What Counts as Explanatory Gain?](/articles/what-counts-as-explanatory-gain/) specifies the burden for a claim of advance.
+
+### Related and Subsequent Developments
+
+[Which Explanatory Framework Is Best?](/articles/which-explanatory-framework-is-best/) examines the scope of comparisons among frameworks. [How Should a New Scientific Framework Be Tested?](/articles/how-should-a-new-scientific-framework-be-tested/) extends the inquiry to frameworks containing several kinds of scientific claim.
+
+### Related Questions
+
+Which evidence supports the proposed explanation? What difference survives comparison in shared terms? What finding would change the verdict?
+
+### Position Within APS
+
+This core article in the Methodology and Explanation cluster provides a workflow that can assess claims made by APS and by other approaches on the same terms.
