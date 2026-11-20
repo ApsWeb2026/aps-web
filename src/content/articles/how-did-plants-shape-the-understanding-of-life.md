@@ -5,7 +5,7 @@ slug: how-did-plants-shape-the-scientific-understanding-of-life
 type: article
 status: draft
 canonical: false
-revised: 2026-11-07
+revised: 2026-11-20
 cluster: history-of-ideas
 role: extension
 abstract: >-
@@ -65,6 +65,8 @@ references:
   - cavendish-1668-grounds-natural-philosophy
   - bose-1903-mechanical-electrical-response-plants
   - burdon-sanderson-1904-bose-referee-report
+  - goethe-2009-metamorphosis-of-plants
+  - hueck-2025-understanding-organisms
 ---
 
 **Where This Article Fits**
@@ -130,6 +132,8 @@ These examples are valuable precisely because they do not form a single research
 Anatomical investigation provides a complementary line of development. Microscopic and comparative studies of plant tissues offered new descriptions of internal organisation, while studies of reproduction and generation prompted disagreements about what visible structures meant and how they operated. These investigations made it increasingly difficult to treat the plant merely as a static form. Yet it would be equally mistaken to suggest that the use of instruments automatically produced correct causal explanations. New observations could be interpreted through older assumptions, and different researchers often disagreed about what they saw.
 
 The historical contribution of this period lies in the diversification of questions and practices. Plant life became a site at which natural philosophers, physicians, gardeners, and experimental investigators contested the relationships among structure, material process, and characteristic activity. This is a more defensible claim than describing the seventeenth century as the moment when plants were first recognised as active or sentient.
+
+Goethe’s *The Metamorphosis of Plants*, first published in 1790, made the development of plant form itself a subject of inquiry. Goethe proposed that foliage leaves, sepals, and petals could be understood as transformations of a common organ form (Goethe 2009). Comparing these structures in developmental sequence raised a question about how apparently different parts of a plant are related. In Goethe’s later account of a conversation in 1794, Friedrich Schiller challenged him on whether he had observed the underlying form or arrived at it as an idea through which he interpreted what he saw (Hueck 2025). The episode brings out a distinction between recognising a pattern across different forms and explaining the processes that produce them.
 
 ## Plant physiology - Making living processes experimentally investigable
 

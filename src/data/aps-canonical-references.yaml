@@ -8592,3 +8592,28 @@ references:
     status: verified
     authority: Frontiers / PubMed
     verifiedDate: 2026-11-19
+- id: goethe-2009-metamorphosis-of-plants
+  type: book
+  authors: Goethe, J. W. von
+  year: 2009
+  title: The Metamorphosis of Plants
+  publisher: MIT Press
+  url: https://mitpress.mit.edu/9780262013093/the-metamorphosis-of-plants/
+  verification:
+    status: verified
+    authority: MIT Press / Smithsonian Libraries
+    verifiedDate: 2026-11-20
+- id: hueck-2025-understanding-organisms
+  type: journal-article
+  authors: Hueck, C. J.
+  year: 2025
+  title: 'Understanding organisms by intuiting life: Kant, Goethe, and Steiner'
+  journal: History and Philosophy of the Life Sciences
+  volume: '47'
+  issue: '3'
+  article-number: '36'
+  doi: 10.1007/s40656-025-00681-7
+  verification:
+    status: verified
+    authority: PubMed Central
+    verifiedDate: 2026-11-20
