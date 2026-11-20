@@ -78,9 +78,9 @@ The agency–process–scale (APS) framework approaches ageing by asking how tho
 A processual view of organisms places material turnover and physiological activity at the centre of biological continuity (Nicholson and Dupré, 2018). From this perspective, ageing is a change in the capacity to carry on the work of maintenance. A tissue can retain much of its structure and perform adequately under ordinary conditions even as its ability to regenerate after injury diminishes. Similarly, physiological regulation can hold a variable within its usual range while requiring greater compensatory activity. In both cases, performance under familiar conditions reveals only part of the organism’s capacity to remain viable when demands change.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/developmental-organisation-visual.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/development-organised-persistence.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/developmental-organisation-visual.png"
+      src="/assets/diagrams/development-organised-persistence.png"
       alt="Developmental organisation and organised persistence across time"
       loading="lazy"
     />
