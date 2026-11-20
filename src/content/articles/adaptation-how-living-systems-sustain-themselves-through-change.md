@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-28
+revised: 2026-11-21
 cluster: evolutionary-dynamics
 role: core
 
@@ -61,53 +61,12 @@ relatedArticles:
   - organism-environment-coupling
 
 references:
-  - id: mayr1961
-    authors: "Mayr, E."
-    year: 1961
-    title: "Cause and Effect in Biology"
-    journal: "Science"
-    volume: "134"
-    pages: "1501–1506"
-    doi: "10.1126/science.134.3489.1501"
-
-  - id: lewontin2000
-    authors: "Lewontin, R. C."
-    year: 2000
-    title: "The Triple Helix: Gene, Organism, and Environment"
-    publisher: "Harvard University Press"
-
-  - id: odlingsmee2003
-    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
-    year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
-    publisher: "Princeton University Press"
-
-  - id: noble2012
-    authors: "Noble, D."
-    year: 2012
-    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
-    journal: "Interface Focus"
-    volume: "2"
-    pages: "55–64"
-    doi: "10.1098/rsfs.2011.0067"
-
-  - id: pigliucci2007
-    authors: "Pigliucci, M."
-    year: 2007
-    title: "Do We Need an Extended Evolutionary Synthesis?"
-    journal: "Evolution"
-    volume: "61"
-    pages: "2743–2749"
-    doi: "10.1111/j.1558-5646.2007.00246.x"
-
-  - id: grafen1999
-    authors: "Grafen, A."
-    year: 1999
-    title: "Formal Darwinism, the Individual-as-Maximizing-Agent Analogy, and Bet-Hedging"
-    journal: "Proceedings of the Royal Society B: Biological Sciences"
-    volume: "266"
-    pages: "799–803"
-    doi: "10.1098/rspb.1999.0708"
+  - mayr-1961-cause-effect-biology
+  - lewontin-2000-triple-helix
+  - odling-smee-laland-feldman-2003-niche-construction
+  - noble-2012-biological-relativity
+  - pigliucci-2007-extended-evolutionary-synthesis
+  - grafen-1999-formal-darwinism
 ---
 
 **Where this article fits:** 
@@ -123,7 +82,7 @@ Living systems exist in conditions that are never static. Their material compone
 
 The persistence of living systems therefore cannot be explained solely through stability. Biological continuity depends equally upon the capacity to reorganise activity in response to changing circumstances. Metabolic processes compensate for disturbance, physiological systems redistribute resources, behavioural activity adjusts to novel conditions, developmental pathways remain flexible, and ecological interactions shift as organisms encounter new opportunities and constraints. Through such processes, living systems preserve continuity not by resisting change but by remaining organised through change.
 
-Adaptation refers to this capacity for continuity-preserving reorganisation. In conventional evolutionary accounts adaptation is often understood primarily through advantageous traits or improved fitness. APS does not reject these perspectives, but situates them within a broader organisational framework. Before adaptation can become visible as an evolutionary outcome, it exists as an ongoing biological process through which living systems maintain viability under changing conditions. Adaptation therefore belongs not only to evolutionary explanation but also to the explanation of physiology, development, ecology, resilience, and biological agency.
+Adaptation refers to this capacity for continuity-preserving reorganisation. In conventional evolutionary accounts adaptation is often understood primarily through advantageous traits or improved fitness. APS does not reject these perspectives, but situates them within a broader organisational framework. In APS, adaptation concerns how living systems reorganise their activity to sustain viability under changing conditions. This question arises in physiology, development, and ecology, where such reorganisation can express biological agency and contribute to resilience. Evolutionary adaptation addresses a historical question about how traits arise and spread through natural selection. Whether a particular viability-preserving response contributes to evolutionary adaptation depends on the biological and historical circumstances.
 
 APS consequently approaches adaptation not as passive adjustment, static optimisation, or the accumulation of advantageous characteristics. Instead, adaptation is understood as the active reorganisation of viability-oriented organisation in ways that preserve continuity across perturbation, developmental transformation, ecological instability, and historical change.
 
@@ -183,8 +142,6 @@ Novelty alone, however, does not guarantee persistence. Changes may support viab
 From an APS perspective, variation and adaptation can consequently be related without treating them as successive stages of a necessary pathway. Novel organisational possibilities may alter the conditions under which adaptive reorganisation occurs, and adaptive processes may in turn affect which organisational differences persist or develop further. The precise causal relations involved depend upon the biological case and are not established by conceptual ordering.
 
 Inheritance, variation, and adaptation therefore identify different aspects of biological continuity and change. Inheritance concerns cross-generational continuity, variation the generation of differences within historical continuity, and adaptation continuity-preserving reorganisation under changing conditions. Whether particular adaptive changes contribute to differential continuity, natural selection, or evolutionary transformation is a further biological question requiring independent warrant.
-
-Inheritance reproduces continuity across generations, variation introduces novelty into that continuity, and adaptation determines whether novelty can be incorporated into viable persistence. The adaptive organisations that emerge from this process become available for differential continuity and natural selection, allowing evolutionary transformation to proceed without breaking the continuity upon which persistence depends.
 
 ## Adaptation Is Not Optimisation
 
@@ -268,7 +225,7 @@ Adaptation and fitness are closely related concepts, yet they address different 
 
 Adaptation explains how viability-oriented systems preserve continuity under changing conditions. Through adaptive reorganisation, living systems modify physiological activity, developmental trajectories, behavioural patterns, ecological relationships, and other forms of organisation in ways that sustain the conditions required for persistence. Adaptation therefore concerns the maintenance of viability through continuity-preserving change.
 
-Fitness addresses a different problem. Whereas adaptation explains how continuity is preserved, fitness explains why some viable organisations exhibit greater continuity than others. Fitness concerns differential continuity among biological variants. It identifies differences in the capacity of alternative forms of organisation to persist and reproduce across time.
+In APS, fitness characterises differential continuity across generations. It concerns how forms of biological organisation differ in their capacity to persist and contribute descendants under particular conditions. Adaptation concerns how living systems sustain viability through reorganisation. Explaining whether such reorganisation contributes to differences in fitness requires evidence linking it to the survival and reproduction of the variants being compared.
 
 This distinction is important because viability and differential continuity are not identical. A biological organisation may be adaptive in the sense that it successfully preserves viability under particular conditions while nevertheless exhibiting lower fitness than alternative viable organisations. Adaptation therefore does not guarantee maximal persistence relative to competitors. It ensures only that continuity remains possible. Fitness evaluates how successfully that continuity is maintained relative to other viable variants.
 
@@ -372,8 +329,6 @@ Within the APS evolutionary framework, inheritance, variation, adaptation, fitne
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
-
----
 
 ## Explanatory Architecture
 

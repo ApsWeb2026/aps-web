@@ -8698,3 +8698,31 @@ references:
     status: verified
     authority: Nature and PubMed
     verifiedDate: 2026-11-21
+- id: pigliucci-2007-extended-evolutionary-synthesis
+  type: journal-article
+  authors: Pigliucci, M.
+  year: 2007
+  title: Do We Need an Extended Evolutionary Synthesis?
+  journal: Evolution
+  volume: '61'
+  issue: '12'
+  pages: 2743–2749
+  doi: 10.1111/j.1558-5646.2007.00246.x
+  verification:
+    status: verified
+    authority: Oxford Academic and PubMed
+    verifiedDate: 2026-11-21
+- id: grafen-1999-formal-darwinism
+  type: journal-article
+  authors: Grafen, A.
+  year: 1999
+  title: Formal Darwinism, the individual-as-maximizing-agent analogy and bet-hedging
+  journal: 'Proceedings of the Royal Society B: Biological Sciences'
+  volume: '266'
+  issue: '1421'
+  pages: 799–803
+  doi: 10.1098/rspb.1999.0708
+  verification:
+    status: verified
+    authority: PubMed Central and University of Oxford author copy
+    verifiedDate: 2026-11-21
