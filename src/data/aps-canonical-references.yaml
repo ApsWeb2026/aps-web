@@ -8726,3 +8726,17 @@ references:
     status: verified
     authority: PubMed Central and University of Oxford author copy
     verifiedDate: 2026-11-21
+- id: clegg-2001-cryptobiosis
+  type: journal-article
+  authors: Clegg, J. S.
+  year: 2001
+  title: Cryptobiosis — a peculiar state of biological organization
+  journal: 'Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology'
+  volume: '128'
+  issue: '4'
+  pages: 613–624
+  doi: 10.1016/S1096-4959(01)00300-1
+  verification:
+    status: verified
+    authority: ScienceDirect and PubMed
+    verifiedDate: 2026-11-21
