@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-11-19
+revised: 2026-11-21
 cluster: conceptual-foundations
 role: anchor
 
@@ -134,7 +134,7 @@ Biologists routinely describe organisms as regulating, repairing, adapting, deve
 
 This plurality reflects an underlying explanatory question that has not always been explicitly distinguished from the many biological phenomena through which it is expressed. The issue is not whether organisms act, but what kind of activity their actions collectively instantiate. Clarifying biological agency therefore requires identifying the organisational activity common to the diverse processes through which living systems maintain themselves.
 
-Contemporary organisational approaches also connect agency with developmental continuity. Jaeger (2024), for example, examines organismal agency through ontogenesis, living organisation, and the maintenance of organisational closure during development. This provides a relevant independent comparison with APS, which defines biological agency specifically as viability-oriented organisational activity and distinguishes the attribution of agency from its demonstrated explanatory contribution.
+Contemporary organisational approaches also connect agency with developmental continuity. Jaeger (2024), for example, examines organismal agency through ontogenesis, living organisation, and the maintenance of organisational closure during development. This provides a relevant independent comparison with APS, which defines biological agency specifically as viability-oriented organisational activity and distinguishes the attribution of agency from its demonstrated explanatory contribution. Jaeger's (2024) discussion of endothelial tip cells in growing blood vessels provides a concrete case. Exploratory activity by the cells alters local signalling and contributes to vessel development. For APS, this evidence bears directly on the cells' contribution to a developmental outcome. Attributing biological agency to a tip cell in its own right raises a further question: how is the activity organised in relation to the viability of the cell itself? The same case therefore allows us to distinguish what a cell does for the developing tissue from what the evidence establishes about its own agency.
 
 Within APS, biological agency is not introduced as an additional biological mechanism, a competing theory, or a replacement for existing explanations. Rather, Agency provides an analytic projection through which activities already investigated across biology can be examined in relation to viability-oriented living organisation. Agency identifies the ongoing activity through which organisms continually sustain the conditions required for their own organised persistence.
 

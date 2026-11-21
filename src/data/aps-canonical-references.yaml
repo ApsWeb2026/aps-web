@@ -8772,3 +8772,108 @@ references:
     status: verified
     authority: Open British National Bibliography
     verifiedDate: '2026-11-21'
+- id: clarke-2012-plant-individuality
+  type: journal-article
+  authors: Clarke, E.
+  year: 2012
+  title: 'Plant Individuality: A Solution to the Demographer’s Dilemma'
+  journal: Biology & Philosophy
+  volume: '27'
+  issue: '3'
+  pages: 321–361
+  doi: 10.1007/s10539-012-9309-3
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-21'
+- id: clarke-2025-units-of-life
+  type: book
+  authors: Clarke, E.
+  year: 2025
+  title: 'The Units of Life: Kinds of Individual in Biology'
+  publisher: Oxford University Press
+  doi: 10.1093/9780191948008.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: '2026-11-21'
+- id: douglas-werren-2016-holes-hologenome
+  type: journal-article
+  authors: Douglas, A. E., & Werren, J. H.
+  year: 2016
+  title: 'Holes in the Hologenome: Why Host-Microbe Symbioses Are Not Holobionts'
+  journal: mBio
+  volume: '7'
+  issue: '2'
+  article-number: e02099-15
+  doi: 10.1128/mBio.02099-15
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: '2026-11-21'
+- id: kant-2000-critique-power-judgment
+  type: book
+  authors: Kant, I.
+  year: 2000
+  title: Critique of the Power of Judgment
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511804656
+  note: 'Originally published in 1790. Edited by Paul Guyer and translated by Paul Guyer and Eric Matthews.'
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: '2026-11-21'
+- id: svorcova-2024-knowing-what-an-organism-is
+  type: book-chapter
+  authors: Švorcová, J.
+  year: 2024
+  title: 'Introduction: Knowing What an Organism Is'
+  book-title: 'Organismal Agency: Biological Concepts and Their Philosophical Foundations'
+  editors: Švorcová, J.
+  publisher: Springer
+  pages: 3–14
+  doi: 10.1007/978-3-031-53626-7_1
+  verification:
+    status: verified
+    authority: Springer Nature / SpringerLink
+    verifiedDate: '2026-11-21'
+- id: white-1979-plant-metapopulation
+  type: journal-article
+  authors: White, J.
+  year: 1979
+  title: The Plant as a Metapopulation
+  journal: Annual Review of Ecology and Systematics
+  volume: '10'
+  pages: 109–145
+  doi: 10.1146/annurev.es.10.110179.000545
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: '2026-11-21'
+- id: yilmaz-dupre-2025-plant-individuality
+  type: journal-article
+  authors: Yilmaz, Ö., & Dupré, J.
+  year: 2025
+  title: 'Plant Individuality: A Physiological Approach'
+  journal: Philosophy, Theory, and Practice in Biology
+  volume: '17'
+  issue: '1'
+  article-number: '2'
+  doi: 10.3998/ptpbio.5261
+  verification:
+    status: verified
+    authority: University of Michigan Publishing
+    verifiedDate: '2026-11-21'
+- id: yilmaz-silverman-2026-botanical-conception-organism
+  type: journal-article
+  authors: Yilmaz Silverman, Ö.
+  year: 2026
+  title: Measuring Biological Processes, Counting Biological Individuals, and the Botanical Conception of the Organism
+  journal: Acta Biotheoretica
+  volume: '74'
+  article-number: '31'
+  doi: 10.1007/s10441-026-09542-7
+  verification:
+    status: verified
+    authority: Springer Nature / SpringerLink
+    verifiedDate: '2026-11-21'

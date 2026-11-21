@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-11-19
+revised: 2026-11-21
 cluster: conceptual-foundations
 role: core
 
@@ -140,6 +140,8 @@ Constraint organisation contributes to individuality by integrating diverse biol
 
 APS consequently treats individuality as a property of organised persistence rather than of isolated components. Constraint closure contributes to this continuity by enabling living systems to maintain and regenerate the organisational relations upon which persistence depends. Biological individuals are therefore not merely collections of interacting processes. They are continuity-producing organisations whose persistence emerges through dynamically maintained constraint relations.
 
+Biological autonomy concerns how a living system helps maintain the organisation on which its continued activity depends (Moreno and Mossio 2015). An autonomous system can depend on sustained exchanges of matter and energy, resources supplied by its surroundings, and interactions with other organisms. The question about autonomy is which of the conditions required for continued functioning the system helps maintain through its own organisation. The question about individuality is what organised unity remains continuous through those activities and dependencies.
+
 ## Biological Agency and Individuality
 
 Biological individuality is closely connected to biological agency. Individuals do not simply undergo change. They actively participate in regulating the conditions under which continuity remains possible. This capacity for viability-oriented regulation provides one of the principal mechanisms through which individuality is stabilised across perturbation, development, and environmental change.
@@ -199,7 +201,7 @@ A biological unit is the broadest category. Any entity that participates in biol
 
 Organisms constitute a more specific category. APS defines organisms as viability-oriented systems whose organisation actively maintains the conditions required for their own persistence. Organismhood therefore concerns autonomous organised persistence rather than biological participation alone.
 
-Biological agency concerns viability-oriented regulation. Agents actively participate in maintaining continuity relative to viability conditions. Most organisms are agents, but the concepts remain analytically distinct because agency refers to regulatory activity while organismhood refers to organisational unity.
+Biological agency is viability-oriented organisational activity. Moreno and Mossio (2015, ch. 4) distinguish the constitutive organisation of biological autonomy from its interactive dimension, which they call agency. APS applies the term to internal maintenance and to activity in relation to the surroundings where there is evidence of a contribution to viability. Organismhood concerns the unity of the living system, while agency concerns what that system does in relation to the conditions of its continued functioning.
 
 Biological individuality concerns organised continuity through time. Individuals are persistence-bearing organisational unities whose continuity remains sufficiently stabilised despite ongoing transformation. Individuality therefore focuses upon continuity rather than autonomy alone.
 
@@ -214,6 +216,8 @@ Many of the most challenging cases in biology arise precisely because different 
 APS approaches these cases by asking what form of organised persistence is present rather than by imposing a single criterion of individuality. Endobionts may function as biological units and sometimes as biological individuals while remaining dependent upon broader host systems. Symbiotic systems reveal that persistence may be distributed across interacting organisations rather than confined entirely within a single organismal boundary.
 
 Holobionts and lichens are particularly instructive because they demonstrate how continuity can emerge through the persistent coupling of distinct biological lineages. APS does not assume that all such systems either qualify or fail to qualify as biological individuals. Instead, it asks whether the coupled organisation exhibits sufficient continuity, integration, and persistence to justify treatment as a persistence-bearing organisational unity.
+
+To assess whether the association itself constitutes an individual, it helps to ask what sustains each partner, what sustains the association, and how those processes depend on one another. The loss of a partner may show that it supplies an indispensable resource. Evidence that the partners jointly maintain and re-establish the relations on which their association depends would also support treating the coupled organisation as a candidate individual. Where suitable comparisons are possible, restoring a resource supplied by the partner can help establish which effects arise from resource loss and which depend on the continuing interaction. This makes it possible to ask what persists in each case: a partner, the coupled organisation, or both.
 
 Similar considerations apply to superorganisms and colonies. Eusocial insect colonies, for example, often display forms of coordination, regulation, and continuity that resemble organismal organisation. APS therefore investigates where viability is regulated and how persistence is maintained rather than assuming that individuality must reside exclusively within either the colony or its members.
 
@@ -241,7 +245,7 @@ This perspective further reinforces the processual nature of individuality. Livi
 
 Evolution transforms biological individuality historically. The forms through which continuity is organised have changed repeatedly across evolutionary time, producing new developmental architectures, novel ecological relationships, altered persistence conditions, and increasingly complex forms of biological organisation. Individuality is therefore neither timeless nor fixed. It has its own evolutionary history.
 
-At the same time, evolutionary transformation depends upon continuity. Selection, adaptation, diversification, and innovation occur because persistence-bearing systems remain sufficiently continuous for historical change to accumulate across generations. Evolution therefore both modifies the forms of biological individuality and depends upon historical continuity across generations. The organised persistence of individual living systems contributes to the conditions under which reproduction and evolutionary change occur, but individual persistence and genealogical continuity are distinct explanatory relations.
+At the same time, evolutionary transformation depends upon continuity. Selection, adaptation, diversification, and innovation occur because persistence-bearing systems remain sufficiently continuous for historical change to accumulate across generations. Evolution therefore both modifies the forms of biological individuality and depends upon historical continuity across generations. The organised persistence of individual living systems contributes to the conditions under which reproduction and evolutionary change occur, but individual persistence and genealogical continuity are distinct explanatory relations. Because reproduction may depend on interactions among organisms and their surroundings, the dependencies that explain reproductive continuity may extend beyond those needed to explain how a particular individual maintains itself.
 
 APS consequently treats individuality as simultaneously historical and organisational. The forms individuality takes may change, diversify, and evolve, yet each remains grounded in viability-oriented organised persistence. Evolution therefore reveals not the abandonment of continuity, but the continual transformation of the organisational structures through which continuity is maintained.
 

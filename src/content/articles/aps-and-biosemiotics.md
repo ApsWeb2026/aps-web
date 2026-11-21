@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-11-11
+revised: 2026-11-21
 cluster: philosophy-of-biology
 role: synthesis
 
@@ -167,6 +167,8 @@ The comparison developed here consequently suggests that biosemiotics and APS ar
 Having established both the substantial convergence and the differing explanatory priorities of the two frameworks, the discussion can now turn to their broader significance for theoretical biology. What does this comparison reveal about the future development of organisational approaches to biological explanation, and what contribution might a comparative explanatory methodology make to that development?
 
 The comparison therefore reveals that APS and biosemiotics differ less in the biological phenomena they seek to explain than in the explanatory priorities through which those phenomena are organised. Recognising this distinction shifts the discussion beyond questions of theoretical competition towards a broader consideration of how organisational frameworks contribute to biological explanation. The implications of this shift extend beyond the relationship between APS and biosemiotics and bear more generally on the future development of theoretical biology.
+
+Markoš (2024) treats semiosis as a life-specific form of agency, emphasising how organisms draw on memory and experience in interpreting their surroundings. This provides a specific comparison with the APS account of biological significance. In a given case, APS asks how a cue acquires significance through its relation to viability and how the organism's activity changes in response. A semiotic account can then be assessed by asking what evidence of interpretation adds to the explanation, for example by showing how earlier experience changes the significance of the same cue under otherwise comparable conditions.
 
 ## Implications for Theoretical Biology
 
