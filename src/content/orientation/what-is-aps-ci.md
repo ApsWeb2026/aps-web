@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-10-28
+revised: 2026-11-21
 cluster: conceptual-foundations
 abstract: >
   APS is an integrative analytic framework for theoretical biology. It investigates
@@ -46,9 +46,15 @@ relatedGlossaryTerms:
   - organised-persistence
   - persistence
   - cognition
+
+references:
+  - spencer-2025-biological-agency-context-plant-cognition
+  - spencer-2026-agency-defining-activity-life
 ---
 
-> **Where This Article Fits** This article introduces Agency–Process–Scale (APS) as an integrative analytic framework and research programme in theoretical biology. It explains the central concepts APS proposes, how they relate to one another, and the biological questions they are intended to address. Readers new to APS should begin here before exploring the more detailed conceptual, scientific, and philosophical articles that develop the framework. **Why APS?** then identifies the unresolved explanatory problems that motivate APS, examines whether existing approaches leave unresolved questions concerning the organising activity characteristic of living systems, and explains how APS proposes to investigate that possibility.
+**Where This Article Fits:** 
+
+*This article introduces Agency–Process–Scale (APS) as an integrative analytic framework and research programme in theoretical biology. It explains the central concepts APS proposes, how they relate to one another, and the biological questions they are intended to address. Readers new to APS should begin here before exploring the more detailed conceptual, scientific, and philosophical articles that develop the framework. **Why APS?** then identifies the unresolved explanatory problems that motivate APS, examines whether existing approaches leave unresolved questions concerning the organising activity characteristic of living systems, and explains how APS proposes to investigate that possibility.*
 
 ## Introduction
 
@@ -65,6 +71,8 @@ Within APS, **Life is defined as viability-oriented, constraint-closed organisat
 Living organisation is therefore dynamic rather than static. Its components and states may change while organisational continuity is maintained or re-established. APS calls this continuity through change **organised persistence**.
 
 The distinction is important. **Life identifies the kind of organisation under investigation; organised persistence identifies the continuity of that living organisation through change.** Biological agency concerns the viability-oriented organisational activity through which living organisation is enacted and sustained.
+
+These definitions have a conceptual economy. Both use viability to connect a form of organisation with the activity that sustains it. This shared vocabulary makes it easier to state how life and biological agency are related and to compare that relationship with other accounts. Whether this way of framing the relationship improves a biological explanation requires a further comparative test.
 
 APS investigates this organisation through the complementary analytic projections of **Agency, Process, and Scale**. These are not components of life, stages in a sequence, or hierarchical levels. They distinguish questions about what living systems do, how continuity is maintained despite change, and across what spatial and temporal extents and relations persistence is organised.
 
@@ -97,6 +105,8 @@ APS therefore does not assume that an organisational account is automatically pr
 APS provides a conceptual framework for investigating relationships among biological findings where those relationships bear upon living organisation or organised persistence. Development, ecology, evolution, cognition, and other domains retain their own questions, methods, explanatory targets, and resources. APS asks how their findings may contribute to an organisational account where that relationship is explanatorily relevant, without requiring their absorption into a single explanatory system.
 
 APS therefore neither replaces existing biology nor seeks to unify biological science under a single mechanism, theory, or obligatory method. Its ambition is to develop and test an organisational account of living systems and to determine, through controlled comparison, where that account provides additional explanatory value.
+
+APS was first developed in the context of plant cognition (Spencer, 2025). The subsequent *Biological Theory* paper developed the broader account of biological agency as the defining activity of life and proposed empirical indicators of that activity (Spencer, 2026).
 
 ## The Central Idea of APS
 

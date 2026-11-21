@@ -56,7 +56,7 @@ references:
 
 *[What Is Life? — A Biological Question Revisited](/articles/what-is-life-a-biological-question-revisited/) sets out the APS definition of Life as viability-oriented, constraint-closed organisation. [Biological Agency as the Activity of Self-Maintenance](/articles/biological-agency-as-the-activity-of-self-maintenance/) defines biological agency as viability-oriented organisational activity and establishes the grounds for attributing it. This Clarification article brings those accounts together to explain what it means to call agency the defining activity of Life.*
 
-*The article interprets the thesis originally published in *Biological Theory* *in light of the current APS framework. It distinguishes the organisation that constitutes living status, the activity through which that organisation maintains or restores viable conditions, and the continuity through change that requires explanation. [Agency and Organised Persistence](/articles/agency-and-organised-persistence/) develops the third question, including how present activity contributes to continuity. [Biological Agency Without Intentions](/articles/biological-agency-without-intentions/) explains how such activity can warrant an agency attribution independently of intention or cognition.*
+*The article interprets the thesis originally published in* *Biological Theory* *in light of the current APS framework. It distinguishes the organisation that constitutes living status, the activity through which that organisation maintains or restores viable conditions, and the continuity through change that requires explanation. [Agency and Organised Persistence](/articles/agency-and-organised-persistence/) develops the third question, including how present activity contributes to continuity. [Biological Agency Without Intentions](/articles/biological-agency-without-intentions/) explains how such activity can warrant an agency attribution independently of intention or cognition.*
 
 *Calling agency the defining activity of Life concerns how living organisation is enacted over time, including across reversible intervals of inactivity. Agency, Process, and Scale bring complementary questions to that organisation. Whether an agency analysis adds explanatory value depends on the question, the evidence, and the strongest relevant comparator.*
 
@@ -64,7 +64,7 @@ references:
 
 The paper *Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale*, published in *Biological Theory*, began from a familiar but difficult biological question: what distinguishes a living system from a nonliving one?
 
-Rather than beginning with a list of characteristic structures or capacities, the paper focused on activity. Living systems regulate internal conditions, maintain boundaries, repair damage, reorganise in response to disturbance, and continually contribute to conditions under which their organisation can continue. The paper called this viability-oriented activity **biological Agency** and proposed it as the **defining activity of Life** (Spencer 2026).
+Rather than beginning with a list of characteristic structures or capacities, the paper focused on activity. Living systems regulate internal conditions, maintain boundaries, repair damage, reorganise in response to disturbance, and continually contribute to conditions under which their organisation can continue. The paper called this viability-oriented activity **biological agency** and proposed it as the **defining activity of life** (Spencer 2026).
 
 That formulation remains important, but it raises a question that subsequent development of APS makes possible to state more precisely. If Life is **viability-oriented, constraint-closed organisation**, and biological agency is **viability-oriented organisational activity**, in what sense can Agency still be described as the defining activity of Life?
 
@@ -132,7 +132,7 @@ The distinction also matters for explanation. If continued existence were the so
 
 The result does not require abandoning the title of the published paper.
 
-Agency can be **the defining activity of Life** because viability-oriented organisational activity characterises the active enactment of living organisation without Agency having to provide the complete definition of that organisation.
+Agency can be **the defining activity of life** because viability-oriented organisational activity characterises the active enactment of living organisation without Agency having to provide the complete definition of that organisation.
 
 ## Why Agency Remains Defining
 
@@ -142,7 +142,7 @@ Viability gives these activities their biological significance. A change can sup
 
 Constraint closure specifies the reciprocal dependencies that make this activity part of a self-maintaining organisation. Constraints shape processes that help maintain or renew other constraints on which they themselves depend. The APS definition of Life identifies this organisation as viability-oriented and constraint-closed. Biological agency identifies the activity through which it helps sustain or restore viable conditions. Calling that activity defining concerns its role over time, allowing for reversible intervals in which particular activities are suspended.
 
-Rosslenbroich, Kümmell, and Bembé (2024) make a closely related claim. Their account of organismic agency includes intrinsic maintenance even in the absence of outwardly directed behaviour or intention. Moreno and Mossio (2015, ch. 4) distinguish the constitutive organisation of biological autonomy from its interactive dimension, which they call agency. APS applies the term to both internal maintenance and activity in relation to the surroundings where there is evidence of a contribution to viability. The comparative question is whether these differences in scope change which activities warrant an agency attribution or what an agency analysis can explain.
+Rosslenbroich, Kümmell, and Bembé (2024) likewise treat agency as characteristic of living organisms. Their account of organismic agency includes intrinsic maintenance even in the absence of outwardly directed behaviour or intention. Moreno and Mossio (2015, ch. 4) distinguish constitutive self-maintenance from the interactive dimension of biological autonomy, which they call agency. An internal repair process illustrates the distinction. In Moreno and Mossio’s account, it belongs to constitutive self-maintenance. In the account of Rosslenbroich and colleagues, it falls within organismic agency. APS classifies internal repair as agential when there is evidence that it helps maintain or restore conditions for continued functioning. Whether this difference in attribution changes what the accounts can explain remains open.
 
 ## Agency and Organised Persistence
 
