@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-27
-revised: 2026-11-14
+revised: 2026-11-22
 cluster: conceptual-foundations
 role: core
 
@@ -86,6 +86,8 @@ This distinction also clarifies the use of *robustness*. A system can be robust 
 
 APS defines life as **viability-oriented, constraint-closed organisation** (Spencer, 2026). Constraint closure concerns the reciprocal dependence of constraints for their maintenance. Viability concerns the conditions under which the organisation of a particular living system can continue.
 
+Constraint closure alone is not sufficient to establish that a system is alive. In APS, the defining claim concerns the conjunction of constraint closure with viability orientation: the organisation must contribute to maintaining the system-relative conditions upon which its continued operation depends.
+
 A constraint shapes what can occur in a process. A bacterial membrane, for example, constrains exchange between the cell and its surroundings. The membrane and its transport proteins help maintain the internal conditions in which metabolic reactions can proceed. Cellular metabolism in turn supplies materials and energy used to produce and renew membrane components. These dependencies run through multiple processes. To establish closure, one must trace how the processes shaped by constraints contribute to maintaining those constraints, directly or through other parts of the organisation (Montévil and Mossio, 2015; Moreno and Mossio, 2015).
 
 The cell’s dependence on its surroundings is part of that account. The cell requires exchanges of matter and energy, and its organisation helps sustain the capacity to carry them out. The closure claim concerns the maintenance relations among constraints, while the conditions that support those relations can extend beyond the cell.
@@ -129,6 +131,8 @@ Connecting these perspectives keeps the explanation tied to the physiology. Chan
 
 The bacterial cell is a comparatively clear case in which a physiological system can be investigated as a living individual. Other cases require closer attention to what is being individuated. Pradeu (2016) distinguishes physiological individuality from evolutionary individuality. The first concerns the integration of a system in physiological terms. The second concerns the entity identified for an evolutionary explanation. The boundaries relevant to those questions can differ.
 
+A biological system is not necessarily a biological individual. Investigators may identify a system because its components or processes must be considered together to explain a phenomenon, without thereby establishing that the system constitutes a physiological, developmental, or evolutionary individual. The relevant unit of investigation must therefore be distinguished from the criteria used to attribute individuality. As discussed in *What Is the Fundamental Unit of Life?*, these distinctions are particularly important for clonal plants, symbiotic associations, and other systems whose boundaries vary with the explanatory question.
+
 The distinction matters when the system under study is an organ, a symbiotic association, or an ecosystem. Each can be investigated through the relationships among its constituents. The APS question is whether the proposed whole maintains the conditions of its own continuing organisation through viability-oriented, constraint-closed activity. Answering it requires evidence about how the relevant maintenance relations are organised and which system they sustain. The result can depend on the particular case and the spatial and temporal boundaries of the inquiry.
 
 ## Conclusion
@@ -162,3 +166,9 @@ Which processes sustain the system under study? Which conditions are required fo
 ### Position Within APS
 
 The article applies Agency, Process, and Scale to one case of cellular regulation, connecting viability-oriented activity, continuity through change, and the spatial and temporal organisation of the response.
+
+### Corpus Significance
+
+This article clarifies the distinction between biological systems as units of investigation and living systems as viability-oriented, constraint-closed organisations. Its bacterial osmoregulation example demonstrates how mechanistic explanation, biological agency, organised persistence, and scale can be connected within a single physiological investigation.
+
+The article does not claim that APS provides a novel explanation of osmoregulation. Its contribution is conceptual clarification and the integration of established physiological and organisational explanations. Whether this integration yields explanatory advantages beyond the strongest existing approaches remains a question for comparative investigation.
