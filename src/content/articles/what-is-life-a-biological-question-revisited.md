@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-11-01
+revised: 2026-11-21
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -175,19 +175,9 @@ APS answers the organisational question with its canonical definition:
 
 This is the framework's current conceptual commitment. It identifies a proposed mode of biological organisation rather than adding another isolated trait to metabolism, reproduction, evolution, information, or other familiar characteristics. The proposal builds upon established work on autopoiesis, autonomy, adaptivity and constraint closure (Maturana and Varela, 1980; Di Paolo, 2005; Moreno and Mossio, 2015; Montévil and Mossio, 2015). APS does not claim to have discovered self-maintenance, closure or organisational normativity. Its particular formulation foregrounds viability-oriented activity and uses Agency, Process and Scale to organise comparative questions; whether this yields a scientifically distinctive result remains open.
 
-The formulation should be understood as an organisational unity.
+An organisational definition of life has to specify what distinguishes biological self-maintenance from persistence in general. In a constraint-closed organisation, constraints shape processes that help maintain or renew other constraints on which their own operation depends (Montévil and Mossio, 2015). Closure refers to these reciprocal dependencies within a system that exchanges matter and energy with its surroundings. Establishing closure therefore requires evidence about how the relevant constraints are sustained.
 
-**Viability orientation** and **constraint closure** are analytically distinguishable aspects of this organisation. They are not independently constituted components that are subsequently combined to produce Life.
-
-Viability concerns the conditions under which a living system can continue functioning as the organisation it is. Viability orientation refers to the organisation of activity relative to maintaining and re-establishing those conditions. It is not equivalent to mere survival, reproductive success, evolutionary fitness, or indefinite persistence.
-
-Constraint closure concerns the materially realised organisation of constraints through which biological activity is selectively channelled and mutually sustained. Constraints do not constitute a separate structural layer beneath Life, nor does closure considered abstractly establish living status by itself.
-
-Within the APS definition, therefore, viability orientation does not transform an independently constituted closure into Life, and constraint closure does not first produce a neutral organisation to which viability is subsequently added.
-
-The canonical claim is instead about **one viability-oriented, constraint-closed organisation**.
-
-This organisation consists in the ongoing modulation of constraints through which a system actively maintains and re-establishes the conditions of its own persistence.
+Viability concerns the conditions under which a system can continue to function and renew its organisation. A system may still be functioning while its capacity to recover from a disturbance is weakening. If continued existence were the sole evidence of viability orientation, invoking it to explain persistence would be circular. To establish that an activity contributes to viability, we need evidence that it helps maintain or restore identifiable conditions for continued functioning, such as the hydration required for a plant to resume growth after drought. Viability orientation concerns how the system’s activity helps maintain or restore the conditions for continued functioning, through processes such as repair and the regulation of exchanges with its surroundings. Constraint closure and viability orientation describe aspects of the same materially realised organisation. The activity through which that organisation maintains or restores viable conditions is what APS calls biological agency.
 
 Organised persistence identifies a related explanatory problem: how such living organisation maintains continuity despite material turnover, perturbation, development, environmental change, and internal reorganisation. It is not a third component added to the definition of Life.
 

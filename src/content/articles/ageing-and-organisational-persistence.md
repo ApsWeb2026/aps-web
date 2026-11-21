@@ -127,7 +127,7 @@ These questions connect two timescales. Within a lifespan, changes in repair, re
 
 ## Why Ageing Matters in APS
 
-Ageing makes the relation between present function and the capacity to sustain it especially clear. An organism may carry on its usual activities while the processes that would allow it to recover from a serious disturbance are already weakening. The APS contribution here is to bring those processes into a common inquiry across levels of organisation. Its explanatory value in a particular case depends on identifying the relations among damage, repair, regulation, and the environment that account for a change in recovery and testing those relations against evidence.
+Ageing makes the relation between present function and the capacity to sustain it especially clear. An organism may carry on its usual activities even as its capacity to recover from a serious disturbance declines. The APS question is how processes operating at different spatial and temporal scales work together to sustain that capacity, and why it can decline while everyday functioning continues. Its explanatory value in a particular case depends on identifying the relations among damage, repair, regulation, and the environment that account for a change in recovery and testing those relations against evidence.
 
 ## Explanatory Architecture
 
