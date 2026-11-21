@@ -11,13 +11,7 @@ cluster: conceptual-foundations
 role: core
 
 abstract: >
-  Biological individuality is not adequately explained through static
-  structure, genetic uniqueness, fixed material boundaries, or organismhood
-  alone. Within APS, biological individuals are understood as dynamically
-  stabilised, viability-oriented systems of organised persistence sustained
-  across continual transformation. Individuality emerges through temporal
-  continuity, developmental reconstruction, biological agency, constraint
-  organisation, and organism–environment coupling. APS further distinguishes
+  Biological individuality cannot always be established through static structure, genetic uniqueness, fixed material boundaries, or organismhood alone. Within APS, the continuity of living individuals is investigated through viability-oriented organised persistence sustained across transformation. This organisational perspective addresses an important dimension of individuality without supplying a universal criterion for every physiological, developmental, evolutionary, or experimental attribution. APS further distinguishes
   biological individuality from organismhood, agency, specieshood, and
   taxonomic classification by grounding individuality in continuity-producing
   organised persistence. Biological individuals therefore persist not as
@@ -174,7 +168,7 @@ Waters (2018), Trappes (2024), and Yilmaz Silverman (2026) further emphasise tha
 
 Traditional accounts often treat individuals as self-contained entities existing independently of their environments. APS rejects this separation. Living systems persist only through ongoing exchanges with surrounding conditions, and these interactions contribute directly to the maintenance of continuity. Individuality therefore extends beyond the simple possession of internal organisation and depends upon the coupling relations through which viability is sustained.
 
-Organism–environment coupling includes energetic exchange, ecological interaction, environmental scaffolding, behavioural engagement, microbial participation, and numerous other forms of distributed persistence. These relationships do not merely influence already complete individuals. They help constitute the conditions under which continuity remains possible. Biological individuals therefore emerge through organisational relations extending across organism–environment systems rather than through complete isolation from them.
+Organism–environment coupling includes energetic exchange, ecological interaction, environmental scaffolding, behavioural engagement, microbial participation, and numerous other forms of distributed persistence. These relationships do not merely influence already complete individuals. They help constitute the conditions under which continuity remains possible. Biological individuality depends upon organisational relations that may extend beyond an individual's immediate physical boundaries, but dependence upon environmental resources or other organisms does not, by itself, establish that those resources or organisms constitute parts of the same biological individual. The relevant boundaries must be justified through evidence of organisational integration, continuity, and the form of individuality under investigation.
 
 This does not imply that individuals dissolve into their environments. Rather, APS argues that individuality depends upon understanding how continuity is maintained through coupled organisational systems. Persistence is achieved neither entirely within the organism nor entirely within the environment, but through the ongoing organisation of relations connecting the two.
 
@@ -213,7 +207,7 @@ Biological individuality concerns organised continuity through time. Individuals
 
 Processual individuality emphasises a further aspect of continuity. Living systems persist despite continual material turnover, developmental reconstruction, and environmental interaction. Processual individuals therefore derive their identity primarily from continuity-producing organisation rather than from static material composition.
 
-Species and taxa represent different forms of biological unity altogether. Species are historically continuous lineage structures extending across generations, whereas taxa are classificatory groupings used to organise biological explanation. Neither should be confused with biological individuals even though important relationships exist among them.
+Species and taxa introduce further distinctions. Species may be investigated as historically continuous lineages, and influential philosophical accounts have treated species themselves as evolutionary individuals. Taxa are classificatory groupings whose relationship to historical lineages depends upon the taxonomic and species concepts employed. Neither specieshood nor taxonomic membership should be equated automatically with the physiological individuality of an organism. The relevant form of individuality must be specified rather than assumed.
 
 ## Individuality at the Boundaries of Life
 
