@@ -6,21 +6,21 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-01
-revised: 2026-07-01
-
+revised: 2026-11-22
 cluster: conceptual-foundations
 role: synthesis
 
 abstract: |
-  The search for a fundamental unit of life has shaped biological theory for more than a century. Cells, genes, organisms, species, and ecosystems have each been proposed as biology's primary unit because each explains important aspects of living systems. Yet no single candidate has achieved universal acceptance. In the Agency–Process–Scale (APS) framework, this persistent disagreement reflects a deeper feature of life itself. Living systems are organised through agency, process, and scale rather than around a single privileged entity. Different biological units become important because they illuminate different dimensions of biological organisation. Organisms nevertheless occupy a distinctive explanatory position as regulatory hubs in which genetic, cellular, developmental, ecological, and evolutionary processes become integrated into coherent living activity. The debate over life's fundamental unit therefore reveals less about a missing biological building block than about the inherently multiscale nature of living systems.
+  The search for a fundamental unit of life has shaped biological thought since the development of cell theory and evolutionary biology. Cells, genes, organisms, species, lineages, and ecosystems have each acquired explanatory prominence, although they address different questions and need not constitute rival answers to a single problem. Contemporary debates about biological individuality further distinguish the units selected for investigation from the entities identified as physiological, developmental, or evolutionary individuals. The Agency–Process–Scale (APS) framework approaches these questions through viability-oriented organisation, the processes through which it persists and changes, and the spatial and temporal extents relevant to explanation. Organisms remain especially important sites of physiological and developmental integration, but they are not universally privileged explanatory units. APS offers a vocabulary for connecting these established insights; whether it provides distinctive explanatory gain beyond existing approaches remains to be demonstrated.
 
 keyPoints:
-  - Biology has repeatedly proposed different fundamental units because different biological phenomena require different explanatory perspectives.
-  - Cells, genes, organisms, species, and ecosystems each illuminate genuine aspects of biological organisation.
-  - The debate over fundamental units is closely connected to questions of biological individuality and organismality.
-  - Holobionts, microbiomes, colonial organisms, and symbiotic systems challenge simple definitions of biological individuals.
-  - In APS, life is organised through agency, process, and scale rather than around a single privileged unit.
-  - Organisms occupy a distinctive explanatory role as regulatory hubs where biological agency is integrated across scales.
+  - The unit most appropriate to a biological explanation depends upon the phenomenon and question under investigation.
+  - Cells, genes, organisms, species, lineages, and ecosystems perform different explanatory roles and are not necessarily competing foundations of biology.
+  - A unit selected for measurement or investigation need not be a biological individual, an organism, or an evolutionary unit.
+  - Plants, holobionts, symbiotic associations, and colonial organisms expose differences among criteria of biological individuality.
+  - APS defines life as viability-oriented, constraint-closed organisation and biological agency as viability-oriented organisational activity.
+  - Organisms are especially informative sites of physiological and developmental integration, without being universally privileged explanatory units.
+  - APS offers conceptual integration, but distinctive explanatory gain over established approaches remains unproven.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -46,140 +46,65 @@ relatedArticles:
   - homeorhesis-the-maintenance-of-living-trajectories
 
 references:
-  - id: spencer2026
-    authors: Spencer, R. D.
-    year: 2026
-    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
-    journal: Biological Theory
-    doi: 10.1007/s13752-026-00547-6
-
-  - id: mayr1982
-    authors: Mayr, E.
-    year: 1982
-    title: The Growth of Biological Thought
-    publisher: Harvard University Press
-
-  - id: dupreNicholson2018
-    authors: Dupré, J., Nicholson, D. J.
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: Oxford University Press
-
-  - id: godfreySmith2009
-    authors: Godfrey-Smith, P.
-    year: 2009
-    title: Darwinian Populations and Natural Selection
-    publisher: Oxford University Press
-
-  - id: clarke2010
-    authors: Clarke, E.
-    year: 2010
-    title: The Problem of Biological Individuality
-    journal: Biological Theory
-    volume: 5(4)
-    pages: 312–325
-
-  - id: clarke2013
-    authors: Clarke, E.
-    year: 2013
-    title: The Multiple Realizability of Biological Individuals
-    journal: The Journal of Philosophy
-    volume: 110(8)
-    pages: 413–435
-
-  - id: ghiselin1974
-    authors: Ghiselin, M. T.
-    year: 1974
-    title: A Radical Solution to the Species Problem
-    journal: Systematic Biology
-    volume: 23(4)
-    pages: 536–544
-    doi: 10.1093/sysbio/23.4.536
-
-  - id: hull1978
-    authors: Hull, D. L.
-    year: 1978
-    title: A Matter of Individuality
-    journal: Philosophy of Science
-    volume: 45(3)
-    pages: 335–360
-
-  - id: bordensteinTheis2015
-    authors: Bordenstein, S. R., Theis, K. R.
-    year: 2015
-    title: "Host Biology in Light of the Microbiome: Ten Principles of Holobionts and Hologenomes"
-    journal: PLOS Biology
-    volume: 13(8)
-    pages: e1002226
-    doi: 10.1371/journal.pbio.1002226
-
-  - id: zilberRosenbergRosenberg2008
-    authors: Zilber-Rosenberg, I., Rosenberg, E.
-    year: 2008
-    title: "Role of Microorganisms in the Evolution of Animals and Plants: The Hologenome Theory of Evolution"
-    journal: FEMS Microbiology Reviews
-    volume: 32(5)
-    pages: 723–735
-
-  - id: okasha2006
-    authors: Okasha, S.
-    year: 2006
-    title: Evolution and the Levels of Selection
-    publisher: Oxford University Press
-
-  - id: margulis1970
-    authors: Margulis, L.
-    year: 1970
-    title: Origin of Eukaryotic Cells
-    publisher: Yale University Press
-
-  - id: eronen2013
-    authors: Eronen, M. I.
-    year: 2013
-    title: "No Levels, No Problems: Downward Causation in Neuroscience"
-    journal: Philosophy of Science
-    volume: 80(5)
-    pages: 1042–1052
-    doi: 10.1086/673898
-
-  - id: dupre2020
-    authors: Dupré, J.
-    year: 2020
-    title: The Metaphysics of Evolution
-    publisher: Cambridge University Press
+  - spencer-2026-agency-defining-activity-life
+  - mayr-1982-growth-biological-thought
+  - nicholson-dupre-2018-everything-flows
+  - godfrey-smith-2009-darwinian-populations
+  - clarke-2010-problem-biological-individuality
+  - clarke-2013-multiple-realizability-biological-individuals
+  - ghiselin-1974-radical-solution-species-problem
+  - hull-1978-matter-individuality
+  - bordenstein-theis-2015-host-biology-microbiome
+  - zilber-rosenberg-rosenberg-2008-hologenome
+  - okasha-2006-levels-selection
+  - margulis-1970-origin-eukaryotic-cells
+  - eronen-2013-no-levels-no-problems
+  - dupre-2021-metaphysics-biology
+  - clarke-2012-plant-individuality
+  - yilmaz-dupre-2025-plant-individuality
+  - yilmaz-silverman-2026-botanical-conception-organism
+  - waters-2018-ask-not-what-is-an-individual
 ---
 
-Introduction: The Search for Life's Fundamental Unit
+**Where This Article Fits**
 
-Many sciences seek a fundamental unit from which more complex phenomena can be understood. Chemistry is built upon atoms. Physics investigates matter and energy through increasingly elementary particles and fields. These successes naturally encourage a similar question in biology:
+*This Synthesis article examines the historical search for a fundamental unit of life and asks why different biological investigations legitimately employ different explanatory units. It connects debates about cells, genes, organisms, species, lineages, and ecosystems with questions about biological individuality, organised persistence, and the scope of biological explanation.*
 
-What is the fundamental unit of life?
+*[What Is an Organism?](/articles/what-is-an-organism/) examines organismal unity, while *Biological Individuality — Organised Persistence Through Time* *investigates the continuity and individuation of living systems. [What Is a Gene in APS?](/articles/what-is-a-gene-in-aps/) and [What Is a Species in APS?](/articles/what-is-a-species-in-aps/) address two other important explanatory units.*
 
-At first glance, the answer may seem obvious. Living organisms are composed of cells, genes are inherited across generations, and evolution occurs within populations and species. Yet each of these observations points toward a different candidate. Throughout the history of biology, researchers have proposed that the fundamental unit of life is the cell, the gene, the organism, the species, or even larger ecological systems. Each proposal has gained influence because it captures an important aspect of biological reality.
+*The present article does not claim that APS discovered the absence of a universally fundamental biological unit. It examines how established insights about explanatory plurality might be connected through a shared vocabulary of agency, process, and scale, while distinguishing conceptual integration from demonstrated explanatory advance.*
 
-The persistence of this debate reveals something distinctive about life itself. Unlike many physical systems, living systems are organised across multiple spatial and temporal scales. Genes influence cells, cells contribute to organisms, organisms interact within populations, and populations participate in ecosystems. Biological explanations therefore often depend upon relationships among entities rather than upon a single privileged component.
+## Introduction: The Search for Life's Fundamental Unit
 
-More importantly, the history of the debate raises a deeper question. Why has biology repeatedly generated different answers to what appears to be the same problem? If there truly were a single fundamental unit of life, one might expect biological theory gradually to converge upon it. Instead, different periods of biological research have elevated different entities to positions of explanatory prominence. Cells, genes, organisms, species, and ecosystems have each been regarded as biology's primary unit, yet none has succeeded in displacing all alternatives.
+The identification of basic units has played an important role in scientific explanation. Atomic theory transformed chemistry, molecular investigations revealed the structures and interactions underlying material properties, and particle physics has examined increasingly fundamental constituents of matter. Such achievements encourage a corresponding question in biology: is there a fundamental unit from which the organisation and activity of living systems can be understood?
 
-This recurring pattern suggests that the difficulty may not lie with any particular candidate. Rather, it may reflect something about the nature of living systems themselves. Life may not be organised around a single privileged entity in the way that matter can be analysed into atoms or molecules. Different biological units may appear fundamental because they illuminate different aspects of living organisation.
+The answer is less straightforward than it initially appears. Cells provide a common organisational basis for cellular life. Genes contribute to heredity and evolutionary continuity. Organisms integrate many of the processes associated with living activity. Populations and lineages are indispensable to evolutionary explanation, while ecological systems reveal dependencies that extend beyond individual organisms.
 
-This article examines the major candidates that have been proposed as the fundamental unit of life and explores why each has proven both powerful and incomplete. It argues that the long-standing search for a single biological unit reveals a deeper feature of life itself: living systems are organised through interacting processes that span multiple scales. From the APS perspective, the debate over life's fundamental unit ultimately points beyond any particular biological entity toward a deeper question: how biological agency is coordinated across the living world.
+These are not necessarily competing answers to precisely the same question. The smallest structural unit, the unit of heredity, the unit of physiological integration, the unit of evolutionary change, and the unit selected for an investigation may be different. Their explanatory importance depends upon what is being investigated and what counts as an adequate explanation.
 
-Why Biology Searches for Fundamental Units
+The history of biology has repeatedly brought particular entities into prominence. Cell theory established a common basis for investigating living structure. Genetics and molecular biology transformed explanations of heredity. Organism-centred approaches emphasised development, physiology, and integrated activity. Evolutionary biology investigated populations, species, and lineages, while ecology examined relations among organisms and their surroundings.
 
-The search for a fundamental unit is not unique to biology. Across the sciences, identifying basic units has often led to major advances in understanding. Atoms helped explain chemical reactions, molecules clarified the structure of matter, and elementary particles revealed previously hidden aspects of physical reality. These successes created an expectation that biological complexity might similarly be understood by identifying the most fundamental unit of life.
+Each development expanded biological understanding. None established that every biological question should be answered by reference to one kind of entity.
 
-Biology, however, presents a special challenge. Living systems are not merely collections of components. They grow, develop, regulate themselves, reproduce, adapt, and evolve. As a result, biological explanation often involves understanding how diverse processes become organised into coherent living systems rather than simply identifying the material parts from which those systems are constructed.
+Contemporary debates about biological individuality make the difficulty more explicit. A plant may be counted differently depending upon whether the investigation concerns genetically related shoots, physiological integration, or evolutionary descent. A host and its microbial associates may form a consequential physiological association without thereby constituting a single evolutionary individual. The units appropriate to measurement, explanation, and classification need not coincide.
 
-This distinction is important because what counts as fundamental depends upon the kind of explanation being sought. In one sense, a fundamental unit is a basic building block from which larger structures are assembled. In another, it is the primary explanatory focus through which a phenomenon becomes intelligible. These meanings frequently coincide in the physical sciences, but they need not coincide in biology.
+This article examines the major candidates proposed as fundamental units of life, the different questions that give them explanatory importance, and the problems encountered when one candidate is elevated into a universal foundation. It then considers how APS connects these questions without claiming that established explanatory pluralism is unique to the framework.
 
-Cells, for example, are essential components of organisms, yet many biological questions concern phenomena that emerge only at the level of whole organisms or populations. Similarly, genes are indispensable for heredity, but understanding genes themselves requires reference to cells, organisms, and evolutionary history. A biological entity may therefore be indispensable without serving as the sole explanatory centre of biological theory.
+## Why Biology Searches for Fundamental Units
 
-This distinction helps explain why biology has repeatedly generated competing candidates. Different biological disciplines investigate different kinds of questions. A geneticist studying inheritance naturally focuses on genes. A physiologist investigating homeostasis often focuses on organisms. An ecologist examining nutrient cycles may focus on ecosystems. Each candidate appears fundamental because it occupies a central explanatory role within a particular domain of inquiry.
+The appeal of a fundamental unit lies partly in the possibility of explanatory economy. If a diverse range of phenomena can be understood through a relatively small set of components and relations, scientific understanding becomes more systematic. Identifying recurring units can make phenomena comparable, support generalisation, and guide experimental investigation.
 
-The result is unusual. Rather than converging on a single universally accepted unit, biology repeatedly identifies entities that seem fundamental for different reasons. Genes explain heredity. Cells explain metabolic organisation. Organisms explain integrated activity and behaviour. Species explain evolutionary continuity. Ecosystems explain ecological interdependence. The search for a single foundational unit therefore becomes increasingly difficult because biological organisation itself extends across multiple scales and forms of continuity.
+In biology, however, the expression *fundamental unit* can mean several things. It may designate the smallest structure ordinarily capable of living activity, a unit through which hereditary material is transmitted, an entity whose integrated functioning is being explained, or a unit whose variation and reproduction contribute to evolution. It may also refer simply to the entity that a particular research programme chooses to count, manipulate, or measure.
 
-This observation suggests that the history of the debate may be as informative as its outcome. The repeated emergence of competing units suggests that biology may not be missing a single answer. Instead, it may be confronting a deeper feature of living systems themselves. Living systems may resist reduction to a single explanatory centre because their organisation is inherently multiscale and relational. Before considering that possibility directly, it is useful to examine the first and most influential candidate in the history of the debate—the cell.
+These meanings should not be conflated.
+
+A cell may be an appropriate unit for investigating membrane transport without being the appropriate unit for explaining an animal's coordinated behaviour. A gene may be central to an investigation of inheritance without functioning independently of cellular and developmental organisation. A population may be the relevant unit for estimating evolutionary change even though individual organisms perform the physiological activities upon which reproduction depends.
+
+The problem is therefore not merely that biological systems contain components of different sizes. Their organisation involves different kinds of dependence, continuity, and interaction. Some explanations concern the mechanisms operating within an individual system. Others concern developmental trajectories, evolutionary histories, or ecological relationships extending across many individuals and generations.
+
+Mayr (1982) documented the historical development of biological thought through changing approaches to diversity, inheritance, and evolution. More recent process-oriented and pluralist accounts have questioned the assumption that biological explanation must ultimately privilege one fixed kind of entity (Nicholson and Dupré 2018; Dupré 2021).
+
+These approaches do not establish that biological units are arbitrary. Rather, they suggest that identifying a unit is part of specifying an explanatory problem. The relevant boundaries must be justified by the processes, interactions, and forms of continuity under investigation.
 
 [[box:fundamental-does-not-mean-smallest]]
 
@@ -189,192 +114,376 @@ This observation suggests that the history of the debate may be as informative a
   </a>
   <p class="aps-diagram-caption">
     <strong>Historical Searches for Life's Fundamental Unit.</strong>
-    Different periods in biology emphasised different candidates as the primary explanatory focus of life. Each captured an important aspect of biological organisation, but none proved sufficient to explain all dimensions of living systems.
+    Different developments in biology have brought different explanatory units into prominence. Their significance reflects the questions they help answer, rather than a simple historical succession in which one universal foundation replaces another.
   </p>
 </div>
 
-
-
 ## The Cell as the Fundamental Unit
 
-For much of modern biology, the cell has been regarded as the fundamental unit of life. This view emerged from the development of cell theory during the nineteenth century through the work of Matthias Schleiden, Theodor Schwann, and Rudolf Virchow. Their work established three principles that transformed biological thought: all living organisms are composed of cells, the cell is the basic unit of biological organisation, and new cells arise from pre-existing cells.
+Cell theory provided one of the most influential attempts to identify a common basis for living organisation. During the nineteenth century, investigations associated with Matthias Schleiden, Theodor Schwann, and Rudolf Virchow established the importance of cells in the structure, development, and reproduction of organisms.
 
-Cell theory offered an elegant solution to the search for biological unity. Whether examining plants, animals, fungi, or microorganisms, researchers repeatedly encountered the same fundamental organisational structure. Cells appeared to provide a common foundation underlying the extraordinary diversity of living forms. For the first time, biology possessed a candidate capable of explaining what all living systems shared.
+The classical formulation is often summarised by three principles: organisms are composed of cells, cells are basic units of biological organisation, and cells arise from pre-existing cells. These principles were developed and refined through a complex history rather than established simultaneously in their modern form.
 
-The appeal of the cell extended beyond its universality. Cells perform many of the activities traditionally associated with life itself. They acquire energy, regulate internal conditions, respond to environmental change, grow, and reproduce. Even the simplest organisms consist of cells, while more complex organisms are composed of vast numbers of interacting cells. It therefore seemed reasonable to regard the cell as the basic unit from which biological organisation arises.
+Cell theory transformed biology because it connected organisms that otherwise appeared radically different. Plants, animals, fungi, and microorganisms could be investigated through recurring cellular structures and activities. The cell became a common explanatory focus across physiology, development, pathology, and microbiology.
 
-The explanatory power of cell theory remains immense. Cellular biology provides the foundation for modern physiology, developmental biology, microbiology, and medicine. Many biological processes can only be understood by examining how cells maintain themselves and interact with their surroundings. In this sense, the cell remains one of the most successful candidates ever proposed as the fundamental unit of life.
+Its importance is not merely structural. Cells maintain boundaries, transform energy and materials, regulate internal conditions, respond to disturbances, and participate in reproduction and development. Many of the activities ordinarily associated with life can be investigated within cellular systems.
 
-Yet the very success of cell theory gradually revealed its limitations. Multicellular organisms exhibit forms of organisation that cannot always be explained by examining individual cells in isolation. The coordinated activity of tissues, organs, and whole organisms often depends upon patterns of regulation that extend beyond any single cellular boundary. Individual cells within complex organisms may lose the ability to survive independently while contributing to larger systems that possess distinctive forms of organisation and behaviour.
+For unicellular organisms, the cell may also be the organism. In multicellular organisms, however, the relation between cells and organismal unity becomes more complicated. Cells differentiate and become dependent upon interactions with other cells, tissues, and extracellular structures. Their contributions are coordinated through developmental and physiological processes that cannot always be explained by studying isolated cells.
 
-These observations reveal an important tension. The cell may be the basic unit of biological structure, yet many biological phenomena depend upon forms of integration that transcend individual cells. Development, behaviour, physiological regulation, and environmental responsiveness frequently emerge through interactions among vast numbers of cells organised into coherent wholes. Understanding such phenomena often requires shifting attention from cells themselves to the larger systems they collectively constitute.
+Some biological forms further complicate a simple picture of organisms as collections of discrete, equivalent cells. Syncytial and coenocytic organisation, for example, demonstrates that nuclear, cytoplasmic, and developmental organisation need not conform neatly to the familiar model of individually bounded cells.
 
-In retrospect, the rise of cell theory illustrates a recurring pattern within biology. The cell achieved prominence because it successfully explained a crucial dimension of living organisation. Its explanatory power, however, proved greater for some questions than for others. The search for a single foundational unit therefore continued, not because cell theory failed, but because life itself seemed to require additional forms of explanation.
+Such cases do not diminish the achievements of cell theory. They clarify its explanatory scope. Cells remain indispensable to understanding cellular life, but the relevant units for explaining development, physiological regulation, or organismal continuity may extend beyond individual cellular boundaries.
 
-Yet even as cell theory transformed biological understanding, another question remained unresolved. If cells explained the organisation of living matter, what accounted for the continuity of heredity across generations? Increasingly, the answer appeared to lie in genes.
+The distinction between structural importance and universal explanatory primacy is therefore already apparent in the history of cell biology.
 
 ## The Gene as the Fundamental Unit
 
-The twentieth century witnessed a profound shift in biological thinking. While nineteenth-century biology had focused largely on cells and organisms, the discovery of the mechanisms of heredity increasingly directed attention toward genes. The emergence of genetics, followed by molecular biology, encouraged many researchers to regard genes as the fundamental units of life because they appeared to provide a common explanation for inheritance, development, and evolution.
+The development of genetics and molecular biology introduced another powerful candidate: the gene.
 
-Genes possess a distinctive form of continuity. Individual cells die, organisms age and perish, and species may eventually disappear, yet genetic information can persist across generations through reproduction. This continuity made genes especially attractive as explanatory centres. The rediscovery of Mendelian inheritance in the early twentieth century, combined with later discoveries concerning DNA structure and function, established genes as central to modern biological explanation. By the latter half of the century, many biologists regarded life itself as fundamentally an informational phenomenon organised around the storage, transmission, and expression of genetic information.
+Mendelian inheritance, chromosome theory, and the identification of DNA's molecular structure transformed the study of heredity. Genes became central to explaining the transmission of hereditary differences, the production and regulation of biological molecules, and the relations between inherited variation and evolutionary change.
 
-Gene-centred perspectives gained additional influence through evolutionary theory. Because inherited genetic variation contributes to evolutionary change, genes appeared to provide a natural bridge between individual organisms and long-term evolutionary processes. Some interpretations went further, proposing that organisms could be understood primarily as vehicles through which genes persist and reproduce. From this perspective, genes seemed to possess a degree of explanatory primacy that cells and organisms lacked.
+Gene-centred explanations gained particular prominence in evolutionary biology. Under appropriate conditions, inherited variants can be tracked through successive generations, and changes in their frequencies can be analysed through population genetics. The concept of the replicator further encouraged interpretations in which genes possess explanatory priority over the organisms through which they are transmitted.
 
-The success of genetics and molecular biology is undeniable. Genes play indispensable roles in heredity, development, cellular regulation, and evolutionary continuity. Many biological phenomena cannot be understood without reference to genetic mechanisms. Modern medicine, agriculture, biotechnology, and evolutionary biology all depend heavily upon genetic explanations.
+Yet several different claims must be distinguished. A gene may be treated as a unit of inheritance, a molecular sequence associated with a biological product or function, or a replicator within an evolutionary model. These are related but not identical explanatory roles.
 
-Yet the explanatory success of genes does not necessarily establish them as the fundamental unit of life. Genes do not function independently of cellular and organismal contexts. A sequence of DNA becomes biologically meaningful only within a living system capable of interpreting, regulating, and responding to that information. Gene expression depends upon cellular machinery, developmental processes, environmental conditions, and regulatory networks that extend far beyond any individual gene.
+Nor do genes operate independently of the systems in which they occur. Transcription, translation, regulation, replication, and repair depend upon cellular machinery and organised biochemical conditions. Developmental outcomes depend upon interactions among genetic resources, cellular states, developmental histories, and environments.
 
-Increasingly, biological research has shown that heredity and development cannot be understood as simple one-way processes in which genes determine biological outcomes independently of context. Development emerges through interactions among genes, cells, organisms, and environments. The same genetic sequence can produce different outcomes under different conditions, while similar biological functions may arise through different genetic pathways. Information therefore does not flow in a simple linear direction from genes to organisms. Rather, biological organisation emerges through networks of reciprocal interaction operating across multiple scales.
+The same genetic sequence can contribute to different outcomes in different contexts, while similar phenotypic functions can arise through different molecular arrangements. These observations do not make genetic explanations dispensable. They show why the causal contribution of a gene must be investigated within the processes that make its activity possible.
 
-Genes therefore explain a crucial dimension of biological organisation, but they do not explain biological organisation as a whole. Their significance depends upon the living systems in which they are embedded, just as those systems depend upon the hereditary continuity that genes help provide.
+It is therefore misleading to infer from the success of genetics that life is fundamentally the activity of genes alone. Hereditary continuity is indispensable to many biological explanations, but heredity is not equivalent to the complete organisation of a living system.
 
-The history of gene-centred thinking illustrates a broader pattern already visible in cell theory. Genes achieved prominence because they successfully explained a particular biological problem—in this case heredity and evolutionary continuity. However, when elevated from a powerful explanatory focus to the universally fundamental unit of life, they encounter the same difficulty as cells. They illuminate certain dimensions of living organisation exceptionally well while leaving others only partially explained.
+Genes are consequently central explanatory units for some questions without constituting universal foundations for all biological explanation.
 
-This observation begins to clarify why the search for a single fundamental unit repeatedly encounters difficulties. Different candidates appear fundamental because they explain different aspects of living systems. The question then becomes whether there exists an entity capable of integrating these diverse dimensions of biological organisation. Historically, many biologists have answered that question by turning to the organism.
+## The Organism as an Integrative Individual
 
-## The Organism as the Integrative Individual
+Organisms have long occupied a distinctive position in biological thought because they are familiar sites of integrated living activity. Animals, plants, fungi, and microorganisms grow, develop, maintain physiological conditions, interact with their surroundings, and participate in reproduction.
 
-Among all proposed candidates for life's fundamental unit, the organism occupies a distinctive position. Unlike genes or cells, organisms are the entities most readily recognised as living things. Animals, plants, fungi, and microorganisms exist as organised individuals that grow, develop, interact with their environments, and reproduce. For many biologists, this makes the organism the most natural starting point for understanding life.
+An organism is not merely an assemblage of independently functioning components. Its activities depend upon organised relations among metabolic, developmental, physiological, and environmental processes. In many cases, the functioning of particular components can only be understood through their contribution to the organisation of the wider living system.
 
-The appeal of the organism extends beyond intuition. Organisms bring together numerous biological processes within coherent functional wholes. They coordinate metabolism, development, physiological regulation, environmental responsiveness, and reproduction. The activities of genes and cells become biologically significant largely because they contribute to the persistence and functioning of organisms. In this sense, organisms occupy a central position within biological explanation, linking molecular and cellular processes with broader ecological and evolutionary dynamics.
+Development makes this dependence especially apparent. Cells differentiate, interact, and contribute to changing patterns of organisation. An organism persists through these transformations even though its material constituents, structures, and activities may change substantially.
 
-Development further strengthens the case for organism-centred thinking. An organism is not simply a collection of cells assembled together. Throughout development, cells differentiate, communicate, and organise themselves into increasingly integrated structures and functions. The resulting individual exhibits forms of coordination that cannot be fully understood by examining isolated components alone. The persistence of organismal identity despite continual material turnover illustrates a broader biological principle: living systems endure not because their constituent parts remain unchanged, but because patterns of organisation and activity are maintained through time.
+Physiological regulation provides another example. Responses to disturbance can involve coordinated changes in metabolism, transport, growth, repair, and environmental interaction. The relevant explanation may concern the contribution of these activities to maintaining conditions under which the organism can continue functioning.
 
-Behaviour provides another reason organisms have often been regarded as fundamental. Organisms perceive aspects of their environments, regulate internal conditions, and respond to changing circumstances in ways that contribute to their continued existence. Even relatively simple organisms display forms of adaptive responsiveness that cannot be readily attributed to genes or cells considered in isolation. Their capacity to coordinate activity across multiple biological processes gives organisms a distinctive explanatory role within living systems.
+This integrative significance is recognised in organism-centred approaches to biological explanation. It does not depend upon APS. Theoretical accounts of organismality, biological autonomy, and processual organisation have already examined how living systems sustain their organisation through changing material and environmental conditions.
 
-These observations connect directly with biological agency. Organisms actively maintain themselves, regulate interactions with their environments, and participate in processes that contribute to their persistence through time. Whether through movement, growth, physiological adjustment, developmental plasticity, or ecological modification, organisms are among the clearest expressions of life's capacity for organised persistence.
+The organism nevertheless presents a difficulty. Its apparent familiarity can conceal substantial variation in how organismal unity is established. A bacterium, a tree, a lichen, a colonial animal, and an animal with a complex microbiome may each require different evidence when assessing boundaries, integration, and continuity.
 
-For these reasons, many theoretical biologists have regarded organisms as biology's primary explanatory focus. Organisms are where heredity becomes development, where development becomes behaviour, and where behaviour influences ecology and evolution. They occupy a uniquely integrative position within the living world, bringing together processes that are often studied separately within different biological disciplines.
+Organisms are therefore especially important explanatory units, but their importance does not settle every question of biological individuality. Nor does it establish that organismal boundaries are appropriate to every investigation.
 
-Yet the apparent simplicity of the organism conceals a deeper problem. The more closely biologists examine living systems, the more difficult it becomes to determine precisely what counts as an organism in the first place. The search for a fundamental unit therefore leads naturally to a second and equally important question:
+To understand the limits of organism-centred explanation, we must distinguish the units selected for research from the individuals whose identity or organisation is being investigated.
 
-What constitutes a biological individual?
+### Biological Units and Biological Individuals
+
+A biological unit is an entity, system, or processual grouping identified for a particular investigative or explanatory purpose. A biological individual is a more specific attribution that requires criteria appropriate to the kind of individuality being examined.
+
+The distinction matters because scientists do not always begin by identifying independently established individuals and then measuring their properties. Sometimes they begin by investigating a process and determine which units must be distinguished to explain or measure it.
+
+Waters (2018) argues for attention to the ways biological research practices determine the relevance of different kinds of individuality. Yilmaz Silverman (2026) develops this issue through the botanical conception of the organism, distinguishing approaches that begin by counting individuals from those that begin by measuring biological processes and identifying the relevant units.
+
+These considerations are particularly important in plant biology. Physiological integration, developmental continuity, genetic identity, and evolutionary descent may suggest different ways of individuating the same material system. Yilmaz and Dupré (2025) investigate the importance of physiological organisation for understanding plant individuality.
+
+A unit selected for measurement does not thereby become an organism. A physiological individual need not coincide with a genetic individual, and neither must coincide with the unit relevant to an evolutionary analysis.
+
+The relevant question is not simply which boundary is correct in the abstract. It is which criteria of individuation are justified by the phenomenon being investigated and what explanatory consequences follow from applying them.
+
+APS can participate in this inquiry by asking how viability-oriented organisation persists and changes. It cannot, however, assume that its preferred vocabulary establishes an individual where the relevant physiological, developmental, or evolutionary evidence has not done so.
 
 ## The Problem of Biological Individuality
 
-The search for a fundamental unit of life is inseparable from the problem of biological individuality. Before identifying life's primary unit, we must first determine what qualifies as a biological individual. Surprisingly, this question often proves far more difficult than it initially appears.
+The problem of biological individuality concerns the conditions under which a living system, association, or lineage should be treated as one individual rather than several.
 
-Many organisms seem straightforward. A tree, a bird, or a bacterium appears to possess clear boundaries and a coherent identity. Such cases encourage the intuition that biological individuals are discrete entities that can be readily distinguished from their surroundings. Yet a growing number of examples challenge this assumption.
+Different traditions approach this problem through different criteria. Some emphasise physiological integration and functional interdependence. Others investigate developmental continuity, reproductive organisation, evolutionary transitions, or participation in Darwinian processes.
 
-Lichens provide a classic illustration. Traditionally regarded as individual organisms, lichens are now understood to consist of intimate associations among fungi, photosynthetic partners, and often additional microbial communities. Their ecological success depends upon the integrated functioning of multiple species. This raises a fundamental question: is a lichen one organism, several organisms, or something in between?
+Clarke (2010, 2013) examines the conceptual and evolutionary difficulties involved in identifying biological individuals. Godfrey-Smith (2009) investigates the conditions under which entities form Darwinian populations and participate in evolutionary processes. These approaches demonstrate why individuality cannot be reduced to the presence of a visible boundary.
 
-Similar challenges arise in discussions of holobionts and microbiomes. Many multicellular organisms exist in close association with vast communities of microorganisms that influence nutrition, development, immunity, and behaviour. Humans, plants, and countless other organisms depend upon microbial partners for normal functioning. If these microbial communities contribute directly to organismal performance, where should the boundaries of the individual be drawn?
+### Plants and physiological individuality
 
-Endosymbiosis provides an even more striking example. Mitochondria and chloroplasts originated as free-living organisms before becoming integrated into larger cellular systems. What began as interactions among distinct organisms eventually produced new forms of biological individuality. Such cases suggest that individuality is not always a fixed starting point but may itself emerge through processes of integration and organisational transformation.
+Clonal plants provide especially instructive examples. A genetically related collection of shoots may be counted as one genet, while individual ramets may be distinguished for demographic, ecological, or physiological purposes.
 
-Other examples challenge individuality from a different direction. Colonial organisms such as corals, bryozoans, and siphonophores consist of multiple interconnected units that function together as larger wholes. Slime moulds alternate between solitary and collective forms during their life cycles, shifting between individuality and cooperation depending upon environmental conditions. Eusocial insect colonies exhibit forms of coordinated behaviour so sophisticated that some researchers have described them as superorganisms.
+Connected shoots may exchange resources and remain physiologically integrated, yet subsequently become independent. Their shared genetic ancestry does not determine whether they constitute one physiological individual at every stage.
 
-Taken together, these examples reveal that biological individuality is often graded, context-dependent, and historically contingent. Living systems do not always conform to simple categories of individual and collective. Instead, individuality frequently emerges through patterns of integration, coordination, and organised persistence that may vary across biological scales and through evolutionary time.
+Clarke (2012) examines difficulties in plant individuation, while Yilmaz and Dupré (2025) emphasise physiological organisation. Yilmaz Silverman (2026) further clarifies why botanical research may need to identify units through the processes being measured rather than through a prior assumption about how many organisms are present.
 
-Importantly, these observations do not undermine the reality of organisms. Rather, they challenge overly simple assumptions about what organisms are. Biological individuals are not necessarily defined by rigid physical boundaries or complete independence. They may be better understood in terms of the degree to which diverse processes become integrated into coherent and enduring patterns of organisation.
+These distinctions have practical explanatory consequences. Estimates of population size, growth, resource allocation, competition, and reproduction may depend upon whether the investigator counts shoots, integrated systems, or genetically related lineages.
 
-The individuality problem therefore helps explain why biology repeatedly struggles to identify a single fundamental unit. Different candidates appear plausible because biological organisation itself is distributed across multiple forms of individuality and multiple scales of integration. The search for a fundamental unit increasingly becomes a search for the organisational principles that connect these diverse manifestations of life.
+The botanical case therefore demonstrates more than unusual morphology. It shows that the choice of biological unit can affect the interpretation of evidence.
+
+### Symbiosis and organismal boundaries
+
+Lichens illustrate a different problem. Their organisation involves intimate associations between fungal and photosynthetic partners, often accompanied by additional microorganisms. These interactions may produce a coherent ecological and physiological system without eliminating the biological identities of the participating partners.
+
+Host-associated microbiomes raise related questions. Microorganisms can contribute substantially to nutrition, immunity, development, and other physiological processes. Yet functional importance alone does not establish that host and microbiome form a single evolutionary individual.
+
+Bordenstein and Theis (2015) formulate principles concerning holobionts and hologenomes, while Zilber-Rosenberg and Rosenberg (2008) develop the hologenome theory of evolution. Such approaches have stimulated important debate about the evolutionary and functional significance of host–microbial associations.
+
+The central distinction is between demonstrating an integrated association and establishing the particular kind of individuality being claimed. Physiological cooperation, shared ecological dependence, and evolutionary individuality require different forms of evidence.
+
+### Individuality through evolutionary transformation
+
+Endosymbiosis demonstrates that relations among previously distinct organisms can contribute to major evolutionary transformations.
+
+The origins of mitochondria and plastids involved the incorporation and evolutionary transformation of formerly independent microbial lineages. Margulis (1970) helped establish the importance of symbiosis in explaining the origins of eukaryotic cellular organisation.
+
+These cases show that biological individuality has an evolutionary history. Organisational relations that initially connect distinct entities can, over evolutionary time, become constitutive of a new form of integrated biological organisation.
+
+They do not establish that every symbiotic association is already a new individual. The relevant transformation must be demonstrated through evidence concerning integration, dependence, inheritance, and evolutionary continuity.
+
+### Colonial and collective organisation
+
+Colonial animals, including corals, bryozoans, and siphonophores, present further challenges. Distinguishable modules or zooids may remain connected and contribute to the functioning of a larger system. Their developmental and physiological integration can make the distinction between individual and collective less straightforward than in familiar solitary animals.
+
+Some slime moulds exhibit transitions between solitary and aggregated forms, while eusocial insect colonies display coordinated activities that have encouraged comparisons with superorganisms.
+
+These examples are biologically diverse and should not be treated as manifestations of one identical mechanism. What they share is the need to specify which form of unity is under investigation and which evidence supports its attribution.
+
+Biological individuality is therefore neither simply arbitrary nor necessarily fixed by one universal criterion. Its assessment depends upon the relevant processes, histories, and forms of integration.
 
 [[box:what-is-a-biological-individual]]
 
 ## Beyond Organisms: Species, Lineages, and Ecosystems
 
-Although cells, genes, and organisms have received most attention in discussions of biological individuality, some researchers have argued that life can only be fully understood by examining larger-scale entities. Evolutionary biology, ecology, and systems theory have each highlighted forms of organisation that extend beyond individual organisms and persist across broader spatial and temporal scales.
+The organism is not the only biological unit whose significance extends beyond its immediate material constituents. Evolutionary and ecological explanations regularly concern populations, species, lineages, communities, and ecosystems.
 
-One such candidate is the species. Species possess a form of continuity that transcends individual lifetimes. Organisms are born and die, yet species may persist for thousands or even millions of years. Because evolution operates through populations and lineages rather than isolated individuals, some biologists have suggested that species represent a more fundamental explanatory focus than individual organisms. Species organise patterns of reproduction, inheritance, diversification, and evolutionary change in ways that cannot be reduced entirely to the activities of individual organisms.
+These units are not interchangeable, and their explanatory importance does not imply that they are living individuals in the same sense as organisms.
 
-Closely related are lineages, which emphasise continuity through time. Lineages connect past, present, and future generations through processes of descent and inheritance. From this perspective, life is fundamentally historical. The persistence of living systems depends not only on the maintenance of individual organisms but also on the continuation of evolving lineages. Adaptation, diversification, and evolutionary innovation become intelligible only when viewed through the lens of lineage continuity.
+### Species and evolutionary individuality
 
-Ecological approaches extend the scope further still. Organisms do not exist independently of their environments. They depend upon complex networks of interaction involving other organisms, resources, and ecological processes. Ecosystems integrate these relationships into dynamic systems that regulate energy flow, nutrient cycling, population dynamics, and environmental conditions. Because life is inseparable from these interactions, some researchers have argued that ecosystems provide a more appropriate framework for understanding biological organisation than individual organisms alone.
+The status of species has been a central problem in the philosophy of biology. Ghiselin (1974) and Hull (1978) developed influential arguments for treating species as historical individuals rather than simply as classes defined by shared properties.
 
-These larger-scale perspectives illuminate dimensions of life that genes, cells, and organisms cannot fully explain by themselves. Species clarify evolutionary continuity. Lineages reveal the historical character of life. Ecosystems expose ecological interdependence. Each contributes important insights into the organisation of living systems and expands our understanding of biological continuity beyond the lifetime of any single organism.
+This position concerns the historical and evolutionary identity of species. It does not imply that species possess the physiological integration or regulatory organisation characteristic of organisms.
 
-At the same time, none provides a universally satisfactory solution to the search for a fundamental unit. Species do not metabolise, develop, or directly regulate themselves in the manner organisms do. Lineages depend upon the continued existence of living individuals across generations. Ecosystems possess diffuse boundaries and often lack the integrated forms of organisation associated with biological agency. While these entities are unquestionably important, they do not simply replace genes, cells, or organisms as life's primary explanatory focus.
+Species concepts also differ in their criteria and purposes. Reproductive relations, genealogical continuity, ecological differentiation, and phylogenetic history can each become relevant depending upon the investigation.
 
-The recurring pattern should now be apparent. Each candidate achieves explanatory success because it captures a genuine aspect of biological organisation. Yet each becomes problematic when treated as the sole explanatory centre of biology. The persistence of the debate therefore suggests that life may not be organised around a single privileged unit at all. Instead, biological organisation appears to involve multiple forms of continuity, multiple forms of individuality, and multiple scales of integration operating simultaneously.
+The species is therefore important to evolutionary explanation without being a universal unit of life.
 
-This observation leads naturally to a further question. If no single candidate can adequately capture the diversity of living organisation, what should we make of the many cases that appear to fall between established categories? It is these borderline cases that most clearly expose the limits of simple unit-based accounts of life.
+### Lineages and historical continuity
+
+Lineages emphasise continuity through descent. They connect biological entities across generations and provide the historical context necessary to explain inherited variation, evolutionary diversification, and the emergence of new forms.
+
+Lineage continuity differs from the organised persistence of an individual organism. An organism may maintain its physiological organisation through material turnover, whereas a lineage persists through relations of descent among successive individuals.
+
+These forms of continuity may interact, but they should not be conflated.
+
+Godfrey-Smith (2009) and Okasha (2006) provide resources for distinguishing the units and processes relevant to evolutionary explanation. Their work also demonstrates why the expression *unit of selection* requires careful specification rather than automatic identification with genes, organisms, groups, or species.
+
+### Ecosystems and ecological interdependence
+
+Ecological explanations concern interactions among organisms and their physical surroundings, including energy transfer, nutrient cycling, population dynamics, and the modification of environmental conditions.
+
+An ecosystem may be an indispensable unit of ecological investigation even when its boundaries are partly determined by the research question. A watershed, forest, soil system, or marine habitat may be delineated differently according to the processes being measured.
+
+Ecosystems can exhibit feedback, persistence, and complex regulation-like dynamics. Such properties do not automatically establish organismality, constraint closure, or biological agency in the APS sense.
+
+The distinction is important. A system can be causally organised and explanatorily indispensable without satisfying the conditions proposed for life.
+
+Species, lineages, and ecosystems consequently extend biological explanation beyond organisms while demonstrating why the identification of an explanatory unit must remain distinct from the attribution of life or agency.
 
 ## Borderline Cases and the Limits of Simple Units
 
-The debate over life's fundamental unit becomes especially revealing when applied to cases that resist straightforward classification. Throughout the history of biology, researchers have repeatedly encountered living systems that do not fit neatly into conventional categories. These cases are often treated as exceptions or anomalies, yet they may reveal something important about the nature of biological organisation itself.
+The preceding examples expose a methodological difficulty that is easily overlooked. Biological systems can be connected in several ways without possessing the same kind of unity.
 
-Holobionts provide one of the clearest examples. Many organisms exist in intimate association with diverse microbial communities that contribute to nutrition, development, immunity, and environmental responsiveness. Plants depend upon complex root-associated microbial networks, while animals harbour extensive microbial communities that influence physiology and behaviour. Such relationships raise difficult questions about biological boundaries. If essential functions depend upon integrated associations among multiple organisms, should the individual be identified with the host alone, the microbial community, or the larger functional system they collectively form?
+A host and its microbiome may be linked through nutritional and physiological dependence. A clonal plant may exhibit genetic continuity across shoots that differ in physiological independence. A siphonophore colony may contain specialised modules whose functioning depends upon the colony as a whole. A lineage may persist through descent even though its constituent organisms do not persist individually.
 
-Microbiomes extend this challenge further. The composition of microbial communities may change substantially over time while maintaining important functional relationships. These systems often resemble ongoing processes more than stable collections of discrete parts. Their continuity depends less upon the persistence of particular components than upon the persistence of organisation and function. This observation echoes a broader theme that has emerged throughout the article: living systems often maintain identity through organised continuity rather than material permanence.
+These relationships cannot be adequately assessed through a single test of physical connectedness or material continuity.
 
-Endosymbiosis demonstrates that such integrations can become evolutionarily transformative. Mitochondria and chloroplasts originated as independent organisms before becoming incorporated into larger cellular systems. What began as interactions among distinct individuals eventually produced new forms of biological organisation. The history of life therefore contains repeated examples in which formerly separate entities became integrated into more complex wholes.
+The difficulty becomes clearer when we distinguish four questions.
 
-Other cases challenge individuality in different ways. Colonial organisms blur the distinction between individual and collective organisation. Siphonophores, for example, consist of highly specialised zooids that function together as integrated wholes. Some colonies display degrees of coordination comparable to those found within more familiar organisms. Similarly, eusocial insect colonies exhibit remarkable forms of collective organisation, leading some researchers to describe them as superorganisms.
+**What is being measured?** An investigation may select a unit because it is the appropriate domain for measuring growth, exchange, variation, or response.
 
-Slime moulds reveal yet another possibility. During part of their life cycle, individual cells live independently. Under different conditions, those same cells aggregate into coordinated multicellular structures capable of collective behaviour. Individuality therefore shifts dynamically as environmental conditions change. Rather than existing as a fixed property, individuality appears as an organisational achievement that emerges through changing patterns of interaction.
+**What is being individuated?** The investigator may be identifying a physiological system, a developmental trajectory, a reproductive entity, or an evolutionary individual.
 
-These examples are often presented as problems for traditional biological categories. From an APS perspective, however, they can be understood differently. They do not represent failures of biological organisation. Instead, they reveal that living systems achieve continuity, coordination, and persistence through multiple forms of integration. The difficulty lies not in the organisms themselves but in the expectation that life should conform to a single, universally applicable unit.
+**What is being explained?** The target may be metabolic maintenance, organismal development, hereditary change, ecological interaction, or a transition in individuality.
 
-The recurring appearance of such cases helps explain why the search for a single fundamental unit repeatedly encounters difficulties. The living world contains a remarkable diversity of organisational forms, many of which resist simple classification. Rather than forcing these systems into predetermined categories, a more productive approach is to ask what organisational principles unite them despite their differences. That question leads directly to the broader challenge of understanding why no single biological unit can fully explain life.
+**What evidence supports the attribution?** A claim about physiological integration requires different evidence from a claim about evolutionary individuality or shared ancestry.
+
+A system may warrant one attribution without warranting the others.
+
+This distinction prevents two opposite errors. The first is to assume that every integrated association constitutes a single organism. The second is to assume that an association cannot be an informative explanatory unit unless it satisfies a preferred definition of organismhood.
+
+The botanical literature makes this especially clear. Measuring the distribution of resources among connected shoots may require one delineation of the system, while counting genetically distinct individuals or estimating evolutionary fitness may require another.
+
+Waters (2018) and Yilmaz Silverman (2026) therefore contribute to a broader methodological lesson: the units of biological research should be justified through the investigative purposes and processes at issue.
+
+The relevant question is not whether biology can dispense with units. It cannot. The question is how units should be selected, justified, and related without assuming that one form of individuation must govern every investigation.
 
 ## Why No Single Unit Fully Explains Life
 
-The search for a fundamental unit of life has produced a succession of compelling candidates. Cells explain the organisation of living matter. Genes explain heredity and evolutionary continuity. Organisms integrate development, physiology, behaviour, and environmental responsiveness. Species and lineages illuminate the historical continuity of evolution, while ecosystems reveal the ecological relationships upon which all life depends. Each candidate captures an important aspect of biological reality, and each has therefore appeared, at different times, to provide the long-sought foundation of biological explanation.
+The explanatory success of cells, genes, organisms, species, lineages, and ecosystems does not establish that one of them is fundamental to every biological question.
 
-Yet the history of the debate reveals a persistent pattern. Every proposed unit succeeds in explaining some dimensions of life while proving less satisfactory for others. Cells cannot fully explain organismal behaviour. Genes cannot account for the organisation of living systems independently of cellular and developmental contexts. Organisms alone do not explain the evolutionary continuity of lineages or the ecological processes that sustain life. Species and ecosystems, meanwhile, illuminate broader forms of organisation but lack many of the integrative properties associated with individual living systems.
+Each unit becomes important through a particular explanatory relation. Cells are central to cellular organisation and many physiological mechanisms. Genes are indispensable to numerous explanations of heredity and molecular function. Organisms provide important sites for investigating integrated living activity. Populations and lineages are central to evolutionary change, while ecosystems are indispensable to understanding ecological interdependence.
 
-This recurring difficulty suggests that the problem lies deeper than the limitations of any particular candidate. The search for a universally fundamental unit assumes that biological organisation can ultimately be understood through a single privileged entity. Such an assumption has often proven fruitful in the physical sciences, where explanatory success is frequently associated with identifying increasingly basic components. Living systems, however, exhibit a different kind of organisation. Their persistence depends upon interactions among entities operating across multiple spatial and temporal scales.
+The limits of these units differ. A gene does not independently constitute the machinery required for its expression. An isolated cell may not explain the coordinated functioning of a multicellular organism. Organismal physiology alone does not explain the historical structure of a lineage. A species does not ordinarily possess the physiological organisation of an organism, and an ecosystem's explanatory importance does not establish that it is a single living individual.
 
-Genes require cells. Cells participate in organisms. Organisms exist within populations, communities, and ecosystems. These relationships are not merely additive. Each scale both constrains and enables processes occurring at other scales. Biological organisation therefore emerges through networks of reciprocal interaction rather than through the activity of any isolated unit.
+These differences are not evidence that the units are scientifically defective. They reflect differences among explanatory targets.
 
-The problem becomes even clearer when viewed through the lens of biological individuality. Holobionts, microbiomes, colonial organisms, superorganisms, and other borderline cases demonstrate that life does not always divide neatly into discrete, self-contained entities. Instead, individuality itself often emerges from dynamic patterns of integration, coordination, and persistence. The boundaries of biological organisation can be fluid, context-dependent, and historically contingent.
+The same lesson emerges from debates about levels and scales. Biological explanation frequently connects processes occurring over different spatial and temporal extents, but these connections need not form a simple hierarchy in which every unit is neatly contained within the next.
 
-Taken together, these observations suggest that the repeated failure to identify a single fundamental unit is not simply an unresolved problem within biology. Rather, it may reveal something important about life itself. Living systems appear to be organised through multiple, interacting forms of continuity that cannot be reduced to a single explanatory centre. The challenge, therefore, is not to identify one unit that supersedes all others, but to understand how these different forms of organisation become coordinated within the living world.
+Eronen (2013) challenges assumptions about levels in causal explanation, while process-oriented approaches emphasise the importance of relations and transformations that may not align with fixed structural partitions.
+
+The resulting pluralism should not be mistaken for the claim that every explanatory choice is equally adequate. Biological units remain subject to empirical and conceptual constraints. Their selection must be justified by what the investigation seeks to explain and by the evidence available.
+
+The stronger conclusion is that biology does not require one universally privileged explanatory unit. Different forms of organisation and continuity may legitimately become central to different investigations.
 
 [[box:different-questions-different-units]]
 
-The question then shifts. Instead of asking which biological entity is fundamental, we can ask what organisational principles allow such diverse entities to participate in the persistence and evolution of life. It is this broader perspective that motivates the APS approach.
+This conclusion is already present in several established approaches to biological explanation. APS must therefore be assessed not by whether it repeats the conclusion, but by whether its concepts help connect these different explanatory practices or identify additional relations that would otherwise remain obscure.
 
-## The APS Perspective: Life as Agency Across Scale
+## The APS Perspective: Life as Agency, Process, and Scale
 
-The Agency–Process–Scale (APS) framework approaches the question of life's fundamental unit from a different direction. Rather than beginning with a particular biological entity, APS begins with the observation that living systems are dynamic, organised processes that persist through continual interaction with their environments. From this perspective, the central challenge is not identifying a privileged unit but understanding how biological organisation is maintained across changing conditions and across multiple scales.
+The Agency–Process–Scale (APS) framework approaches biological explanation through three connected perspectives: agency, process, and scale.
 
-APS rests on three complementary principles. First, life is fundamentally processual. Living systems persist through ongoing activity rather than through the permanence of their material components. Cells replace molecules, organisms undergo continual physiological change, and ecological systems fluctuate through time, yet patterns of organisation remain sufficiently stable to sustain continuity.
+Its starting point is not a claim that every biological unit is alive or possesses agency. Rather, APS distinguishes the conditions under which a system qualifies as living from the various units that may be relevant to explaining biological phenomena.
 
-Second, biological organisation is inherently multiscale. Processes occurring at one scale influence and depend upon processes occurring at others. Molecular interactions affect cellular behaviour, cellular processes contribute to organismal functioning, organisms modify ecological conditions, and ecological conditions shape evolutionary trajectories. No single scale can be fully understood in isolation from the others.
+APS defines life as **viability-oriented, constraint-closed organisation**.
 
-Third, living systems exhibit biological agency. Agency, in the APS sense, refers to the capacity of living systems to initiate, regulate, and coordinate goal-directed interactions that contribute to their continued viability. This capacity is expressed in different ways across the living world, but it consistently involves the active maintenance of organised persistence under changing conditions.
+Viability concerns the system-relative conditions that support, undermine, or restore the continued operation of a living organisation. Constraint closure concerns the reciprocal dependence of constraints that contribute to maintaining that organisation. Closure alone is not treated as sufficient for life; its viability-oriented character is essential to the APS definition.
 
-Viewed through this framework, the search for a fundamental biological unit takes on a different meaning. Genes, cells, organisms, species, and ecosystems are not competing foundations of life. Rather, they are different manifestations of biological organisation operating within a larger process of coordinated persistence. Each becomes explanatorily important because it illuminates a particular aspect of how living systems maintain continuity through time.
+APS defines biological agency as **viability-oriented organisational activity**. This includes internal maintenance, regulation, repair, and activity in relation to the surroundings where there is evidence of a contribution to viability.
 
-This perspective helps explain why the historical debate has proven so resistant to resolution. Biology repeatedly generates different candidates because living systems genuinely possess multiple forms of organisation, each of which becomes salient for particular explanatory purposes. The persistence of competing units is therefore not evidence of theoretical failure. It reflects the multiscale character of life itself.
+Agency therefore does not require intention, cognition, deliberation, or outwardly directed behaviour. Nor does the presence of causal activity in a biological investigation automatically establish agency. The relevant attribution depends upon evidence of a contribution to the viability of an identified living organisation.
 
-The APS framework does not deny the importance of biological units. On the contrary, genes, cells, organisms, species, and ecosystems all remain indispensable to biological explanation. What APS rejects is the expectation that any one of these entities must serve as the exclusive foundation of biology. Living systems are better understood as interconnected networks of organised activity in which different units contribute to continuity, adaptation, and evolution in different ways.
+**Process** concerns the activities and transformations through which biological organisation is maintained, altered, or lost. Living systems persist through continual material exchange and changing relations among their constituents. Their continuity cannot ordinarily be understood as the permanence of an unchanging collection of parts.
 
-This conclusion naturally raises a further question. If no single unit occupies a universally privileged position, do some forms of organisation nevertheless play a particularly important integrative role within the living world? APS suggests that the answer is yes, and that this role is most clearly expressed by organisms.
+**Scale** concerns the spatial and temporal extents relevant to the processes and dependencies being investigated. It does not prescribe a fixed hierarchy of levels or assume that every biological process belongs to one predetermined scale.
 
-<div class="aps-diagram"> <a href="/assets/diagrams/conceptual-unit-scale.png"> <img src="/assets/diagrams/conceptual-unit-scale.png" alt="Biological Agency Across Scale"> </a> <p class="aps-diagram-caption"> <strong>Biological Agency Across Scale.</strong> APS interprets life as a multiscale process of organised persistence. Genes, cells, organisms, species, and ecosystems each contribute to biological organisation. Organisms occupy a distinctive explanatory role because they function as regulatory hubs through which agency is coordinated across scales.
+Together, these perspectives encourage investigation of how a living organisation maintains its viability, which processes contribute to that maintenance, and over what extents the relevant dependencies operate.
+
+The distinction between living organisation and explanatory unit is crucial.
+
+A gene may be central to explaining inheritance without independently satisfying the APS definition of life. A species or lineage may be indispensable to evolutionary explanation without being a physiologically integrated organism. An ecosystem may provide the relevant domain for investigating nutrient cycling without thereby qualifying as a viability-oriented, constraint-closed individual.
+
+APS does not resolve these distinctions by assigning agency indiscriminately to every biological unit. It asks where the evidence warrants an attribution of living organisation or agency and how that attribution relates to the processes being explained.
+
+This approach may help connect explanations that are usually developed within separate biological disciplines. Whether it does so more effectively than existing processual, organisational, or pluralist approaches remains a comparative question.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/conceptual-unit-scale.png">
+    <img src="/assets/diagrams/conceptual-unit-scale.png" alt="Biological Agency Across Scale">
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Biological Agency Across Scale.</strong>
+    Biological explanations may connect genes, cells, organisms, populations, lineages, and ecosystems across different spatial and temporal extents. APS attributes agency where there is evidence of viability-oriented organisational activity; it does not treat every explanatory unit as an agent.
   </p>
 </div>
 
-## Organisms as Regulatory Hubs
+## Organisms as Sites of Regulatory Integration
 
-Although APS rejects the search for a single privileged unit of life, it does not imply that all biological entities play identical explanatory roles. Different forms of organisation contribute to living systems in different ways. Among these, organisms occupy a distinctive position because they function as regulatory hubs through which processes operating across multiple scales become integrated.
+Although APS rejects a universally privileged explanatory unit, it does not imply that all biological units perform identical roles.
 
-Organisms are the sites at which genetic, cellular, developmental, physiological, behavioural, ecological, and evolutionary processes converge. They coordinate the activities of cells, regulate exchanges with the environment, and mediate interactions that influence both ecological dynamics and evolutionary change. In this sense, organisms provide a unique point of integration within the broader network of biological organisation.
+Organisms remain especially important because many exhibit integrated physiological and developmental organisation. Their continued functioning depends upon the coordination of activities that maintain or restore conditions necessary for viability.
 
-This integrative role helps explain why organism-centred perspectives have remained influential throughout the history of biology. Organisms are not merely collections of parts, nor are they passive outcomes of genetic programs. They actively maintain their own organisation, respond to environmental challenges, and modify the conditions under which they live. Through development, behaviour, niche construction, and reproduction, organisms participate directly in shaping the biological processes that sustain them.
+This integration can involve metabolism, transport, signalling, development, repair, environmental responsiveness, and reproduction. The processes involved may differ substantially among organisms, and their coordination need not be understood through one universal mechanism.
 
-Importantly, describing organisms as regulatory hubs does not imply that they occupy the highest level of a biological hierarchy. APS rejects such hierarchical interpretations. Organisms are not privileged because they sit above other scales. Rather, they are distinctive because they serve as sites of integration where processes occurring across different scales become coordinated into coherent living activity.
+Organisms can therefore provide particularly informative sites for investigating biological agency. Their activities often make it possible to identify relations among organisational maintenance, environmental disturbance, and the conditions of continued functioning.
 
-This perspective also clarifies the relationship between organisms and the many borderline cases discussed earlier. Holobionts, symbiotic associations, colonial organisms, and superorganisms do not undermine the importance of organisms. Instead, they demonstrate that organismality itself can be expressed in diverse ways. What matters is not strict adherence to a particular structural form but the extent to which biological processes become integrated into coherent patterns of organisation, regulation, and persistence.
+This does not imply that every relevant biological process is coordinated by an organism or that organismal boundaries always determine the appropriate units of investigation.
 
-The concept of organismality is therefore especially important. Organismality shifts attention away from rigid categorical definitions and toward degrees of functional integration. Different living systems may express organism-like properties to different extents, yet all participate in broader processes of biological organisation. This perspective accommodates the diversity of life without abandoning the explanatory importance of organisms.
+Ecological processes may extend across many organisms and their surroundings. Evolutionary processes may require populations and lineages as explanatory units. Physiological investigations of clonal plants may identify integrated systems whose boundaries differ from those suggested by genetic ancestry.
 
-From an APS perspective, organisms are thus neither the sole fundamental unit of life nor merely one candidate among many. They occupy a distinctive explanatory role because they provide one of the principal loci through which biological agency becomes organised across scales. Understanding this role helps explain why organisms remain central to biological explanation even within a thoroughly multiscale view of life.
+The organism's importance must consequently be established through the organisation and processes under study rather than inferred from its position in a presumed hierarchy.
+
+Nor should organismality be reduced to a simple continuum of integration. Different criteria of organismhood may identify different properties, and the degree of physiological coordination does not by itself settle every question of evolutionary or developmental individuality.
+
+The distinction is particularly important for holobionts, symbiotic systems, and colonial organisms. Evidence of functional interdependence may support an account of integrated activity without establishing that the entire association is one organism under every relevant criterion.
+
+Within APS, the organism is thus neither the sole fundamental unit of biology nor an arbitrary unit among many. It is an especially important domain for investigating viability-oriented, constraint-closed organisation, while the scope of any particular organismal attribution remains subject to evidence.
+
+This position is closely related to established accounts of biological autonomy and organism-centred explanation. APS's terminology may offer conceptual economy and facilitate communication across disciplines, but those advantages must not be confused with the discovery of an otherwise unavailable explanatory relation.
+
+## The Comparative Status of the APS Account
+
+The rejection of a universally privileged biological unit is not distinctive to APS.
+
+Process biology has challenged the treatment of living systems as static entities whose identities can be understood independently of their activities and histories (Nicholson and Dupré 2018; Dupré 2021). Explanatory pluralism recognises that different questions legitimately require different forms of explanation. Research on biological individuality has shown that physiological, evolutionary, and investigative criteria need not coincide (Clarke 2010, 2013; Waters 2018; Yilmaz Silverman 2026).
+
+APS draws upon a related understanding of biological organisation while proposing a compact vocabulary through which questions about viability, activity, persistence, and explanatory extent can be connected.
+
+The possible value of this vocabulary should be assessed in more than one way.
+
+It may improve **conceptual clarity** by distinguishing the attribution of life or agency from the selection of an explanatory unit.
+
+It may improve **communication** by providing a shared vocabulary for connecting investigations conducted within different biological disciplines.
+
+It may also contribute to **explanatory integration** where it makes relations among otherwise separate accounts easier to identify and assess.
+
+These are worthwhile possibilities, but they do not by themselves establish distinctive explanatory gain.
+
+A stronger claim would require comparison with the best existing account of the same phenomenon, identification of what that account already explains, and demonstration of a residual difference that APS can explain or discriminate more effectively.
+
+The present article does not establish such a residual difference. Its contribution is a conceptual synthesis of established debates and a clarification of the explanatory role APS proposes for agency, process, and scale.
 
 ## Conclusion: The Fundamental Unit Question Reconsidered
 
-The search for life's fundamental unit has shaped biological thought for more than a century. Cells, genes, organisms, species, lineages, and ecosystems have each been proposed as the primary unit of life because each captures important dimensions of biological organisation. The history of the debate demonstrates the remarkable explanatory power of these concepts and the central roles they continue to play within biological science.
+The search for life's fundamental unit has produced some of biology's most productive explanatory concepts.
 
-At the same time, the persistence of competing answers reveals that no single candidate fully encompasses the complexity of living systems. Cells explain biological structure and metabolism. Genes explain heredity and evolutionary continuity. Organisms integrate development, physiology, and behaviour. Species, lineages, and ecosystems illuminate broader forms of historical and ecological organisation. Each contributes something indispensable, yet none can entirely replace the others.
+Cell theory established a common basis for investigating cellular organisation. Genetics transformed the understanding of heredity and molecular function. Organism-centred approaches illuminated physiological and developmental integration. Evolutionary biology developed explanations involving populations, species, and lineages, while ecology revealed dependencies extending across organisms and environments.
 
-Borderline cases such as holobionts, microbiomes, endosymbiotic systems, colonial organisms, superorganisms, and slime moulds make this point especially clear. These examples repeatedly challenge attempts to draw fixed boundaries around biological individuality and reveal that living organisation often extends across multiple forms of integration. Rather than representing exceptions to biological principles, they expose features of life that are present throughout the living world.
+The success of these approaches does not require that one unit displace all the others.
 
-From the APS perspective, the repeated failure to identify a single fundamental unit is not a sign of theoretical inadequacy. Instead, it reflects the nature of life itself. Living systems are organised through agency, process, and scale rather than around a single privileged entity. Different biological units become important because they illuminate different aspects of organised persistence and different forms of continuity operating across the living world.
+Contemporary debates about biological individuality strengthen this conclusion. Plants, symbiotic associations, holobionts, colonial organisms, and evolutionary transitions demonstrate that the units selected for investigation do not always coincide with physiological, developmental, or evolutionary individuals.
 
-The question of life's fundamental unit therefore leads to a deeper insight. Biology repeatedly generates different explanatory centres because life itself is inherently multiscale. Genes, cells, organisms, species, and ecosystems are not rival foundations competing for explanatory supremacy. They are interconnected expressions of biological organisation that contribute, in different ways, to the persistence and evolution of living systems.
+These differences are not merely terminological. They affect what scientists count, measure, compare, and seek to explain.
 
-The search for a single privileged unit ultimately gives way to a richer understanding of life. The living world is not organised around one fundamental entity but around the ongoing coordination of biological agency across multiple scales. Within this broader picture, organisms remain especially important as regulatory hubs through which many of these processes become integrated. Yet their significance derives not from occupying a privileged position in a hierarchy of life, but from the distinctive role they play in sustaining the organised persistence that characterises living systems.
+The fundamental-unit question therefore becomes more productive when divided into distinct questions: What is the explanatory target? Which units are relevant to it? What form of individuality, if any, is being attributed? Which processes and dependencies justify the proposed boundaries?
+
+APS approaches these questions through viability-oriented organisation, biological agency, organised persistence, and the spatial and temporal extents of relevant processes.
+
+Organisms remain especially important because many provide integrated sites of physiological and developmental activity. Their significance, however, does not establish a universal hierarchy of biological units.
+
+The principal conclusion is consequently one of explanatory plurality rather than the replacement of one foundation by another. Biology requires carefully justified units, but it does not require every investigation to privilege the same unit.
+
+APS offers a way of connecting these established insights. Its conceptual economy and potential value for interdisciplinary communication are worth investigating, while claims of distinctive explanatory advance remain open to comparative testing.
+
+## Explanatory Architecture
+
+### Central Question
+
+Does biology require a single fundamental unit of life, or do different biological questions legitimately require different explanatory units?
+
+### Architectural Role
+
+This article synthesises historical and contemporary debates concerning the explanatory roles of cells, genes, organisms, species, lineages, and ecosystems.
+
+It distinguishes the units selected for investigation from claims about biological individuality, organismhood, life, and agency.
+
+### Preceding Dependencies
+
+The argument depends upon distinctions among biological organisation, biological individuality, organismality, and biological agency.
+
+It also draws upon process biology, explanatory pluralism, and the study of evolutionary and physiological individuality to clarify why no single kind of entity must serve every explanatory purpose.
+
+### Related and Subsequent Developments
+
+The APS articles on organisms, biological individuality, genes, species, development, and regulation investigate particular forms of biological unity and their explanatory roles.
+
+These inquiries provide opportunities to examine whether the APS vocabulary improves communication or explanatory integration across biological disciplines and whether any such improvement exceeds what established approaches already provide.
+
+### Related Questions
+
+When does a unit selected for experimental investigation also qualify as a biological individual?
+
+How do physiological, developmental, and evolutionary criteria of individuality differ?
+
+Under what conditions does an association of biological units constitute an integrated organism?
+
+How should the boundaries of a living system be established when its components and environmental dependencies change?
+
+What distinguishes useful conceptual integration from a demonstrable explanatory advance?
+
+### Position Within APS
+
+Agency concerns viability-oriented organisational activity.
+
+Process concerns the activities and transformations through which biological organisation is maintained, altered, or lost.
+
+Scale concerns the spatial and temporal extents relevant to the processes and dependencies under investigation.
+
+These are complementary explanatory perspectives rather than independent causes or successive hierarchical levels. Their application depends upon the biological question and the available evidence.
+
+### Corpus Significance
+
+This article clarifies why APS does not identify a universally privileged biological unit and why an explanatory unit need not itself constitute a living individual or agent.
+
+It connects APS terminology with established debates about organismhood, individuality, explanatory plurality, and biological continuity.
+
+Its contribution is presently conceptual synthesis. Any claim of distinctive explanatory advance requires comparison with the strongest existing alternatives and evidence of a residual explanatory difference.

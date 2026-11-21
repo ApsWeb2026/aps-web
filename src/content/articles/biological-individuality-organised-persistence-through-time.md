@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-11-21
+revised: 2026-11-22
 cluster: conceptual-foundations
 role: core
 
@@ -76,6 +76,10 @@ references:
   - love-2018-individuation-experimental-practice
   - kriegman-et-al-2020-reconfigurable-organisms
   - gumuskaya-et-al-2024-motile-living-biobots
+  - yilmaz-dupre-2025-plant-individuality
+  - yilmaz-silverman-2026-botanical-conception-organism
+  - trappes-2024-reorienting-biological-individuality
+  - waters-2018-ask-not-what-is-an-individual
 ---
 
 **Where this article fits:** 
@@ -164,6 +168,8 @@ The organisational constitution of a biological individual should be distinguish
 
 Montévil and Mossio (2020) provide a complementary account of the relationship between biological identity and scientific practice. Their integration of historical and relational conceptions of organisms shows why organismal identity cannot be established solely through a fixed structural criterion or through organisational relations considered independently of history. This perspective is consistent with APS's emphasis on continuity through transformation, while also identifying an important qualification: the organisational conditions that sustain an individual and the historical conditions through which its identity is established are related but distinguishable. APS's account of organised persistence should therefore be understood as one contribution to the investigation of biological individuality, rather than as a replacement for historical, developmental, or practice-dependent criteria.
 
+Waters (2018), Trappes (2024), and Yilmaz Silverman (2026) further emphasise that biological individuation is shaped by the purposes and practices of scientific investigation. Yilmaz Silverman distinguishes research in which biological individuals must first be identified and counted from physiological investigations in which researchers begin by selecting processes or parameters for measurement and subsequently determine which biological units are relevant. Her example of photosynthesis under magnesium deficiency in wheat illustrates how experimental questions guide the selection of plants, leaves, and developmental stages. APS accommodates this distinction by separating the identification of units appropriate to a particular investigation from the explanation of how an organised biological unity persists through time. The latter is APS's principal concern in this article. Whether that distinction improves explanation or communication beyond existing practice-based accounts remains an open comparative question.
+
 ## Organism–Environment Coupling and Individuality
 
 Traditional accounts often treat individuals as self-contained entities existing independently of their environments. APS rejects this separation. Living systems persist only through ongoing exchanges with surrounding conditions, and these interactions contribute directly to the maintenance of continuity. Individuality therefore extends beyond the simple possession of internal organisation and depends upon the coupling relations through which viability is sustained.
@@ -220,6 +226,8 @@ Holobionts and lichens are particularly instructive because they demonstrate how
 To assess whether the association itself constitutes an individual, it helps to ask what sustains each partner, what sustains the association, and how those processes depend on one another. The loss of a partner may show that it supplies an indispensable resource. Evidence that the partners jointly maintain and re-establish the relations on which their association depends would also support treating the coupled organisation as a candidate individual. Where suitable comparisons are possible, restoring a resource supplied by the partner can help establish which effects arise from resource loss and which depend on the continuing interaction. This makes it possible to ask what persists in each case: a partner, the coupled organisation, or both.
 
 Similar considerations apply to superorganisms and colonies. Eusocial insect colonies, for example, often display forms of coordination, regulation, and continuity that resemble organismal organisation. APS therefore investigates where viability is regulated and how persistence is maintained rather than assuming that individuality must reside exclusively within either the colony or its members.
+
+Plant physiology and the evolutionary history of chloroplasts provide a further illustration of why biological integration must be distinguished from organismhood. Yilmaz and Dupré (2025) emphasise the significance of physiological organisation for investigating plant individuality, while Yilmaz Silverman (2026) discusses the integration of chloroplasts into eukaryotic cellular organisation. Chloroplasts retain distinctive structures and functions, but their physiological integration and evolutionary ancestry do not by themselves establish that they remain autonomous organisms. APS therefore distinguishes the identification of a physiologically significant biological unit from the attribution of organismhood or biological individuality. The relevant questions concern which organisational relations sustain the unit, how its continued functioning depends upon the wider system, and whether the evidence warrants treating it as a persistence-bearing organisational unity in its own right.
 
 These cases are not failures of biological theory. They are opportunities to clarify the diverse forms through which organised persistence can be realised. APS consequently treats fringe systems as valuable diagnostic probes of biological individuality because they reveal the organisational conditions under which continuity, agency, organismhood, and persistence become integrated into distinct forms of biological unity.
 

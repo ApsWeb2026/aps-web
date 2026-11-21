@@ -776,19 +776,6 @@ references:
     status: verified
     authority: MIT Press
     verifiedDate: 2026-07-19
-- id: clarke-okasha-2013-individuality
-  type: book-chapter
-  authors: Clarke, E.
-  year: 2013
-  title: The Multiple Realizability of Biological Individuals
-  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
-  editors: Bouchard, F., & Huneman, P.
-  publisher: MIT Press
-  pages: 303–322
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
 - id: west-eberhard-2003-developmental-plasticity
   type: book
   authors: West-Eberhard, M. J.
@@ -8877,3 +8864,163 @@ references:
     status: verified
     authority: Springer Nature / SpringerLink
     verifiedDate: '2026-11-21'
+- id: yilmaz-2024-return-organism-plant-biology
+  type: journal-article
+  authors: Yilmaz, Ö.
+  year: 2024
+  title: 'Return of the Organism? The Concept in Plant Biology, Now and Then'
+  journal: Theoretical and Experimental Plant Physiology
+  volume: '36'
+  issue: '3'
+  pages: 355–368
+  doi: 10.1007/s40626-024-00334-3
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-22
+- id: trappes-2024-reorienting-biological-individuality
+  type: journal-article
+  authors: Trappes, R.
+  year: 2024
+  title: 'Reorienting the Debate on Biological Individuality: Politics and Practices'
+  journal: Acta Biotheoretica
+  volume: '72'
+  article-number: '4'
+  doi: 10.1007/s10441-024-09479-9
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-22
+- id: waters-2018-ask-not-what-is-an-individual
+  type: book-chapter
+  authors: Waters, C. K.
+  year: 2018
+  title: 'Ask Not "What Is an Individual?"'
+  book-title: 'Individuation, Process, and Scientific Practices'
+  editors: Bueno, O., Chen, R. L., & Fagan, M. B.
+  publisher: Oxford University Press
+  pages: 91–113
+  doi: 10.1093/oso/9780190636814.003.0005
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-11-22
+- id: clarke-2010-problem-biological-individuality
+  type: journal-article
+  authors: Clarke, E.
+  year: 2010
+  title: The Problem of Biological Individuality
+  journal: Biological Theory
+  volume: '5'
+  issue: '4'
+  pages: 312–325
+  doi: 10.1162/BIOT_a_00068
+  verification:
+    status: verified
+    authority: Springer Nature / Biological Theory
+    verifiedDate: 2026-11-22
+- id: clarke-2013-multiple-realizability-biological-individuals
+  type: journal-article
+  authors: Clarke, E.
+  year: 2013
+  title: The Multiple Realizability of Biological Individuals
+  journal: The Journal of Philosophy
+  volume: '110'
+  issue: '8'
+  pages: 413–435
+  doi: 10.5840/jphil2013110817
+  verification:
+    status: verified
+    authority: Oxford University Research Archive / PhilPapers
+    verifiedDate: 2026-11-22
+- id: ghiselin-1974-radical-solution-species-problem
+  type: journal-article
+  authors: Ghiselin, M. T.
+  year: 1974
+  title: A Radical Solution to the Species Problem
+  journal: Systematic Zoology
+  volume: '23'
+  issue: '4'
+  pages: 536–544
+  doi: 10.1093/sysbio/23.4.536
+  verification:
+    status: verified
+    authority: Oxford Academic
+    verifiedDate: 2026-11-22
+- id: hull-1978-matter-individuality
+  type: journal-article
+  authors: Hull, D. L.
+  year: 1978
+  title: A Matter of Individuality
+  journal: Philosophy of Science
+  volume: '45'
+  issue: '3'
+  pages: 335–360
+  doi: 10.1086/288811
+  verification:
+    status: verified
+    authority: Cambridge University Press / Philosophy of Science
+    verifiedDate: 2026-11-22
+- id: bordenstein-theis-2015-host-biology-microbiome
+  type: journal-article
+  authors: Bordenstein, S. R., & Theis, K. R.
+  year: 2015
+  title: 'Host Biology in Light of the Microbiome: Ten Principles of Holobionts and Hologenomes'
+  journal: PLOS Biology
+  volume: '13'
+  issue: '8'
+  article-number: e1002226
+  doi: 10.1371/journal.pbio.1002226
+  verification:
+    status: verified
+    authority: PLOS Biology
+    verifiedDate: 2026-11-22
+- id: zilber-rosenberg-rosenberg-2008-hologenome
+  type: journal-article
+  authors: Zilber-Rosenberg, I., & Rosenberg, E.
+  year: 2008
+  title: 'Role of Microorganisms in the Evolution of Animals and Plants: The Hologenome Theory of Evolution'
+  journal: FEMS Microbiology Reviews
+  volume: '32'
+  issue: '5'
+  pages: 723–735
+  doi: 10.1111/j.1574-6976.2008.00123.x
+  verification:
+    status: verified
+    authority: Wiley / FEMS Microbiology Reviews / PubMed
+    verifiedDate: 2026-11-22
+- id: margulis-1970-origin-eukaryotic-cells
+  type: book
+  authors: Margulis, L.
+  year: 1970
+  title: 'Origin of Eukaryotic Cells: Evidence and Research Implications for a Theory of the Origin and Evolution of Microbial, Plant, and Animal Cells on the Precambrian Earth'
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Google Books bibliographic record / Yale University Press
+    verifiedDate: 2026-11-22
+- id: eronen-2013-no-levels-no-problems
+  type: journal-article
+  authors: Eronen, M. I.
+  year: 2013
+  title: 'No Levels, No Problems: Downward Causation in Neuroscience'
+  journal: Philosophy of Science
+  volume: '80'
+  issue: '5'
+  pages: 1042–1052
+  doi: 10.1086/673898
+  verification:
+    status: verified
+    authority: Cambridge University Press / Philosophy of Science
+    verifiedDate: 2026-11-22
+- id: dupre-2021-metaphysics-biology
+  type: book
+  authors: Dupré, J.
+  year: 2021
+  title: The Metaphysics of Biology
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009024297
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-11-22

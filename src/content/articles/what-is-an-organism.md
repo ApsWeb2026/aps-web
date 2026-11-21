@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-11-21
+revised: 2026-11-22
 cluster: conceptual-foundations
 role: core
 abstract: |
@@ -57,15 +57,18 @@ references:
   - svorcova-2024-knowing-what-an-organism-is
   - varela-maturana-uribe-1974-autopoiesis
   - white-1979-plant-metapopulation
+  - yilmaz-2024-return-organism-plant-biology
   - yilmaz-dupre-2025-plant-individuality
   - yilmaz-silverman-2026-botanical-conception-organism
 ---
 
 **Where This Article Fits:**
 
-*This Core article introduces the organism as a problem in biological explanation and situates the APS account in the wider literature. Its companion, [Organism — The Unity of Viability-Oriented Organisation](/articles/organism-the-unity-of-viability-oriented-organisation/), develops the theoretical account of organismal unity within APS.*
+*This Core article introduces the organism as a problem in biological explanation and situates the APS account within the wider historical and contemporary literature. It examines how physiological integration, organisational continuity, and organism–environment relations contribute to identifying organismal unity. Its companion, [Organism — The Unity of Viability-Oriented Organisation](/articles/organism-the-unity-of-viability-oriented-organisation/), develops the theoretical account of organismal unity within APS.*
 
-*[Organism, Individual, and Agent — Distinguishing Three Forms of Biological Unity](/articles/organism-individual-agent-distinction/) clarifies the distinctions among these concepts. [Biological Individuality — Organised Persistence Through Time](/articles/biological-individuality-organised-persistence-through-time/) examines how a biological individual remains identifiable through change. [Biological Agency as the Activity of Self-Maintenance](/articles/biological-agency-as-the-activity-of-self-maintenance/) develops the criteria for attributing viability-oriented activity to a candidate system.*
+*[Organism, Individual, and Agent — Distinguishing Three Forms of Biological Unity](/articles/organism-individual-agent-distinction/) clarifies the distinctions among these concepts. [Biological Individuality — Organised Persistence Through Time](/articles/biological-individuality-organised-persistence-through-time/) examines how biological individuals remain identifiable through change. [Biological Agency as the Activity of Self-Maintenance](/articles/biological-agency-as-the-activity-of-self-maintenance/) develops the criteria for attributing viability-oriented activity to a candidate system.*
+
+*The present article connects these questions to established research on physiological individuality, organisational autonomy, and scientific practices of individuation. Its purpose is to clarify the explanatory relationships among these approaches, not to claim that APS has already demonstrated explanatory superiority over them.*
 
 ## Introduction
 
@@ -83,7 +86,7 @@ In *Parts of Animals*, Aristotle explains bodily parts through their activities 
 
 Kant gives the reciprocal relation a particularly clear formulation in the *Critique of the Power of Judgment* (§§64–65). His example is a tree. A tree produces other trees, transforms material as it grows, and depends on parts that sustain one another. Kant’s account of natural purpose asks how to judge a being whose parts participate in producing and maintaining the whole through which they themselves exist. It also raises a question about the status of purposive judgement that goes beyond any particular physiological mechanism. In the tradition of *Naturphilosophie* represented by Schelling, the emphasis shifts towards the productivity of nature and the emergence of organised forms. Švorcová’s collection places these approaches alongside process philosophy, keeping open the question of how an organism comes to be and continues to exist as a unity.
 
-The organism’s place in twentieth-century biology varied across fields. Organismal integration remained a practical concern in physiology, development, and much of ecology. In influential sectors of genetics and evolutionary theory, attention shifted towards inheritance, gene action, and population change. Nicholson (2014) describes the renewed prominence of the organism as a fundamental explanatory concept. Baedke (2025) traces that renewal across research on developmental evolution, epigenetics, and organism–environment interaction. The historical point is that the explanatory prominence of the organism changed as the questions and methods of biology changed.
+The organism’s place in twentieth-century biology varied across fields. Organismal integration remained a practical concern in physiology, development, and much of ecology, even as influential sectors of genetics and evolutionary theory increasingly emphasised inheritance, gene action, and population change. Yilmaz (2024) shows why the history of plant biology complicates any general narrative in which the organism disappeared from biological investigation before its recent return. Whole-plant physiology, environmental response, and the relations among plant parts continued to sustain organism-centred inquiry. Nicholson (2014) describes the renewed prominence of the organism as a fundamental explanatory concept, while Baedke (2025) traces its significance across developmental evolution, epigenetics, and organism–environment interaction. The historical point is therefore not that organism-centred biology disappeared and subsequently returned, but that its explanatory prominence and disciplinary expression changed as biological questions and methods developed.
 
 Process biology makes the temporal implications explicit. Cells replace molecular constituents, tissues remodel, and developmental transitions alter anatomy and capacities. Yet these transformations can belong to the history of a single organism. Nicholson and Dupré (2018) treat organisms as relatively stable processes whose continuity depends on activity. APS is compatible with this account of organisms as processes. Its organisational question is which relations enable a particular living unity to persist through transformation. This poses a further question for an organisational account. Which relations maintain that continuity, and under what conditions does a change modify an existing unity or bring a new one into being?
 
@@ -124,6 +127,8 @@ Clarke (2012, 2025) shows what is at stake when researchers need to count indivi
 Plant biology makes it possible to examine organismal unity directly. White (1979) treated the plant as a population of repeated parts whose growth and mortality can be investigated in their own right. A shoot can respond to local light, water, or damage, while its survival and growth remain affected by inputs from elsewhere in the plant. Yilmaz and Dupré (2025) investigate plant individuality through physiological coordination, particularly the balance between tissues that supply resources and those that use or store them. This directs attention to transport and allocation across growing shoots, roots, leaves, and storage tissues.
 
 Yilmaz Silverman (2026), reviewing Clarke’s *The Units of Life* and Baedke’s *The Organism*, distinguishes inquiries that begin with counting individuals from inquiries that begin with measuring biological processes. Plant physiology can proceed by measuring transport, resource allocation, or stress responses and using those results to investigate the extent of integration. A demographic inquiry may instead need an operational counting rule at the outset. The order matters because the choice of unit can shape what the research reveals.
+
+Yilmaz Silverman (2026) illustrates this distinction through physiological research on photosynthesis under magnesium deficiency in wheat. The experimental problem concerns the effects of a nutrient deficiency on photosynthetic activity. Investigators must then determine which plants, leaves, and developmental stages provide appropriate units of comparison. The selection of biological units is therefore guided by the processes being measured, rather than necessarily preceding the formulation of the physiological question. This does not make organismal individuality irrelevant to the investigation. It shows why the criteria used to identify experimental units must be justified in relation to the question and measurements involved.
 
 Consider a rooted strawberry shoot joined by a runner to another shoot. Common descent identifies their genealogical relationship. Tracing water or carbon can establish whether they share resources under specified conditions. Measurements before and after separation can help determine how physiological dependence changes with establishment, season, or disturbance. A single observation of transport establishes exchange. Evidence that transport contributes to the maintenance and recovery of the connected system would support a stronger claim about physiological integration. To determine whether the connected shoots form a single organism, we would also need to establish whether they participate in maintaining a common physiological organisation, or whether one shoot depends on resources supplied by the other while each sustains a distinguishable organisation. Where the shoots become independently capable of sustaining their organisation, a physiological description can recognise that change even as a genealogical description continues to trace them to one founder.
 
@@ -175,4 +180,10 @@ When does a connected set of plant modules sustain a common physiological organi
 
 ### Position Within APS
 
-TThe organism is a physiologically integrated unity of viability-oriented, constraint-closed organisation. Agency concerns the viability-oriented activities through which that organisation is enacted. Process concerns its constitution and continuity through change. Scale concerns the spatial and temporal extents over which the relevant dependencies, activities, and consequences are organised. An attribution of organismal unity draws on evidence about all three.
+The organism is a physiologically integrated unity of viability-oriented, constraint-closed organisation. Agency concerns the viability-oriented activities through which that organisation is enacted. Process concerns its constitution and continuity through change. Scale concerns the spatial and temporal extents over which the relevant dependencies, activities, and consequences are organised. An attribution of organismal unity draws on evidence about all three.
+
+### Corpus Significance
+
+This article establishes organismal unity as a distinct explanatory question within the APS conceptual foundations. It provides a basis for investigating how viability-oriented, constraint-closed organisation constitutes a physiologically integrated living unity, while recognising that experimental individuation, evolutionary individuality, and organismal continuity may require different criteria and evidence.
+
+Its contribution to the APS corpus is conceptual integration and clarification. Whether this integration yields additional explanatory power beyond established organisational, physiological, and practice-based accounts remains an open comparative question.
