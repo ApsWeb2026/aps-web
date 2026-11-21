@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-11-20
+revised: 2026-11-21
 cluster: conceptual-foundations
 role: synthesis
 
@@ -64,6 +64,9 @@ references:
   - virenque-mossio-2024-what-is-agency
   - difrisco-gawne-2025-biological-agency-research-program
   - svensson-2026-agency-natural-purpose
+  - svorcova-2024-organismal-agency
+  - svorcova-2024-plastic-ontogenesis
+  - jaeger-2024-ontogenesis-organisation-agency
 ---
 
 **Where This Article Fits**
@@ -351,6 +354,8 @@ A process that contributes to persistence is not necessarily an independently pu
 Equally, a purposive description should not be taken as evidence that a biological system possesses conscious goals, intentions, or rational decision-making capacities.
 
 The appropriate explanatory vocabulary depends upon the phenomenon being investigated and the capacities that can be established.
+
+The edited volume *Organismal Agency* (Švorcová, ed., 2024) illustrates how closely related approaches can address different explanatory questions. In her chapter on plastic ontogenesis, Švorcová (2024) asks how developmental memory and organisational closure help explain purposive development. Her account directs attention to how retained effects of earlier conditions shape later developmental responses. Jaeger (2024) asks how the continuity of living organisation constrains development and how cellular activity contributes to stable, reproducible developmental outcomes. For APS, these accounts raise two questions: what carries the effects of earlier conditions forward, and when does a cell's contribution to development also warrant attributing agency to the cell itself?
 
 ### Processual Organisation and Developmental Continuity
 

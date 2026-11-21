@@ -8740,3 +8740,35 @@ references:
     status: verified
     authority: ScienceDirect and PubMed
     verifiedDate: 2026-11-21
+- id: svorcova-2024-organismal-agency
+  type: edited-book
+  editors: Švorcová, J.
+  year: 2024
+  title: 'Organismal Agency: Biological Concepts and Their Philosophical Foundations'
+  publisher: Springer
+  doi: 10.1007/978-3-031-53626-7
+  verification:
+    status: verified
+    authority: Springer Nature / SpringerLink
+    verifiedDate: '2026-11-21'
+- id: barresi-gilbert-2020-developmental-biology
+  type: book
+  authors: Barresi, M. J. F., & Gilbert, S. F.
+  year: 2020
+  title: Developmental Biology
+  publisher: Oxford University Press
+  edition: 12th
+  verification:
+    status: verified
+    authority: Royal Veterinary College Library
+    verifiedDate: '2026-11-21'
+- id: oyama-1985-ontogeny-information
+  type: book
+  authors: Oyama, S.
+  year: 1985
+  title: 'The Ontogeny of Information: Developmental Systems and Evolution'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Open British National Bibliography
+    verifiedDate: '2026-11-21'
