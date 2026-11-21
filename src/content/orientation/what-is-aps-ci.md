@@ -286,15 +286,17 @@ These distinctions belong to APS's organisational account of life. They provide 
 
 For readers interested in these distinctions, APS provides detailed clarification articles including:
 
-- **Why APS Is Not Holism**
-
-- **Why APS Is Not Organicism**
-
-- **Why Life Is Not Computation**
-
-- **Why Life Is Not Intelligence**
-
-- **Why Life Is Not Active Inference**
+- **[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)**
+- **[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)**
+- **[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)**
+- **[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)**
+- **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**
+- **[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)**
+- **[Why Life Is Not Enactivism](/articles/why-life-is-not-enactivism/)**
+- **[Why Life Is Not DNA’s Way of Making More DNA](/articles/why-life-is-not-dnas-way-of-making-more-dna/)**
+- **[Why Life Is Not Control Theory](/articles/why-life-is-not-control-theory/)**
+- **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**
+- **[Why Life Is Not a Machine](/articles/why-life-is-not-a-machine/)**
 
 Together these articles locate APS more precisely within the wider landscape of contemporary biological explanation.
 
