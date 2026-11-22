@@ -603,40 +603,23 @@ Conceptual and empirical disagreements may also interact. A proposed definition 
 
 The existence of multiple perspectives therefore does not eliminate scientific disagreement. It makes the identification of genuine disagreement more important.
 
+## Unity Within Diversity
+
+Biology already achieves a measure of conceptual unity through the practice of research. Different disciplines can investigate the same phenomenon, draw on one another’s findings, and make their explanations intelligible to one another by specifying the questions they address and the evidence on which they rely. An account of stomatal closure can explain how the response is produced, how it affects water loss and carbon uptake, or why a particular pattern of responsiveness evolved. A physiological finding about water loss can inform an evolutionary account, provided the connection between that finding and the evolutionary claim is made explicit.
+
+The comparative matrix illustrates one way to make such connections clearer. Its dimensions give readers a common set of questions about explanatory targets, concepts, methods, evidence, and scope. A shared vocabulary could extend this practice across biology. Where researchers use different terms for closely related concepts, they can specify what those concepts share. Where the same term carries different meanings, as *function* can in physiological and evolutionary explanation, they can state which meaning is in use and how it relates to the other. The value of a common vocabulary lies partly in its ability to preserve distinctions that matter.
+
+This is one way to pursue unity within diversity. Biology could develop a shared conceptual framework for relating explanations across disciplines while retaining the specialised vocabularies and methods that give those explanations their precision. The proposal can be assessed in practice. Can readers from different fields using a shared framework identify more accurately what two explanations address, where their claims support or conflict with one another, and what further evidence would connect them? A demonstrated improvement on those tasks would be a worthwhile scientific contribution in its own right.
+
 ## Where APS Fits Within the Landscape
 
-APS can be situated within contemporary biological explanation without claiming to be a universal theory or an improvement over every existing perspective. Its relationship to organisational approaches is examined further in [Organisational Realism in Biology](/articles/organisational-realism-in-biology/).
+APS has its closest intellectual affinities with organisational accounts of biological autonomy, constraint closure, self-maintenance, and function. These accounts provide substantial precedents for its treatment of living organisation and agency. APS also shares with process philosophy an interest in continuity through change, and with systems biology an interest in the dynamics of interacting processes. Its analyses draw on mechanistic, developmental, evolutionary, physiological, and ecological explanations as the biological question requires. Its relationship to organisational approaches is examined further in [Organisational Realism in Biology](/articles/organisational-realism-in-biology/).
 
+The comparative matrix presents APS separately so that readers can examine its particular arrangement of concepts alongside those of the other perspectives. APS defines life and biological agency in relation to viability, takes organised persistence as a recurring explanatory concern, and uses Agency, Process, and Scale to examine how living systems operate, change, and persist. These commitments give APS a recognisable profile within a landscape in which it shares substantial ground with organisational biology.
 
-Its closest intellectual relationships lie with organisational theories of biological autonomy, constraint closure, self-maintenance, and function. These theories provide substantial precedents for many concerns central to APS.
+Within the approach to unity outlined above, APS offers a candidate vocabulary for connecting explanations that bear on the persistence of living systems. For instance, the concept of viability could help researchers relate a physiological account of stomatal closure to an ecological account of plant performance under drought by making explicit the conditions under which reduced water loss contributes to continued functioning. Whether APS terminology helps researchers from different fields identify such connections more accurately remains open to comparative assessment.
 
-APS also shares interests with process philosophy, particularly the importance of temporal continuity through change, and with systems biology, particularly the analysis of interacting processes and their dynamics.
-
-Its use of mechanistic, developmental, evolutionary, physiological, and ecological explanations is consistent with the plural character of contemporary biology.
-
-What APS proposes is a particular conceptual organisation.
-
-The separate presentation of APS in this comparison should not be mistaken for a claim that it constitutes an independently established alternative to organisational biology. Many of its central commitments have substantial precedents in theories of biological autonomy, organisational closure, function, and agency.
-
-APS specifies a particular arrangement of these concerns through its definitions of Life and Agency, its emphasis on organised persistence, and its complementary analytic projections of Agency, Process, and Scale.
-
-Whether this arrangement identifies substantive explanatory differences, improves scientific communication, or offers advantages over existing organisational accounts remains open to comparative investigation.
-
-Its inclusion here establishes a position for descriptive comparison, not a demonstrated theoretical advance.
-
-The framework's conceptual organisation can be described clearly and evaluated for internal coherence.
-
-It may also provide a useful vocabulary for connecting biological questions across disciplinary boundaries. Whether it improves communication or scientific understanding relative to established alternatives remains an empirical or comparative question, not an established consequence of its definitions.
-
-The framework's conceptual economy is similarly distinguishable from explanatory gain. A compact set of definitions may make a theoretical position easier to state, but this does not demonstrate that its total conceptual burden is lower or that its explanations are more effective.
-
-The central point is that APS need not establish superiority to be intelligible as a biological perspective.
-
-Its claims can be stated alongside those of established approaches, their precedents acknowledged, and their consequences investigated without assuming that APS displaces existing explanations.
-
-This position also preserves the possibility of criticism. APS definitions may be challenged, their applicability questioned, their conceptual relations examined, and their explanatory consequences tested.
-
-A framework's place within explanatory pluralism is not a guarantee of adequacy. It is an invitation to make its commitments sufficiently explicit that they can be understood and assessed.
+The framework can be assessed on several grounds. Its definitions and conceptual relationships can be examined for internal coherence. Their concision may make the framework easier to state, while judging its overall conceptual economy requires examining what assumptions and distinctions an application actually needs. Its communicative value depends on how well it helps researchers connect explanations across fields. Any claim of additional explanatory gain depends on what an APS analysis can explain beyond the strongest relevant established account. Each of these questions can be investigated in its own right.
 
 ## Conclusion
 
