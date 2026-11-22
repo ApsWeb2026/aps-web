@@ -3,8 +3,8 @@ date: 2026-11-22
 title: "Five Perspectives on Biological Explanation: Mechanisms, Evolution, Systems, Organisation, and APS"
 slug: five-perspectives-on-biological-explanation
 type: article
-status: draft
-canonical: false
+status: canonical
+canonical: true
 revised: 2026-11-23
 cluster: methodology-and-explanation
 role: synthesis
