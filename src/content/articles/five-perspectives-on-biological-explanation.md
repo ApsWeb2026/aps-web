@@ -4,6 +4,7 @@ title: "Five Perspectives on Biological Explanation: Mechanisms, Evolution, Syst
 slug: five-perspectives-on-biological-explanation
 type: article
 status: canonical
+canonicalLockDate: 2025-11-23
 canonical: true
 revised: 2026-11-23
 cluster: methodology-and-explanation
