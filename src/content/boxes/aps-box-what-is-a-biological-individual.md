@@ -6,8 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-02
-revised: 2026-07-02
-
+revised: 2026-11-22
 cluster: conceptual-foundations
 ---
 
@@ -17,5 +16,4 @@ Biologists have proposed many criteria for identifying individuals, including ph
 
 This creates difficult cases. Is a lichen one individual or several? Is a coral colony an organism or a collection of organisms? Should a host and its microbiome be treated separately or as an integrated system?
 
-Rather than revealing a failure of biology, these cases show that individuality itself can be context-dependent. Biological individuals are often best understood as organised systems whose components function together in ways that sustain a coherent pattern of persistence and activity.
----
+These cases show why the criteria for identifying a biological individual depend on the question being asked. A study of physiological coordination may pick out a different unit from a study of what reproduces or persists across generations. Once a unit has been identified for a particular inquiry, APS asks how it persists through change and what role its organisation plays in sustaining that continuity.
