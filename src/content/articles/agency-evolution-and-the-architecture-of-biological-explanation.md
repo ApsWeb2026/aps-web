@@ -62,13 +62,13 @@ references:
   - svensson-2026-agency-natural-purpose
 ---
 
-## Where This Article Fits
+**Where This Article Fits:**
 
-This Extension article examines how biological agency enters evolutionary explanation. It follows an activity from the historically formed capacities that make it possible, through its contribution to present viability, to any effects it has on conditions relevant to evolution. Its particular concern is what an explicit agency analysis adds once those effects have been explained.
+*This Extension article examines how biological agency enters evolutionary explanation. It follows an activity from the historically formed capacities that make it possible, through its contribution to present viability, to any effects it has on conditions relevant to evolution. Its particular concern is what an explicit agency analysis adds once those effects have been explained.*
 
-[Biological Agency as the Activity of Self-Maintenance](/articles/biological-agency-as-the-activity-of-self-maintenance/) establishes the APS account of agency. [Agency as the Defining Activity of Life](/articles/agency-as-the-defining-activity-of-life/) develops its relation to life, and [Agency and Organised Persistence](/articles/agency-and-organised-persistence/) examines the relation between present activity and continuity through change. [Agency in Contemporary Biology](/articles/agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework/) situates APS within contemporary debates about agency.
+*[Biological Agency as the Activity of Self-Maintenance](/articles/biological-agency-as-the-activity-of-self-maintenance/) establishes the APS account of agency. [Agency as the Defining Activity of Life](/articles/agency-as-the-defining-activity-of-life/) develops its relation to life, and [Agency and Organised Persistence](/articles/agency-and-organised-persistence/) examines the relation between present activity and continuity through change. [Agency in Contemporary Biology](/articles/agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework/) situates APS within contemporary debates about agency.*
 
-[Evolution, Taxonomy, and the Reorganisation of Biological Explanation](/articles/evolution-taxonomy-and-the-reorganisation-of-biological-explanation/) addresses the broader questions of lineage continuity, historical transformation, and what evolves. The present article connects these inquiries through a field experiment in which a change in the behaviour of individual lizards helped explain a reversal in natural selection.
+*[Evolution, Taxonomy, and the Reorganisation of Biological Explanation](/articles/evolution-taxonomy-and-the-reorganisation-of-biological-explanation/) addresses the broader questions of lineage continuity, historical transformation, and what evolves. The present article connects these inquiries through a field experiment in which a change in the behaviour of individual lizards helped explain a reversal in natural selection.*
 
 ## Introduction: Why Did Selection Reverse?
 
