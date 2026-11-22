@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-11-21
+revised: 2026-11-22
 cluster: conceptual-foundations
 abstract: >
   APS is an integrative analytic framework for theoretical biology. It investigates
@@ -26,6 +26,7 @@ relatedArticles:
   - how-aps-explains-life
   - aps-architecture-map
   - explanatory-geometry-of-biology
+  - five-perspectives-on-biological-explanation
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
@@ -34,7 +35,7 @@ relatedArticles:
   - evolution
   - diagnosis-as-continuity-analysis
   - the-developmental-organisation-of-life
-
+  
 relatedGlossaryTerms:
   - life
   - biological-organisation
@@ -369,6 +370,8 @@ Readers interested in the explanatory foundations of APS should continue with:
 Readers seeking the more detailed architecture of the framework should continue with:
 
 4. **The Core Structure of APS** — an account of how the major concepts and explanatory distinctions of APS relate within the wider framework.
+
+Readers wishing to understand how APS relates to established approaches in contemporary biology can then consult [Five Perspectives on Biological Explanation: Mechanisms, Evolution, Systems, Organisation, and APS](/articles/five-perspectives-on-biological-explanation/). This comparative synthesis examines the explanatory priorities, overlaps, and differences among mechanistic explanation, evolutionary biology, systems biology, organisational approaches, and APS, without presuming that APS provides a superior explanation.
 
 ## Explanatory Architecture
 

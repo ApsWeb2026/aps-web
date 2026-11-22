@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-10-28
+revised: 2026-11-22
 cluster: conceptual-foundations
 abstract: >
   This article serves as a guide to navigating the APS framework. Rather
@@ -38,6 +38,7 @@ relatedArticles:
   - how-aps-explains-life
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
+  - five-perspectives-on-biological-explanation
   - aps-architecture-map
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
@@ -52,9 +53,11 @@ relatedArticles:
   - naturalising-life
 ---
 
-> **Where this article fits:** **What Is APS?** introduces the framework. **Naturalising Life** explains how APS develops and assesses its concepts. **How APS Explains Life** introduces its explanatory logic. **The Core Structure of APS** explains its conceptual architecture.
+**Where this article fits:**
+
+ **What Is APS?** *introduces the framework.* **Naturalising Life** *explains how APS develops and assesses its concepts.* **How APS Explains Life** *introduces its explanatory logic.* **The Core Structure of APS** *explains its conceptual architecture.*
 >
-> This article serves a different purpose. It guides readers through the major pathways, domains, and routes of inquiry within APS, explaining how they relate and where particular questions and research programmes belong.
+*This article serves a different purpose. It guides readers through the major pathways, domains, and routes of inquiry within APS, explaining how they relate and where particular questions and research programmes belong.*
 
 ## Introduction
 
@@ -353,6 +356,8 @@ A useful starting pathway is:
 This sequence is a recommendation for navigation, not an obligatory order of conceptual dependence.
 
 Readers can then pursue the specialised pathways according to their interests. Some may begin with persistence, viability, and temporality; others with development, ecology, evolution, cognition, diagnosis, or social organisation.
+
+Readers interested in how APS relates to established approaches in contemporary biology can consult [Five Perspectives on Biological Explanation: Mechanisms, Evolution, Systems, Organisation, and APS](/articles/five-perspectives-on-biological-explanation/). This comparative synthesis examines the explanatory priorities, overlaps, and differences among mechanistic, evolutionary, systems, organisational, and APS approaches. It situates APS within the wider landscape of biological explanation without presuming that APS has demonstrated explanatory superiority.
 
 The wider APS website also distinguishes explanatory proposals from the research undertaken to assess them. Readers interested in current findings, limitations, and continuing investigations should consult [APS Research](/research/).
 
