@@ -9052,3 +9052,41 @@ references:
     status: verified
     authority: PubMed bibliographic record and published article
     verifiedDate: '2026-11-22'
+- id: buckley-2019-stomata-water-status
+  type: journal-article
+  authors: Buckley, T. N.
+  year: 2019
+  title: How Do Stomata Respond to Water Status?
+  journal: New Phytologist
+  volume: '224'
+  issue: '1'
+  pages: 21–36
+  doi: 10.1111/nph.15899
+  verification:
+    status: verified
+    authority: Wiley / New Phytologist and PubMed
+    verifiedDate: 2026-11-22
+- id: lawson-vialet-chabrand-2019-speedy-stomata
+  type: journal-article
+  authors: Lawson, T., & Vialet-Chabrand, S.
+  year: 2019
+  title: Speedy Stomata, Photosynthesis and Plant Water Use Efficiency
+  journal: New Phytologist
+  volume: '221'
+  issue: '1'
+  pages: 93–98
+  doi: 10.1111/nph.15330
+  verification:
+    status: verified
+    authority: Wiley / New Phytologist and PubMed
+    verifiedDate: 2026-11-22
+- id: sober-1984-nature-of-selection
+  type: book
+  authors: Sober, E.
+  year: 1984
+  title: 'The Nature of Selection: Evolutionary Theory in Philosophical Focus'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press edition / Wageningen University Library / Cambridge University Press
+    verifiedDate: 2026-11-22
