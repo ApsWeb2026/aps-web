@@ -5,7 +5,7 @@ slug: five-perspectives-on-biological-explanation
 type: article
 status: draft
 canonical: false
-revised: 2026-11-22
+revised: 2026-11-23
 cluster: methodology-and-explanation
 role: synthesis
 
@@ -443,6 +443,26 @@ The resulting ten dimensions are not a ranking instrument. They identify questio
 The inclusion of function, normativity, and agency reflects their importance to contemporary philosophical debates about biology, not a requirement that every perspective adopt these concepts or provide a general theory of them. Their absence from a particular explanation is not evidence of explanatory inadequacy.
 
 ### Comparative Matrix
+
+<figure>
+  <a href="/assets/diagrams/comparative-matrix.png">
+    <img
+      src="/assets/diagrams/comparative-matrix.png"
+      alt="Open the full-size comparative matrix of mechanistic, evolutionary, systems, organisational, and APS perspectives."
+      width="3770"
+      height="3448"
+      loading="lazy"
+      style="display: block; max-width: 100%; height: auto;"
+    />
+  </a>
+  <figcaption>
+    <strong>Comparative matrix of five perspectives in biological explanation.</strong>
+    The matrix compares their characteristic commitments across ten dimensions.
+    The comparison is selective and allows for variation within each perspective
+    and overlap between perspectives.
+  </figcaption>
+</figure>
+
 
 | Dimension | Mechanistic | Evolutionary | Systems | Organisational | APS |
 |---|---|---|---|---|---|
