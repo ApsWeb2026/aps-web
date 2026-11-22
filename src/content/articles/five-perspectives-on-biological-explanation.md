@@ -445,42 +445,17 @@ The inclusion of function, normativity, and agency reflects their importance to 
 
 ### Comparative Matrix
 
-<figure>
-  <a href="/assets/diagrams/comparative-matrix.png">
-    <img
-      src="/assets/diagrams/comparative-matrix.png"
-      alt="Open the full-size comparative matrix of mechanistic, evolutionary, systems, organisational, and APS perspectives."
-      width="3770"
-      height="3448"
-      loading="lazy"
-      style="display: block; max-width: 100%; height: auto;"
-    />
+<div class="aps-diagram">
+  <a href="/assets/diagrams/comparative-matrix.png" target="_blank" rel="noopener">
+    <img src="/assets/diagrams/comparative-matrix.png" alt="Open the full-size comparative matrix of mechanistic, evolutionary, systems, organisational, and APS perspectives in a new tab." width="3770" height="3448" loading="lazy">
   </a>
-  <figcaption>
+  <p class="aps-diagram-caption">
     <strong>Comparative matrix of five perspectives in biological explanation.</strong>
     The matrix compares their characteristic commitments across ten dimensions.
     The comparison is selective and allows for variation within each perspective
     and overlap between perspectives.
-  </figcaption>
-</figure>
-
-
-| Dimension | Mechanistic | Evolutionary | Systems | Organisational | APS |
-|---|---|---|---|---|---|
-| **1. Explanatory target** | Production and operation of specified phenomena | Evolutionary change, adaptation, and diversity | Interacting system dynamics | Autonomous living organisation | Viability-oriented organised persistence |
-| **2. Organising principle** | Organised entities and activities | Evolutionary processes and historical relations | Interaction, dynamics, and modelling | Autonomy and interdependent constraints | Viability-oriented organisation examined through Agency, Process, and Scale |
-| **3. Explanatory priorities** | How phenomena occur | How traits and lineages arise, change, and respond to evolutionary processes | How interactions generate system behaviour | How living organisation constitutes and maintains itself | How continuity is maintained, transformed, or re-established |
-| **4. Conceptual architecture** | Entities, activities, organisation, mechanisms | Variation, inheritance, selection, drift, descent, and other processes | Networks, feedback, dynamics, robustness, and models | Constraints, closure, autonomy, regulation, and function | Life, viability, agency, process, scale, and organised persistence |
-| **5. Organisation and individuality** | Organised systems specified relative to mechanisms | Populations, lineages, organisms, and evolutionary individuals | System boundaries and components defined for investigation | Constitutive organisation and autonomy | Viability-oriented, constraint-closed living organisation |
-| **6. Methods and evidence** | Experimental intervention and causal reconstruction | Historical, comparative, population-genetic, and experimental evidence | Quantitative experiments, computational and mathematical models, data integration | Constitutive and functional analysis informed by biological evidence | Established biological evidence, organisational analysis, and comparative testing |
-| **7. Function, normativity, and agency** | Investigated where relevant to mechanisms | Functional and adaptive interpretations; agency in selected traditions | Regulation and functional behaviour; agency in selected models | Organisational function, normativity, autonomy, and interactive agency | Viability-relative function and non-intentional biological agency, including intrinsic maintenance |
-| **8. Space, time, and environment** | Relations relevant to mechanism operation | Historical and contemporary change, ecological interactions, and evolutionary spatial structure | Spatial and temporal dynamics and environmental coupling | Organism–environment relations and temporal self-maintenance | Target-sensitive spatial and temporal relations bearing on persistence |
-| **9. Domains of application** | Molecular, cellular, physiological, developmental, and other mechanisms | Evolutionary change, adaptation, diversity, and phylogeny | Regulatory networks, physiology, metabolism, and system dynamics | Autonomy, self-maintenance, biological function, and regulation | Proposed organisational analysis across biological domains; applications under comparative assessment |
-| **10. Scope and relationships** | Does not necessarily answer historical or constitutive questions | Does not replace local mechanistic explanation | Does not necessarily establish a theory of biological autonomy | Requires empirical specification of constitutive dependencies | Does not replace established explanations or establish gain by conceptual integration alone |
-
-The matrix is necessarily selective. Each perspective contains internal diversity that cannot be represented adequately by a single cell.
-
-Its value lies in identifying characteristic commitments while preserving the possibility of overlap.
+  </p>
+</div>
 
 ### Interpreting the Comparison
 
