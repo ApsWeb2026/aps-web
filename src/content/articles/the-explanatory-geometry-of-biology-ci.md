@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-16
-revised: 2026-11-19
+revised: 2026-11-22
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -62,6 +62,7 @@ relatedArticles:
   - why-life-is-not-information-processing
   - why-life-is-not-active-inference
   - why-life-is-not-intelligence-an-aps-clarification
+  - five-perspectives-on-biological-explanation
 references:
   - nicholson-dupre-2018-everything-flows
   - moreno-mossio-2015-biological-autonomy

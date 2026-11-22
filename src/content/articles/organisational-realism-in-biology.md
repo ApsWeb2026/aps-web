@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-09-10
+revised: 2026-11-22
 cluster: philosophy-of-biology
 role: extension
 abstract: >
@@ -34,6 +34,7 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - normativity-in-biology-why-some-things-matter-to-living-systems
   - semiosis-how-differences-come-to-matter-in-living-systems
+  - five-perspectives-on-biological-explanation
 relatedGlossaryTerms:
   - biological-organisation
   - biological-agency

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-09-28
+revised: 2026-11-22
 cluster: methodology-and-explanation
 role: anchor
 
@@ -55,6 +55,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - how-does-scientific-explanation-reach-reality
   - aps-as-an-evolving-intellectual-system
+  - five-perspectives-on-biological-explanation
 
 references:
   - hempel-oppenheim-1948-studies-logic-explanation

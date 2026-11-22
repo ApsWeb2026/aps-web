@@ -90,17 +90,17 @@ references:
   - spencer-2026-agency-defining-activity-life
 ---
 
-## Where This Article Fits
+**Where This Article Fits**
 
-This article belongs to the APS Methodology and Explanation corpus. It provides a comparative introduction to five perspectives through which biologists investigate living systems: mechanistic explanation, evolutionary explanation, systems biology, organisational approaches, and the Agency–Process–Scale (APS) framework.
+*This article belongs to the APS Methodology and Explanation corpus. It provides a comparative introduction to five perspectives through which biologists investigate living systems: mechanistic explanation, evolutionary explanation, systems biology, organisational approaches, and the Agency–Process–Scale (APS) framework.*
 
-It applies the descriptive methodology established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/), which compares research programmes through their explanatory targets, organising principles, priorities, conceptual organisation, characteristic strengths, and scope. That methodology distinguishes understanding explanatory architectures from evaluating particular claims of explanatory advance.
+*It applies the descriptive methodology established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/), which compares research programmes through their explanatory targets, organising principles, priorities, conceptual organisation, characteristic strengths, and scope. That methodology distinguishes understanding explanatory architectures from evaluating particular claims of explanatory advance.*
 
-The present article extends this descriptive approach to a broader selection of biological perspectives, including established scientific fields and explanatory strategies that are not themselves organisational research programmes. It employs ten dimensions to make their commitments accessible across biological disciplines.
+*The present article extends this descriptive approach to a broader selection of biological perspectives, including established scientific fields and explanatory strategies that are not themselves organisational research programmes. It employs ten dimensions to make their commitments accessible across biological disciplines.*
 
-[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/) provides the authoritative account of APS's own explanatory organisation. The present article does not redefine APS, establish its explanatory superiority, or demonstrate that it constitutes an independently established alternative to organisational biology. Rather, it locates APS within a plural landscape of biological explanation and identifies where its commitments overlap with, complement, or potentially differ from those of other approaches.
+*[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/) provides the authoritative account of APS's own explanatory organisation. The present article does not redefine APS, establish its explanatory superiority, or demonstrate that it constitutes an independently established alternative to organisational biology. Rather, it locates APS within a plural landscape of biological explanation and identifies where its commitments overlap with, complement, or potentially differ from those of other approaches.*
 
-The comparison clarifies what each perspective claims without assuming that biology requires any one of them.
+*The comparison clarifies what each perspective claims without assuming that biology requires any one of them.*
 
 ## Introduction
 
@@ -662,30 +662,30 @@ It is to understand what each perspective asks, what it claims, how its claims a
 
 ## Explanatory Architecture
 
-### 1. Central Question
+### Central Question
 
 How can five important perspectives on biological explanation be compared so that their explanatory commitments, overlaps, and differences become intelligible without presupposing theoretical superiority?
 
-### 2. Architectural Role
+### Architectural Role
 
 This article is a comparative synthesis within the APS Methodology and Explanation corpus. It applies established comparative methodology to a selection of broad biological explanatory perspectives and locates APS among them.
 
-### 3. Preceding Dependencies
+### Preceding Dependencies
 
 The article draws upon [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/) for its descriptive-comparative procedure and [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/) for APS's own explanatory architecture. It also depends upon established philosophical discussions of explanatory pluralism, mechanisms, scientific integration, and biological organisation.
 
-### 4. Related and Subsequent Developments
+### Related and Subsequent Developments
 
 The comparison connects to research on mechanistic explanation, evolutionary causation, systems biology, biological autonomy, constraint closure, scientific pluralism, and interdisciplinary integration. Subsequent work may examine additional perspectives or investigate specific conceptual disagreements through focused comparative studies.
 
-### 5. Related Questions
+### Related Questions
 
 What makes biological explanations complementary rather than competing? How should concepts be translated across research traditions? When does a difference in explanatory vocabulary represent a substantive theoretical difference? What evidence is needed to establish additional explanatory gain?
 
-### 6. Position Within APS
+### Position Within APS
 
 The article presents APS as one explanatory perspective among others. It does not make organised persistence the universal target of biology, require all explanations to employ Agency, Process, and Scale, or claim that APS replaces established scientific approaches.
 
-### 7. Where This Article Fits
+### Architectural Placement
 
-The article provides an accessible comparative entry point between general APS orientation material and more specialised discussions of biological explanation, organisational theory, explanatory geometry, and strongest-comparator methodology. Its role is scholarly clarification and intellectual orientation rather than adjudication of theoretical superiority.
+This article provides an accessible comparative entry point between general APS orientation material and more specialised discussions of biological explanation, organisational theory, explanatory geometry, and strongest-comparator methodology. Its role is scholarly clarification and intellectual orientation rather than adjudication of theoretical superiority.

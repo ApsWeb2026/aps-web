@@ -18,7 +18,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-09-14
+revised: 2026-11-22
 cluster: conceptual-foundations
 role: core
 
@@ -44,6 +44,7 @@ relatedArticles:
   - organisational-realism-in-biology
   - aps-and-contemporary-theories
   - aps-and-the-free-energy-principle
+  - five-perspectives-on-biological-explanation
 
 references:
   - id: spencer2026
