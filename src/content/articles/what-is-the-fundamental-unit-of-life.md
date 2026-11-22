@@ -66,13 +66,13 @@ references:
   - waters-2018-ask-not-what-is-an-individual
 ---
 
-*## Where This Article Fits
+**Where This Article Fits**
 
-This Synthesis article examines the search for a fundamental unit of life and asks why different biological investigations employ different explanatory units. It connects the historical prominence of cells, genes, organisms, species, lineages, and ecosystems with contemporary questions about biological individuality and organised persistence.
+*This Synthesis article examines the search for a fundamental unit of life and asks why different biological investigations employ different explanatory units. It connects the historical prominence of cells, genes, organisms, species, lineages, and ecosystems with contemporary questions about biological individuality and organised persistence.*
 
-[What Is an Organism?](/articles/what-is-an-organism/) examines the evidence for organismal unity, while *Biological Individuality — Organised Persistence Through Time* considers how living systems are individuated and how they continue through change. [What Is a Gene in APS?](/articles/what-is-a-gene-in-aps/) and [What Is a Species in APS?](/articles/what-is-a-species-in-aps/) examine two other units whose significance depends on the inquiry in which they are used.
+*[What Is an Organism?](/articles/what-is-an-organism/) examines the evidence for organismal unity, while *Biological Individuality — Organised Persistence Through Time* *considers how living systems are individuated and how they continue through change. [What Is a Gene in APS?](/articles/what-is-a-gene-in-aps/) and [What Is a Species in APS?](/articles/what-is-a-species-in-aps/) examine two other units whose significance depends on the inquiry in which they are used.*
 
-The article brings these questions together through the APS vocabulary of agency, process, and scale. It distinguishes the value of connecting established explanations from the stronger claim that APS provides a distinctive explanatory advance.
+*The article brings these questions together through the APS vocabulary of agency, process, and scale. It distinguishes the value of connecting established explanations from the stronger claim that APS provides a distinctive explanatory advance.*
 
 ## Introduction: The Search for Life's Fundamental Unit
 

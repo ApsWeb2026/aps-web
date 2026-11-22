@@ -9024,3 +9024,31 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: 2026-11-22
+- id: laland-et-al-2011-cause-effect-biology-revisited
+  type: journal-article
+  authors: Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T.
+  year: 2011
+  title: "Cause and Effect in Biology Revisited: Is Mayr's Proximate-Ultimate Dichotomy Still Useful?"
+  journal: Science
+  volume: '334'
+  issue: '6062'
+  pages: '1512–1516'
+  doi: 10.1126/science.1210879
+  verification:
+    status: verified
+    authority: PubMed bibliographic record and published article
+    verifiedDate: '2026-11-22'
+- id: losos-et-al-2006-predator-driven-selection
+  type: journal-article
+  authors: Losos, J. B., Schoener, T. W., Langerhans, R. B., & Spiller, D. A.
+  year: 2006
+  title: Rapid Temporal Reversal in Predator-Driven Natural Selection
+  journal: Science
+  volume: '314'
+  issue: '5802'
+  pages: '1111'
+  doi: 10.1126/science.1133584
+  verification:
+    status: verified
+    authority: PubMed bibliographic record and published article
+    verifiedDate: '2026-11-22'
