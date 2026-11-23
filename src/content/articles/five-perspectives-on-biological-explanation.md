@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonicalLockDate: 2025-11-23
 canonical: true
-revised: 2026-11-23
+revised: 2026-11-24
 cluster: methodology-and-explanation
 role: synthesis
 
@@ -50,7 +50,6 @@ relatedGlossaryTerms:
   - biological-organisation
 
 relatedArticles:
-  - comparative-explanatory-methodology-theoretical-biology
   - explanatory-geometry-of-biology
   - explanatory-grammar
   - biological-explanation-what-needs-to-be-explained

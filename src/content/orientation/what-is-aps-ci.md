@@ -275,17 +275,7 @@ These distinctions belong to APS's organisational account of life. They provide 
 
 For readers interested in these distinctions, APS provides detailed clarification articles including:
 
-- **[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)**
-- **[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)**
-- **[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)**
-- **[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)**
-- **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**
-- **[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)**
-- **[Why Life Is Not Enactivism](/articles/why-life-is-not-enactivism/)**
-- **[Why Life Is Not DNA’s Way of Making More DNA](/articles/why-life-is-not-dnas-way-of-making-more-dna/)**
-- **[Why Life Is Not Control Theory](/articles/why-life-is-not-control-theory/)**
-- **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**
-- **[Why Life Is Not a Machine](/articles/why-life-is-not-a-machine/)**
+For a comparison of APS with other approaches to living organisation, see [**APS and Contemporary Theories**](/articles/aps-and-contemporary-theories/).
 
 Together these articles locate APS more precisely within the wider landscape of contemporary biological explanation.
 
@@ -315,51 +305,12 @@ APS investigates how living organisation works—and what explaining that organi
 
 ## Continuing Through APS
 
-For readers encountering APS for the first time, the framework is best approached through a progressive orientation pathway.
+1. [**Understanding APS**](/orientation/understanding-aps-the-structure-of-the-framework/) maps the framework’s main concepts, questions, and reading routes.
+2. [**Naturalising Life**](/articles/naturalising-life/) explains how APS develops and assesses its account of life.
+3. [**How APS Explains Life**](/orientation/how-aps-explains-life/) introduces the questions APS asks about the organisation and persistence of living systems.
+4. [**The Core Structure of APS**](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/) shows how the framework’s main concepts and explanatory distinctions fit together.
 
-A useful sequence is:
-
-**What Is APS?**
-
-↓
-
-**Understanding APS**
-
-↓
-
-**Naturalising Life**
-
-↓
-
-**How APS Explains Life**
-
-↓
-
-**The Core Structure of APS**
-
-This pathway moves from an introduction to APS through its conceptual and methodological foundations toward the more detailed architecture of the framework.
-
-Readers may then continue with **APS Architecture Map**, **How APS Concepts Fit Together**, or move into specialised domains such as development, ecology, evolution, cognition, diagnosis, resilience, and social organisation.
-
-## Where to Go Next
-
-Readers seeking to understand how APS is organised should continue with:
-
-1. **Understanding APS** — a guide to the major concepts, questions, domains, and routes through the framework.
-
-Readers interested in the methodological foundations of APS should continue with:
-
-2. **Naturalising Life** — an examination of how APS develops and assesses biological concepts and approaches the problem of making Life scientifically intelligible.
-
-Readers interested in the explanatory foundations of APS should continue with:
-
-3. **How APS Explains Life** — an introduction to the organisational account through which APS investigates viability-oriented, constraint-closed living organisation.
-
-Readers seeking the more detailed architecture of the framework should continue with:
-
-4. **The Core Structure of APS** — an account of how the major concepts and explanatory distinctions of APS relate within the wider framework.
-
-Readers wishing to understand how APS relates to established approaches in contemporary biology can then consult [Five Perspectives on Biological Explanation: Mechanisms, Evolution, Systems, Organisation, and APS](/articles/five-perspectives-on-biological-explanation/). This comparative synthesis examines the explanatory priorities, overlaps, and differences among mechanistic explanation, evolutionary biology, systems biology, organisational approaches, and APS, without presuming that APS provides a superior explanation.
+For a comparison with other approaches in contemporary biology, see [**Five Perspectives on Biological Explanation**](/articles/five-perspectives-on-biological-explanation/).
 
 ## Explanatory Architecture
 
