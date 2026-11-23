@@ -52,6 +52,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - comparative-explanatory-methodology-theoretical-biology
   - explanatory-geometry-of-biology
+  - explanatory-grammar
   - biological-explanation-what-needs-to-be-explained
   - biological-explanation-and-organised-persistence
   - organisational-realism-in-biology
@@ -609,7 +610,7 @@ Biology already achieves a measure of conceptual unity through the practice of r
 
 The comparative matrix illustrates one way to make such connections clearer. Its dimensions give readers a common set of questions about explanatory targets, concepts, methods, evidence, and scope. A shared vocabulary could extend this practice across biology. Where researchers use different terms for closely related concepts, they can specify what those concepts share. Where the same term carries different meanings, as *function* can in physiological and evolutionary explanation, they can state which meaning is in use and how it relates to the other. The value of a common vocabulary lies partly in its ability to preserve distinctions that matter.
 
-This is one way to pursue unity within diversity. Biology could develop a shared conceptual framework for relating explanations across disciplines while retaining the specialised vocabularies and methods that give those explanations their precision. The proposal can be assessed in practice. Can readers from different fields using a shared framework identify more accurately what two explanations address, where their claims support or conflict with one another, and what further evidence would connect them? A demonstrated improvement on those tasks would be a worthwhile scientific contribution in its own right.
+This is one way to pursue unity within diversity. Biology could develop a shared *explanatory grammar* that helps researchers relate questions, claims, and evidence across disciplines while preserving the specialised vocabularies and methods that give each explanation its precision. Its value could be tested by asking whether researchers from different fields can use it to identify more accurately what two explanations address, where their claims support or conflict with one another, and what further evidence would clarify how they relate. A demonstrated improvement on those tasks would be a worthwhile scientific contribution in its own right.
 
 ## Where APS Fits Within the Landscape
 
