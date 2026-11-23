@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-11-21
+revised: 2026-11-23
 cluster: conceptual-foundations
 role: clarification
 
@@ -212,7 +212,7 @@ The question with which this article began can now be answered directly.
 
 If Life is viability-oriented, constraint-closed organisation, why call Agency the defining activity of Life?
 
-Living organisation is sustained over time through activity that helps maintain or restore viable conditions. Biological agency names that activity.” In the closing blockquote of the same section, change “is continually enacted” to “is enacted over time
+Living organisation is sustained over time through activity that helps maintain or restore viable conditions. Biological agency names that activity.
 
 The distinction between Life and Agency therefore does not separate two independent biological realities.
 
@@ -226,7 +226,7 @@ Agency does not need to define the whole of Life in order to identify its defini
 
 Its role is both narrower and clearer:
 
-> **Biological agency is viability-oriented organisational activity. It is the defining activity of Life because living organisation is continually enacted through activity that maintains and re-establishes conditions relevant to its own viability.**
+> **Biological agency is viability-oriented organisational activity. It is the defining activity of Life because living organisation is enacted over time enacted through activity that maintains and re-establishes conditions relevant to its own viability.**
 
 That is the strongest continuing interpretation of the original Agency thesis.
 

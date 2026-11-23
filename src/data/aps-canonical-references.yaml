@@ -9090,3 +9090,115 @@ references:
     status: verified
     authority: MIT Press edition / Wageningen University Library / Cambridge University Press
     verifiedDate: 2026-11-22
+- id: mccarty-avery-1946-desoxyribonuclease
+  type: journal-article
+  authors: McCarty, M., & Avery, O. T.
+  year: 1946
+  title: "Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types: II. Effect of Desoxyribonuclease on the Biological Activity of the Transforming Substance"
+  journal: Journal of Experimental Medicine
+  volume: '83'
+  issue: '2'
+  pages: 89–96
+  doi: 10.1084/jem.83.2.89
+  verification:
+    status: verified
+    authority: Rockefeller University Press
+    verifiedDate: '2026-11-23'
+- id: wilkins-stokes-wilson-1953-deoxypentose-nucleic-acids
+  type: journal-article
+  authors: Wilkins, M. H. F., Stokes, A. R., & Wilson, H. R.
+  year: 1953
+  title: "Molecular Structure of Nucleic Acids: Molecular Structure of Deoxypentose Nucleic Acids"
+  journal: Nature
+  volume: '171'
+  issue: '4356'
+  pages: 738–740
+  doi: 10.1038/171738a0
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: '2026-11-23'
+- id: meselson-stahl-1958-replication-dna
+  type: journal-article
+  authors: Meselson, M., & Stahl, F. W.
+  year: 1958
+  title: The Replication of DNA in Escherichia coli
+  journal: Proceedings of the National Academy of Sciences
+  volume: '44'
+  issue: '7'
+  pages: 671–682
+  doi: 10.1073/pnas.44.7.671
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-23'
+- id: nirenberg-matthaei-1961-cell-free-protein-synthesis
+  type: journal-article
+  authors: Nirenberg, M. W., & Matthaei, J. H.
+  year: 1961
+  title: The Dependence of Cell-Free Protein Synthesis in E. coli upon Naturally Occurring or Synthetic Polyribonucleotides
+  journal: Proceedings of the National Academy of Sciences
+  volume: '47'
+  issue: '10'
+  pages: 1588–1602
+  doi: 10.1073/pnas.47.10.1588
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-23'
+- id: crick-et-al-1961-general-nature-genetic-code
+  type: journal-article
+  authors: Crick, F. H. C., Barnett, L., Brenner, S., & Watts-Tobin, R. J.
+  year: 1961
+  title: General Nature of the Genetic Code for Proteins
+  journal: Nature
+  volume: '192'
+  issue: '4809'
+  pages: 1227–1232
+  doi: 10.1038/1921227a0
+  verification:
+    status: verified
+    authority: Nature / National Library of Medicine
+    verifiedDate: '2026-11-23'
+- id: pardee-jacob-monod-1959-inducibility
+  type: journal-article
+  authors: Pardee, A. B., Jacob, F., & Monod, J.
+  year: 1959
+  title: "The Genetic Control and Cytoplasmic Expression of “Inducibility” in the Synthesis of β-galactosidase by E. coli"
+  journal: Journal of Molecular Biology
+  volume: '1'
+  issue: '2'
+  pages: 165–178
+  doi: 10.1016/S0022-2836(59)80045-0
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: '2026-11-23'
+- id: gilbert-muller-hill-1966-isolation-lac-repressor
+  type: journal-article
+  authors: Gilbert, W., & Müller-Hill, B.
+  year: 1966
+  title: Isolation of the Lac Repressor
+  journal: Proceedings of the National Academy of Sciences
+  volume: '56'
+  issue: '6'
+  pages: 1891–1898
+  doi: 10.1073/pnas.56.6.1891
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-23'
+- id: gilbert-muller-hill-1967-lac-operator-dna
+  type: journal-article
+  authors: Gilbert, W., & Müller-Hill, B.
+  year: 1967
+  title: The Lac Operator Is DNA
+  journal: Proceedings of the National Academy of Sciences
+  volume: '58'
+  issue: '6'
+  pages: 2415–2421
+  doi: 10.1073/pnas.58.6.2415
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: '2026-11-23'

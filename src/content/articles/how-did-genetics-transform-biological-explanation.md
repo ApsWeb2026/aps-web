@@ -5,7 +5,7 @@ slug: how-did-genetics-transform-biological-explanation
 type: article
 status: draft
 canonical: false
-revised: '2026-11-13'
+revised: 2026-11-23
 cluster: history-of-ideas
 role: core
 abstract: >
@@ -92,6 +92,8 @@ This history also clarifies where APS enters the discussion. APS asks how geneti
 ## Conclusion
 
 Genetics changed what biologists could ask of evidence about inheritance. Crosses made it possible to distinguish visible resemblance from hereditary constitution. Mapping turned departures from independent inheritance into evidence about chromosome organisation. Biochemical and molecular studies opened the processes through which inherited differences affect organisms to experimental inquiry. The power of genetics lies partly in how these inquiries became connected and partly in the precision with which each could answer its own question.
+
+[How Did Molecular Biology Transform Biological Explanation?](/articles/how-did-molecular-biology-transform-biological-explanation/) follows the evidence for what carries hereditary differences, how that material is copied, and how cells regulate its expression.
 
 ## Explanatory Architecture
 
