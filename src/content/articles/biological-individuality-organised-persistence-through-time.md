@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-11-22
+revised: 2026-11-24
 cluster: conceptual-foundations
 role: core
 
@@ -237,11 +237,9 @@ APS consequently treats normativity as an inherent feature of biological individ
 
 ## Individuality and Resilience
 
-The persistence of biological individuals depends not upon resistance to change but upon resilience in the face of change. Living systems continuously encounter perturbations arising from injury, developmental instability, ecological disruption, environmental fluctuation, and internal degradation. Individuality therefore cannot be explained through static stability alone.
+TRecovery after disturbance can help establish whether the same biological individual has continued through change. For example, after injury an organism may restore a function through a different arrangement of tissues. Evidence of recovery bears on individual continuity when it shows how the repaired or reorganised tissues remain integrated into the organism whose continuity is being traced. The return of function alone leaves that question open.
 
-Resilience concerns the capacity of continuity-producing organisation to reorganise itself when challenged. Repair, compensation, adaptation, and recovery all contribute to preserving continuity despite perturbation. Biological individuals persist because their organisation can accommodate disruption without losing the viability-oriented relations upon which persistence depends.
-
-This perspective further reinforces the processual nature of individuality. Living systems remain individuals not because they avoid disturbance, but because they continually reconstruct continuity under changing conditions. Resilience therefore reveals the organisational capacities through which individuality is maintained and demonstrates that persistence is an ongoing achievement rather than a passive state.
+[**Persistence, Resilience, and Perturbation**](/articles/persistence-organised-continuity-through-time/#persistence-resilience-and-perturbation) develops the general account of repair, compensation, and reorganisation, and explains how perturbation can reveal dependencies that sustain continuity.
 
 ## Individuality and Evolution
 

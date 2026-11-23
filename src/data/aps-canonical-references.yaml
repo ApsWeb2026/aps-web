@@ -9281,3 +9281,24 @@ references:
     status: verified
     authority: Persée / Éditions du CTHS
     verifiedDate: '2026-11-23'
+- id: corning-2018-synergistic-selection
+  type: book
+  authors: Corning, P. A.
+  year: 2018
+  title: 'Synergistic Selection: How Cooperation Has Shaped Evolution and the Rise of Humankind'
+  publisher: World Scientific
+  verification:
+    status: verified
+    authority: Author publication listing and The Quarterly Review of Biology
+    verifiedDate: '2026-11-24'
+- id: sterelny-2012-evolved-apprentice
+  type: book
+  authors: Sterelny, K.
+  year: 2012
+  title: 'The Evolved Apprentice: How Evolution Made Humans Unique'
+  publisher: MIT Press
+  doi: 10.7551/mitpress/9780262016797.001.0001
+  verification:
+    status: verified
+    authority: MIT Press Scholarship Online and MIT Press
+    verifiedDate: '2026-11-24'

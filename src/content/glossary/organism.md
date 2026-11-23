@@ -7,7 +7,7 @@ definition: "In APS, an organism is a viability-oriented, constraint-closed biol
 inBrief: "An organism is a viability-oriented, constraint-closed biological individual that sustains its own persistence."
 status: canonical
 cluster: conceptual-foundations
-revised: 2026-04-10
+revised: 2026-11-24
 seeAlso:
   - biological-individual
   - biological-agency
@@ -21,18 +21,8 @@ seeAlso:
   - affordance
 ---
 
-## Conventional framing
+In APS, organismhood concerns the unity of a living system whose integrated activities help maintain the conditions of its continued functioning. Evidence for that unity can come from coordinated metabolism, transport, regulation, and repair. In modular plants and symbiotic associations, the extent of physiological integration is an empirical question. Exchanges with the surroundings can be essential to the system’s continued functioning.
 
-An organism is typically understood as an individual living entity distinguished by structural boundaries and functional integration. This view often treats organisms as discrete units composed of parts, governed by genetic programs, and situated within an external environment.
+**Biological agency** concerns the system’s viability-oriented organisational activity. **Organised persistence** concerns the continuity of its organisation through change. When the inquiry concerns a reproductive unit or an evolving lineage, the criteria for identifying a biological individual may pick out a different unit.
 
-## APS reframing
-
-APS reconceptualises the organism as a **constraint-closed, viability-oriented organisation** whose defining feature is **agency**—the endogenous activity through which it maintains its own conditions of existence. The organism is not merely bounded but operationally closed and environmentally coupled: its persistence depends on continuous interaction with its surroundings, yet this dependence is organised from within its own viability constraints.
-
-The organism is therefore a **processual individual**: a temporally extended pattern of coordinated activity that integrates structure and process across scales. Its identity lies not in static boundaries but in the ongoing organisation of processes that maintain coherence through change.
-
-In APS, the organism is the primary locus in which **normativity becomes biologically real**. What matters is determined by contribution to viability; internal states and environmental conditions are continuously evaluated in relation to persistence.
-
-## Key Point
-
-The organism is a viability-oriented, constraint-closed individual whose ongoing organisation sustains the conditions of its own persistence.
+[**What Is an Organism?**](/articles/what-is-an-organism/) develops these distinctions and uses plant and symbiotic cases to examine what evidence supports an attribution of organismhood.

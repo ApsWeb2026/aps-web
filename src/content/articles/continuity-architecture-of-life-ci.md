@@ -6,25 +6,20 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
-revised: 2026-06-28
-
+revised: 2026-11-24
 cluster: conceptual-foundations
 role: synthesis
 
 abstract: >
-  Living systems persist through multiple, mutually reinforcing forms of
-  continuity. Development preserves continuity through transformation within
-  lifetimes. Ecology preserves continuity through organism–environment
-  coupling. Evolution preserves continuity through historical inheritance
-  across generations. Cognition preserves continuity through evaluation,
-  meaning, and responsiveness to biologically significant conditions. Social
-  organisation preserves continuity through communication, culture,
-  institutions, and coordinated activity. APS interprets these not as
-  separate domains but as complementary continuity architectures that
-  together sustain organised persistence. This article synthesises the major
-  explanatory domains of APS and presents an integrated account of the
-  organisational architecture through which life maintains continuity across
-  scales, contexts, and timescales.
+  Organised persistence is the continuity of living organisation through
+  change. This article compares forms of continuity investigated in
+  development, ecology, evolution, cognition, and social organisation.
+  It examines how development and organism–environment relations can
+  sustain continuity within a lifetime, how cognition can contribute to
+  viable functioning in systems that exhibit it, and how lineages and
+  social practices can continue across generations. The synthesis asks
+  where these forms of continuity interact and what evidence is needed
+  to establish their dependence in particular cases.
 
 keywords:
   - continuity architecture
@@ -65,83 +60,23 @@ relatedGlossaryTerms:
   - organism-environment-coupling
 
 references:
-  - id: spencer2026agency
-    authors: "Spencer, R."
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: "Biological Theory"
-    doi: "10.1007/s13752-026-00547-6"
-
-  - id: nicholsondupre2018
-    authors: "Nicholson, D. J. & Dupré, J."
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-
-  - id: moreno2015
-    authors: "Moreno, A.; Mossio, M."
-    year: 2015
-    title: "Biological Autonomy"
-    publisher: "Princeton University Press"
-
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "Biological Functions: A Persistence-Based Approach"
-    publisher: "Cambridge University Press"
-
-  - id: godfreysmith2009
-    authors: "Godfrey-Smith, P."
-    year: 2009
-    title: "Darwinian Populations and Natural Selection"
-    publisher: "Oxford University Press"
-
-  - id: westeberhard2003
-    authors: "West-Eberhard, M. J."
-    year: 2003
-    title: "Developmental Plasticity and Evolution"
-    publisher: "Oxford University Press"
-
-  - id: odlingsmee2013
-    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
-    year: 2013
-    title: "Niche Construction: The Neglected Process in Evolution"
-    publisher: "Princeton University Press"
-
-  - id: deacon2011
-    authors: "Deacon, T. W."
-    year: 2011
-    title: "Incomplete Nature"
-    publisher: "W. W. Norton"
-
-  - id: corning2023
-    authors: "Corning, P. A."
-    year: 2023
-    title: "Synergistic Selection"
-    publisher: "World Scientific"
-
-  - id: sterelny2012
-    authors: "Sterelny, K."
-    year: 2012
-    title: "The Evolved Apprentice"
-    publisher: "MIT Press"
-
-  - id: rama2026
-    authors: "Rama, T."
-    year: 2026
-    title: "Autonomy and Development: Distinguishing Teleological Development from Teleological Physiology"
-    journal: "PhilSci Archive"
+  - spencer-2026-agency-defining-activity-life
+  - nicholson-dupre-2018-everything-flows
+  - moreno-mossio-2015-biological-autonomy
+  - godfrey-smith-2009-darwinian-populations
+  - west-eberhard-2003-developmental-plasticity
+  - odling-smee-laland-feldman-2003-niche-construction
+  - deacon-2011-incomplete-nature
+  - rama-2026-autonomy-development-teleology
 ---
 
-## Where This Article Fits
+**Where This Article Fits**
 
-APS approaches biology through the concept of organised persistence: the capacity of living systems to maintain continuity through ongoing change.
+*[**Persistence — Organised Continuity Through Time**](/articles/persistence-organised-continuity-through-time/) introduces organised persistence as the continuity of living organisation through change. This article asks how different forms of continuity are sustained and where they interact. Its examples range from developmental continuity within a lifetime to the historical continuity of lineages and social practices across generations.*
 
-Several articles explore different aspects of this continuity framework. **Persistence — Organised Continuity Through Time** introduces organised persistence as the central explanatory target of biology and explains why living systems must maintain continuity despite continual transformation. This article examines the major continuity architectures through which organised persistence is maintained, showing how development, ecology, evolution, cognition, and social organisation each preserve continuity in distinct but complementary ways.
+*Readers interested in how continuity is organised within biological systems should continue to **The Continuity Structure of Biological Organisation**, which examines the organisational relationships that make continuity possible across process, scale, and constraint relations. Readers interested in the temporal foundations of continuity should see **Temporal Organisation and Organised Persistence** and **Time and Biological Organisation**, which explore how persistence depends upon the organisation of biological time.*
 
-Readers interested in how continuity is organised within biological systems should continue to **The Continuity Structure of Biological Organisation**, which examines the organisational relationships that make continuity possible across process, scale, and constraint relations. Readers interested in the temporal foundations of continuity should see **Temporal Organisation and Organised Persistence** and **Time and Biological Organisation**, which explore how persistence depends upon the organisation of biological time.
-
-Together, these articles provide a layered account of continuity within APS:
+*Together, these articles provide a layered account of continuity within APS:*
 
 - **Persistence — Organised Continuity Through Time** — What organised persistence is and why it matters.
 - **The Continuity Architecture of Life** — The major architectures through which continuity is maintained.
@@ -149,7 +84,7 @@ Together, these articles provide a layered account of continuity within APS:
 - **Temporal Organisation and Organised Persistence** — How persistence depends upon temporal organisation.
 - **Time and Biological Organisation** — The broader role of time in biological explanation.
 
-# The Continuity Architecture of Life
+## Introduction
 
 Life persists.
 
@@ -163,25 +98,21 @@ APS approaches this challenge from a different perspective. Rather than searchin
 
 The question is no longer which process explains life. The question becomes: what organisational architecture makes continuity possible?
 
-This article develops the APS answer to that question. It argues that life persists through multiple interacting continuity architectures. Development preserves continuity through transformation, ecology through organism–environment coupling, evolution through historical inheritance and variation, cognition through evaluation and responsiveness to biologically significant conditions, and social organisation through communication, culture, institutions, and coordination. These architectures are not independent domains assembled after the fact. Together they constitute the organisational structure of life itself.
+This article examines how different forms of continuity interact. Development and organism–environment relations can sustain an individual through change, and cognition can contribute to viable functioning in systems that exhibit it. Evolutionary and social inquiries can follow different entities through time, including lineages and practices that continue across generations. The question is how these forms of continuity affect one another in particular cases.
 
 [[box:continuity-architectures-are-not-separate-systems]]
 
 ## The Problem of Organised Persistence
 
-Every living system confronts the same fundamental challenge: it must remain viable through time. Yet living systems do not persist by remaining unchanged. Cells divide, tissues remodel, organisms grow, physiological states fluctuate, behaviours change, and ecological conditions shift. Continuity therefore depends upon ongoing transformation rather than stasis.
+Organised persistence is the continuity of living organisation through change. A developing organism can remain continuous as its tissues differentiate, its physiology changes, and its relations with the surroundings shift. Explaining that continuity requires identifying the processes and conditions that sustain it in the case under study.
 
-This observation lies at the heart of APS. Organised persistence refers to the capacity of living systems to maintain continuity through ongoing transformation. Continuity is not produced by resisting change but emerges through the organisation of processes that continually preserve viability despite changing circumstances.
-
-Once organised persistence is recognised as the central explanatory problem, a further question immediately follows: what kinds of organisation are required to sustain it?
-
-The answer cannot be confined to any single biological process. Continuity must be maintained within organisms, between organisms and environments, across generations, through systems of evaluation and meaning, and increasingly through social and cultural forms of organisation. Each of these domains addresses a different aspect of the continuity problem. Together they reveal why life requires multiple continuity architectures rather than a single continuity mechanism.
+The same inquiry can lead to questions about different things that continue. Within a lifetime, we can ask how development, regulation, and environmental exchanges sustain an organism. Across generations, we can ask how a lineage continues through reproduction and inheritance, or how a social practice is maintained through learning and transmission. The relation between these forms of continuity depends on the case.
 
 ## Continuity Across Scales and Timescales
 
 The need for multiple continuity architectures becomes apparent once we recognise the extraordinary range of scales across which life persists.
 
-Consider a single organism. Its continuity must be maintained from moment to moment through physiological regulation while also being preserved across years or decades of development and transformation. Beyond the individual lifespan, continuity extends across generations through reproduction, inheritance, and evolution. For many organisms, continuity additionally depends upon ecological relationships that connect them to larger systems of resources, constraints, and environmental conditions. In social species, continuity may extend further still through communication, culture, institutions, and historical traditions.
+In a single organism, physiological regulation can help sustain functioning over short intervals, while development can transform its organisation over a lifetime. Organism–environment relations can support both. Across generations, reproduction and inheritance sustain the continuity of a lineage. In social species, communication and learning can also transmit practices beyond the lifetimes of particular individuals.
 
 These forms of continuity operate across very different timescales. Some occur over seconds, others unfold across years, and still others extend across millennia. Yet all contribute to the persistence of life.
 
@@ -330,27 +261,15 @@ This distinction captures one of the central themes of APS. Life is not organise
 
 ## Why Life Is Organisational
 
-The recognition that continuity depends upon multiple interacting architectures leads directly to one of the central philosophical claims of APS: life is fundamentally organisational.
+APS defines life as **viability-oriented, constraint-closed organisation**. [**What Is Life? — A Biological Question Revisited**](/articles/what-is-life-a-biological-question-revisited/) develops that definition. The question here is how particular processes and conditions contribute to the continuity of living organisation.
 
-This statement should not be misunderstood. APS does not deny the importance of mechanisms, molecules, genes, physiology, behaviour, ecosystems, or evolutionary processes. All remain indispensable to biological explanation. The point is that none of these elements becomes biologically meaningful in isolation. Their significance derives from the roles they play within continuity-preserving organisations.
-
-The same principle applies at larger scales. Development is not merely a collection of processes, ecology is not merely a collection of interactions, evolution is not merely a collection of historical changes, cognition is not merely a collection of informational events, and social organisation is not merely a collection of behaviours. Each becomes intelligible because it contributes to organised persistence.
-
-This perspective helps explain why attempts to reduce life to a single defining process repeatedly encounter difficulties. Every proposed process captures part of the organisational architecture while leaving other aspects unexplained. Biological reality continually exceeds such reductions because continuity itself is organised across multiple domains simultaneously.
-
-APS therefore replaces the search for a single defining process with a search for organisational integration. The central explanatory question becomes:
-
-> How are continuity-preserving processes organised so that viability remains possible?
-
-The answer lies in the continuity architecture itself. Life is not one process. Life is the organisation of many continuity-preserving processes into a coherent and viable whole.
+An organisational explanation specifies how those dependencies work together in a particular case. During development, for example, changes in tissues can depend on continued physiological regulation and on resources supplied through exchanges with the surroundings. An evolutionary account can explain how such dependencies arose or changed across generations. A social account can explain how a practice continues as its participants change. The connection among these explanations depends on what is continuing and which processes sustain it.
 
 [[box:organisational-definition-of-life]]
 
 ## The Continuity Architecture of Life
 
-The continuity architectures can now be viewed together. Development preserves continuity within lives, ecology preserves continuity through organism–environment relations, evolution preserves continuity across generations, cognition preserves continuity through significance and evaluation, and social organisation preserves continuity through communication, culture, and coordination.
-
-Each architecture solves a distinct continuity problem, but together they solve the larger problem of organised persistence. This integration represents the central synthesis of APS.
+Development, regulation, and organism–environment relations can jointly sustain continuity within a lifetime. Cognition can contribute where a system’s responses to biologically significant conditions affect its continued functioning. Evolutionary and social inquiries may follow other forms of continuity, including lineages across generations and practices across changes in membership. The synthesis asks where these dependencies intersect and what difference their interaction makes in a particular case.
 
 The living world is not best understood as a collection of separate domains studied independently, nor is it best understood through a single master process operating beneath biological diversity. Instead, life emerges as an organisational achievement realised through multiple interacting continuity architectures.
 
@@ -358,27 +277,23 @@ The significance of this synthesis extends beyond any individual biological disc
 
 This insight reveals a deeper unity underlying biological explanation. The continuity architectures differ in their mechanisms, scales, histories, and subject matter, yet all address variations of the same question: how does continuity remain possible despite change?
 
-Development answers through transformation.
+- Development answers through transformation.
 
-Ecology answers through coupling.
+- Ecology answers through coupling.
 
-Evolution answers through historical transformation.
+- Evolution answers through historical transformation.
 
-Cognition answers through evaluation.
+- Cognition answers through evaluation.
 
-Social organisation answers through coordination.
+- Social organisation answers through coordination.
 
 Together these answers form the continuity architecture of life.
 
 ## Conclusion
 
-Living systems persist through multiple interacting continuity architectures. Development preserves continuity through transformation, ecology through coupling, evolution through historical inheritance and variation, cognition through evaluation, meaning, and responsiveness, and social organisation through communication, culture, institutions, and coordination.
+The continuity of a living individual, a lineage, and a social practice can be connected in specific cases. A developmental process can sustain an individual and affect its reproductive prospects. A socially transmitted practice can outlast its participants and alter the conditions in which later individuals develop. Each connection calls for evidence about what continues, over which interval, and through which dependencies.
 
-APS interprets these architectures not as separate domains but as complementary components of a larger organisational system. Each contributes to organised persistence in a distinct way, and together they sustain viability across scales ranging from moment-to-moment physiological regulation to evolutionary and cultural continuity extending across generations.
-
-The result is a different way of understanding life. Life is not defined by any single process, explained by any single mechanism, or reducible to any single scale of organisation. Life persists because continuity itself is organised.
-
-Organised persistence is the explanatory target of biology. The continuity architectures described in this article explain how that persistence is maintained across the multiple domains through which life exists. The continuity architecture of life is the organisational structure through which that persistence becomes possible.
+The continuity architecture brings those questions into a common inquiry while preserving the different explanatory tasks of developmental biology, ecology, evolutionary biology, cognitive science, and the study of social organisation.
 
 ## Where to Go Next
 
@@ -392,3 +307,33 @@ Organised persistence is the explanatory target of biology. The continuity archi
 - *APS as a Viability-Oriented Framework*
 
 Together these articles explore the major continuity architectures through which living systems maintain viability-oriented organised persistence across scales, contexts, and timescales.
+
+## Explanatory Architecture
+
+### Central Question
+
+How do different forms of biological continuity arise, and under what conditions does one form of continuity help sustain or transform another?
+
+### Architectural Role
+
+This synthesis connects questions about continuity within a living individual with questions about continuity across generations and changes in membership. It asks what continues in each case, which processes sustain it, and where those processes interact.
+
+### Preceding Explanatory Dependencies
+
+[What Is Life? — A Biological Question Revisited](/articles/what-is-life-a-biological-question-revisited/) establishes the APS definition of life as viability-oriented, constraint-closed organisation. [Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/) distinguishes the continuity of living organisation through change from the activities and conditions that explain it. [Biological Individuality — Organised Persistence Through Time](/articles/biological-individuality-organised-persistence-through-time/) explains how continuity bears on the identity of a living individual.
+
+### Subsequent Explanatory Developments
+
+The domain articles develop these questions for development, ecology, evolution, cognition, and social organisation. A case that connects two domains must specify the entities and intervals involved, identify the proposed dependency, and show what evidence would establish it. For example, a transmitted practice may alter the conditions in which later individuals develop, while the practice itself continues through learning and transmission.
+
+### Related Explanatory Questions
+
+- What sustains the continuity of a developing organism as its organisation changes?
+- When do organism–environment relations contribute to continued functioning?
+- How do developmental processes affect what is transmitted across generations?
+- When does responsiveness to biologically significant conditions contribute to viability?
+- What enables a social practice to continue as its participants change?
+
+### Position Within APS
+
+This article belongs to the Conceptual Foundations cluster as a synthesis. Its contribution is to connect inquiries about continuity while keeping their explanatory targets explicit. The strength of any proposed connection depends on the evidence for that dependency in the case under study.
