@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-11-21
+revised: 2026-11-24
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -69,21 +69,14 @@ references:
   - zimmer-2021-lifes-edge
 ---
 
-**Where this article fits:** *The question *What is life?* *occupies a foundational place within APS because it identifies the biological organisation that the framework takes as its principal object of investigation. Several APS articles approach this organisation from different explanatory perspectives.*
->
- **Agency as the Defining Activity of Life** *examines the viability-oriented organisational activity through which living organisation is enacted and sustained. **Persistence — Organised Continuity Through Time** examines the problem of maintaining continuity despite continual change. **The Continuity Architecture of Life** explores forms through which biological continuity is organised across different spatial and temporal extents.*
->
-*This article has a different role. It addresses the APS account of Life itself: what kind of organisation APS proposes as characteristic of living systems and how that proposal relates to other approaches to the biological question. It therefore serves as one of the principal conceptual entry points into the framework.*
+**Where this article fits:** 
 
-*Together, these articles form an explanatory sequence:*
+*This article asks what kind of organisation APS proposes as characteristic of life and how that proposal relates to other biological accounts. Related articles take up four questions that follow from this account.*
 
-- **What Is Life? — A Biological Question Revisited** — What organisational account of Life does APS propose?
-
-- **Agency as the Defining Activity of Life** — What do living systems do as viability-oriented organisations?
-
-- **Persistence — Organised Continuity Through Time** — How is continuity maintained despite continual change?
-
-- **The Continuity Architecture of Life** — Where and through what forms is biological continuity organised?
+- [**Biological Agency as the Activity of Self-Maintenance**](/articles/biological-agency-as-the-activity-of-self-maintenance/) asks what biological agency is and when it can be attributed to a system.
+- [**Agency as the Defining Activity of Life**](/articles/agency-as-the-defining-activity-of-life/) explains in what sense agency remains the defining activity of life under the current APS definition.
+- [**Persistence — Organised Continuity Through Time**](/articles/persistence-organised-continuity-through-time/) asks how living organisation maintains continuity through change.
+- [**The Continuity Architecture of Life**](/articles/continuity-architecture-of-life/) examines the forms that continuity takes across spatial and temporal extents.
 
 ## Introduction - Why "What Is Life?" Remains an Open Question
 

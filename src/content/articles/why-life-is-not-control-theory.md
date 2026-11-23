@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-10-27
+revised: 2026-11-24
 cluster: philosophy-of-biology
 role: clarification
 
@@ -75,7 +75,7 @@ Control theory has become an indispensable resource for understanding biological
 
 The biological importance of control theory is not in dispute. The question considered here is whether the phenomena it explains, however comprehensively, also constitute an adequate definition of life.
 
-The Agency–Process–Scale (APS) framework approaches this question through a particular conception of living organisation. It defines life as **viability-oriented, constraint-closed organisation** and biological agency as the activity through which living systems sustain the conditions of their continued existence. Agency, Process, and Scale are complementary perspectives on that organisation: what living systems do, how their activity maintains continuity through change, and the spatial and temporal extents over which persistence is organised.
+The Agency–Process–Scale (APS) framework approaches this question through a particular conception of living organisation. It defines life as **viability-oriented, constraint-closed organisation** and biological agency as the activity through which living systems sustain the conditions of their continued existence. 
 
 This formulation differs from identifying life with feedback, regulation, control architecture, or the maintenance of specified variables. The difference, however, must be interpreted carefully. Control theory encompasses diverse approaches, including theories explicitly concerned with autonomous, distributed, adaptive, and self-organising biological systems. APS cannot establish its explanatory value merely by identifying features already recognised within those approaches.
 
@@ -135,23 +135,9 @@ A claim of conceptual difference is therefore easier to establish than a claim o
 
 ## The APS Account of Life and Agency
 
-APS begins from the observation that living systems are organised activities whose continued existence depends upon the maintenance and renewal of conditions that make those activities possible.
+APS defines life as **viability-oriented, constraint-closed organisation** and biological agency as **viability-oriented organisational activity**. [**What Is Life? — A Biological Question Revisited**](/articles/what-is-life-a-biological-question-revisited/) develops the definition of life, and [**Biological Agency as the Activity of Self-Maintenance**](/articles/biological-agency-as-the-activity-of-self-maintenance/) explains when activity warrants an attribution of agency.
 
-Its definition of life brings together two commitments. Viability identifies the conditions under which living organisation can continue, while constraint closure concerns the mutually sustaining relations through which organisational constraints are maintained and regenerated. Living organisation is not merely a configuration of components but an ongoing achievement dependent upon activity.
-
-Within this framework, biological agency is viability-oriented activity sustaining the conditions of persistence. Agency does not require conscious intention, representation, deliberation, or centralised control. It refers to the activity through which living organisation maintains itself under conditions that can support or undermine its continuation.
-
-APS analyses this organisation through three complementary projections.
-
-**Agency** concerns what living systems do in sustaining viable organisation. **Process** concerns how their activity maintains continuity despite material, functional, and environmental change. **Scale** concerns the spatial and temporal extents over which that organisation is constituted, maintained, and transformed.
-
-These are not separate components of life, successive causal stages, or independent levels of reality. They are complementary ways of analysing one organised biological phenomenon.
-
-The associated explanatory problem is **organised persistence**: how living systems maintain and re-establish continuity through change. Organised persistence is not a second definition of life or an additional biological entity. It identifies a question arising from the APS conception of living organisation.
-
-Control-theoretic approaches may provide important explanations of organised persistence. Feedback, adaptive regulation, coordinated control, and disturbance compensation can all contribute to the maintenance of viable conditions. APS does not require that these explanations be subordinated to its terminology.
-
-Its distinctive proposal is to consider regulatory activity in relation to the viability-oriented organisation whose persistence is at issue. Whether this framing clarifies a particular biological problem more effectively than an existing organisational or control-theoretic account remains open to assessment.
+For this comparison, the question is how a control mechanism contributes to the continued functioning of the living organisation in which it operates. Feedback can explain how a system maintains or restores a regulated variable after a disturbance. A control-theoretic account may also explain how that regulatory outcome affects the system’s viability. Where both approaches address that relationship, any claim of additional explanatory value for APS requires comparison on the same biological target.
 
 ## Biological Evaluation, Significance, and Regulation
 
@@ -235,7 +221,7 @@ The appropriate standard is whether APS helps us discover, distinguish, compare,
 
 Control theory has made substantial contributions to the explanation of living systems. Its achievements extend from the analysis of feedback and stability to experimentally investigated molecular regulation, adaptive control, and the integration of biological mechanisms. Contemporary approaches can address endogenous regulation, distributed organisation, and the relationship between control and biological autonomy.
 
-APS does not reject these achievements. It proposes a definition of life that is not identical to control: viability-oriented, constraint-closed organisation. Within this conception, biological agency concerns the activity through which living systems sustain the conditions of their persistence, while Agency, Process, and Scale provide complementary perspectives on that organisation.
+APS defines life as viability-oriented, constraint-closed organisation. This formulation directs attention to how regulatory activity contributes to the continued functioning of living systems.
 
 This distinction is conceptually substantive but scientifically limited until its explanatory consequences are established. It does not demonstrate that control theory cannot explain biological organisation, nor that APS supplies a deeper or more comprehensive explanation of regulation, viability, or normativity.
 
