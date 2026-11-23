@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-16
-revised: 2026-11-22
+revised: 2026-11-24
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -75,7 +75,11 @@ references:
   - mitchell-2003-biological-complexity
 ---
 
-## What This Article Explains
+**Where this article fits:** 
+
+*How APS Explains Life* *introduces organised persistence and the Agency–Process–Scale architecture. This article develops the methodological structure through which APS relates those commitments to biological explanation. It does not establish a universal grammar for biology or replace the independently established explanatory practices of biological science.*
+
+## Introduction - What This Article Explains
 
 Biology contains many forms of explanation. Molecular biology explains biochemical organisation, physiology explains functional regulation, development explains transformation across time, ecology explains organism–environment relations, evolution explains historical change, and cognition research investigates particular forms of biological evaluation and control.
 
@@ -90,8 +94,6 @@ APS approaches that question by distinguishing an explanatory target from an ana
 This does not make organised persistence the compulsory target of biological explanation generally, nor does it make Agency, Process, and Scale necessary dimensions of every adequate biological explanation. Established explanations may remain adequate for their own explananda without employing APS terminology or all three projections.
 
 The explanatory geometry developed here therefore concerns **how APS organises inquiry**. Whether that organisation contributes additional explanation in a particular case is a further comparative question.
-
-> **Where this article fits:** *How APS Explains Life* introduces organised persistence and the Agency–Process–Scale architecture. This article develops the methodological structure through which APS relates those commitments to biological explanation. It does not establish a universal grammar for biology or replace the independently established explanatory practices of biological science.
 
 ## Orientation Pathway
 
@@ -302,6 +304,8 @@ Where APS claims additional explanatory gain, the standard is stronger. The cand
 The legitimate outcomes include positive gain, no additional gain, and unresolved comparison.
 
 Explanatory adequacy within APS therefore concerns both fit to the specified target and disciplined comparison with what established explanations already accomplish.
+
+[**From Matter to Mind: An Exercise in Biological Explanation**](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/#where-the-inquiry-currently-stands) applies this standard to two APS claims about cognition. Comparison with the strongest relevant accounts sharpened the claims and clarified what evidence was still needed. Neither case established additional explanatory gain for APS.
 
 ## Relating Biological Domains Without Reducing Them
 

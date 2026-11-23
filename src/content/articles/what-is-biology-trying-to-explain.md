@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-27
-revised: 2026-10-15
+revised: 2026-11-24
 cluster: conceptual-foundations
 role: synthesis
 
@@ -121,25 +121,11 @@ The task is therefore not to select one historical tradition as the final answer
 
 ## Persistence Through Change
 
-Living systems persist, but they do not do so by remaining unchanged. Their materials are continually replaced, their activities vary, and their relationships with their surroundings shift. Organisms grow, develop, repair damage, regulate internal conditions, and respond to circumstances that cannot be held constant.
+A developing organism can remain continuous even as its tissues differentiate, its physiology changes, and its material constituents are replaced. Process-oriented biology draws attention to the activities that sustain this continuity through transformation (Nicholson and Dupré 2018).
 
-Even the apparent stability of an organism is therefore an achievement. A living cell must continue exchanging matter and energy with its surroundings. A plant must adjust its growth and physiology as light, water, temperature, and other conditions change. An animal must coordinate metabolism, movement, repair, and behaviour while its internal and external circumstances vary.
+APS calls this **organised persistence**: the continuity of living organisation through change. The APS definition of life identifies the kind of organisation at issue. Organised persistence identifies the continuity that calls for explanation. [**Persistence — Organised Continuity Through Time**](/articles/persistence-organised-continuity-through-time/) develops this distinction through cases of development, repair, and recovery.
 
-Process-oriented biology draws attention to this dynamic character of life. Organisms are not simply structures that happen to undergo change. Their continuity depends on continuing processes that rebuild, regulate, and reorganise them. What requires explanation is not change alone, but how continuity is sustained through change (Nicholson and Dupré 2018).
-
-This continuity is not the preservation of every material component or structural detail. Nor does it require an organism to return continually to one fixed state. Development can transform an organism profoundly while preserving the continuity of its living organisation. Repair may restore functioning through arrangements that differ from those present before damage. Responses to new conditions may alter patterns of activity while maintaining viability.
-
-Persistence also takes different forms across time. During an individual life, living organisation must continually maintain or re-establish the conditions of its functioning. Across generations, evolution transforms inherited and developmental organisation rather than preserving it unchanged. Continuity and transformation are therefore not opposites. Biological persistence often depends on the capacity for organised change.
-
-APS calls this continuity **organised persistence**: the continuity of living organisation through change. The term does not refer to mere survival, static endurance, or anything that happens to last. Living systems can maintain continuity despite extensive material turnover, developmental transformation, physiological variation, and changing environmental conditions.
-
-Organised persistence should not be confused with the APS definition of Life. APS defines:
-
-> **Life as viability-oriented, constraint-closed organisation.**
-
-The distinction is important. The definition of Life identifies the organisation APS proposes as characteristic of living systems. Organised persistence identifies the continuity of that living organisation through change. It is therefore a phenomenon requiring explanation, not a second definition of Life and not itself the activity through which continuity is maintained.
-
-This distinction gives the opening question a more focused comparative form. APS does not assume that every biological explanation has organised persistence as its explanandum. It asks instead whether relating different explanatory achievements to the continuity of living organisation can clarify what each contributes and where important explanatory differences remain.
+Continuity provides a possible point of comparison when several explanations bear on it. A physiological account may explain how functioning is sustained during a disturbance, while an ecological account may explain which environmental conditions make that response possible. The question is whether relating the two accounts clarifies a dependency relevant to persistence.
 
 ## The APS Proposal
 
@@ -171,27 +157,13 @@ This proposal does not settle the question posed by the article’s title. It pr
 
 ## Agency, Process, and Scale
 
-APS investigates living organisation through three complementary analytic projections. These distinguish explanatory questions without dividing biological reality into three components, causes, or levels.
+Agency, Process, and Scale distinguish three questions about one living system. Consider a plant responding to water shortage.
 
-**Agency asks what living systems do in relation to viability.** Living systems regulate their activities, respond to changing conditions, repair damage, acquire and use resources, and reorganise under changing circumstances. APS describes biological agency as viability-oriented organisational activity. Agency does not require consciousness or deliberate choice.
+- **Agency** asks what the plant does in relation to viability, such as regulating water loss or altering growth.
+- **Process** asks how continued functioning is sustained or restored as water availability and plant activity change.
+- **Scale** asks which spatial and temporal extents and relations the explanation must follow, such as those linking a short-term stomatal response to whole-plant water balance over a prolonged dry period.
 
-**Process asks how organisational continuity is maintained through change.** Living systems persist through continuing material and organisational activity. Metabolism, regulation, development, repair, and other processes involve change while contributing, in different circumstances, to continuity of living organisation. Process therefore concerns the organisation of continuity through change; it should not be equated simply with time.
-
-**Scale asks across what materially realised spatial and temporal extents, and through what relations among them, persistence is organised.** Biological entities, activities, processes, constraints, and relations occur across physically real spatial and temporal extents. Scale, as an analytic projection, asks which of those extents and relations are relevant to the explanatory problem. It should therefore be distinguished both from physical scale itself and from a hierarchy of biological levels.
-
-Consider a plant responding to water shortage. Agency asks what the plant does in relation to changing conditions: for example, regulating water loss, altering growth, or reallocating resources. Process asks how continuity of living organisation is maintained or re-established while the plant and its conditions change. Scale asks which materially realised spatial and temporal extents and relations—such as cellular activity, whole-plant coordination, environmental interaction, development, or evolutionary history—are relevant to the particular explanation being sought.
-
-Agency, Process, and Scale are **analytic projections of one living organisation**. Their differentiation belongs to explanatory analysis; it does not divide the living system into three independently existing parts. The activities, processes, constraints, and spatial and temporal relations they disclose are biologically real, while their separation into Agency, Process, and Scale serves investigation and explanation.
-
-Analytic differentiation therefore does not imply ontological separation.
-
-This threefold enquiry helps APS compare explanations without forcing them into one form. A molecular explanation may clarify a mechanism, a physiological explanation may clarify coordinated functioning, an ecological explanation may clarify environmental dependency, and an evolutionary explanation may clarify historical transformation. Agency, Process, and Scale help identify how these different contributions bear on organised persistence.
-
-The APS name therefore identifies an explanatory practice rather than a division of reality. It keeps three questions together:
-
-- What is the living system doing?
-- How is continuity being maintained or re-established through change?
-- Across what spatial and temporal extents, and through what relations among them, is that persistence organised?
+The three questions help identify where mechanistic, physiological, and ecological findings bear on the same continuity problem. [**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/#explanatory-target-and-analytic-architecture) develops the analytic distinction and explains how its relevance depends on the question being investigated.
 
 ## What Difference Does This Make?
 
@@ -277,7 +249,10 @@ Readers wishing to continue can follow three immediate paths:
 - **Naturalising Life** explains how APS approaches life through viability-oriented, constraint-closed organisation.
 - **The Core Structure of APS** develops the relationship among Agency, Process, and Scale.
 
-These articles lead into the wider APS programme, including evolution, development, cognition, individuality, ecology, and biological explanation. Each extends the enquiry begun here while addressing a more specific domain or problem.
+The comparative proposal can be followed through two examples:
+
+- [**Five Perspectives on Biological Explanation**](/articles/five-perspectives-on-biological-explanation/#one-biological-phenomenon-several-explanatory-questions-plant-responses-to-water-deficit) uses plant responses to water deficit to show how different perspectives ask different questions about the same phenomenon.
+- [**From Matter to Mind: An Exercise in Biological Explanation**](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/#where-the-inquiry-currently-stands) assesses two specific APS claims against the strongest relevant accounts. The outcome-sensitive account already predicts the result sought by the proposed worm test, and the macaque evidence leaves the mechanism of memory-guided choice unresolved. Neither comparison establishes additional explanatory gain for APS.
 
 Readers interested in the wider scientific and methodological setting of this proposal can also follow the APS-THEORY research programme. Its three studies examine the historical identity of theoretical biology, the functional boundary between theoretical biology and philosophy of biology, and a neutral method for comparing dependency claims in biological explanation. Together, they provide an independent test of the explanatory setting within which APS makes its own proposals.
 
@@ -285,34 +260,29 @@ APS therefore proposes organised persistence neither as biology's final or exclu
 
 ## Explanatory Architecture
 
-This article develops the following explanatory architecture:
+### Central Question
 
-**Biological explanatory plurality**  
-→ biology contains multiple successful explanatory approaches directed toward different questions and phenomena
+How can biology’s different explanatory achievements be compared, and when does relating them to organised persistence clarify what each contributes?
 
-**The comparison problem**  
-→ explanatory diversity raises the question of how different explanatory achievements can be related without reducing them to a single theory, method, or vocabulary
+### Architectural Role
 
-**Living organisation through change**  
-→ organised persistence identifies the continuity of living organisation through change
+This article develops the case for using organised persistence as a point of comparison where several explanations bear on the continuity of living organisation. It begins by identifying the question each account answers and what it already explains.
 
-**The APS comparative proposal**  
-→ organised persistence is treated as a candidate comparative target rather than assumed to be the universal explanandum of biology
+### Preceding Explanatory Dependencies
 
-**Agency, Process, and Scale**  
-→ provide complementary analytic projections through which the living organisation relevant to a comparison can be investigated
+[**Persistence — Organised Continuity Through Time**](/articles/persistence-organised-continuity-through-time/) establishes the distinction between the continuity to be explained and the activities and conditions that sustain it. [**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) develops Agency, Process, and Scale as complementary ways of asking questions about that organisation.
 
-**Comparator control**  
-→ established explanations must first be understood according to their own explanatory targets, strengths, and scope
+### Subsequent Explanatory Developments
 
-**Explanatory contribution**  
-→ APS establishes explanatory gain only where comparison through organised persistence clarifies relationships, distinctions, unresolved questions, or possible lines of investigation beyond what the strongest established explanation already provides
+[**Five Perspectives on Biological Explanation**](/articles/five-perspectives-on-biological-explanation/) shows how several approaches investigate plant responses to water deficit. [**From Matter to Mind: An Exercise in Biological Explanation**](/articles/from-matter-to-mind-an-exercise-in-biological-explanation/) shows how comparison with the strongest relevant accounts can sharpen APS claims while leaving additional explanatory gain unestablished.
 
-**Failure condition**  
-→ if comparison merely redescribes established biological explanations in APS terminology, no explanatory gain has been established
+### Related Explanatory Questions
 
-The architecture therefore moves from **explanatory plurality to controlled comparison**, not from plurality to theoretical unification. Organised persistence provides a proposed point of comparison whose value must be demonstrated rather than assumed.
+- Which biological questions do the accounts under comparison answer?
+- When do accounts of mechanism, present functioning, and evolutionary history bear on the same continuity problem?
+- What can the comparison explain, discriminate, or warrant inferring beyond the strongest relevant account of the same target?
+- How could gains in understanding or communication be assessed in their own right?
 
-**In summary:**
+### Position Within APS
 
-Biology's explanatory diversity does not require unification, but it does invite comparison. APS establishes explanatory gain only where that comparison makes an additional explanatory contribution. Its possible value for scientific understanding, conceptual integration, and communication must be assessed independently.
+This article provides the rationale for comparing biological explanations through organised persistence where continuity is relevant. A comparison can show how explanations complement one another or identify a dependency that needs testing. A claim of additional explanatory gain requires showing what explanatory work the comparison makes possible beyond the strongest relevant account.

@@ -6,18 +6,18 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-11-22
+revised: 2026-11-24
 cluster: conceptual-foundations
 abstract: >
-  APS is an integrative analytic framework for theoretical biology. It investigates
-  living organisation and assesses what an organisational perspective contributes
-  to biological explanation. Its strongest demonstrated contribution is the bounded
-  analytic and methodological organisation of explanatory inquiry. It proposes that
-  Life is viability-oriented, constraint-closed organisation and distinguishes the
-  continuity of that living organisation through change as organised persistence.
-  Agency, Process, and Scale provide complementary analytic projections through
-  which living organisation can be investigated without treating them as components,
-  levels, or independent causes.
+  APS is an integrative analytic framework and research programme in
+  theoretical biology. It proposes that life is viability-oriented,
+  constraint-closed organisation and uses organised persistence to identify
+  the continuity of living organisation through change. Agency, Process,
+  and Scale provide complementary ways to investigate that organisation.
+  APS helps formulate explanatory questions, relate concepts, and identify
+  claims for comparative testing. Any claim of additional explanatory gain
+  requires assessment against the strongest relevant account of the same
+  biological question.
 
 relatedArticles:
   - understanding-aps-the-structure-of-the-framework
@@ -251,25 +251,13 @@ More elaborate forms of cognitive organisation may contribute to mind, selfhood,
 
 ## What APS Proposes to Add
 
-APS does not seek to replace existing biology.
-
-Its strongest demonstrated contribution is bounded: it provides analytic and methodological organisation for formulating explanatory targets, relating concepts, and testing proposed gains. Its substantive biological formulations remain APS commitments or hypotheses with proposition-specific evidential status.
-
-APS proposes that **Life is viability-oriented, constraint-closed organisation**. From this starting point, it asks how living organisation is enacted through biological agency, how continuity is maintained despite change, and across what spatial and temporal extents and materially implemented relations persistence is organised.
-
-This changes the questions that become available for investigation without determining their answers in advance. APS can ask how conditions relevant to viability differ, how organisational constraints are mutually maintained, how living organisation continues through material and developmental change, and how relations across spatial and temporal extents alter the conditions under which local activities occur.
-
-Organised persistence is important within this account, but APS does not begin by assuming that persistence is the explanatory target of every biological phenomenon. Organised persistence identifies the continuity of living organisation through change. Where that continuity is relevant to an explanandum, APS asks what activities, processes, constraints, and relationships contribute to maintaining or re-establishing it.
-
-This perspective can bring organisational questions into relation with development, ecology, evolution, repair, resilience, cognition, and other biological phenomena. Those domains retain their own explanatory targets, methods, evidence, and standards of adequacy. APS contributes only where relating their findings to living organisation clarifies something that the strongest relevant established explanations do not already provide.
+APS provides a way to formulate explanatory targets, relate concepts, and identify claims for comparative testing. When continuity is the question, it asks which activities and conditions help a living system maintain or re-establish its organisation. This can bring findings from different fields to bear on a specific dependency. For example, a physiological account may explain how an organism responds to disturbance, while an ecological account identifies the environmental conditions on which that response depends.
 
 [[box:what-aps-changes-and-what-it-does-not]]
 
-APS therefore changes neither the subject matter of biology nor the validity of its established explanatory approaches. It proposes an organisational account of living systems. What that account contributes must be assessed using independently applicable comparative methods and the strongest relevant established explanations.
+These questions identify what to investigate. The evidence determines whether a proposed dependency holds. To establish additional explanatory gain, a comparison must show what the APS account enables us to explain, distinguish, or infer beyond the strongest relevant account of the same target. [**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) develops that distinction.
 
-Its success depends not on the breadth of phenomena that can be described in APS terminology, but on demonstrated explanatory gain.
-
-APS is therefore being investigated as a **candidate general explanatory framework for biology**. Framework-level assessment has established that APS is **eligible for testing** in that role. This status does not establish general explanatory adequacy, framework-wide explanatory superiority, or broader explanatory scope; those stronger conclusions require independently supported explanatory contributions and, where warranted, evidence of transfer.
+APS is being investigated as a **candidate general explanatory framework for biology**. Its broader adequacy depends on the results of specific comparisons and on evidence that any demonstrated contributions transfer to other cases.
 
 ## What APS Is Not
 
