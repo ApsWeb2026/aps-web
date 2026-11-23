@@ -9202,3 +9202,82 @@ references:
     status: verified
     authority: PNAS / PubMed Central
     verifiedDate: '2026-11-23'
+- id: buffon-1749-histoire-naturelle
+  type: book
+  authors: Buffon, G.-L. Leclerc de.
+  year: 1749
+  title: "Histoire naturelle, générale et particulière, avec la description du Cabinet du Roy"
+  publisher: Imprimerie royale
+  url: https://catalogue.bnf.fr/ark:/12148/cb301741843
+  verification:
+    status: verified
+    authority: Bibliothèque nationale de France
+    verifiedDate: '2026-11-23'
+- id: cuvier-1800-lecons-anatomie-comparee
+  type: book
+  authors: Cuvier, G.
+  year: 1800
+  title: "Leçons d’anatomie comparée"
+  publisher: Baudouin / Genets
+  url: https://wellcomecollection.org/works/qg5sbwqa
+  verification:
+    status: verified
+    authority: Wellcome Collection
+    verifiedDate: '2026-11-23'
+- id: bichat-1800-recherches-physiologiques
+  type: book
+  authors: Bichat, X.
+  year: 1800
+  title: "Recherches physiologiques sur la vie et la mort"
+  publisher: Brosson, Gabon et Cie.
+  url: https://wellcomecollection.org/works/ekds5gfs
+  verification:
+    status: verified
+    authority: Wellcome Collection
+    verifiedDate: '2026-11-23'
+- id: bichat-1809-physiological-researches
+  type: book
+  authors: Bichat, X.
+  year: 1809
+  title: "Physiological Researches upon Life and Death"
+  publisher: Smith & Maxwell
+  url: https://en.wikisource.org/wiki/Physiological_Researches_upon_Life_and_Death
+  verification:
+    status: verified
+    authority: 1809 edition title page / Wikisource
+    verifiedDate: '2026-11-23'
+- id: lamarck-1802-hydrogeologie
+  type: book
+  authors: Lamarck, J.-B.
+  year: 1802
+  title: "Hydrogéologie"
+  publisher: "Chez l’auteur, au Muséum d’histoire naturelle / Agasse / Maillard"
+  url: https://redi.imss.fi.it/lamarck/ouvrages/docpdf/Hydrogeologie.pdf
+  verification:
+    status: verified
+    authority: 1802 edition title page / Museo Galileo
+    verifiedDate: '2026-11-23'
+- id: treviranus-1802-biologie
+  type: book
+  authors: Treviranus, G. R.
+  year: 1802
+  title: "Biologie oder Philosophie der lebenden Natur: für Naturforscher und Aerzte"
+  publisher: Röwer
+  url: https://digisam.ub.uni-giessen.de/ubg-ihd-thaer/content/titleinfo/5319610
+  verification:
+    status: verified
+    authority: Universitätsbibliothek Gießen / digitised volume 1
+    verifiedDate: '2026-11-23'
+- id: barsanti-1997-lamarck-naissance-biologie
+  type: book-chapter
+  authors: Barsanti, G.
+  year: 1997
+  title: "Lamarck et la naissance de la biologie"
+  book-title: "Jean-Baptiste Lamarck (1744–1829). Actes du 119e Congrès national des sociétés historiques et scientifiques, « La guerre », Amiens, 1994"
+  publisher: Éditions du CTHS
+  pages: '349–367'
+  url: https://www.persee.fr/doc/acths_0998-5662_1997_act_119_1_4121
+  verification:
+    status: verified
+    authority: Persée / Éditions du CTHS
+    verifiedDate: '2026-11-23'
