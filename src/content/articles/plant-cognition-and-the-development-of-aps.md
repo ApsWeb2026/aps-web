@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-17
-revised: 2026-11-20
+revised: 2026-11-25
 cluster: cognition-and-mind
 role: synthesis
 
@@ -51,6 +51,15 @@ relatedArticles:
 references:
   - spencer-2025-biological-agency-context-plant-cognition
   - spencer-2026-agency-defining-activity-life
+  - basso-souza-2026-biosemiotic-plant-decision-making
+  - lyon-2006-biogenic-approach-cognition
+  - trewavas-2014-plant-behaviour-intelligence
+  - adams-2018-cognition-wars
+  - segundo-ortin-calvo-2025-plant-cognition-methodological-primer
+  - hilker-et-al-2016-priming-memory-stress
+  - brigandt-2013-explanation-biology
+  - gagliano-et-al-2016-learning-association-plants
+  - markel-2020-lack-evidence-associative-learning-pea-plants
 ---
 
 **Where This Article Fits**
@@ -68,6 +77,8 @@ Plant cognition therefore provides a longitudinal case through which APS itself 
 ## Plant Cognition as an Originating APS Problem
 
 The 2025 paper *Biological Agency as the Context for Plant Cognition* placed biological Agency at the centre of the problem (Spencer 2025). Its starting point was that cognition should not be approached by assuming that familiar human or neural manifestations determine what cognition must be throughout biology. Plants therefore mattered not because they could be assimilated to animals, but because they forced attention towards the biological organisation within which capacities conventionally described as cognitive arise.
+
+This starting point belonged to a wider debate about how to study cognition as a biological phenomenon. Lyon (2006) proposed a biogenic approach that begins with the capacities of living systems, and Trewavas (2014) drew together research on plant behaviour and intelligence. These approaches made plants relevant to the debate by taking their sensing, growth, and coordination seriously. They also raised a question that would become central to APS: which of these capacities provide evidence for cognition?
 
 Agency supplied that context. Living systems were treated as active rather than passive organisations: they regulate their relations with changing conditions, maintain their viability, and modify activity in ways relevant to continued functioning. The original treatment of biological cognition was correspondingly broad. Capacities associated with information processing, prioritisation, retention, learning, prediction, problem solving, and adaptive modulation could be considered within a biologically general account rather than being restricted in advance to organisms possessing nervous systems.
 
@@ -173,7 +184,7 @@ The historical case therefore contains genuine continuity alongside genuine chan
 
 The dependency architecture made it possible to distinguish Cognition from earlier forms of viability-oriented organisation. It did not, by itself, determine where the boundary should be placed.
 
-That required a more specific problem: what differentiates cognition from sophisticated biological regulation?
+That left a more specific problem: what distinguishes cognition from sophisticated biological regulation? Adams (2018) examines the dispute over whether the criteria for cognition can be extended to organisms such as plants. Segundo-Ortín et al. (2025) bring that dispute to the level of research practice, examining how theories of plant cognition shape experimental design and interpretation. Once a plant's response is established, the question is what the experiment allows us to infer about the organisation producing it.
 
 APS minimal-cognition research increasingly focused on this boundary. Immediate responsiveness is insufficient. Fixed regulatory control is insufficient. History-dependent modification or hysteresis is not automatically cognitive. Even retention of prior effects cannot decide the issue if present activity remains exhaustively explainable through fixed or immediate regulatory organisation.
 
@@ -181,11 +192,9 @@ The developing criterion therefore placed greater weight on how biological signi
 
 This introduces what APS describes as **counterfactual depth**. The expression does not imply conscious consideration of alternatives or representation of hypothetical futures. It asks whether the organisation of present activity depends on a structured field of possibilities that matters materially to the system, rather than being exhausted by immediate or fixed regulation.
 
-The distinction is particularly important for plants because many candidate phenomena are temporally extended. Stress history can alter later responsiveness. Developmental states can retain consequences of earlier conditions. Priming can modify subsequent responses. Such phenomena establish biologically consequential organisation across time.
+Basso and Souza (2026) propose that plant decision-making can be enacted through growth. They draw on experiments in which pea tendrils altered their exploratory movements when two supports were available. They interpret the resulting growth trajectory as an embodied choice. For APS, the case raises a further evidential question: what would distinguish a cognitive decision from the physiological regulation of growth in response to competing cues?
 
-They do not automatically establish cognition.
-
-The relevant question becomes whether temporal organisation provides evidence for the organisation of biological significance across viability-relevant possibilities in a way not exhausted by an adequate non-cognitive regulatory account.
+Stress priming makes this distinction concrete. Hilker et al. (2016) review how a prior exposure can alter a later stress response in plants and other organisms lacking a nervous system. Such a change establishes that the earlier event has consequences for subsequent activity. For APS, a cognitive interpretation requires evidence about how those retained effects shape activity across viability-relevant possibilities. The comparison turns on whether an account of physiological priming already explains the particular response.
 
 Plant cognition was clearly relevant to this developing boundary problem. The historical record does not, however, establish that plant cognition alone—or even primarily—caused APS to formulate counterfactual depth or the later minimal-cognition criterion. Those developments belong to a broader APS cognition research programme and apply across biological cases.
 
@@ -202,6 +211,8 @@ APS increasingly separated those questions.
 A framework may organise observations coherently, connect phenomena that were previously treated separately, or supply a conceptually attractive interpretation. None of those achievements by itself demonstrates additional explanatory capacity.
 
 Comparative explanatory methodology therefore begins with a specified explanandum. The relevant question is not whether APS can describe plants as cognitive, or whether another approach can describe the same phenomena as regulation. The question is what particular biological phenomenon requires explanation and what each candidate account explains about it.
+
+This emphasis on specifying what needs to be explained has a precedent in Brigandt's (2013) account of explanatory aims in biology. Accounts of the same phenomenon can be complementary when they answer different questions. In a plant learning experiment, an account of how growth is redirected and an account of how a prior cue–outcome pairing affects a later response may therefore contribute different things. The comparison becomes decisive when the accounts are asked to explain the same result under the same conditions.
 
 The strongest adequate comparator must then be reconstructed on its own terms. For a proposed case of minimal cognition, this normally means asking whether an adequate non-cognitive account based on regulation, physiological memory, developmental plasticity, signalling, or another materially supported process already explains the target phenomenon.
 
@@ -222,6 +233,8 @@ There is no basis in the closed historical record for claiming that plant cognit
 That application changes the status of the question. Plant cognition becomes not only something APS interprets but something against which APS's own explanatory discipline can be tested.
 
 ## Returning to Plants
+
+The debate over associative learning in pea seedlings illustrates why that comparison matters. Gagliano et al. (2016) reported that a cue previously paired with light could influence the subsequent direction of growth. Markel (2020) did not recover the reported effect in a replication attempt. For the APS assessment, the question is whether the growth response reliably depends on the prior pairing once the effects of light and airflow are accounted for. The disagreement leaves that inference unresolved in this experimental system.
 
 When APS returned to plant cognition with a more specific cognition boundary and an explicit comparative method, the question shifted from what plant agency might support in general to what the evidence warrants for each phenomenon. In the [current Core assessment](/articles/plant-cognition-aps-interpretation/), none of the cases reviewed meets the strongest positive evidential grade for minimal cognition. That outcome shows what changed in APS: the framework could recognise plant agency and the biological importance of the underlying phenomena while leaving their cognitive status open.
 

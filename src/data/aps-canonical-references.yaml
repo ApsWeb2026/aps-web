@@ -6659,15 +6659,16 @@ references:
 - id: brooks-petino-zappala-ressl-2026-leveling-biological-systems
   type: journal-article
   authors: Brooks, D. S., Petino Zappala, M. A., & Ressl, S.
-  year: 2026
+  year: 2027
   title: 'Leveling Biological Systems: Material Organization and Scaffolding Scientific Advance'
   journal: Journal of Theoretical Biology
+  volume: '638'
   article-number: '112632'
   doi: 10.1016/j.jtbi.2026.112632
   verification:
     status: verified
-    authority: Elsevier / ScienceDirect
-    verifiedDate: '2026-11-07'
+    authority: Elsevier / ScienceDirect (final journal PDF)
+    verifiedDate: '2026-11-25'
 - id: gefaell-uller-2026-philosophers-science-intellectual-exchange
   type: journal-article
   authors: Gefaell, J., & Uller, T.
@@ -9667,3 +9668,30 @@ references:
     status: verified
     authority: Stanford Encyclopedia of Philosophy author and citation record
     verifiedDate: '2026-11-24'
+- id: basso-souza-2026-biosemiotic-plant-decision-making
+  type: journal-article
+  authors: Basso, L. F., & Souza, G. M.
+  year: 2026
+  title: Biosemiotic Perspective on Plant Decision-Making
+  journal: Kínesis
+  volume: '18'
+  issue: '44'
+  pages: 179–204
+  verification:
+    status: verified
+    authority: Kínesis (journal PDF)
+    verifiedDate: 2026-11-25
+- id: straetmanns-2024-teleology-agnes-arber
+  type: journal-article
+  authors: Straetmanns, V. M.
+  year: 2024
+  title: "The Lady and the Plants: Two Notions of Teleology in Agnes Arber’s Philosophy of Plants"
+  journal: Journal of the History of Biology
+  volume: '57'
+  issue: '4'
+  pages: 533–555
+  doi: 10.1007/s10739-024-09793-5
+  verification:
+    status: verified
+    authority: Springer Nature (article PDF) / PubMed
+    verifiedDate: '2026-11-25'

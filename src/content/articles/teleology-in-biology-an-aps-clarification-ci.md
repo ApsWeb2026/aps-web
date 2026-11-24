@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04
-revised: 2026-11-24
+revised: 2026-11-25
 cluster: philosophy-of-biology
 role: clarification
 
@@ -68,6 +68,7 @@ references:
   - svensson-2026-agency-natural-purpose
   - mcshea-babcock-2024-four-false-dichotomies-teleology
   - allen-neal-2026-teleological-notions-biology
+  - straetmanns-2024-teleology-agnes-arber
 ---
 
 **Where This Article Fits**
@@ -125,6 +126,8 @@ APS makes the relation among agency, process, and scale explicit by asking whose
 ## From Physiological Regulation to Development
 
 A developing organism must sustain viable organisation through change. A seedling, for example, must remain viable as its dependence on stored reserves changes and its photosynthetic capacity develops. The conditions that sustain it during this transition help explain which trajectories are viable. Explaining the direction of a particular trajectory also requires tracing the processes and constraints that generate tissue differentiation, establish photosynthetic capacity, and shape the range of outcomes under different conditions.
+
+Straetmanns (2024) identifies a historical version of this problem in Agnes Arber's plant morphology. Arber's partial-shoot theory of the leaf explained leaf form through its developmental relations to the shoot. Straetmanns calls this approach *formal teleology* because it locates directedness in the development of form. The case illustrates a question that arises alongside viability during development: what gives a developing structure its particular trajectory?
 
 Rama (2026) argues that accounts of physiological autonomy leave open how developmental trajectories acquire their direction. Cuciniello (2026) examines both the compatibility of organisational teleology with mechanistic explanation and the difficulty of extending it to development. In APS terms, the developmental problem concerns both continuity of viability and transformation of the organisation that sustains it. Assessing these claims requires attention to the developmental stage and the timescale of the transition.
 
