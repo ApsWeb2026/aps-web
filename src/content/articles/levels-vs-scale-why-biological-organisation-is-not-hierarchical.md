@@ -56,6 +56,7 @@ references:
   - hermida-ladyman-2026-spatial-structure-biology
   - brooks-petino-zappala-ressl-2026-leveling-biological-systems
   - brooks-difrisco-wimsatt-2021-levels-of-organization
+  - brooks-baedke-2023-biological-agency-without-levels
 ---
 
 ## The Limits of Hierarchical Thinking
@@ -124,6 +125,8 @@ This distinction is central to APS. Spatial organisation may itself be constitut
 The distinction between levels and Scale matters for biological agency, but it does not establish that agency is necessarily multiscale.
 
 In APS, **biological agency is viability-oriented organisational activity**. Agency concerns what living systems do. It should not be identified automatically with a gene, molecular network, nervous system, brain, behavioural mechanism, or any other component merely because that component contributes to the activity being explained.
+
+Brooks and Baedke (2023) argue that an entity’s position in a hierarchy of biological organisation is insufficient to establish whether it exhibits agency or what form that agency takes. In the life cycle of the social amoeba *Dictyostelium discoideum*, they show how changes in agential capacities can come apart from transitions between unicellular and multicellular organisation.
 
 At the same time, rejecting a privileged component does not entail that every explanation of agency must extend across multiple spatial and temporal extents. The required extent must be established from the organisation relevant to the explanandum.
 

@@ -9331,3 +9331,98 @@ references:
     status: verified
     authority: Supplied chapter PDF / published bibliographic record
     verifiedDate: 2026-11-24
+- id: brooks-baedke-2023-biological-agency-without-levels
+  type: journal-article
+  authors: Brooks, D. S., & Baedke, J.
+  year: 2023
+  title: Biological Agency Without Levels
+  journal: 'Spontaneous Generations: A Journal for the History and Philosophy of Science'
+  volume: '11'
+  issue: '1'
+  pages: 1–8
+  doi: 10.4245/spongen.v11i1.15589
+  verification:
+    status: verified
+    authority: Spontaneous Generations (journal PDF)
+    verifiedDate: 2026-11-24
+- id: rouleau-levin-2023-multiple-realizability-of-sentience
+  type: journal-article
+  authors: Rouleau, N., & Levin, M.
+  year: 2023
+  title: The Multiple Realizability of Sentience in Living Systems and Beyond
+  journal: eNeuro
+  volume: '10'
+  issue: '11'
+  article-number: ENEURO.0375-23.2023
+  doi: 10.1523/ENEURO.0375-23.2023
+  verification:
+    status: verified
+    authority: eNeuro (journal PDF)
+    verifiedDate: 2026-11-24
+- id: putnam-1967-psychological-predicates
+  type: book-chapter
+  authors: Putnam, H.
+  year: 1967
+  title: Psychological Predicates
+  book-title: Art, Mind, and Religion
+  editors: Capitan, W. H., & Merrill, D. D.
+  publisher: University of Pittsburgh Press
+  pages: 37–48
+  verification:
+    status: verified
+    authority: PhilPapers / Google Books
+    verifiedDate: 2026-11-24
+- id: fodor-1974-special-sciences
+  type: journal-article
+  authors: Fodor, J. A.
+  year: 1974
+  title: 'Special Sciences (Or: The Disunity of Science as a Working Hypothesis)'
+  journal: Synthese
+  volume: '28'
+  issue: '2'
+  pages: 97–115
+  doi: 10.1007/BF00485230
+  verification:
+    status: verified
+    authority: Springer Nature / JSTOR
+    verifiedDate: 2026-11-24
+- id: kim-1992-multiple-realization-metaphysics-reduction
+  type: journal-article
+  authors: Kim, J.
+  year: 1992
+  title: Multiple Realization and the Metaphysics of Reduction
+  journal: Philosophy and Phenomenological Research
+  volume: '52'
+  issue: '1'
+  pages: 1–26
+  url: https://www.jstor.org/stable/2107742
+  verification:
+    status: verified
+    authority: JSTOR
+    verifiedDate: 2026-11-24
+- id: bechtel-burnston-2026-continually-discovering-complexity
+  type: journal-article
+  authors: Bechtel, W., & Burnston, D. C.
+  year: 2026
+  title: 'Continually Discovering Complexity: Introduction to the Special Issue'
+  journal: Biological Theory
+  volume: '21'
+  pages: 113–117
+  doi: 10.1007/s13752-026-00539-6
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-24
+- id: mundale-2026-multiple-realizability
+  type: journal-article
+  authors: Mundale, J.
+  year: 2026
+  title: 'Multiple Realizability: Still Something After All These Years'
+  journal: Biological Theory
+  volume: '21'
+  pages: 199–209
+  doi: 10.1007/s13752-026-00538-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-24

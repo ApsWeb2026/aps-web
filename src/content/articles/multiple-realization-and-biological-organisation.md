@@ -19,7 +19,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-10-17
+revised: 2026-11-24
 cluster: philosophy-of-biology
 role: clarification
 
@@ -52,83 +52,23 @@ relatedArticles:
   - organism-environment-coupling
 
 references:
-  - id: putnam1967
-    authors: "Putnam, H."
-    year: 1967
-    title: "Psychological Predicates"
-    publisher: "University of Pittsburgh Press"
-
-  - id: fodor1974
-    authors: "Fodor, J. A."
-    year: 1974
-    title: "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)"
-    journal: "Synthese"
-    volume: "28"
-    pages: "97–115"
-
-  - id: kim1992
-    authors: "Kim, J."
-    year: 1992
-    title: "Multiple Realization and the Metaphysics of Reduction"
-    journal: "Philosophy and Phenomenological Research"
-    volume: "52(1)"
-    pages: "1–26"
-
-  - id: morenomossio2015
-    authors: "Moreno, A. & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy"
-    publisher: "Springer"
-    doi: "10.1007/978-94-017-9837-2"
-
-  - id: thompson2007
-    authors: "Thompson, E."
-    year: 2007
-    title: "Mind in Life"
-    publisher: "Harvard University Press"
-
-  - id: bechtel2008
-    authors: "Bechtel, W."
-    year: 2008
-    title: "Mental Mechanisms"
-    publisher: "Routledge"
-
-  - id: bichbechtel2021
-    authors: "Bich, L. & Bechtel, W."
-    year: 2021
-    title: "Mechanism, Autonomy, and Biological Explanation"
-    journal: "Biology & Philosophy"
-    volume: "36(6)"
-    doi: "10.1007/s10539-021-09829-8"
-
-  - id: bechtelburnston2026
-    authors: "Bechtel, W. & Burnston, D. C."
-    year: 2026
-    title: "Continually Discovering Complexity: Introduction to the Special Issue"
-    journal: "Biological Theory"
-    doi: "10.1007/s13752-026-00539-6"
-
-  - id: mundale2026
-    authors: "Mundale, J."
-    year: 2026
-    title: "Multiple Realizability: Still Something After All These Years"
-    journal: "Biological Theory"
-    pages: "1–11"
-    doi: "10.1007/s13752-026-00538-7"
-
-  - id: nicholsondupre2018
-    authors: "Nicholson, D. J. & Dupré, J."
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-
-  - id: spencer2026
-    authors: "Spencer, R. D."
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: "Biological Theory"
-    doi: "10.1007/s13752-026-00547-6"
+  - putnam-1967-psychological-predicates
+  - fodor-1974-special-sciences
+  - kim-1992-multiple-realization-metaphysics-reduction
+  - moreno-mossio-2015-biological-autonomy
+  - thompson-2007-mind-in-life
+  - bechtel-2008-mental-mechanisms
+  - bich-bechtel-2021-mechanism-autonomy-explanation
+  - bechtel-burnston-2026-continually-discovering-complexity
+  - mundale-2026-multiple-realizability
+  - nicholson-dupre-2018-everything-flows
+  - spencer-2026-agency-defining-activity-life
+  - rouleau-levin-2023-multiple-realizability-of-sentience
 ---
+
+**Where This Article Fits:**
+
+*This article applies the APS account of organised persistence to the debate over multiple realization. It asks when materially different mechanisms can count as instances of the same biological capacity. The APS criterion is whether the capacity plays a comparable role in sustaining viable organisation in each system. This criterion helps assess comparisons across organisms and between living and artificial systems. Attributing subjective experience raises a further evidential question.*
 
 ## Introduction
 
@@ -314,6 +254,8 @@ APS partially agrees with the insight motivating this move:
 
 However, APS argues that many computational interpretations detached cognition from the viability-oriented organisational conditions characterising living systems.
 
+Rouleau and Levin (2023) distinguish multiple realizability from substrate independence and argue for investigating cognitive capacities across neural, non-neural, and artificial systems. They also recognise that attributing sentience, understood as the capacity for subjective experience, poses a further evidential problem. For APS, the biological comparison asks whether the capacity plays a comparable role in sustaining each system's viability. How to establish whether either system has subjective experience remains a separate question.
+
 Formal equivalence alone does not establish biological equivalence.
 
 A system may reproduce selected behavioural outputs associated with cognition without participating in:
@@ -355,3 +297,38 @@ It derives from organised participation within persistence-maintaining biologica
 
 APS neither rejects nor uncritically accepts multiple realization. Instead, it reconstructs realization in organisational terms by grounding explanatory equivalence in viability-oriented, continuity-maintaining, constraint-closed persistence rather than abstract functional similarity alone.
 
+## Explanatory Architecture
+
+### Central Question
+
+When do materially distinct mechanisms realise the same biological capacity, and what evidence justifies treating them as equivalent for a given explanation?
+
+### Architectural Role
+
+This article specifies what an APS account of multiple realization requires. Two mechanisms can differ in their material implementation while performing comparable roles in the maintenance of viable organisation. The comparison starts by specifying the capacity under investigation and then asks how it contributes to persistence in each system.
+
+### Builds On
+
+- **Organised persistence** supplies the continuity through change that the relevant biological capacities help sustain.
+- **Constraint closure** explains how mechanisms can contribute to maintaining the conditions on which their own operation depends.
+- **Biological function** connects what a mechanism does to the role it plays in the organisation of a living system.
+
+### Develops Into
+
+- [Emergence in Biology — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/) considers how organisational capacities depend on the interactions through which they are realised.
+- [Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/) applies the distinction between comparable performance and comparable biological organisation to artificial systems.
+
+### Related Explanatory Questions
+
+- At what level of specificity must a biological capacity be defined for a comparison between realizers to be informative?
+- What evidence shows that a capacity plays a comparable role in maintaining viability in two materially different systems?
+- When do differences in development, environmental coupling, or dependence on other processes matter to the comparison?
+- What further evidence would be required to move from a comparison of cognitive capacities to an attribution of subjective experience?
+
+### Position Within APS
+
+This is a Clarification article in the Philosophy of Biology cluster. It connects the APS account of mechanism and biological function to the question of how the same capacity can be realised in materially different ways. Organisational equivalence is assessed in relation to the capacity under investigation and the role it plays in each system.
+
+### Corpus Significance
+
+The article gives APS a common question for comparisons across lineages, mechanisms, and living and artificial systems: what must be shared for two materially different capacities to count as equivalent for the explanation at hand? This question gives the discussions of function, cognition, and artificial agency a consistent basis for judging what a comparison establishes.
