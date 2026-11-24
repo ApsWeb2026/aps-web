@@ -78,6 +78,7 @@ references:
   - kriegman-et-al-2020-reconfigurable-organisms
   - gumuskaya-et-al-2024-motile-living-biobots
   - jaeger-2024-ontogenesis-organisation-agency
+  - fabregas-tejeda-baedke-prieto-radick-2024-organismal-agency
 ---
 
 **Where This Article Fits**
@@ -131,6 +132,8 @@ Agency is the viability-oriented activity through which living systems sustain t
 Biology has achieved extraordinary explanatory success in revealing how living systems function. It explains metabolism, development, physiology, evolution, ecology, behaviour, and countless other aspects of biological organisation with increasing precision. Yet the success of these disciplines does not by itself resolve a more fundamental conceptual question: what unifies these diverse activities as the characteristic activity of life?
 
 Biologists routinely describe organisms as regulating, repairing, adapting, developing, reproducing, and interacting with their environments. These descriptions identify important biological processes, but they do not by themselves make explicit the organisational activity through which these processes collectively sustain a living system. The concept of biological agency remains widely employed across the life sciences, yet its meaning often shifts between behaviour, autonomy, control, goal-directedness, cognition, or decision-making according to disciplinary context. The result is not conceptual failure but conceptual plurality.
+
+Fábregas-Tejeda et al. (2024) trace this plurality across the history of the life sciences, where questions about organismal agency have centred on purposiveness, development, behaviour, and evolution.
 
 This plurality reflects an underlying explanatory question that has not always been explicitly distinguished from the many biological phenomena through which it is expressed. The issue is not whether organisms act, but what kind of activity their actions collectively instantiate. Clarifying biological agency therefore requires identifying the organisational activity common to the diverse processes through which living systems maintain themselves.
 

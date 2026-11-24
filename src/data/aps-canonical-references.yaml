@@ -9560,3 +9560,17 @@ references:
     status: verified
     authority: Routledge (chapter PDF)
     verifiedDate: 2026-11-24
+- id: fabregas-tejeda-baedke-prieto-radick-2024-organismal-agency
+  type: book-chapter
+  authors: Fábregas-Tejeda, A., Baedke, J., Prieto, G. I., & Radick, G.
+  year: 2024
+  title: 'Organismal Agency: A Persistent Riddle in the History and Philosophy of the Life Sciences'
+  book-title: 'The Riddle of Organismal Agency: New Historical and Philosophical Reflections'
+  editors: Fábregas-Tejeda, A., Baedke, J., Prieto, G. I., & Radick, G.
+  publisher: Routledge
+  pages: 1–20
+  doi: 10.4324/9781003413318-1
+  verification:
+    status: verified
+    authority: Routledge (chapter PDF)
+    verifiedDate: 2026-11-24
