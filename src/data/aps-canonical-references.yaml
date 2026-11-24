@@ -9426,3 +9426,137 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-11-24
+- id: marques-da-silva-2024-quest-for-sentience
+  type: journal-article
+  authors: Marques da Silva, J.
+  year: 2024
+  title: 'The Quest for Sentience: from Crustaceans to Plants'
+  journal: Global Philosophy
+  volume: '34'
+  article-number: '11'
+  doi: 10.1007/s10516-024-09714-5
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-24
+- id: trewavas-2005-green-plants-intelligent-organisms
+  type: journal-article
+  authors: Trewavas, A.
+  year: 2005
+  title: Green Plants as Intelligent Organisms
+  journal: Trends in Plant Science
+  volume: '10'
+  issue: '9'
+  pages: 413–419
+  doi: 10.1016/j.tplants.2005.07.005
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-11-24
+- id: trewavas-2014-plant-behaviour-intelligence
+  type: book
+  authors: Trewavas, A.
+  year: 2014
+  title: Plant Behaviour and Intelligence
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199539543.001.0001
+  verification:
+    status: verified
+    authority: Oxford Academic
+    verifiedDate: 2026-11-24
+- id: calvo-lawrence-2023-planta-sapiens
+  type: book
+  authors: Calvo, P., & Lawrence, N.
+  year: 2023
+  title: 'Planta Sapiens: The New Science of Plant Intelligence'
+  publisher: W. W. Norton
+  verification:
+    status: verified
+    authority: Smithsonian Libraries and Archives
+    verifiedDate: 2026-11-24
+- id: gagliano-2018-thus-spoke-the-plant
+  type: book
+  authors: Gagliano, M.
+  year: 2018
+  title: Thus Spoke the Plant
+  publisher: North Atlantic Books
+  verification:
+    status: verified
+    authority: North Atlantic Books
+    verifiedDate: 2026-11-24
+- id: basso-baluska-souza-2026-plant-agency
+  type: journal-article
+  authors: Basso, L. F., Baluška, F., & Souza, G. M.
+  year: 2026
+  title: 'Plant Agency: From Senome and Electrome to Plant Semiosphere'
+  journal: Frontiers in Plant Physiology
+  volume: '4'
+  article-number: '1861112'
+  doi: 10.3389/fphgy.2026.1861112
+  verification:
+    status: verified
+    authority: Frontiers
+    verifiedDate: 2026-11-24
+- id: volkov-2012-plant-electrophysiology-signaling-responses
+  type: edited-book
+  editors: Volkov, A. G.
+  year: 2012
+  title: 'Plant Electrophysiology: Signaling and Responses'
+  publisher: Springer
+  doi: 10.1007/978-3-642-29110-4
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-24
+- id: fromm-lautner-2007-electrical-signals-plants
+  type: journal-article
+  authors: Fromm, J., & Lautner, S.
+  year: 2007
+  title: Electrical Signals and Their Physiological Significance in Plants
+  journal: Plant, Cell & Environment
+  volume: '30'
+  issue: '3'
+  pages: 249–257
+  doi: 10.1111/j.1365-3040.2006.01614.x
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-11-24
+- id: di-paolo-cuffari-de-jaegher-2018-linguistic-bodies
+  type: book
+  authors: Di Paolo, E. A., Cuffari, E. C., & De Jaegher, H.
+  year: 2018
+  title: 'Linguistic Bodies: The Continuity between Life and Language'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-11-24
+- id: barbieri-2008-biosemiotics-new-understanding-life
+  type: journal-article
+  authors: Barbieri, M.
+  year: 2008
+  title: 'Biosemiotics: A New Understanding of Life'
+  journal: Naturwissenschaften
+  volume: '95'
+  issue: '7'
+  pages: 577–599
+  doi: 10.1007/s00114-008-0368-x
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-11-24
+- id: baedke-2024-plant-agency
+  type: book-chapter
+  authors: Baedke, J.
+  year: 2024
+  title: 'Plant Agency: A Short History from Kant to Plant Psychology, Then to Holism, and Back Again'
+  book-title: 'The Riddle of Organismal Agency: New Historical and Philosophical Reflections'
+  editors: Fábregas-Tejeda, A., Baedke, J., Prieto, G. I., & Radick, G.
+  publisher: Routledge
+  pages: 61–76
+  doi: 10.4324/9781003413318-5
+  verification:
+    status: verified
+    authority: Routledge (chapter PDF)
+    verifiedDate: 2026-11-24

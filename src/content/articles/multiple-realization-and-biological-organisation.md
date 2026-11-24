@@ -64,6 +64,7 @@ references:
   - nicholson-dupre-2018-everything-flows
   - spencer-2026-agency-defining-activity-life
   - rouleau-levin-2023-multiple-realizability-of-sentience
+  - marques-da-silva-2024-quest-for-sentience
 ---
 
 **Where This Article Fits:**
@@ -255,6 +256,8 @@ APS partially agrees with the insight motivating this move:
 However, APS argues that many computational interpretations detached cognition from the viability-oriented organisational conditions characterising living systems.
 
 Rouleau and Levin (2023) distinguish multiple realizability from substrate independence and argue for investigating cognitive capacities across neural, non-neural, and artificial systems. They also recognise that attributing sentience, understood as the capacity for subjective experience, poses a further evidential problem. For APS, the biological comparison asks whether the capacity plays a comparable role in sustaining each system's viability. How to establish whether either system has subjective experience remains a separate question.
+
+Marques da Silva (2024) illustrates this evidential problem by applying eight indicators of sentience developed for decapod crustaceans to vascular plants. While plants appear to satisfy some of the physiological indicators, the available evidence leaves their sentience unresolved. The possibility that sentience has different material realizations therefore leaves a further question: which similarities provide evidence of felt experience in the systems being compared?
 
 Formal equivalence alone does not establish biological equivalence.
 

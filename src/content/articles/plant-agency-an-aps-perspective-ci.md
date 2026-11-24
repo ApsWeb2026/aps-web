@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-26
-revised: 2026-06-26
+revised: 2026-11-24
 cluster: cognition-and-mind
 role: core
 
@@ -45,160 +45,32 @@ relatedArticles:
    - aps-and-contemporary-theories
 
 references:
-  - id: spencer2026
-    authors: "Spencer, R. D."
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: "Biological Theory"
-    doi: "10.1007/s13752-026-00547-6"
-
-  - id: spencer2025
-    authors: "Spencer, R. D."
-    year: 2025
-    title: "Biological Agency as the Context for Plant Cognition"
-    publisher: "Zenodo"
-    doi: "https://doi.org/10.5281/zenodo.16938193"
-
-  - id: trewavas2005
-    authors: "Trewavas, A."
-    year: 2005
-    title: "Green Plants as Intelligent Organisms"
-    journal: "Trends in Plant Science"
-    volume: "10"
-    pages: "413–419"
-
-  - id: trewavas2014
-    authors: "Trewavas, A."
-    year: 2014
-    title: "Plant Behaviour and Intelligence"
-    publisher: "Oxford University Press"
-
-  - id: calvo2016
-    authors: "Calvo, P."
-    year: 2016
-    title: "Plants as Adaptive Agents"
-    publisher: "Oxford University"
-
-  - id: calvo2023
-    authors: "Calvo, P.; Gagliano, M.; Souza, G. M."
-    year: 2023
-    title: "Planta Sapiens: The New Science of Plant Intelligence"
-    publisher: "W. W. Norton"
-
-  - id: gagliano2018
-    authors: "Gagliano, M."
-    year: 2018
-    title: "Thus Spoke the Plant"
-    publisher: "North Atlantic Books"
-
-  - id: baluska2025
-    authors: "Baluška, F."
-    year: 2025
-    title: "The Pursuit of Plant Agency"
-    journal: "Plant Signaling & Behavior"
-
-  - id: baluska2026
-    authors: "Baluška, F.; Souza, G. M.; et al."
-    year: 2026
-    title: "Plant Agency: From Senome and Electrome to Plant Semiosphere"
-    journal: "Frontiers in Plant Physiology"
-
-  - id: souza2024
-    authors: "Souza, G. M."
-    year: 2024
-    title: "Plant Agency and Distributed Biological Organisation"
-    journal: "Plant Signaling & Behavior"
-
-  - id: volkov2019
-    authors: "Volkov, A. G."
-    year: 2019
-    title: "Plant Electrophysiology: Signalling and Responses"
-    publisher: "Springer"
-
-  - id: fromm2007
-    authors: "Fromm, J.; Lautner, S."
-    year: 2007
-    title: "Electrical Signals and Their Physiological Significance in Plants"
-    journal: "Plant, Cell & Environment"
-    volume: "30"
-    pages: "249–257"
-
-  - id: moreno2015
-    authors: "Moreno, A.; Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: "Springer"
-
-  - id: maturana1980
-    authors: "Maturana, H. R.; Varela, F. J."
-    year: 1980
-    title: "Autopoiesis and Cognition"
-    publisher: "D. Reidel"
-
-  - id: diPaolo2022
-    authors: "Di Paolo, E. A.; Thompson, E."
-    year: 2022
-    title: "Linguistic Bodies: The Continuity Between Life and Language"
-    publisher: "MIT Press"
-
-  - id: dejesushernandez2024
-    authors: "De Jesus-Hernandez, M."
-    year: 2024
-    title: "Enactive Plant Cognition"
-    journal: "Adaptive Behavior"
-
-  - id: barbieri2008
-    authors: "Barbieri, M."
-    year: 2008
-    title: "Biosemiotics: A New Understanding of Life"
-    publisher: "Springer"
-
-  - id: hoffmeyer2008
-    authors: "Hoffmeyer, J."
-    year: 2008
-    title: "Biosemiotics"
-    publisher: "University of Scranton Press"
-
-  - id: jonas1966
-    authors: "Jonas, H."
-    year: 1966
-    title: "The Phenomenon of Life"
-    publisher: "Harper & Row"
-
-  - id: deacon2011
-    authors: "Deacon, T. W."
-    year: 2011
-    title: "Incomplete Nature"
-    publisher: "W. W. Norton"
-
-  - id: nicholson2018
-    authors: "Nicholson, D. J.; Dupré, J."
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-
-  - id: noble2012
-    authors: "Noble, D."
-    year: 2012
-    title: "A Theory of Biological Relativity"
-    journal: "Interface Focus"
-    volume: "2"
-    pages: "55–64"
-
-  - id: odlingsmee2003
-    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
-    year: 2003
-    title: "Niche Construction"
-    publisher: "Princeton University Press"
-
-  - id: levin1998
-    authors: "Levin, S. A."
-    year: 1998
-    title: "Ecosystems and the Biosphere as Complex Adaptive Systems"
-    journal: "Ecosystems"
-    volume: "1"
-    pages: "431–436"
+  - spencer-2026-agency-defining-activity-life
+  - spencer-2025-biological-agency-context-plant-cognition
+  - trewavas-2005-green-plants-intelligent-organisms
+  - trewavas-2014-plant-behaviour-intelligence
+  - calvo-lawrence-2023-planta-sapiens
+  - gagliano-2018-thus-spoke-the-plant
+  - basso-baluska-souza-2026-plant-agency
+  - volkov-2012-plant-electrophysiology-signaling-responses
+  - fromm-lautner-2007-electrical-signals-plants
+  - moreno-mossio-2015-biological-autonomy
+  - maturana-varela-1980-autopoiesis-cognition
+  - di-paolo-cuffari-de-jaegher-2018-linguistic-bodies
+  - barbieri-2008-biosemiotics-new-understanding-life
+  - hoffmeyer-2008-biosemiotics
+  - jonas-1966-phenomenon-life
+  - deacon-2011-incomplete-nature
+  - nicholson-dupre-2018-everything-flows
+  - noble-2012-biological-relativity
+  - odling-smee-laland-feldman-2003-niche-construction
+  - levin-1998-ecosystems-biosphere
+  - baedke-2024-plant-agency
 ---
+
+**Where This Article Fits:**
+
+*This article applies the APS account of biological agency to plants. It asks how growth, signalling, regeneration, and interactions with the surroundings contribute to maintaining viable organisation. Plant agency also raises a question that has long occupied botanists and philosophers: how do relatively autonomous parts contribute to the persistence of a coordinated whole? The article uses that question to connect historical debates about plant purposiveness with contemporary research on regulation, signalling, and cognition.*
 
 ## Introduction
 
@@ -218,9 +90,9 @@ Seen in this way, APS does not compete with contemporary theories of plant agenc
 
 ## Why Plants Changed the Conversation
 
-For much of the history of biology, plants occupied an unusual conceptual position. Their remarkable physiological complexity was widely recognised, yet they were generally portrayed as passive organisms whose activities could be explained as the automatic consequences of genes, chemistry, and environmental stimuli. Agency belonged to animals because animals explored their surroundings, made behavioural choices, and coordinated their activities through nervous systems. Plants, rooted in place, appeared simply to grow.
+The agency of plants has a longer and more contested history than its recent revival might suggest. As Baedke (2024) shows, the relative autonomy and regenerative capacities of plant parts posed a problem for accounts of the plant as a unified, purposive whole. In the early twentieth century, Emil Ungerer approached this problem by examining how plants maintain or re-establish their organisation during development and regeneration. This gave him a way to investigate plant purposiveness empirically without attributing human-like intentions to plants.
 
-Over time, this distinction became increasingly difficult to sustain. Improvements in experimental techniques revealed forms of organisation that extended well beyond simple stimulus–response behaviour. Plants integrate information arriving simultaneously from many sources, coordinate long-distance communication through electrical, hydraulic, chemical, and mechanical signalling, regulate development in response to changing environmental conditions, establish and maintain symbiotic partnerships, reshape the physical and biological properties of soils, and modify their future possibilities through continual interaction with their surroundings. None of these discoveries, viewed in isolation, required a fundamental revision of biological thinking. Together, however, they revealed organisms that actively participate in generating and sustaining their own organisation.
+Later experimental work made it possible to investigate in greater detail how plants coordinate activity across their tissues and respond to changing conditions. Plants integrate information arriving simultaneously from many sources, coordinate long-distance communication through electrical, hydraulic, chemical, and mechanical signalling, regulate development in response to changing environmental conditions, establish and maintain symbiotic partnerships, reshape the physical and biological properties of soils, and modify their future possibilities through continual interaction with their surroundings. None of these discoveries, viewed in isolation, required a fundamental revision of biological thinking. Together, however, they revealed organisms that actively participate in generating and sustaining their own organisation.
 
 As these discoveries accumulated, previously separate areas of research began to converge. Plant physiology, systems biology, electrophysiology, ecology, developmental biology, biosemiotics, philosophy of biology, and cognitive science all found themselves addressing different aspects of the same underlying problem. Although their conceptual vocabularies differ considerably, they increasingly point towards a common conclusion: plants are active participants in their own persistence rather than passive recipients of environmental influence.
 
@@ -330,3 +202,39 @@ APS fully embraces this transformation. Rather than questioning whether plants a
 From this perspective, the growing diversity of contemporary theories no longer represents a collection of competing explanations but a progressively richer understanding of living organisation viewed from different directions. APS neither replaces these perspectives nor reduces their distinct contributions. Instead, it provides an explanatory framework within which they can be understood together, revealing the common organisational principles that unite them.
 
 Plant agency therefore becomes more than a specialised topic within botany. It becomes one of the clearest demonstrations that life is fundamentally an organised, viability-oriented process whose defining characteristic is neither structure nor mechanism alone, but the continual activity through which living systems sustain, reorganise, and extend the conditions of their own persistence.
+
+## Explanatory Architecture
+
+### Central Question
+
+How do plants maintain and reorganise the conditions of their own viability through growth, physiological regulation, and interaction with their surroundings?
+
+### Architectural Role
+
+This article uses plants to clarify what biological agency explains in APS. It connects particular activities, such as tissue repair, long-distance signalling, and changes in root growth, to the conditions they help maintain or restore. Plants make it possible to examine how coordination arises through distributed physiological and developmental processes.
+
+### Builds On
+
+- [Biological Agency](/articles/biological-agency-as-the-activity-of-self-maintenance/) defines agency as viability-oriented organisational activity.
+- [What Is Biological Regulation?](/articles/what-is-biological-regulation/) explains how living systems adjust their activity as internal and external conditions change.
+- **Organised persistence** connects these adjustments to continuity through change.
+
+### Develops Into
+
+- [Plant Cognition — An APS Interpretation](/articles/plant-cognition-aps-interpretation/) examines what further evidence warrants attributing cognitive capacities to plants.
+- [Organism–World Coupling](/articles/organism-world-coupling-agency-not-control/) examines how organisms regulate relationships with their surroundings that matter to their viability.
+
+### Related Explanatory Questions
+
+- How do relatively autonomous plant parts contribute to the maintenance and regeneration of the whole?
+- When does a signalling process make a demonstrable difference to viability?
+- What additional evidence would support a claim of learning or memory in a plant?
+- When must relations with soil, fungi, or other organisms be included to explain a plant's continued functioning?
+
+### Position Within APS
+
+This is a Core article in the Cognition and Mind cluster. It treats plant agency as a case of viability-oriented organisational activity and connects that account to the more specific questions raised by plant cognition. Baedke's historical account of plant purposiveness situates these questions within a longer debate about the relation between the parts of a plant and the whole organism.
+
+### Corpus Significance
+
+The article connects discussions of biological agency, regulation, plant cognition, and organism–environment coupling through a common question: which activities maintain or restore the conditions of viable organisation, and what evidence shows how they do so?
