@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-10
-revised: 2026-09-10
+revised: 2026-11-24
 cluster: conceptual-foundations
 
 abstract: >
@@ -88,48 +88,18 @@ relatedArticles:
   - how-did-matter-become-aware-of-itself
 
 references:
-  - id: varela-thompson-rosch-1991-embodied-mind
-    authors: Varela, F. J.; Thompson, E.; Rosch, E.
-    year: 1991
-    title: The Embodied Mind
-    publisher: MIT Press
-
-  - id: thompson-2007-mind-in-life
-    authors: Thompson, E.
-    year: 2007
-    title: Mind in Life
-    publisher: Harvard University Press
-
-  - id: di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
-    authors: Di Paolo, E. A.; Buhrmann, T.; Barandiaran, X. E.
-    year: 2017
-    title: Sensorimotor Life
-    publisher: Oxford University Press
-
-  - id: godfrey-smith-2016-other-minds
-    authors: Godfrey-Smith, P.
-    year: 2016
-    title: Other Minds
-    publisher: Farrar, Straus and Giroux
-
-  - id: levin-2024-computational-boundary-self
-    authors: Levin, M.
-    year: 2024
-    title: The Computational Boundary of a Self
-    publisher: Bioelectricity Collection
-
-  - id: goff-2019-galileos-error
-    authors: Goff, P.
-    year: 2019
-    title: Galileo's Error
-    publisher: Pantheon
-
-  - id: mcgilchrist-2021-matter-with-things
-    authors: McGilchrist, I.
-    year: 2021
-    title: The Matter with Things
-    publisher: Perspectiva Press
+  - varela-thompson-rosch-1991-embodied-mind
+  - thompson-2007-mind-in-life
+  - di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
+  - godfrey-smith-2016-other-minds
+  - levin-2019-computational-boundary-self
 ---
+
+**Where This Article Fits**
+
+*[**What Is APS?**](/orientation/what-is-aps/) introduces the framework and its purpose. [**How APS Explains Life**](/orientation/how-aps-explains-life/) explains why the continuity of living organisation is a principal target of APS inquiry. This article shows how the framework fits together. It relates the account of living organisation to the analytic roles of Agency, Process, and Scale, then introduces the proposed dependencies linking biological evaluation, significance, cognition, and later developments.*
+
+*[**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) develops the method for using these distinctions to formulate and assess biological explanations.*
 
 ## Introduction
 
@@ -144,8 +114,6 @@ The framework contains discussions of life, viability, persistence, continuity, 
 It is an explanatory architecture.
 
 The purpose of this article is to explain that architecture.
-
-What Is APS? introduces the central intuition underlying the framework. How APS Explains Life describes the framework's basic explanatory orientation. Understanding APS surveys its major conceptual domains. This article addresses a different question:
 
 >Why does the framework possess the structure that it does?
 
@@ -197,7 +165,7 @@ Change is not an interruption of biological existence. It is its normal conditio
 
 The explanatory challenge therefore becomes understanding how continuity remains possible despite continual transformation.
 
-APS addresses this challenge through the concept of organised persistence. Organised persistence refers to the active maintenance of viable continuity across time. Persistence is not mere duration. It is the continual regeneration of the organisational conditions required for continued existence.
+**Organised persistence** is the continuity of living organisation through change. Explaining that continuity involves identifying the activities and conditions that sustain it. **Viability** concerns the system-relative conditions relevant to continued functioning. Regulation, repair, and reorganisation can help maintain or restore those conditions.
 
 This distinction changes how living systems are understood. Organisms are not best described as objects that happen to undergo change. They are continuity-preserving organisations whose persistence depends upon the successful organisation of change itself.
 
@@ -205,9 +173,7 @@ Yet persistence alone is not enough.
 
 Many non-living systems persist. What distinguishes living persistence is that continuity must remain compatible with continued existence. Resources must be obtained, damage must be repaired, development must remain coordinated, environmental relations must remain sufficiently supportive, and activity must remain responsive to changing conditions.
 
-This requirement introduces viability.
-
-Viability identifies the conditions under which persistence succeeds or fails. Living systems do not merely continue through time. They continue under organisational constraints that determine whether continuity remains possible. Some conditions support persistence. Others undermine it. Some transformations contribute to continued existence. Others threaten it.
+Living systems do not merely continue through time. They continue under organisational constraints that determine whether continuity remains possible. Some conditions support persistence. Others undermine it. Some transformations contribute to continued existence. Others threaten it.
 
 Persistence therefore acquires biological significance because continuity is not guaranteed. Living systems exist under circumstances where persistence can succeed or fail.
 
@@ -245,7 +211,7 @@ At this point a deeper question becomes unavoidable: What kind of organisation a
 
 The answer leads to the analytic architecture through which APS organises inquiry into this problem.
 
-## Explanatory Architecture
+## Analysing Living Organisation
 ### The Agency–Process–Scale Analytic Interface
 
 APS organises its general account of living organisation through three complementary analytic projections:
@@ -1117,3 +1083,32 @@ Architecture and Orientation
 - How APS Explains Life
 - APS Architecture Map
 - How APS Concepts Fit Together
+
+## Explanatory Architecture
+
+### Central Question
+
+How do the central concepts of APS fit together, and what does their relationship allow us to ask about living organisation?
+
+### Architectural Role
+
+This orientation article shows how a definition of life, a question about continuity, and three complementary analytic projections fit together. It also identifies proposed dependencies that require evidence in their own right.
+
+### Preceding Explanatory Dependencies
+
+[**What Is Life? — A Biological Question Revisited**](/articles/what-is-life-a-biological-question-revisited/) sets out the APS definition of life as viability-oriented, constraint-closed organisation. [**Persistence — Organised Continuity Through Time**](/articles/persistence-organised-continuity-through-time/) develops the distinction between continuity and the activities and conditions that sustain it. [**Biological Agency as the Activity of Self-Maintenance**](/articles/biological-agency-as-the-activity-of-self-maintenance/) explains viability-oriented organisational activity and the grounds for attributing it.
+
+### Subsequent Explanatory Developments
+
+[**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) develops the use of Agency, Process, and Scale in particular explanations. [**How Did Matter Become Aware of Itself?**](/articles/how-did-matter-become-aware-of-itself/) develops the proposed relations among living organisation, cognition, and self-awareness. Each proposed dependency requires evidence suited to the claim.
+
+### Related Explanatory Questions
+
+- Which activities and conditions sustain continuity in a particular living system?
+- Which spatial and temporal relations matter to its explanation?
+- What evidence would establish a proposed dependency between biological evaluation and cognition?
+- What would an APS account enable us to explain or infer beyond the strongest relevant alternative?
+
+### Position Within APS
+
+This article provides an orientation to the conceptual foundations of APS. Its role is to show how the framework structures questions about living organisation and how those questions lead to specific claims that can be assessed.

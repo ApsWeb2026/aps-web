@@ -9274,6 +9274,7 @@ references:
   year: 1997
   title: "Lamarck et la naissance de la biologie"
   book-title: "Jean-Baptiste Lamarck (1744–1829). Actes du 119e Congrès national des sociétés historiques et scientifiques, « La guerre », Amiens, 1994"
+  editors: Laurent, G.
   publisher: Éditions du CTHS
   pages: '349–367'
   url: https://www.persee.fr/doc/acths_0998-5662_1997_act_119_1_4121
@@ -9302,3 +9303,31 @@ references:
     status: verified
     authority: MIT Press Scholarship Online and MIT Press
     verifiedDate: '2026-11-24'
+- id: colon-santos-et-al-2024-what-is-life
+  type: journal-article
+  authors: Colón-Santos, S., Vázquez-Salazar, A., Adams, A., Campillo-Balderas, J. A., Hernández-Morales, R., Jácome, R., Muñoz-Velasco, I., Rodriguez, L. E., Schaible, M. J., Schaible, G. A., Szeinbaum, N., Thweatt, J. L., & Trubl, G.
+  year: 2024
+  title: 'Chapter 2: What Is Life?'
+  journal: Astrobiology
+  volume: '24'
+  issue: 'S1'
+  pages: S40–S56
+  doi: 10.1089/ast.2021.0116
+  verification:
+    status: verified
+    authority: SAGE Publications / PubMed
+    verifiedDate: 2026-11-24
+- id: brooks-difrisco-wimsatt-2021-levels-of-organization
+  type: book-chapter
+  authors: Brooks, D. S., DiFrisco, J., & Wimsatt, W. C.
+  year: 2021
+  title: 'Introduction: Levels of Organization: The Architecture of the Scientific Image'
+  book-title: Levels of Organization in the Biological Sciences
+  editors: Brooks, D. S., DiFrisco, J., & Wimsatt, W. C.
+  publisher: MIT Press
+  pages: 1–20
+  doi: 10.7551/mitpress/12389.003.0004
+  verification:
+    status: verified
+    authority: Supplied chapter PDF / published bibliographic record
+    verifiedDate: 2026-11-24

@@ -6,13 +6,12 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
+revised: 2026-11-24
 cluster: ecological-organisation
 definition: >
   Niche construction is the process through which viability-oriented systems
   actively modify, stabilise, reorganise, or generate aspects of the
-  environmental conditions that contribute to the continuity of organised
-  persistence across time and scale. In APS, niche construction is understood
+  environmental conditions that contribute to organised persistence. In APS, niche construction is understood
   as a reciprocal organisational process linking biological systems and their
   ecological contexts.
 inBrief: >
@@ -32,7 +31,7 @@ seeAlso:
 
 Niche construction refers to the processes through which living systems actively shape the environmental conditions within which they persist.
 
-In conventional evolutionary theory, niche construction is often treated as the modification of selective environments by organisms. APS interprets niche construction more broadly as a process of ecological and organisational reconfiguration through which viability-oriented continuity is sustained across time and scale.
+Evolutionary accounts of niche construction have often focused on how organisms modify the selection pressures acting on populations. Fábregas-Tejeda and Ramsey (2024) argue that niche construction can also affect genetic drift through changes in effective population size or in the variance of individuals’ possible reproductive outcomes, even when selection pressures remain unchanged. APS asks a complementary organisational question: how do the environmental changes that living systems bring about affect the conditions of their own persistence and that of other systems?
 
 Living systems do not merely adapt to pre-existing environments.
 
@@ -64,7 +63,7 @@ Environmental modification may occur across:
 - ecosystems,
 - and planetary conditions.
 
-Different scales of niche construction may interact, overlap, or constrain one another.
+Environmental changes can interact or constrain one another across different spatial and temporal extents.
 
 APS also rejects overly externalist interpretations of environment.
 
@@ -72,11 +71,7 @@ Environments are not simply static backgrounds against which organisms operate. 
 
 Niche construction therefore reveals that organism and environment are dynamically coupled aspects of wider organisational continuity.
 
-APS distinguishes niche construction from adaptation.
-
-Adaptation concerns the reorganisation of biological systems under changing conditions, whereas niche construction concerns the active reorganisation of the conditions themselves.
-
-The two processes are nevertheless deeply interdependent.
+Niche construction can alter the conditions under which organisms adjust during their lifetimes. Where environmental changes persist across generations, they can also alter the selective conditions under which populations evolve.
 
 APS further emphasises that niche construction is historically extended.
 

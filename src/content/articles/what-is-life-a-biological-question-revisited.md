@@ -67,6 +67,7 @@ references:
   - mix-2026-nasa-definition-life
   - koons-2025-definition-life
   - zimmer-2021-lifes-edge
+  - colon-santos-et-al-2024-what-is-life
 ---
 
 **Where this article fits:** 
@@ -112,7 +113,7 @@ One influential strategy has been to define Life through characteristic biologic
 
 Property-based definitions nevertheless encounter familiar difficulties. Individual characteristics admit recognised exceptions. Sterile organisms remain alive despite lacking reproductive capacity, dormant organisms may exhibit little observable metabolism, and viruses satisfy some but not all commonly proposed criteria. Extending a list of defining properties can therefore leave open the question of how those properties are related and why they should jointly bear upon living status.
 
-A reconsideration of the widely used NASA formulation illustrates the legitimate role of operational criteria. Mix (2026) examines the familiar description of life as “a self-sustained chemical system capable of Darwinian evolution” and its difficulties in application. A working recognition criterion can guide observation, experimental design, and astrobiological searches without supplying a final account of what makes a system living. Operational definitions are therefore not simply failed ontological definitions: they can succeed at identifying evidence relevant to a particular investigation while leaving deeper questions unsettled.
+A reconsideration of the widely used NASA formulation illustrates the legitimate role of operational criteria. Mix (2026) examines the familiar description of life as “a self-sustained chemical system capable of Darwinian evolution” and its difficulties in application. A working recognition criterion can guide observation, experimental design, and astrobiological searches without supplying a final account of what makes a system living. Colón-Santos et al. (2024) illustrate the practical stakes for astrobiology: search criteria based too narrowly on familiar terrestrial biology could miss life that originated independently elsewhere. Operational definitions are therefore not simply failed ontological definitions: they can succeed at identifying evidence relevant to a particular investigation while leaving deeper questions unsettled.
 
 [[box:why-trait-lists-fail]]
 

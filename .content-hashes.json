@@ -600,8 +600,8 @@
     "lockedSince": "2026-05-29"
   },
   "articles/levels-vs-scale-why-biological-organisation-is-not-hierarchical": {
-    "hash": "2a9d904c25fea6f4",
-    "revised": "2026-11-07",
+    "hash": "e53c5e75d36f30ca",
+    "revised": "2026-11-24",
     "lockedSince": "2026-04-09"
   },
   "articles/life-cycles": {
@@ -1165,8 +1165,8 @@
     "lockedSince": "2026-04-12"
   },
   "glossary/niche-construction": {
-    "hash": "3f5081f08cb5e0ad",
-    "revised": "2026-06-15",
+    "hash": "fc8d2bd525ba9d23",
+    "revised": "2026-11-24",
     "lockedSince": "2026-05-27"
   },
   "glossary/niche": {
@@ -1370,8 +1370,8 @@
     "lockedSince": "2026-05-17"
   },
   "orientation/the-core-structure-of-aps-how-the-framework-fits-together": {
-    "hash": "2130efa58d702a0c",
-    "revised": "2026-09-10",
+    "hash": "eefdd66d8bd6dd9f",
+    "revised": "2026-11-24",
     "lockedSince": "2026-07-10"
   },
   "orientation/understanding-aps-the-structure-of-the-framework": {
@@ -1495,7 +1495,7 @@
     "lockedSince": "2026-06-26"
   },
   "articles/what-is-life-a-biological-question-revisited": {
-    "hash": "0771c37008215669",
+    "hash": "7c039bea7e0aa69b",
     "revised": "2026-11-24",
     "lockedSince": "2026-06-28"
   },
