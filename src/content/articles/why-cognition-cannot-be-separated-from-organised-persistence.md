@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-09-19
+revised: 2026-11-24
 cluster: cognition-and-mind
 role: core
 
@@ -50,6 +50,7 @@ references:
   - thompson-2007-mind-in-life
   - di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
   - nicholson-dupre-2018-everything-flows
+  - just-torres-de-farias-2024-living-cognition
 ---
 
 **Where This Article Fits**
@@ -95,6 +96,8 @@ Biological Evaluation links viability-oriented agency to the generation of biolo
 Evaluation therefore precedes cognition within the APS dependency architecture. It does not itself constitute cognition. Biological Agency, Biological Evaluation, Significance, and Integration provide pre-cognitive explanatory dependencies. Cognition becomes a separate explanatory question when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
 This distinction matters because evaluation, regulation, responsiveness, and adaptive coordination are widespread features of living organisation. Their presence alone cannot determine cognitive status.
+
+Just and Torres de Farias (2024) draw the boundary more broadly. They argue that cognition, understood in its most basic forms, extends to all living organisms because of the processes through which organisms maintain themselves and engage with their surroundings. For APS, the further question is whether the evidence shows that integrated biological significance shapes activity over time across different viability-relevant possibilities.
 
 ## Semiosis and Meaning
 
@@ -168,3 +171,38 @@ Cognition cannot be separated from organised persistence because cognition, wher
 Within APS, cognition is the organisation of biological significance across time. The question of cognitive attribution arises when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Evolutionary history can explain how particular forms of cognitive organisation arose and changed, while spatial and temporal analysis can identify where their relevant dependencies are organised. Neither evolutionary progression nor multiscale organisation should be inferred to establish cognition in its own right.
 
 APS therefore approaches cognition neither as detached computation nor as an automatic consequence of living organisation. Cognitive claims must identify the phenomenon to be explained, specify the materially implemented dependencies relevant to it, and be assessed against the strongest adequate non-cognitive explanation. Organised persistence is thus not a substitute definition of cognition; it is the living organisational context within which cognition becomes biologically possible and scientifically assessable.
+
+## Explanatory Architecture
+
+### Central Question
+
+How does cognition depend on organised persistence, and what further evidence warrants attributing cognition to a living system?
+
+### Architectural Role
+
+This article explains how viability-oriented activity supplies the conditions for cognition. It traces the roles of Biological Evaluation, Significance, and Integration, then asks when integrated biological significance shapes activity over time across different viability-relevant possibilities.
+
+### Builds On
+
+- **Organised persistence** identifies the continuity through change within which cognitive activity can develop.
+- **Biological Agency** identifies the viability-oriented activity through which living systems sustain their organisation.
+- **Biological Evaluation, Significance, and Integration** explain how differences that matter to viability acquire significance and are brought together in the organisation of activity.
+
+### Develops Into
+
+- **The Cognitive Organisation of Life** develops the account of how biological significance is organised across time.
+- **How Did Matter Become Aware of Itself?** situates cognition within the wider inquiry into the emergence of mind and subjective experience.
+
+### Related Explanatory Questions
+
+- What evidence distinguishes the organisation of biological significance across time from an immediate or fixed regulatory response?
+- When does an organism's prior experience alter how it responds to a new situation?
+- How can comparative evidence establish which capacities are shared across lineages and which depend on different forms of organisation?
+
+### Position Within APS
+
+The article connects the APS account of living organisation to its account of cognition. The review by Just and Torres de Farias (2024) clarifies the point at issue. Their account extends basic cognition to all living organisms, while APS asks what evidence shows that a system integrates biological significance across time to shape its activity.
+
+### Corpus Significance
+
+The article gives APS a common evidential question for comparing candidate cases of cognition. It asks how an organism's past encounters and present circumstances shape what it can do next, and which observations would establish that connection.

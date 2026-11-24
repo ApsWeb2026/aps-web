@@ -9574,3 +9574,84 @@ references:
     status: verified
     authority: Routledge (chapter PDF)
     verifiedDate: 2026-11-24
+- id: mcshea-babcock-2024-four-false-dichotomies-teleology
+  type: journal-article
+  authors: McShea, D. W., & Babcock, G.
+  year: 2024
+  title: Four False Dichotomies in the Study of Teleology
+  journal: Ratio
+  volume: '37'
+  issue: '4'
+  pages: 358–372
+  doi: 10.1111/rati.12422
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-11-24
+- id: souza-posso-oliveira-2024-quest-for-time-plant-physiology
+  type: journal-article
+  authors: Souza, G. M., Posso, D. A., & de Carvalho Oliveira, T. F.
+  year: 2024
+  title: 'The Quest for Time in Plant Physiology: A Processual Perspective'
+  journal: Theoretical and Experimental Plant Physiology
+  volume: '36'
+  issue: '3'
+  pages: 387–398
+  doi: 10.1007/s40626-024-00307-6
+  verification:
+    status: verified
+    authority: ScienceOpen / ResearchGate author record
+    verifiedDate: 2026-11-24
+- id: lee-calvo-2023-potential-plant-action-potentials
+  type: journal-article
+  authors: Lee, J., & Calvo, P.
+  year: 2023
+  title: The Potential of Plant Action Potentials
+  journal: Synthese
+  volume: '202'
+  article-number: '176'
+  doi: 10.1007/s11229-023-04398-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-11-24
+- id: mcmillen-levin-2024-collective-intelligence
+  type: journal-article
+  authors: McMillen, P., & Levin, M.
+  year: 2024
+  title: 'Collective Intelligence: A Unifying Concept for Integrating Biology Across Scales and Substrates'
+  journal: Communications Biology
+  volume: '7'
+  article-number: '378'
+  doi: 10.1038/s42003-024-06037-4
+  verification:
+    status: verified
+    authority: Nature Portfolio
+    verifiedDate: 2026-11-24
+- id: just-torres-de-farias-2024-living-cognition
+  type: journal-article
+  authors: Just, B. B., & Torres de Farias, S.
+  year: 2024
+  title: Living Cognition and the Nature of Organisms
+  journal: BioSystems
+  volume: '246'
+  article-number: '105356'
+  doi: 10.1016/j.biosystems.2024.105356
+  verification:
+    status: verified
+    authority: Elsevier (article PDF) / PubMed
+    verifiedDate: 2026-11-24
+- id: baedke-bohm-reiners-selbach-2025-kant-to-holism
+  type: book-chapter
+  authors: Baedke, J., Böhm, A., & Reiners-Selbach, S.
+  year: 2025
+  title: 'From Kant to Holism: The Decline of Neo-Kantianism and the Rise of Theoretical Biology'
+  book-title: New Perspectives on Neo-Kantianism and the Sciences
+  editors: Pulte, H., Baedke, J., Koenig, D., & Nickel, G.
+  publisher: Routledge
+  pages: 253–277
+  doi: 10.4324/9781003412915-17
+  verification:
+    status: verified
+    authority: Routledge (volume listing and chapter PDF)
+    verifiedDate: 2026-11-24

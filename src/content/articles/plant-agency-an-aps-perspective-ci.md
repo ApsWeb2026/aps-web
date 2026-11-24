@@ -66,6 +66,7 @@ references:
   - odling-smee-laland-feldman-2003-niche-construction
   - levin-1998-ecosystems-biosphere
   - baedke-2024-plant-agency
+  - lee-calvo-2023-potential-plant-action-potentials
 ---
 
 **Where This Article Fits:**
@@ -107,6 +108,8 @@ The modern concept of plant agency did not arise from a single discovery or a si
 Studies of plant signalling revealed unexpectedly sophisticated systems of internal coordination capable of integrating activity across the entire organism. Research into development demonstrated that growth is not simply the unfolding of genetically predetermined programmes but an ongoing process of regulation that continually incorporates environmental conditions into the organisation of the organism. Ecological investigations showed that plants actively modify soils, establish microbial partnerships, influence neighbouring organisms, and reshape the environments within which future growth occurs. At the same time, work in plant cognition suggested that capacities such as learning, memory, anticipation, and flexible behavioural coordination need not depend exclusively upon nervous systems but could emerge from distributed biological organisation itself.
 
 Although these developments originated within different scientific traditions, they converged upon a common insight. Plants do not merely undergo biological processes. They actively participate in generating, coordinating, and sustaining them. Agency therefore became increasingly understood as an organisational property of living systems rather than a specialised consequence of neural complexity.
+
+Lee and Calvo (2023) illustrate this coordination in the Venus flytrap, where mechanical stimulation of trigger hairs generates action potentials that help initiate trap closure. Comparing plant and neuronal action potentials reveals shared features of electrical excitability alongside differences in the underlying ion movements. The flytrap shows how a non-neural signalling mechanism coordinates an activity involved in prey capture.
 
 APS fully accepts this conclusion. Its distinctive contribution lies in asking what biological principle makes this convergence possible. Rather than interpreting signalling, cognition, ecological interaction, or organisational closure as independent explanations of agency, APS proposes that they become fully intelligible when understood as complementary expressions of viability-oriented organised persistence. Contemporary theories of plant agency therefore illuminate different dimensions of the same organisational reality. APS provides the explanatory framework within which those dimensions can be understood together.
 

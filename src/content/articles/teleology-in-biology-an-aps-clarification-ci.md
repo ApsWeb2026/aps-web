@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04
-revised: 2026-11-20
+revised: 2026-11-24
 cluster: philosophy-of-biology
 role: clarification
 
@@ -66,6 +66,7 @@ references:
   - cuciniello-2026-organisational-approach-teleology
   - rama-2026-autonomy-development-teleology
   - svensson-2026-agency-natural-purpose
+  - mcshea-babcock-2024-four-false-dichotomies-teleology
 ---
 
 **Where This Article Fits**
@@ -90,9 +91,13 @@ A mechanistic investigation asks how water stress alters stomatal aperture. It c
 
 An organisational investigation asks whether reduced water loss helps the plant maintain water transport and tissue function under specified conditions, and how this contribution relates to the costs of restricting carbon dioxide uptake. Using data from 18 species, Joshi et al. (2022) tested a model that predicts simultaneous declines in stomatal conductance, carbon assimilation, and photosynthetic capacity during progressive soil drought. To assess a contribution to viability in a particular case, an investigation would compare the consequences of different stomatal responses under comparable conditions and follow them long enough to capture the relevant effects on water balance and carbon assimilation. A change in gas exchange can be detected at the leaf, while its significance for the whole plant may depend on how long the stress lasts and how the plant recovers.
 
+Souza et al. (2024) argue that averages from samples taken at discrete times can obscure how a physiological response unfolds. In this example, the timing and duration of closure matter because they affect both water loss and carbon dioxide uptake.
+
 An evolutionary investigation asks whether selection favoured the capacity to close because of an effect such as water conservation. Historical accounts of function give explanatory weight to an effect’s role in the origin or retention of the trait or capacity that produces it (Wright, 1973; Millikan, 1984). A selected-effects claim about stomatal closure would require historical evidence linking the effect of heritable differences in the response to differential survival or reproduction. Present physiological performance can inform this inquiry, and the two claims remain independently assessable.
 
 The phrase *to conserve water* can thus identify a contribution that makes the regulated response intelligible in the life of the plant. The explanation becomes stronger when it shows how the response changes water loss and why that change matters to the plant under the conditions at issue.
+
+McShea and Babcock (2024) likewise treat goal-directedness as compatible with mechanistic explanation. Their field theory asks how a field guides a system towards an outcome and applies to living and non-living systems. The organisational question in the stomatal example is how the response affects the conditions under which the plant remains viable.
 
 ## Purposiveness and Normativity in APS
 

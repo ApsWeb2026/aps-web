@@ -57,13 +57,14 @@ references:
   - brooks-petino-zappala-ressl-2026-leveling-biological-systems
   - brooks-difrisco-wimsatt-2021-levels-of-organization
   - brooks-baedke-2023-biological-agency-without-levels
+  - mcmillen-levin-2024-collective-intelligence
 ---
 
-## The Limits of Hierarchical Thinking
+**Where this article fits:**
 
-> **Where this article fits.**
->
-> This article distinguishes hierarchical descriptions of biological phenomena from Scale as an APS analytic projection. It does not argue that biological levels must be abandoned. Instead, it asks what level-based representations can legitimately provide, where they become explanatorily misleading, and how Scale addresses a different question: where the persistence relevant to a biological explanandum is organised across spatial and temporal extents. Readers interested in the broader philosophical implications of hierarchy should also see *Why APS Is Not Hierarchical*.
+*This article distinguishes hierarchical descriptions of biological phenomena from Scale as an APS analytic projection. It does not argue that biological levels must be abandoned. Instead, it asks what level-based representations can legitimately provide, where they become explanatorily misleading, and how Scale addresses a different question: where the persistence relevant to a biological explanandum is organised across spatial and temporal extents. Readers interested in the broader philosophical implications of hierarchy should also see *Why APS Is Not Hierarchical.*
+
+## Introduction - The Limits of Hierarchical Thinking
 
 Biology has long used hierarchical representations to organise phenomena. Textbooks commonly distinguish molecules, cells, tissues, organs, organisms, populations, and ecosystems, while specialised disciplines often concentrate on particular regions of this descriptive organisation. Such distinctions can be scientifically useful. They support classification, communication, experimental design, and the practical division of complex research problems.
 
@@ -129,6 +130,8 @@ In APS, **biological agency is viability-oriented organisational activity**. Age
 Brooks and Baedke (2023) argue that an entity’s position in a hierarchy of biological organisation is insufficient to establish whether it exhibits agency or what form that agency takes. In the life cycle of the social amoeba *Dictyostelium discoideum*, they show how changes in agential capacities can come apart from transitions between unicellular and multicellular organisation.
 
 At the same time, rejecting a privileged component does not entail that every explanation of agency must extend across multiple spatial and temporal extents. The required extent must be established from the organisation relevant to the explanandum.
+
+McMillen and Levin (2024) interpret flexible coordination among cells and tissues during development and regeneration as collective intelligence. Their examples include tadpoles whose craniofacial structures reach a typical adult arrangement through altered trajectories. In APS terms, the explanatory task is to identify the interactions that make this compensation possible and to establish the spatial and temporal extent over which those interactions must be traced.
 
 A bacterium moving in relation to a nutrient gradient, a plant modifying growth under changing conditions, and an animal altering behaviour in response to danger depend on materially realised processes and constraints. Different explanatory targets may require different portions of that organisation to be included. The question is not how many scales agency occupies, but which organisational relations make an explanatory difference to the viability-oriented activity under investigation.
 

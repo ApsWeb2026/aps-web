@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-17
-revised: 2026-08-17
+revised: 2026-11-24
 cluster: methodology-and-explanation
 role: synthesis
 
@@ -83,6 +83,7 @@ references:
   - kitano-2002-computational-systems-biology
   - moreno-mossio-2015-biological-autonomy
   - mossio-montevil-longo-2016-theoretical-principles-organization
+  - baedke-bohm-reiners-selbach-2025-kant-to-holism
 ---
 
 ## 1. The Identity Problem
@@ -116,6 +117,8 @@ Woodger's trajectory reinforces that distinction. Nicholson and Gawne (2014) sho
 His formalism also shows why methodological resemblance must be handled carefully. Logical reconstruction, mathematical modelling and quantitative prediction can all abstract from biological particulars while performing different tasks. Woodger's use of axiomatic resources belongs to the history of formal approaches to biology, but it does not establish a common lineage with Rashevsky's mathematical biophysics or mathematical population theory.
 
 Bertalanffy's programme overlapped with this organismic environment while retaining its own identity. His Theoretische Biologie volumes of 1932 and 1942 document an identifiable attempt to develop theoretical biology around the organism and biological organisation. The present argument does not depend upon reconstructing an exact definition from inaccessible passages. What can be established is that Bertalanffy developed an organismic theoretical programme and that this work participated in the subsequent development of his broader systemological thinking (Pouvreau and Drack 2007). The continuity is therefore personal and conceptual but transformative, not doctrinally invariant.
+
+Baedke, Böhm, and Reiners-Selbach (2024) trace one such transformation within interwar German-speaking theoretical biology. They show how Emil Ungerer and Bertalanffy reworked Neo-Kantian debates about purposiveness by asking how organisms maintain and re-establish their organisation. This shift preserved a question about the purposive character of living activity while changing what biologists could investigate to answer it.
 
 The case also illustrates the weakness of recurring vocabulary as evidence. Terms such as organisation, whole and system appear across later biology, but recurrence does not itself demonstrate inheritance of a common theory. Bertalanffy's own intellectual trajectory supports a specific continuity claim; the appearance of similar language in unrelated later programmes does not.
 
