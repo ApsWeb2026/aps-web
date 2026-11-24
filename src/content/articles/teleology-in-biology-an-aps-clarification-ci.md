@@ -67,11 +67,14 @@ references:
   - rama-2026-autonomy-development-teleology
   - svensson-2026-agency-natural-purpose
   - mcshea-babcock-2024-four-false-dichotomies-teleology
+  - allen-neal-2026-teleological-notions-biology
 ---
 
 **Where This Article Fits**
 
-*This Clarification asks when saying what a biological activity is for helps to explain it. [*Teleonomy — Historical Solution and APS Reinterpretation*](/articles/teleonomy/) traces how biologists have used *teleonomy* to discuss goal-directed activity. [*Function and Normativity — Why Biological Organisation Matters*](/articles/function-and-normativity-why-biological-organisation-matters/) *explains what warrants attributing a function and how that function can remain identifiable when its performance is impaired. This article applies the APS accounts of agency, function, and normativity to physiological regulation, then asks what further evidence is needed to explain the direction of development.*
+Allen and Neal (2026) survey the main accounts of biological teleology in [*Teleological Notions in Biology*](https://plato.stanford.edu/archives/spr2026/entries/teleology-biology/). This clarification uses stomatal closure during water stress to show how several questions from that debate arise in one case. It asks how closure occurs, how it affects the plant’s viability, and whether water conservation helps explain why the capacity to close was retained over evolutionary time. The final section asks what further evidence is needed to explain the direction of development.
+
+For the history of *teleonomy* and its use in explaining goal-directed activity, see [*Teleonomy — Historical Solution and APS Reinterpretation*](/articles/teleonomy/). For what warrants attributing a function, including when its performance is impaired, see [*Function and Normativity — Why Biological Organisation Matters*](/articles/function-and-normativity-why-biological-organisation-matters/).
 
 ## Introduction
 

@@ -9655,3 +9655,15 @@ references:
     status: verified
     authority: Routledge (volume listing and chapter PDF)
     verifiedDate: 2026-11-24
+- id: allen-neal-2026-teleological-notions-biology
+  type: book
+  authors: Allen, C., & Neal, J.
+  year: 2026
+  title: Teleological Notions in Biology
+  publisher: Stanford Encyclopedia of Philosophy
+  url: https://plato.stanford.edu/archives/spr2026/entries/teleology-biology/
+  note: 'Spring 2026 edition, edited by Edward N. Zalta and Uri Nodelman. The entry was substantively revised on 6 February 2026.'
+  verification:
+    status: verified
+    authority: Stanford Encyclopedia of Philosophy author and citation record
+    verifiedDate: '2026-11-24'
