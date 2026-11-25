@@ -3,7 +3,7 @@ title: "Explanatory Grammars and the History of Ideas"
 slug: "explanatory-grammars-and-the-history-of-ideas"
 type: article
 date: 2026-05-10
-revised: 2026-11-15
+revised: 2026-11-26
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
@@ -64,6 +64,8 @@ These changes are part of the history of ideas. They become visible when we exam
 An explanatory grammar is the pattern of relations among the concepts through which an approach specifies what needs explaining and formulates possible answers. A selection explanation, for example, relates heritable variation to differences in reproductive success and changes in a population across generations. The vocabulary has explanatory force when those relations can be specified for the phenomenon in question and supported by evidence. An isolated reference to ‘selection’ might only name a proposed explanation.
 
 The wider *explanatory architecture* of a research programme includes how its questions, concepts, methods, evidence, and candidate answers fit together. A grammar can foreground certain relations, such as descent, feedback, or reciprocal dependence. Whether those relations obtain, and whether they explain the phenomenon, depends on the relevant evidence and reasoning. This distinction also separates description, which identifies a pattern, from explanation, which addresses how or why it occurs. The corresponding distinctions within APS are developed in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
+Scientific progress involves not only discovering new facts and mechanisms but also improving how existing knowledge is organised and understood. Making an explanatory grammar explicit can reveal assumptions, clarify dependencies, and help researchers identify what has been explained and what remains to be investigated. These are scientifically valuable achievements even when no additional causal explanation has been established.
 
 This usage belongs alongside established work in the history and philosophy of science. Kuhn (1962) drew attention to the shared examples and standards through which scientific communities recognise and pursue problems. Hacking’s (1992) account of styles of reasoning asks how historically established ways of reasoning make particular kinds of claims and investigations possible. Explanatory grammar directs attention to a specific issue within that broader territory. Which conceptual relations allow investigators to pose a question and formulate a candidate answer? A historical reconstruction can then examine how those relations were used in texts, models, experiments, and debates.
 

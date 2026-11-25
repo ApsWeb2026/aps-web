@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-14
-revised: 2026-11-07
+revised: 2026-11-26
 cluster: philosophy-of-biology
 role: synthesis
 
@@ -357,8 +357,6 @@ APS represents the research architecture as:
 
 > **Life → Agency → Biological Evaluation → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency → Meaning**
 
-The sequence is not a hierarchy, chronology, universal developmental trajectory or simple causal chain.
-
 The sequence is not a hierarchy, chronology, universal developmental trajectory or simple causal chain. Nor do the arrows establish the dependencies they represent; rather, they organise a research programme.
 
 Different relations within the architecture may involve different kinds of dependency, and those relations must be distinguished rather than subsumed under a single architectural notion. A conceptual dependency is not automatically a causal dependency. An explanatory dependency is not automatically an evolutionary sequence. A developmental prerequisite is not established merely because one concept appears earlier in the diagram.
@@ -521,6 +519,8 @@ A coherent concept may fail to identify a real biological dependency. A philosop
 This separation is particularly important for the more ambitious APS research programme extending toward cognition, Mind, Selfhood, Meaning, morality and social organisation.
 
 Those extensions should not be treated as consequences that follow from the definition of Life. They are research programmes whose individual claims require their own forms of warrant.
+
+Evolution can explain the origins of our capacities to know, value, and reason without thereby establishing the truth of our beliefs, the justification of our values, or the validity of our reasoning. APS can investigate the biological foundations of these capacities without assuming that their investigation resolves the philosophical questions of knowledge, moral obligation, or rational justification.
 
 APS is therefore assessable at multiple points.
 

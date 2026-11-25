@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-17
-revised: 2026-11-25
+revised: 2026-11-26
 cluster: cognition-and-mind
 role: synthesis
 
@@ -64,7 +64,7 @@ references:
 
 **Where This Article Fits**
 
-*This article traces how plant cognition helped shape the Agency–Process–Scale framework and how later changes in APS altered the evidence it required for cognitive attribution. For the current assessment of stress priming, habituation, and associative learning, see [Plant Cognition — A Critical Review and APS Interpretation](/articles/plant-cognition-aps-interpretation/).*
+*This article traces how plant cognition helped shape the Agency–Process–Scale framework and how later changes in APS altered the evidence it required for cognitive attribution. For the current assessment of stress priming, habituation, and associative learning, see the companion article [Plant Cognition — A Critical Review and APS Interpretation](/articles/plant-cognition-aps-interpretation/).*
 
 ## Introduction
 
@@ -208,7 +208,7 @@ Conceptual architecture asks how a phenomenon can be understood. Comparative exp
 
 APS increasingly separated those questions.
 
-A framework may organise observations coherently, connect phenomena that were previously treated separately, or supply a conceptually attractive interpretation. None of those achievements by itself demonstrates additional explanatory capacity.
+A framework may organise observations coherently, connect phenomena that were previously treated separately, or supply a conceptually attractive interpretation. None of those achievements by itself demonstrates additional explanatory capacity. The distinction matters when it helps us see what the evidence already shows and what further evidence would distinguish cognition from physiological regulation.
 
 Comparative explanatory methodology therefore begins with a specified explanandum. The relevant question is not whether APS can describe plants as cognitive, or whether another approach can describe the same phenomena as regulation. The question is what particular biological phenomenon requires explanation and what each candidate account explains about it.
 

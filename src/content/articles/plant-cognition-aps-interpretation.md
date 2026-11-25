@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-11
-revised: 2026-11-20
+revised: 2026-11-26
 cluster: cognition-and-mind
 role: core
 
@@ -53,7 +53,7 @@ references:
 
 **Where This Article Fits**
 
-*This article applies the APS cognition boundary to plants. It asks whether specific cases, including stress priming, warrant cognitive explanation when compared with the strongest adequate accounts based on biological regulation. For the history of how APS came to frame the question this way, see [Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation](/articles/plant-cognition-and-the-development-of-aps/).*
+*This article applies the APS cognition boundary to plants. It asks whether specific cases, including stress priming, warrant cognitive explanation when compared with the strongest adequate accounts based on biological regulation. For the history of how APS came to frame the question this way, see the companion article [Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation](/articles/plant-cognition-and-the-development-of-aps/).*
 
 ## The Plant Cognition Problem
 
