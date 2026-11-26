@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-11-24
+revised: 2026-11-27
 cluster: conceptual-foundations
 abstract: >
   APS is an integrative analytic framework and research programme in
@@ -225,7 +225,7 @@ Agency, Process, and Scale can assist that investigation by directing attention 
 
 APS therefore provides an analytic framework for investigating relationships among explanatory achievements where those relationships bear upon living organisation. Its claims can be assessed using independently applicable comparative controls: comparison must begin with the strongest established explanations of the phenomena concerned and preserve their explanatory targets, evidence, and scope. These controls are not substantive evidence for APS biology or a uniquely APS invention.
 
-The resulting integration is conditional rather than compulsory. Where comparison through living organisation or organised persistence reveals relationships, distinctions, unresolved questions, or additional explanatory dependencies, APS may provide explanatory gain. Where it merely redescribes independently successful explanations in APS terminology, no such gain has been established.
+Relating explanations through organised persistence can clarify how their questions fit together or identify a dependency that needs testing. Additional explanatory gain requires showing what the comparison enables us to explain, distinguish, or infer beyond the strongest relevant account of the same target.
 
 ## Cognition in APS
 
