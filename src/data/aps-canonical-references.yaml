@@ -9695,3 +9695,84 @@ references:
     status: verified
     authority: Springer Nature (article PDF) / PubMed
     verifiedDate: '2026-11-25'
+- id: ferretti-schulte-wild-2025-philosophy-of-plant-cognition
+  type: edited-book
+  editors: Ferretti, G., Schulte, P., & Wild, M.
+  year: 2025
+  title: 'Philosophy of Plant Cognition: Interdisciplinary Perspectives'
+  publisher: Routledge
+  doi: 10.4324/9781003393375
+  verification:
+    status: verified
+    authority: Routledge / Taylor & Francis
+    verifiedDate: 2026-11-27
+- id: lee-ponkshe-2025-ecological-plant-learning
+  type: book-chapter
+  authors: Lee, J., & Ponkshe, A.
+  year: 2025
+  title: Ecological Plant Learning
+  book-title: 'Philosophy of Plant Cognition: Interdisciplinary Perspectives'
+  editors: Ferretti, G., Schulte, P., & Wild, M.
+  publisher: Routledge
+  pages: 147–166
+  doi: 10.4324/9781003393375-11
+  verification:
+    status: verified
+    authority: Routledge / Taylor & Francis
+    verifiedDate: 2026-11-27
+- id: artiga-2025-deception-plant-cognition
+  type: book-chapter
+  authors: Artiga, M.
+  year: 2025
+  title: What Deception Reveals about Plant Cognition
+  book-title: 'Philosophy of Plant Cognition: Interdisciplinary Perspectives'
+  editors: Ferretti, G., Schulte, P., & Wild, M.
+  publisher: Routledge
+  pages: 37–54
+  doi: 10.4324/9781003393375-4
+  verification:
+    status: verified
+    authority: Routledge / Universitat de València
+    verifiedDate: 2026-11-27
+- id: schulte-2025-plants-representational-systems
+  type: book-chapter
+  authors: Schulte, P.
+  year: 2025
+  title: 'Are Plants Representational Systems?'
+  book-title: 'Philosophy of Plant Cognition: Interdisciplinary Perspectives'
+  editors: Ferretti, G., Schulte, P., & Wild, M.
+  publisher: Routledge
+  pages: 55–82
+  doi: 10.4324/9781003393375-5
+  verification:
+    status: verified
+    authority: Routledge / Umeå University
+    verifiedDate: 2026-11-27
+- id: schulte-ferretti-wild-2025-philosophy-of-plant-cognition-introduction
+  type: book-chapter
+  authors: Schulte, P., Ferretti, G., & Wild, M.
+  year: 2025
+  title: 'The Philosophy of Plant Cognition: Introduction'
+  book-title: 'Philosophy of Plant Cognition: Interdisciplinary Perspectives'
+  editors: Ferretti, G., Schulte, P., & Wild, M.
+  publisher: Routledge
+  pages: 1–16
+  doi: 10.4324/9781003393375-1
+  verification:
+    status: verified
+    authority: Routledge / Umeå University
+    verifiedDate: 2026-11-27
+- id: zhang-et-al-2019-airborne-host-plant-manipulation
+  type: journal-article
+  authors: Zhang, P.-J., Wei, J.-N., Zhao, C., Zhang, Y.-F., Li, C.-Y., Liu, S.-S., Dicke, M., Yu, X.-P., & Turlings, T. C. J.
+  year: 2019
+  title: Airborne host–plant manipulation by whiteflies via an inducible blend of plant volatiles
+  journal: Proceedings of the National Academy of Sciences
+  volume: '116'
+  issue: '15'
+  pages: 7387–7396
+  doi: 10.1073/pnas.1818599116
+  verification:
+    status: verified
+    authority: PNAS / PubMed Central
+    verifiedDate: 2026-11-27

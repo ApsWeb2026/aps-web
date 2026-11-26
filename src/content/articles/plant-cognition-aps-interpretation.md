@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-11
-revised: 2026-11-26
+revised: 2026-11-27
 cluster: cognition-and-mind
 role: core
 
@@ -49,6 +49,10 @@ references:
   - markel-2020-lack-evidence-associative-learning-pea-plants
   - ponkshe-et-al-2024-learning-plants-pea-plants
   - rosciglione-2026-plant-intelligence
+  - lee-ponkshe-2025-ecological-plant-learning
+  - artiga-2025-deception-plant-cognition
+  - schulte-2025-plants-representational-systems
+  - zhang-et-al-2019-airborne-host-plant-manipulation
 ---
 
 **Where This Article Fits**
@@ -101,6 +105,8 @@ Several candidate families are important.
 
 ### Stress Priming
 
+Recurrent drought or dehydration priming provides the strongest case examined here for testing the APS boundary.
+
 Plant stress priming is particularly significant because exposure to a non-lethal perturbation can alter responses to later stress. Drought or dehydration priming can produce persistent physiological and developmental changes that alter later stress responsiveness (Bruce et al. 2007).
 
 This makes priming more than an instantaneous stimulus-response relation. Earlier conditions continue to influence later organisation, and those effects can matter to viability.
@@ -145,6 +151,8 @@ This comparator is not a residual explanation used only when cognition fails. It
 
 APS should therefore agree with sceptical interpretations whenever fixed or conditionally regulated physiological organisation adequately explains the phenomenon. Cognitive terminology adds no explanatory gain merely because regulation is distributed, adaptive, anticipatory in function, or extended through time.
 
+Lee and Ponkshe (2025, pp. 158–161) propose that climbing plants might learn by becoming attuned to environmental information that helps guide growth towards a support. Observations of circumnutation and repeated approaches to a support motivate this proposal. The open question is whether earlier encounters improve later performance once differences in growth stage and current cues are accounted for. For APS, a further question is whether any such improvement depends on the changing consequences of the opportunity for support, and whether an ecological account of attunement already explains that dependence.
+
 ## The APS Cognitive Boundary
 
 APS distinguishes the biological foundations of cognition from cognition itself.
@@ -185,7 +193,7 @@ The plant question is therefore not whether plants have biological significance.
 
 ### Stress Priming: The Central Borderline Case
 
-Recurrent drought or dehydration priming provides the strongest current plant case for testing the APS boundary.
+Drought or dehydration priming is the central borderline case in this review.
 
 It satisfies several important conditions.
 
@@ -309,6 +317,8 @@ If a plant phenomenon eventually satisfies the cognitive boundary, several concl
 - Third, a positive case would reinforce the distinction between cognition and consciousness. Nothing in the minimal boundary requires phenomenal awareness.
 
 - Fourth, plant cognition would not automatically entail representation. APS remains neutral concerning representational explanation at the minimal boundary. Representation may be useful or required for particular phenomena, but it should not be assumed simply because cognition is attributed.
+
+Whitefly-induced volatiles from tomato plants can shift defence responses in neighbouring tomato plants and make them more susceptible to whiteflies (Zhang et al. 2019). Artiga (2025, pp. 45–48) interprets this as deception involving misrepresentation by the receiving plant. The comparative question is whether attributing a state that misrepresents the source of attack explains anything beyond the regulatory effects of the volatile blend. Schulte (2025) asks a broader question about whether the evidence warrants treating plants as representational systems. His gradual account leaves room for limited representational capacities even where that broader attribution is unwarranted.
 
 - Fifth, a positive result would not show that all living systems are cognitive. On the contrary, the possibility of demonstrating a plant case would depend upon maintaining a meaningful distinction between cognition and the Biological Agency, Biological Evaluation, Significance and Integration already present more widely in life.
 

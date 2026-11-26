@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-17
-revised: 2026-11-26
+revised: 2026-11-27
 cluster: cognition-and-mind
 role: synthesis
 
@@ -60,6 +60,7 @@ references:
   - brigandt-2013-explanation-biology
   - gagliano-et-al-2016-learning-association-plants
   - markel-2020-lack-evidence-associative-learning-pea-plants
+  - schulte-ferretti-wild-2025-philosophy-of-plant-cognition-introduction
 ---
 
 **Where This Article Fits**
@@ -215,6 +216,8 @@ Comparative explanatory methodology therefore begins with a specified explanandu
 This emphasis on specifying what needs to be explained has a precedent in Brigandt's (2013) account of explanatory aims in biology. Accounts of the same phenomenon can be complementary when they answer different questions. In a plant learning experiment, an account of how growth is redirected and an account of how a prior cue–outcome pairing affects a later response may therefore contribute different things. The comparison becomes decisive when the accounts are asked to explain the same result under the same conditions.
 
 The strongest adequate comparator must then be reconstructed on its own terms. For a proposed case of minimal cognition, this normally means asking whether an adequate non-cognitive account based on regulation, physiological memory, developmental plasticity, signalling, or another materially supported process already explains the target phenomenon.
+
+This shift within APS can be placed alongside a wider debate about what qualifies as evidence of plant cognition. Schulte, Ferretti, and Wild (2025, pp. 7–11) bring together arguments from plant–animal analogy, representation, and ecological learning. These approaches can ask different questions of the same behaviour, from whether a plant uses a cue to whether its activity is tuned to opportunities in its surroundings. This diversity makes specifying the phenomenon and the competing explanation especially important.
 
 Only then does a claim of **explanatory gain** become meaningful.
 
