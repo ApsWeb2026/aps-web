@@ -72,6 +72,8 @@ This definition identifies what living systems do without requiring that they re
 
 The distinction matters. Living systems regulate internal conditions, maintain boundaries, repair damage, alter activity under changing circumstances, and interact selectively with their environments. Such activity can be organised relative to conditions of viability without the system forming an intention to survive or representing viability as a goal.
 
+Taking human intention as the standard for all agency can lead us to overlook the ways organisms act to maintain or restore the conditions of their own viability.
+
 Whether a living system exhibits biological agency and whether it is cognitive are distinct questions.Cognition, representation, intention, and conscious deliberation require further explanatory commitments. They should not be built into the definition of Agency itself.
 
 This article explains why.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-10-17
+revised: 2026-11-27
 cluster: methodology-and-explanation
 role: clarification
 abstract: >
@@ -35,6 +35,14 @@ relatedArticles:
   - from-life-to-explanation-emerging-architecture
 ---
 
+**Where This Article Fits**
+
+*This clarification asks how the question being investigated determines the direction of biological explanation. It distinguishes investigating a system through its components and interactions from investigating how those components and processes depend on, or contribute to, the organisation in which they operate.*
+
+*[**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) develops the wider APS account of explanatory targets and analytic projections. [**Reductionism in Biology — An APS Clarification**](/articles/reductionism-in-biology-an-aps-clarification/) examines the separate question of what component-based explanations can establish about the organisation of living systems.*
+
+*An earlier treatment of the distinction appears in [**Wholes and Parts**](https://plantspeopleplanet.au/wholes-and-parts/) on *PlantsPeoplePlanet*. *The present article develops that distinction by asking how the explanatory target determines the role of analysis and synthesis.*
+
 ## The analytic orientation in scientific explanation
 
 Analysis is one of the most powerful strategies in scientific explanation. Complex systems can be investigated by identifying components, interactions, mechanisms, and processes, and biological inquiry has achieved major explanatory successes through such approaches.
@@ -56,8 +64,7 @@ Explanation can proceed in at least two distinct but complementary directions.
 
 These are not intrinsically competing methods. They can provide complementary explanatory perspectives where the question under investigation requires both.
 
-- To explain a cell analytically is to describe its molecular composition and internal processes.  
-- To explain a cell synthetically is to situate it within the organism whose organisation it contributes to.
+Consider a cell recovering from osmotic disturbance. An analytic investigation can explain how transport and signalling mechanisms alter the concentrations of solutes inside the cell. A synthetic investigation can ask how that response contributes to the recovery of cellular functioning and which other activities and conditions make recovery possible. The first question concerns how the response works. The second concerns its contribution to the continued functioning of the cell.
 
 Both are legitimate. Neither is intrinsically more fundamental than the other.
 
@@ -71,15 +78,11 @@ A mechanistic question may appropriately give explanatory priority to components
 
 This distinction is especially important when explanatory language is expressed through “levels.” Molecular, cellular, organismal, ecological, and other descriptions can be useful analytic domains without constituting a hierarchy of explanatory worth or causal priority.
 
-APS therefore avoids treating explanatory direction as movement upward or downward through biological levels. Its concern is instead with materially implemented relations among processes organised across spatial and temporal extents.
+Here, *direction* refers to the question the explanation pursues. Describing analysis as “downward” and synthesis as “upward” is a metaphor that can suggest a hierarchy even when both inquiries concern the same system. We can ask how a system’s components and interactions produce a response, or how that response contributes to the organisation in which it occurs. Both questions can concern the same cell. Where an explanation must follow relations across different spatial or temporal extents, [**Levels vs Scale — Why Biological Organisation Is Not Hierarchical**](/articles/levels-vs-scale-why-biological-organisation-is-not-hierarchical/) explains why those extents carry no built-in explanatory rank.
 
 The appropriate explanatory orientation is consequently target-relative. Analysis and synthesis identify different ways of organising inquiry; neither has intrinsic priority independently of the question being addressed.
 
-This is much stronger scientifically because we no longer need the historical argument to establish the methodological conclusion.
-
 [[box:scale-is-not-hierarchy]]
-
-This asymmetry is methodological rather than ontological. It reflects how explanation is typically conducted, not how reality is structured.
 
 ## Consequences for biological explanation
 
@@ -119,8 +122,41 @@ Analysis and synthesis can therefore be complementary without being universally 
 
 APS gives particular importance to organisational synthesis when investigating living organisation because its central question concerns how viability-oriented organisation is maintained and transformed through change. This priority is target-relative, not a claim that synthesis is universally deeper, more fundamental, or scientifically superior to analysis.
 
-The appropriate explanatory orientation must therefore be established by what is being explained and by whether the resulting account provides evidentially supported explanatory gain.
+The explanatory target determines which orientation is appropriate, and the evidence determines whether the resulting account is adequate. A claim of additional explanatory gain from combining analysis and synthesis requires showing what the combined account explains or warrants inferring beyond the strongest relevant account of the same target.
 
 ## Key point
 
 Analysis and synthesis provide distinguishable explanatory orientations whose relevance depends upon what is being explained. APS assigns neither intrinsic priority. When living organisation and organised persistence are the explanatory targets, APS gives particular importance to understanding how components and processes participate in viability-maintaining organisation. This does not make synthesis universally necessary or superior to analysis.
+
+## Explanatory Architecture
+
+### Central Question
+
+When does a biological question call for investigating a system through its components, and when does it call for explaining how those components participate in the organisation that sustains the system?
+
+### Architectural Role
+
+This clarification distinguishes analysis and synthesis as directions of inquiry. It explains why the relevance of either direction depends on the explanatory target and why explanatory priority in a particular case carries no claim about what is more fundamental in reality.
+
+### Preceding Explanatory Dependencies
+
+[**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) distinguishes what is to be explained from the analytic projections used to investigate it. [**Persistence — Organised Continuity Through Time**](/articles/persistence-organised-continuity-through-time/) identifies organised persistence as the continuity of living organisation through change and develops the question of what sustains that continuity.
+
+### Subsequent Explanatory Developments
+
+[**What Is a Biological System?**](/articles/what-is-a-biological-system/#a-bacterial-cell-under-osmotic-disturbance) develops the distinction through a bacterial cell responding to osmotic disturbance. The case connects questions about the operation of particular mechanisms with questions about what enables the cell to recover.
+
+### Related Explanatory Questions
+
+- When does identifying a mechanism answer the biological question at hand?
+- What evidence shows that a mechanism contributes to continued functioning or recovery?
+- Which spatial and temporal relations matter to that explanation?
+- What additional inference, if any, becomes possible when analysis and synthesis are combined?
+
+### Position Within APS
+
+This article clarifies a methodological choice within the Methodology and Explanation cluster. Agency, Process, and Scale provide complementary analytic projections of living organisation. The question being investigated determines which projections and which directions of inquiry are useful.
+
+### Corpus Significance
+
+The distinction helps readers recognise when two accounts answer different questions about the same system. It also makes a claim of explanatory gain assessable. Where analysis and synthesis address the same target, a combined account must show what additional explanatory work their coordination makes possible.
