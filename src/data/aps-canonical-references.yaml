@@ -9776,3 +9776,14 @@ references:
     status: verified
     authority: PNAS / PubMed Central
     verifiedDate: 2026-11-27
+- id: ball-2025-response-difrisco-gawne
+  type: preprint
+  authors: Ball, P.
+  year: 2025
+  title: "A response to ‘Biological agency: a concept without a research program’"
+  repository: Philip Ball author website
+  url: https://philipball.co.uk/wp-content/uploads/docs/pdf/DiFrisco_and_Gawne_response.pdf
+  verification:
+    status: verified
+    authority: Philip Ball academic publications page and author-hosted preprint
+    verifiedDate: '2026-11-27'

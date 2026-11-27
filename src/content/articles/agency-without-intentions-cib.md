@@ -19,7 +19,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-09-09
+revised: 2026-11-27
 cluster: conceptual-foundations
 role: clarification
 
@@ -54,6 +54,12 @@ references:
   - spencer-2026-agency-defining-activity-life
 ---
 
+**Where This Article Fits**
+
+*This clarification asks why biological agency can occur without intention, representation, or cognition. It explains how living activity can be organised in relation to viability and what further evidence would warrant attributing mental capacities.*
+
+*[**Biological Agency as the Activity of Self-Maintenance**](/articles/biological-agency-as-the-activity-of-self-maintenance/) gives the definition and criteria for attributing agency. [**Agency as the Defining Activity of Life**](/articles/agency-as-the-defining-activity-of-life/) explains the place of agency in the APS account of life.*
+
 ## Introduction
 
 The language of agency is often associated with intention. In ordinary human contexts, an agent is someone who acts for reasons, forms goals, makes decisions, or deliberately brings about an outcome. Applied to biology, the same language can therefore suggest that genuine agency requires beliefs, desires, representations, intentions, or some other form of cognition.
@@ -66,23 +72,11 @@ This definition identifies what living systems do without requiring that they re
 
 The distinction matters. Living systems regulate internal conditions, maintain boundaries, repair damage, alter activity under changing circumstances, and interact selectively with their environments. Such activity can be organised relative to conditions of viability without the system forming an intention to survive or representing viability as a goal.
 
-Biological Agency therefore precedes the question of whether a living system is cognitive. Cognition, representation, intention, and conscious deliberation require further explanatory commitments. They should not be built into the definition of Agency itself.
+Whether a living system exhibits biological agency and whether it is cognitive are distinct questions.Cognition, representation, intention, and conscious deliberation require further explanatory commitments. They should not be built into the definition of Agency itself.
 
 This article explains why.
 
-## Where This Article Fits
-
-This article is a Clarification article within the APS Agency corpus. It does not establish the canonical definition of biological Agency or determine where Agency should be attributed. Those functions belong to **Biological Agency as the Activity of Self-Maintenance**, the Agency Anchor.
-
-Nor does this article ask why Agency can be described as the defining activity of Life. That question is addressed in **Agency as the Defining Activity of Life**.
-
-The present article addresses a narrower boundary: **why does biological Agency not require intention, representation, cognition, deliberation, conscious goals, or other mental states?**
-
-APS answers this question by distinguishing viability-oriented organisational activity from the increasingly demanding capacities through which living systems can integrate significance across time, represent aspects of their circumstances, form intentions, or reflect upon possible courses of action.
-
-The distinction does not deny cognition, representation, or intention where evidence warrants them. It establishes only that none is constitutive of biological Agency.
-
-## 1. Agency Does Not Begin with Intention
+## Agency Does Not Begin with Intention
 
 An organism can act in ways relevant to its continued viability without intending to remain viable.
 
@@ -114,7 +108,7 @@ The claim is biological:
 
 This is sufficient to separate biological Agency from an intention-based conception of agency.
 
-## 2. Viability Without Mental Goals
+## Viability Without Mental Goals
 
 If biological Agency does not depend upon intention, what gives its activity its directed character?
 
@@ -140,7 +134,7 @@ Goal language can sometimes provide useful shorthand for such organisation, but 
 
 Biological Agency is therefore normatively structured without having to be mentally directed.
 
-## 3. Agency and Biological Evaluation
+## Agency and Biological Evaluation
 
 The distinction between biological Agency and mental evaluation requires a further clarification.
 
@@ -164,7 +158,7 @@ If evaluation were defined as conscious judgment, then viability-oriented Agency
 
 Agency and Biological Evaluation can therefore participate in a non-mentalistic account of living organisation without being collapsed into one another.
 
-## 4. Agency Does Not Require Representation
+## Agency Does Not Require Representation
 
 A similar problem arises with representation.
 
@@ -188,7 +182,7 @@ The same restraint applies to artificial systems. An artificial system may behav
 
 Representation and sophisticated behaviour therefore cannot substitute for the organisational conditions governing biological Agency.
 
-## 5. Agency Is Not Cognition
+## Agency Is Not Cognition
 
 Removing intention and representation from the definition of Agency raises an important boundary question. If viability-oriented activity is biological Agency, should all such activity also count as cognition?
 
@@ -214,7 +208,7 @@ Agency remains possible where cognition has not been established.
 
 That is precisely why biological Agency can be both genuine and non-mentalistic.
 
-## 6. Agency Is Not Deliberate Choice
+## Agency Is Not Deliberate Choice
 
 The same distinction applies still more strongly to deliberation and conscious intention.
 
@@ -234,7 +228,7 @@ The second is **anthropocentric restriction**: refusing to recognise biological 
 
 APS avoids both by locating biological Agency in viability-oriented living organisation while requiring independent justification for stronger cognitive or mental attributions.
 
-## 7. Continuity Without Collapse
+## Continuity Without Collapse
 
 The distinction between Agency and intention does not require an absolute discontinuity between basic living activity and more complex biological capacities.
 
@@ -256,7 +250,7 @@ Biological continuity therefore need not entail conceptual collapse.
 
 The existence of more elaborate forms of agency does not make intention constitutive of Agency in its biological sense.
 
-## 8. Why the Distinction Matters
+## Why the Distinction Matters
 
 Separating biological Agency from intention changes how agential language can be used in biology.
 
@@ -306,48 +300,35 @@ That is why biological Agency can be genuine Agency without intentions.
 
 ### Central Question
 
-How can biological Agency be genuine biological activity without requiring intention, representation, cognition, deliberation, conscious goals, or other mental states?
+How can living activity be organised in relation to viability without the system representing what it does, intending an outcome, or deliberating among alternatives?
 
 ### Architectural Role
 
-This article is a Clarification article within the Conceptual Foundations cluster.
+This clarification establishes the non-mentalistic scope of biological agency in APS. Regulation, repair, and selective interaction with the surroundings can contribute to continued functioning. The basis for attributing agency in such cases is the organisation of the activity in relation to viability.
 
-It establishes the non-mentalistic boundary of biological Agency. It explains why viability-oriented organisational activity does not require the system to represent viability, consciously evaluate circumstances, deliberate among alternatives, or intend its own continuation.
+### Preceding Explanatory Dependencies
 
-### Relationship to the Agency Anchor
+[**Biological Agency as the Activity of Self-Maintenance**](/articles/biological-agency-as-the-activity-of-self-maintenance/) defines biological agency as viability-oriented organisational activity. It distinguishes the attribution of agency to a system from a component’s participation in that activity, the spatial and temporal extent relevant to the explanation, and any additional explanatory gain.
 
-**Biological Agency as the Activity of Self-Maintenance** is the canonical Agency Anchor. It establishes what biological Agency is, where its attribution is warranted, and the distinction between Agency attribution, participation in Agency, explanatory Scale, and explanatory gain.
+Viability-relative normativity concerns how conditions differ in their consequences for the system’s continued functioning. Within APS, Biological Evaluation is the process through which agency generates biological significance. Its attribution requires a separate account of how viability-relevant differences matter to organised activity. Conscious judgement requires further evidence.
 
-The present article does not independently establish those conditions.
+### Subsequent Explanatory Developments
 
-It begins from the canonical definition of biological Agency and asks what that definition does—and does not—commit APS to concerning mentality.
+[**Cognition — Where Does It Belong in Biology?**](/articles/cognition-where-does-it-belong-in-biology/) develops the positive criteria for cognitive attribution. Complexity, flexibility, environmental sensitivity, and temporally extended regulation can motivate inquiry into cognition. Evidence for cognition, representation, and intention must address the particular capacity being attributed.
 
-### Relationship to Biological Evaluation
+[**Why AI Is Not Biological Agency**](/articles/why-ai-is-not-biological-agency/) takes up the separate comparison with artificial systems.
 
-Biological Evaluation is the process through which Agency generates significance.
+### Related Explanatory Questions
 
-It is not synonymous with Agency and does not imply conscious judgment. Biological significance can arise relationally through the bearing of conditions upon viability before cognition, representation, or conscious evaluation has been established.
+- What evidence shows that an activity bears on the viability of the system performing it?
+- When does a viability-relevant difference acquire biological significance for that system?
+- What additional organisation would warrant attributing cognition?
+- What evidence would distinguish a represented goal or a deliberate choice from goal-directed regulation?
 
-### Relationship to Cognition
+### Position Within APS
 
-Agency and cognition are not synonyms.
-
-Biological Agency can occur without cognition. Cognition requires additional organisation and should not be inferred simply from complexity, flexibility, environmental sensitivity, or temporally extended regulation.
-
-The positive criterion for cognition belongs to the APS cognition corpus rather than to this article.
-
-### Position within APS
-
-Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation rather than components of biological reality.
-
-The present article concerns a boundary within the Agency projection: viability-oriented organisational activity does not require intention or other mental states.
+Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. This article clarifies the scope of the Agency projection. It leaves questions about continuity through change and the spatial and temporal extent of relevant dependencies to Process and Scale.
 
 ### Corpus Significance
 
-This article establishes the principal APS guardrail against both anthropomorphic and anthropocentrically restrictive interpretations of biological Agency.
-
-Its distinctive claim is:
-
-> **Biological Agency does not require intention because viability-oriented organisational activity does not depend upon mental representation, conscious goals, or deliberate choice.**
-
-For the canonical account of Agency, see **Biological Agency as the Activity of Self-Maintenance**. For the relationship between Life and its defining activity, see **Agency as the Defining Activity of Life**. For the positive boundary of cognition, see the APS cognition corpus. For the separate artificial-system comparison, see **Why AI Is Not Biological Agency**.
+The distinction allows APS to recognise agency in living systems with very different capacities and to assess stronger attributions on their own evidence. A proposed transition from agency to cognition, representation, or intention requires evidence about the organisation that supports it. Increasing complexity or flexibility alone leaves that transition open.

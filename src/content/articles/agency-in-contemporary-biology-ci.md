@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-11-21
+revised: 2026-11-27
 cluster: conceptual-foundations
 role: synthesis
 
@@ -67,6 +67,8 @@ references:
   - svorcova-2024-organismal-agency
   - svorcova-2024-plastic-ontogenesis
   - jaeger-2024-ontogenesis-organisation-agency
+  - ball-2025-response-difrisco-gawne
+  - edelaar-2026-selective-organism
 ---
 
 **Where This Article Fits**
@@ -145,9 +147,9 @@ An adequate comparison must therefore specify which capacities are required, whi
 
 Some contemporary approaches identify agency primarily through the organisation of living systems rather than through intelligent choice or intentional action.
 
-Accounts of biological autonomy investigate how organised constraints and regulatory relationships contribute to the maintenance of a living system. Such approaches can ground distinctions between processes that merely occur within a system and activities organised in relation to the conditions of its continued existence (Moreno and Mossio 2015).
+AMoreno and Mossio (2015, ch. 4) distinguish the constitutive organisation through which a living system maintains itself from the interactive dimension of autonomy, which they call agency. Barandiaran, Di Paolo, and Rohde (2009) specify criteria involving individuality, normativity, and asymmetry in interactions between an agent and its surroundings. Rosslenbroich, Kümmell, and Bembé (2024) offer a closer parallel to APS on internal maintenance. Their account of organismic agency encompasses intrinsic maintenance, including activity with no outwardly directed behaviour.
 
-Other accounts explicitly develop criteria for agency involving individuality, normativity, and asymmetrical interactions between an agent and its environment (Barandiaran, Di Paolo, and Rohde 2009). Still others argue that agency is inherent in living organisms, although the meaning and explanatory consequences of that claim require independent examination (Rosslenbroich, Kümmell, and Bembé 2024).
+APS defines biological agency as viability-oriented organisational activity. Its scope includes both internal maintenance and activity in relation to the surroundings, where evidence shows how the activity contributes to maintaining or re-establishing conditions relevant to the system’s continued functioning. The comparative question is whether this difference in scope changes which activities warrant an agency attribution or what that attribution helps explain in a particular case.
 
 These approaches share concerns about biological organisation and activity, but their criteria and theoretical purposes are not identical. Organisational closure, regulatory control, environmental interaction, and goal-directedness must be distinguished rather than assembled into an undifferentiated list of agency properties.
 
@@ -224,6 +226,8 @@ For example, environmentally responsive development may alter a phenotype. The r
 Agency attribution concerns the organisation and activity of the candidate agent. Evolutionary explanation concerns the dependencies producing the evolutionary outcome. Explanatory gain concerns whether explicitly invoking agency contributes something that the strongest relevant account does not already provide.
 
 The contemporary significance of Walsh and Okasha lies partly in making these distinctions harder to overlook. Their contributions motivate closer examination of organismal activity and agential interpretation, without establishing in advance that agency terminology is indispensable.
+
+Edelaar (2026) extends the organism-centred discussion by examining how organisms influence the selective environments they experience and how this can affect adaptive evolution. His account provides a comparator for APS where both approaches address the same evolutionary outcome. In such a case, the question is whether identifying an activity as viability-oriented establishes a dependency or supports an inference beyond what Edelaar’s account already explains.
 
 ## Autonomy and Self-Maintenance
 
@@ -405,7 +409,7 @@ A concept can be philosophically defensible without organising a distinctive emp
 
 The challenge is therefore to specify what biological agency contributes beyond the established concepts already used to investigate the relevant phenomena.
 
-Svensson (2026) extends this challenge specifically to evolutionary biology. He argues that organismal regulation, developmental responsiveness, and multiscale feedback can be investigated within existing evolutionary and mechanistic research programmes, without treating agency or natural purpose as independent evolutionary causes. His criticism does not require denying that organisms are active, self-regulating systems. Rather, it asks what additional analytical or explanatory contribution agency makes to the study of evolutionary change. Ball's response to DiFrisco and Gawne, by contrast, defends agency as an emergent biological property that can itself be explained through physiological, developmental, and evolutionary mechanisms. These positions differ over the scientific status and usefulness of agency, but neither establishes that agency supplies an additional evolutionary mechanism. For APS, the appropriate test is whether explicit agency analysis contributes to a specified explanation beyond its strongest existing comparator, rather than whether agency terminology can be defended in general.
+Svensson (2026) extends this challenge specifically to evolutionary biology. He argues that organismal regulation, developmental responsiveness, and multiscale feedback can be investigated within existing evolutionary and mechanistic research programmes, without treating agency or natural purpose as independent evolutionary causes. His criticism does not require denying that organisms are active, self-regulating systems. Rather, it asks what additional analytical or explanatory contribution agency makes to the study of evolutionary change. Ball (2025) replies that agency can be a genuine emergent property of living systems whose operation can be investigated through physiological and developmental mechanisms and whose origins can be investigated through evolutionary explanation. These positions differ over the scientific status and usefulness of agency, but neither establishes that agency supplies an additional evolutionary mechanism. For APS, the appropriate test is whether explicit agency analysis contributes to a specified explanation beyond its strongest existing comparator, rather than whether agency terminology can be defended in general.
 
 Does agency identify a distinctive organisational condition? Does it support new explanatory distinctions? Does it generate research questions that would otherwise be neglected? Does it connect findings across biological domains in a way that improves understanding? Or does it redescribe established mechanisms and processes without changing their explanation?
 
@@ -847,7 +851,7 @@ This framework makes explicit distinctions among agency attribution, organised p
 
 Its strongest present contribution is the formulation and disciplined application of these distinctions, not a demonstrated explanatory superiority over established biological approaches.
 
-A central present contribution of APS is its integrated explanatory architecture, which makes explicit and relates proposed organisational dependencies across biological domains through a disciplined comparative methodology. Within this architecture, biological agency provides an organising explanatory connection between living organisation, biological evaluation, significance and cognition. It helps articulate how cognition can be continuous with life without being identical with life or agency, while leaving the relevant biological dependencies open to case-specific investigation. More broadly, APS provides a coherent, interconnected resource for exploring relationships among biological processes, clarifying explanatory questions and supporting communication across disciplinary boundaries. These are substantive features of the framework, distinct from claims of comparative explanatory superiority. Whether APS provides greater explanatory insight, more effective conceptual integration or improved communicative utility than the strongest existing alternatives remains to be demonstrated through appropriate, target-matched comparison.
+A central present contribution of APS is its integrated explanatory architecture, which makes explicit and relates proposed organisational dependencies across biological domains through a disciplined comparative methodology. Within this architecture, biological agency provides an organising explanatory connection between living organisation, biological evaluation, significance and cognition. It helps articulate how cognition can be continuous with life without being identical with life or agency, while leaving the relevant biological dependencies open to case-specific investigation. More broadly, APS brings questions about living organisation into a common vocabulary and makes proposed dependencies available for comparison. Whether that vocabulary improves communication across disciplines remains an empirical question. 
 
 The completed comparative investigations have produced negative and equivalent-redescription outcomes. These results place genuine limits on what can presently be claimed for APS, while preserving the possibility of further contributions in other explanatory contexts.
 
@@ -858,3 +862,32 @@ The possibility that APS improves cross-disciplinary integration or scientific c
 The central task for biological agency research is consequently not to secure universal acceptance of agency terminology. It is to determine when agency identifies a scientifically important feature of living organisation, when it contributes to explanation, when it assists integration or communication, and when existing biological concepts already do the necessary work.
 
 A productive account of biological agency must remain answerable to all four possibilities.
+
+## Explanatory Architecture
+
+### Central Question
+
+When does biological agency identify a feature of living organisation that makes an additional difference to a biological explanation?
+
+### Architectural Role
+
+This synthesis situates APS within contemporary debates about biological agency. It compares what different approaches mean by agency, which systems they attribute it to, and what explanatory work the attribution is expected to do.
+
+### Preceding Explanatory Dependencies
+
+[**Biological Agency as the Activity of Self-Maintenance**](/articles/biological-agency-as-the-activity-of-self-maintenance/) establishes the APS definition of agency as viability-oriented organisational activity and sets out the grounds for attributing it. [**The Explanatory Geometry of Biology**](/articles/explanatory-geometry-of-biology/) explains how claims of additional explanatory gain are assessed against the strongest relevant account of the same target.
+
+### Subsequent Explanatory Developments
+
+[**Agency and Organised Persistence**](/articles/agency-and-organised-persistence/) develops the question of how particular activities contribute to continuity and recovery. [**Biological Agency, Evolution, and the Architecture of Biological Explanation**](/articles/biological-agency-evolution-and-the-architecture-of-biological-explanation/) examines how present activity bears on evolutionary outcomes and what evidence establishes that connection.
+
+### Related Explanatory Questions
+
+- Which systems warrant agency attribution, and which processes contribute to the activity of a wider system?
+- When does identifying an activity as agential change what an explanation can establish?
+- How do particular activities affect the conditions of continued functioning, reproduction, or evolutionary change?
+- Can a shared agency vocabulary improve understanding across disciplines when the underlying explanations remain equivalent?
+
+### Position Within APS
+
+This article provides a comparative synthesis of biological agency within the Conceptual Foundations cluster. The completed APS cases reported here found equivalent redescription or local dispensability for the targets examined. The explanatory, integrative, and communicative value of agency in other cases remains open to assessment.
